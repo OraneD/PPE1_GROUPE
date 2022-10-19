@@ -2,3 +2,4 @@
 Groupe :
 Léa Mondoloni
 Orane Dufour
+Valentina Osetrov
