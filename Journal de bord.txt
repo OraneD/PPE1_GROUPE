@@ -1,0 +1,6 @@
+### 19/10/2022 Création Groupe et dépôt GitHub
+Travail sur les mots geek et nerd en français et en anglais.
+Le but de cette étude de corpus en serbe (effectué par Valentina), en français ( par Orane) et en anglais ( par Léa) sera de traiter et de comparer ces deux termes qui sont proches et peuvent parfois prêter à confusion
+Nous partons donc sur au minimum 25 URL pour geek et 25 pour nerd. Nous ferons attention à sélectionner des articles avec les mêmes années pour voir s'il y a un glissement du sens de geek vers nerd.
+Comment sont-ils traduits en serbe ? En français ? des emplois comme verbe, nom, adjectif? 
+Quelle perception de ces mots ? Mélioratif ? Péjoratif ? Neutre ? Une différenciation des termes vraiment faite ? 
