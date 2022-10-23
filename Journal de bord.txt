@@ -1,6 +1,14 @@
 ### 19/10/2022 Création Groupe et dépôt GitHub
 Travail sur les mots geek et nerd en français et en anglais.
-Le but de cette étude de corpus en serbe (effectué par Valentina), en français ( par Orane) et en anglais ( par Léa) sera de traiter et de comparer ces deux termes qui sont proches et peuvent parfois prêter à confusion
+Le but de cette étude de corpus en serbe (effectuée par Valentina), en français ( par Orane) et en anglais ( par Léa) sera de traiter et de comparer ces deux termes qui sont proches et peuvent parfois prêter à confusion
 Nous partons donc sur au minimum 25 URL pour geek et 25 pour nerd. Nous ferons attention à sélectionner des articles avec les mêmes années pour voir s'il y a un glissement du sens de geek vers nerd.
 Comment sont-ils traduits en serbe ? En français ? des emplois comme verbe, nom, adjectif? 
 Quelle perception de ces mots ? Mélioratif ? Péjoratif ? Neutre ? Une différenciation des termes vraiment faite ? 
+
+### 23/10/2022 Ajout des URL pour le mot geek en français + réflexions quant à la problématisation
+50 URL dont :
+           _25 qui proviennent de forums de discussion français populaires comme RedditFrance, jeuxvidéos.com, doctissimo, CommentÇaMarche, Mademoizelle.com et quelques forums "de niche" spécialisés dans la culture geek. 
+           _25 qui proviennent d'articles de presse ou magazine français, majoritairement des médias traditionnels comme Le Monde, Le Figaro, Le Nouvel Observateur, L'express.. et quelques médias plus récents comme Vice ou Slate.fr.
+  
+On remarque que dans les deux types de corpus, le mot "geek" est souvent employé entre guillemets : "geek". Ce sont des guillemets d'usage et non pas de mention. Ils indiquent que le locuteur prend de la distance par rapport au mot, soit pour marquer l'ironie ou le mépris, soit pour montrer qu'il n'est pas sûr quant à la définition exacte du mot. Cela montre bien que la définition du mot "geek" ne fait pas l'unanimité parmi les locuteurs français. Il serait intéressant de voir si ce phénomène existe aussi en anglais et en serbe. 
+
