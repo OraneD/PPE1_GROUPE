@@ -12,3 +12,10 @@ Quelle perception de ces mots ? Mélioratif ? Péjoratif ? Neutre ? Une différe
   
 On remarque que dans les deux types de corpus, le mot "geek" est souvent employé entre guillemets : "geek". Ce sont des guillemets d'usage et non pas de mention. Ils indiquent que le locuteur prend de la distance par rapport au mot, soit pour marquer l'ironie ou le mépris, soit pour montrer qu'il n'est pas sûr quant à la définition exacte du mot. Cela montre bien que la définition du mot "geek" ne fait pas l'unanimité parmi les locuteurs français. Il serait intéressant de voir si ce phénomène existe aussi en anglais et en serbe. 
 
+### 05/11/2022 Reflexions sur le mot geek et nerd en anglais en lien avec la collecte d'URL
+Des difficultés sont rencontrées pour la collecte des url geek et nerd. En effet, la majorité des articles utilisent geek et nerd comme des termes interchangeables. Que ce soit dans les articles de 
+presse ou sur des forums de discussion, geek et nerd sont urilisés comme des synonymes. J'ai donc un nouveau document dans lequel je répertorie les sites qui utilisent dans leur titre les deux 
+termes. La collecte en devient doc complexe parce que les articles, bien qu'intéressants, sont difficilement classables dans une des deux catégories. 
+Peut-être faut-il prendre une décision en se disant que l'utilisation d'un terme dans le titre est ce qui justifie le fait que tel article aille dans une catégorie plutôt qu'une autre même si le 
+deuxième terme est utilisé plus bas et à plusieurs reprises ?
+Cette difficulté de classement est tout de même intéressante car elle semble confirmer notre hypothèse d'une unification des sens de geek et nerd dans la conceptualisation anglophone.
