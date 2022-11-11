@@ -12,10 +12,23 @@ Quelle perception de ces mots ? Mélioratif ? Péjoratif ? Neutre ? Une différe
   
 On remarque que dans les deux types de corpus, le mot "geek" est souvent employé entre guillemets : "geek". Ce sont des guillemets d'usage et non pas de mention. Ils indiquent que le locuteur prend de la distance par rapport au mot, soit pour marquer l'ironie ou le mépris, soit pour montrer qu'il n'est pas sûr quant à la définition exacte du mot. Cela montre bien que la définition du mot "geek" ne fait pas l'unanimité parmi les locuteurs français. Il serait intéressant de voir si ce phénomène existe aussi en anglais et en serbe. 
 
-### 05/11/2022 Reflexions sur le mot geek et nerd en anglais en lien avec la collecte d'URL
+### 05/11/2022 Reflexions sur le mot geek et nerd en anglais en lien avec la collecte d'URLs
 Des difficultés sont rencontrées pour la collecte des url geek et nerd. En effet, la majorité des articles utilisent geek et nerd comme des termes interchangeables. Que ce soit dans les articles de 
 presse ou sur des forums de discussion, geek et nerd sont urilisés comme des synonymes. J'ai donc un nouveau document dans lequel je répertorie les sites qui utilisent dans leur titre les deux 
 termes. La collecte en devient doc complexe parce que les articles, bien qu'intéressants, sont difficilement classables dans une des deux catégories. 
 Peut-être faut-il prendre une décision en se disant que l'utilisation d'un terme dans le titre est ce qui justifie le fait que tel article aille dans une catégorie plutôt qu'une autre même si le 
 deuxième terme est utilisé plus bas et à plusieurs reprises ?
 Cette difficulté de classement est tout de même intéressante car elle semble confirmer notre hypothèse d'une unification des sens de geek et nerd dans la conceptualisation anglophone.
+
+### 11/11/2022 Fin de la collecte des URLs pour le corpus anglais
+Le corpus anglais est composé de plusieurs types d' urls : (26 pour chaque mot + 6 URLs utilisant les 2 termes dans les titres, soit 58 URls au total)
+- certaines proviennent de forums de discussion notamment Reddit et Quora.
+- d'autres de magazines ou de presse plus ou moins populaires ( The Guardian, Forbes,The Atlantic )
+- les autres sont tirés de nouveaux médias / blogs (2 URLS retracent l'historique de geek et nerd)
+Il a été plus difficile de trouver des URL pour le terme nerd que pour le terme geek. En effet, comme mentionné précédemment, ces deux mots sont souvent utilisés comme des synonymes.
+Au cours de mes recherches, j'ai remarqué que les suggestions d'autres recherches proposées par Google étaient radicalement différentes:
+Pour Nerd, les termes sont négatifs ( Evil, bad, weird, bullied, do nerds have friends ?, awkward), nerd est plus un trait de caractère / social (un article va même jusqu'à utiliser le terme "socially handicapped" ). La notion de popularité revient plus souvent.
+Geek est en revanche bien plus valorisé, il peut même être considéré comme "sexy". 
+Un autre trait est assez marquant en anglais et concerne le genre. En effet, ces deux termes semblent être destinés à une majorité d'hommes, dans mes recherches, une seule URL fait spécifiquement référence aux femmes "geeks" qui seraient mises à l'écart de la communauté.
+À la différence du corpus français, le mot geek ou nerd n'est pas particulièrement employé entre guillemets. On retrouve l'emploi des guillemets dans certains forums de discussion mais les utilisateurs, lorsqu'ils parlent d'eux, revendiquent volontiers leur appartenance à la communauté geek / nerd. (à vérifier lors des analyses) 
+Il serait tout de même intéressant d'utiliser la liste d'URLs qui mélange dès le titre les deux termes ( notamment les 2 articles de journaux  NYpost et The Guardian qui dénoncent les oppressions vécues par les geeks et les nerds.)
