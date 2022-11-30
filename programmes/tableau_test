@@ -1,0 +1,15 @@
+<html><head>
+            <meta charset = utf-8/>
+            <title> tableau URL </title>
+            <meta name =viewport content=width=device-width, initial-scale=1>
+            <link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css>
+             <body>
+<h2>Tableau URL_geek_français :</h2>
+<br/>
+<table class="table is-bordered is-hoverable is-stripped">
+<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>dumps</th><th>aspiration</th><th>occurrences</th></tr>
+<tr><td>1</td><td>500</td><td><a href="https://www.reddit.com/r/france/comments/rhajcd/le_geek_vaste_question/">https://www.reddit.com/r/france/comments/rhajcd/le_geek_vaste_question/</a></td><td></td></tr>
+<tr><td>2</td><td>403</td><td><a href="https://www.jeuxvideo.com/forums/42-51-69417995-2-0-1-0-ca-fait-quoi-de-sortir-avec-une-geek.htm">https://www.jeuxvideo.com/forums/42-51-69417995-2-0-1-0-ca-fait-quoi-de-sortir-avec-une-geek.htm</a></td><td></td></tr>
+<tr><td>3</td><td>403</td><td><a href="https://www.jeuxvideo.com/forums/42-51-63478969-2-0-1-0-bordel-les-groupes-de-geeks-au-lycee-et-a-la-fac-plus-malaisant-c-est-possible.htm">https://www.jeuxvideo.com/forums/42-51-63478969-2-0-1-0-bordel-les-groupes-de-geeks-au-lycee-et-a-la-fac-plus-malaisant-c-est-possible.htm</a></td><td></td></tr>
+<tr><td>4</td><td>403</td><td><a href="https://www.jeuxvideo.com/forums/42-51-60292185-1-0-1-0-mes-potes-sont-tous-des-geeks.htm">https://www.jeuxvideo.com/forums/42-51-60292185-1-0-1-0-mes-potes-sont-tous-des-geeks.htm</a></td><td></td></tr>
+<tr><td>5</td><td>403</td><td><a href="https://www.jeuxvideo.com/forums/42-51-63556349-1-0-1-0-je-suis-le-seul-a-totalement-mepriser-la-culture-geek.htm">https://www.jeuxvideo.com/forums/42-51-63556349-1-0-1-0-je-suis-le-seul-a-totalement-mepriser-la-culture-geek.htm</a></td><td></td></tr>

@@ -1,0 +1,391 @@
+   (BUTTON)
+   (BUTTON)
+   (BUTTON) Menu
+   Libération
+      Coupe du monde(Opens in new window)   Politique   International
+   CheckNews   Culture   Idées et Débats   Société   Environnement
+   Economie   Lifestyle   Portraits   Sciences
+   (BUTTON)
+     * Accueil(S'ouvre dans une nouvelle fenêtre)
+     * Fil Info(S'ouvre dans une nouvelle fenêtre)
+     * Politique (BUTTON)
+          + Elections
+     * International (BUTTON)
+          + Europe
+          + Amérique
+          + Afrique
+          + Moyen-Orient
+          + Asie Pacifique
+     * CheckNews
+     * Culture (BUTTON)
+          + Arts
+          + Cinéma
+          + Jeux vidéo
+          + Musique
+          + Photographie
+          + Livres
+          + BD
+          + Scènes
+          + Séries
+     * Idées et Débats (BUTTON)
+          + Opinions
+          + Editorial
+          + Tribunes
+     * Société (BUTTON)
+          + Police / Justice
+          + Droits des femmes
+          + Education
+          + Familles
+          + Logement
+          + Religions
+          + Santé
+          + Sexualités et genres
+          + Ville
+     * Environnement (BUTTON)
+          + Agriculture
+          + Alimentation
+          + Biodiversité
+          + Climat
+          + Nucléaire
+          + Pollution
+     * Economie (BUTTON)
+          + Economie numérique
+          + Médias
+          + Social
+          + Transports
+     * Lifestyle (BUTTON)
+          + Design
+          + High tech
+          + Mode
+          + Gastronomie
+          + Voyages
+     * En images(S'ouvre dans une nouvelle fenêtre)
+     * Portraits
+     * Sports (BUTTON)
+          + Football
+          + Coupe du monde(S'ouvre dans une nouvelle fenêtre)
+          + Cyclisme
+          + Jeux Olympiques
+          + Tennis
+          + Rugby
+          + Sports mécaniques
+     * Sciences (BUTTON)
+          + Archéologie
+          + Astronomie
+          + Biologie
+          + Espace
+          + Histoire
+          + Mathématiques
+          + Physique
+     * Plus (BUTTON)
+          + Séries d'été
+          + Numéros spéciaux
+     * Forums & événements
+     * Archives (BUTTON)
+          + 2022(S'ouvre dans une nouvelle fenêtre)
+          + 2021(S'ouvre dans une nouvelle fenêtre)
+          + 2020(S'ouvre dans une nouvelle fenêtre)
+     * Lire le journal(S'ouvre dans une nouvelle fenêtre)
+     * La boutique(S'ouvre dans une nouvelle fenêtre)
+     * Les newsletters(S'ouvre dans une nouvelle fenêtre)
+     * Les unes(S'ouvre dans une nouvelle fenêtre)
+     * Foire aux questions(S'ouvre dans une nouvelle fenêtre)
+     * Contactez-nous(S'ouvre dans une nouvelle fenêtre)
+     * Petites annonces(S'ouvre dans une nouvelle fenêtre)
+     *
+
+   Accueil / Société
+   Reportage
+
+Guadeloupe : quand les geeks piratent les tsunamis
+
+   Caribe Wave 2017 : les hackers contre le tsunamidossier
+   Du 18 au 24 mars, pour le Caribe Wave, exercice annuel d’alerte
+   de l’Unesco, des équipes de technophiles et d’experts ont pensé
+   et fabriqué de nouveaux outils de gestion de crise.
+
+   L'équipe prévoit le remontage en urgence d'un réseau de
+   télécommunications entre Pointe-à-Pitre en Guadeloupe, la Désirade et
+   Marie-Galante en cas de tsunami. (Photo Camille Gévaudan)
+   par Camille Gévaudan, envoyée spéciale en Guadeloupe
+   publié le 2 avril 2017 à 19h16
+
+   Durant une semaine, Libération s'est embarqué avec l'équipe de
+   l'association Hackers Against Natural Disasters (Hand), qui s'invite à
+   l'exercice annuel d'alerte au tsunami dans les Antilles. Le but :
+   imaginer des outils concrets et donner des bonnes pratiques pour
+   affronter ces phénomènes catastrophiques. Retour d'expérience sous
+   forme de journal de bord.
+
+Samedi, les geeks réunis
+
+   Sous le drapeau pirate qui décore le fablab de la zone industrielle de
+   Jarry, en banlieue de Pointe-à-Pitre, se côtoient deux bandes de geeks
+   que sépare habituellement l'Altantique. D'un côté, Gaël Musquet
+   présente Hand, la nouvelle association dont il est président, et les
+   16 personnes venues de métropole avec leurs compétences respectives :
+   cartographes, développeurs, vidéastes, collecteurs de fonds,
+   logisticiens, pros du tourisme… De l'autre, les membres du fablab de
+   Jarry sont réunis autour de Cédric Coco-Viloin, cofondateur du lieu,
+   qui liste les initiatives prévues pour la semaine. Les deux équipes de
+   technophiles vont lutter avec leurs armes contre une vague de
+   20 mètres… fictive, heureusement. Caribe Wave est un exercice annuel
+   d'alerte au tsunami organisé par l'Unesco. «Nous les hackers, les
+   geeks, on peut être utiles au monde», plaide Jean-Baptiste Roger,
+   ex-président de La Fonderie, l'agence numérique publique
+   d'Ile-de-France.
+
+   Vendredi soir en Guadeloupe, les geeks du fablab de Jarry et l'équipe
+   Hand venue de métropole organisaient une conférence de presse pour
+   préparer l'exercice d'alerte au tsunami Caribe Wave. (Photo Camille
+   Gévaudan)
+
+Dimanche, cartographie à vélo
+
+   Les hackers ont accroché le drapeau de leur asso dans les bungalows
+   loués à Marie-Galante, au sud-est de la Guadeloupe. «Les ONG
+   s'installent toujours dans les centres urbains, déplore Gaël Musquet.
+   En cas de catastrophe, les communes rurales seront oubliées, et les
+   dépendances de la Guadeloupe plus encore. Marie-Galante est dans une
+   situation de précarité énergétique et numérique, ça complexifie
+   l'exercice.»
+
+   Le bungalow de la délégation de hackers à la Désirade, fraîchement orné
+   du drapeau de l'association Hand. (Photo Camille Gévaudan)
+
+   A peine installés, l’informaticien Yohan Boniface et le géomaticien
+   Vincent de Château-Thierry enfourchent un vélo et arpentent l’île pour
+   y recenser les écoles en altitude qui peuvent servir de refuges. Ils
+   notent le revêtement et la largeur des routes, pour planifier les voies
+   d’évacuation. Toutes ces données vont enrichir la carte de
+   Marie-Galante sur le projet de cartographie libre et collaboratif
+   OpenStreetMap. C’est un fidèle allié de la gestion de crise : en Haïti
+   en 2010 après le séisme, aux Philippines en 2013 après le typhon, ses
+   «mappeurs» d’urgence ont rendu service aux secours sur place.
+
+   (Image Vincent de Château-Thierry, CC BY)
+
+   De retour au QG, les cyclistes transmettent les données sur les écoles
+   au développeur Loïc Ortola, qui les intègre dans l'application
+   Mon Refuge. Personne ne la connaît encore - il l'a développée ici, en
+   quelques jours. Quand on ouvre Mon Refuge, alerté du tsunami par une
+   notification et géolocalisé par GPS, on tombe directement sur la carte
+   de la région. Un trajet est alors surligné jusqu'au refuge le plus
+   proche. Pour le chercheur Frédéric Leone, spécialiste de l'évacuation
+   en Guadeloupe, «c'est l'appli dont on rêvait».
+
+Lundi, le rôle du touriste
+
+   Le tsunami asiatique de 2004 a déclenché «une hystérie médiatique,
+   parce qu'un touriste mort ne vaut pas la même chose qu'un paysan du
+   coin…» explique Jean Karinthi, responsable administratif et financier
+   de Hand. Il a eu l'idée d'embarquer dans l'asso deux professionnels du
+   tourisme pour brainstormer sur la place des vacanciers dans la
+   prévention des risques. S'ils étaient mieux préparés, on perdrait moins
+   de temps à les chercher, l'angoisse internationale retomberait vite et
+   on pourrait s'attaquer aux autres dégâts.
+
+   Le questionnaire envoyé aux prestataires touristiques par l'équipe
+   Hand.
+
+   Guillaume Cromer dirige une boîte de conseil en marketing touristique.
+   Il envoie un questionnaire à 250 prestataires et hôteliers : un
+   dispositif est-il prévu pour prévenir clients et salariés en cas de
+   tsunami ? Réponse : bof. «Certains ont peur de paniquer les touristes.
+   D'autres nient le risque de tsunami.» «Les gens considèrent que c'est
+   au gouvernement de tout gérer, analyse Yann Legendre, spécialiste du
+   tourisme équitable et solidaire. Mais beaucoup sont demandeurs
+   d'informations. Il suffirait de pas grand-chose pour qu'ils jouent le
+   jeu.» Guillaume Cromer et lui débordent d'idées : flyers dans les
+   chambres d'hôtels, message à diffuser dans les avions… Avec les
+   vidéastes de Hand, Jordi Gueyrard et Clément Hudelot, ils tournent même
+   une vidéo pour montrer l'exemple aux compagnies aériennes.
+
+   Les vidéastes tournent une petite vidéo d'information aux touristes sur
+   le risque de tsunami, pour donner l'exemple aux compagnies aériennes.
+   (Photo Camille Gévaudan)
+
+Mardi, «alerte séisme»
+
+   C'est le jour J. Quelques minutes après le début officiel de l'exercice
+   Caribe Wave, les smartphones du QG à Marie-Galante font sonner une
+   alarme : «Alerte séisme et tsunami.» Hand teste une diffusion de
+   message en cell broadcast, une norme internationale conçue pour toucher
+   tous les téléphones dans une région donnée, en usage dans de nombreux
+   pays… Mais pas en France.
+
+   Et pour les personnes qui conduisent au moment du séisme ? On les
+   prévient sur l'autoradio ! Le service RDS (Radio Data System) permet
+   déjà d'afficher des messages textuels pour le nom des chansons
+   diffusées. Tant qu'à faire, Gaël Musquet envoie donc un message sur les
+   voitures de location. «ALERTE TSUNAMI : Gagnez les hauteurs !» Simple
+   et efficace.
+
+   Le service RDS permet d’afficher l’alerte sur l’autoradio. (Photo
+   Camille Gévaudan)
+
+   Pendant ce temps, le fablab de Jarry accueille des lycéens évacués dans
+   son bus repeint en bateau pirate. «On filme leur arrivée, on recense
+   qui est blessé, qui s'est perdu, on récolte les identités et on les
+   envoie à Marie-Galante pour montrer à quoi sert un refuge de crise»,
+   détaille Cédric Coco-Viloin. Quelques heures plus tard, l'équipe du
+   fablab se voit remettre un drapeau «Hackers Against Natural Disasters»
+   lors d'une soirée entre geeks de Guadeloupe et de métropole, pour
+   sceller l'alliance. Le fablab devient «le premier maillon d'une chaîne
+   mondiale de Hand», un réseau mondial de technophiles engagés. «Si cette
+   chaîne doit commencer quelque part, on est superfiers que ce soit ici»,
+   dit Jean-Baptiste Roger.
+
+   A la Désirade, l'itinéraire est fléché vers le point de refuge à
+   rejoindre en cas de tsunami. (Photo Camille Gévaudan)
+
+Mercredi, succès pour la sonde
+
+   Au lendemain du tsunami fictif, il faut évaluer les dégâts dans les
+   ports. La vague a pu ramener des apports sédimentaires qui rehaussent
+   le plancher et menacent l’arrivée de bateaux. Pour faire ces mesures,
+   Gaël Musquet a acheté sur le Bon Coin un bateau amorceur auquel il
+   greffe une sonde Airmar, et les «techos» de l’équipe ont perdu quelques
+   litres de sueur à la faire marcher dans le jacuzzi du QG.
+
+   Yohan Boniface et Gaël Musquet testent un bateau amorceur de pêche,
+   hacké pour accueillir une sonde, qui mesurera la profondeur du port
+   après le tsunami fictif. (Photo Camille Gévaudan)
+
+   L'émotion est palpable quand la Muette télécommandée commence à voguer
+   entre les barques. On lui fait faire des virages dans le port de
+   Capesterre avant de retirer sa carte micro SD pour vérifier les
+   données. Victoire ! Les lignes défilent sur l'ordinateur : la
+   profondeur du port varie entre 52 cm et 2,98 m. La «preuve de concept»
+   est couronnée de succès et les hackers imaginent des améliorations, par
+   exemple en programmant un quadrillage du port pour établir une vraie
+   carte de bathymétrie. A peine sortie de l'eau, la Muette est confiée au
+   fablab.
+
+   (Photo Camille Gévaudan)
+
+Jeudi, le problème du paquebot
+
+   La Muette n'est pas le seul bateau qui préoccupe Hand. Sur la terrasse
+   du QG, une antenne FM capte les messages envoyés par les navires à
+   50 miles nautiques (92,6 km) à la ronde. Le trafic a été enregistré
+   pendant l'exercice du 21 mars. «On sait où était quel bateau à quelle
+   heure, et lesquels auraient été en danger en cas de tsunami, explique
+   Gaël Musquet. On peut ainsi estimer le coût en pertes humaines et
+   financières». Ce paquebot gigantesque qui stationne dans le port de
+   Pointe-à-Pitre, par exemple, transporte 2 500 passagers et 1
+   000 membres d'équipage. S'il est à quai quand arrive un tsunami, il
+   finit couché. Et s'il est au large, ça serait dommage que la vague le
+   dépose dans le centre-ville…
+
+Vendredi, et après ?
+
+   La mission touche à sa fin. Tout le code écrit et utilisé cette semaine
+   sera publié en open source pour être réutilisé et amélioré par qui le
+   souhaite. S'ils avaient eu un jour de rab, les hackers auraient bien
+   aimé bidouiller le drone emporté dans leurs valises pour lui faire
+   faire de l'orthophotographie - images aériennes prises à la verticale,
+   sans distorsion, précieuses pour évaluer les dégâts après une
+   catastrophe. Peut-être pour Caribe Wave 2018… En attendant, Gaël
+   Musquet reviendra aux Antilles dès le mois de mai pour «fixer les
+   antennes et stabiliser les sites d'observation maritime et aérienne» en
+   Guadeloupe et en Martinique.
+
+   Premières réflexions sur le hack de drone pour établir des plans de
+   vol. (Photo Camille Gévaudan)
+
+   La veille du retour à Paris, l'entrepreneur Corentin Larose prend un
+   feutre pour dessiner au tableau blanc la coque d'un bateau. C'est la V2
+   de la Muette qui prend forme : «On va faire un catamaran qui se déplace
+   de manière autonome, avec une plateforme open source sur laquelle on
+   peut installer n'importe quel outil.» Sonar, caméra sous-marine,
+   antenne relais pour tirer le réseau de télécommunications d'une île à
+   l'autre en cas de pépin… Tout devra se brancher facilement sur ce
+   bateau à bricoler soi-même. PVC, aluminium : «80 % des matériaux
+   doivent être trouvables dans un magasin de bricolage.» Guadeloupéens et
+   métropolitains vont développer leur prototype en parallèle, en
+   échangeant par plateformes wiki interposées.
+
+   Quant à l'association Hand, elle vient d'ouvrir ses adhésions et son
+   espace de dons en ligne pour les futures missions. Gaël Musquet veut
+   aussi recruter un maximum de radioamateurs, en voie de disparition.
+   «Sans eux, difficile de faire de la 4G de crise ou d'émettre sur la
+   bande FM. Ce ne sont pas des Gégé qui sentent la sueur et qui parlent
+   dans une CB. Il faut rendre sexy le radioamateurisme.» La porte est
+   grande ouverte aux geeks de tout poil désireux de s'engager dans les
+   zones de crise où l'on aura besoin de leur savoir-faire.
+
+   Retrouvez la version intégrale du reportage en huit épisodes : Caribe
+   Wave, les hackers contre le tsunami
+   UnescoPhilippinesHaïtiParisTsunamisPrécaritéCaribe Wave 2017 : les
+   hackers contre le tsunami
+   (BUTTON) (BUTTON)
+   Dans la même rubrique
+
+Au Qatar, un dress code en noir et blanc
+
+   23 nov. 2022
+
+Enseignement de l’arabe à l’école : «On est dans la même misère qu’avant»
+
+   Education23 nov. 2022abonnés
+
+LockBit, des racketteurs en chef par rançongiciel
+
+   Police / Justice23 nov. 2022abonnés
+
+Contre les rançongiciels, «il faut, collectivement, envoyer un message
+dissuasif»
+
+   Police / Justice23 nov. 2022abonnés
+   Le portrait du jour
+
+Anne-Claude Crémieux, résistance immunitaire
+
+   22 nov. 2022abonnés
+
+   © Libé 2022
+
+   © Libé 2022
+
+Dans l'actu
+
+     * Coupe du monde(Opens in new window)
+     * COP27
+     * Réchauffement climatique
+     * Midterms
+     * Guerre en Ukraine
+     * Le gouvernement Borne
+     * Réforme des retraites
+     * Inflation
+
+Services
+
+     * S'abonner(Opens in new window)
+     * La boutique(Opens in new window)
+     * Contactez-nous(Opens in new window)
+     * Donnez-nous votre avis(Opens in new window)
+     * Foire aux questions(Opens in new window)
+     * Proposer une tribune(Opens in new window)
+     * Cours d'anglais(Opens in new window)
+     * Petites annonces(Opens in new window)
+
+Conditions générales
+
+     * Mentions légales(Opens in new window)
+     * Charte éthique(Opens in new window)
+     * CGVU(Opens in new window)
+     * Protection des données personnelles(Opens in new window)
+     * Gestion des cookies(Opens in new window)
+     * Licence(Opens in new window)
+
+Où lire Libé?
+
+     * Lire le journal(Opens in new window)
+     * Les newsletters(Opens in new window)
+     * Présentation de l'application(Opens in new window)
+     * Application sur Android(Opens in new window)
+     * Application sur iPhone / iPad(Opens in new window)
+     * Archives
+
+   Libération
