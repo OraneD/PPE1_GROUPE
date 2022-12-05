@@ -1,0 +1,496 @@
+   [m-lft-on.gif] [logo-top.gif]
+    Korisnik:  ____________  Lozinka:  ____________ [ ] Zapamti me
+   Prijavi me [BUTTON Input] (not implemented)________________________
+   [BUTTON Input] (not implemented)_______________
+   [m-rgt-on.gif]
+
+                                 [INS: :INS]
+
+                                 [empty.gif]
+
+     *
+     * Komponente
+     * Računari
+     * Laptop & PDA
+     * Foto
+     * Telefoni
+     * Tehnika
+     * Forum
+     * Oglasi
+
+
+                                   [empty.gif]
+   [INS: :INS]
+
+   IFRAME: https://www.lisica.rs/inc/banner_ak_inc.php?sirina=160
+
+   Beograd Novi Sad Kragujevac Niš [empty.gif]
+   [empty.gif]
+   PC Berza Forum : Ver. 2.35
+   [empty.gif]
+   [empty.gif]
+   Najnovije teme Najnoviji odgovori Prikačene teme Najaktivnije teme
+                              Najčitanije teme
+   Pronađi : ____________________ U : [Svim kategorijama] Pretraži : (*)
+   Kompletne poruke ( ) Samo naslove Pronađi ...
+   [icon_open_folder.gif] Forum : Softver [reply_button.gif]
+   [icon_bar.gif] [icon_open_topic.gif] Operativni sistemi i sistemski
+   programi
+   [empty.gif] [icon_bar.gif] [icon_open_page.gif] Win 7 u mreži, problem,
+   pomozite ...
+   [empty.gif]
+   [page_first_unactiv.gif] [page_previous_unactiv.gif] STRANA 1 OD 2
+   [page_next.gif] [page_last.gif]
+   [empty.gif]
+   zeljkoa [4.gif] Win 7 u mreži, problem, pomozite ... 17.03.2011. 10:28
+   T34572
+   [empty.gif]
+   [12923.jpg]
+   status: admin
+   broj poruka: 712 Da pre nekoliko dana nisam koristio Win 7 pa me neke
+   stvari po malo zbunjuju.
+   Imam banalan problem, a to je da sa Win XP računara ne mogu da
+   pristupim deljenim diskovima na Win 7 računaru !
+   Mislim da sam sve lepo podesio, uradio sharing, isključio password,
+   isključio 128-bitnu enkripciju da bi mogli da mu priđu i oni koji
+   nemaju tu opciju i opet neće.
+   Sa Win XP računara vidim Win 7, vidim disk koji je podeljen, ali ne
+   mogu da ga otvorim. Prvo su mi na računarima bili različiti useri, sada
+   sam podesio da je na oba računara isti username i opet neće.
+   Šta tu ima još što ja ne vidim? Napominjem da je u pitanju Win 7 Home
+   Premium 32-bit.
+   - - - - - - - - - - - - - - - - - -
+   Željko Arnautović,
+   PC Berza d.o.o.
+   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
+   - https://www.nsinfo.rs - https://www.nisinfo.rs
+   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+       zekson      [1.gif] ako vec nisi... 17.03.2011. 10:33 #305876
+   [empty.gif]
+   [21.gif]
+   status: user
+   broj poruka: 34 ...stavi ih u istu radnu grupu.
+       :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+       zeljkoa      [1.gif] Jesam            17.03.2011. 10:36   #305877
+   [empty.gif]
+   [12923.jpg]
+   status: admin
+   broj poruka: 712 Pa jesu u istoj grupi i sa Win 7 lako pristupam XP-u,
+   ali ne mogu obrnuto.
+   - - - - - - - - - - - - - - - - - -
+   Željko Arnautović,
+   PC Berza d.o.o.
+   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
+   - https://www.nsinfo.rs - https://www.nisinfo.rs
+   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+      pajsgudgud     [1.gif] Imao sam isti problem 17.03.2011. 10:45 #305879
+   [empty.gif]
+   [1.gif]
+   status: user
+   broj poruka: 3687 i nisam ga rešio.
+   zato sam stavio sedmice na sve računare i mukama je došao kraj. To je
+   bilo prošle godine dal` se u međuvremenu pojavilo neko rešenje ne
+   znam...
+   support normality
+               :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+         raic        [1.gif] re       17.03.2011. 10:49            #305883
+   [empty.gif]
+   [15616.jpg]
+   status: user
+   broj poruka: 9023 Znači išao si share with - specific people - i dodao
+   na listu `everyone`
+   Ako neće i dalje ideš na properties - security - dodaš na listu
+   everyone i staviš dozvolu read&execute ili full control šta god da ti
+   je u planu
+   Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
+   njih će da bljuje vatru.
+   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+      pajsgudgud     [1.gif] Re: re   17.03.2011. 10:51 #305884
+   [empty.gif]
+   [1.gif]
+   status: user
+   broj poruka: 3687 Sve sam to i ja prošao i nije hteo...
+   http://www.howtogeek.com/howto/windows-7/share-files-and-printers-betwe
+   en-windows-7-and-xp/
+   evo ovi gikovi su kao uspeli...mada ne vidim nigde sliku da su
+   pristupili sa xp-a na sedmicu...da napomenem da sam i sve preporuke sa
+   njihovog sajta prošao, međutim i dalje nije htelo. Jedina razlika je
+   što sam ja imao sp2 XP.
+   support normality
+   :: Znači išao si share with - specific people - i dodao na listu
+   `everyone
+   ::
+   :: Ako neće i dalje ideš na properties - security - dodaš na listu
+   everyone i staviš dozvolu read&execute ili full control šta god da ti
+   je u plan
+   ::
+   :: Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
+   njih će da bljuje vatru.
+   ::
+   ::
+   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+       zeljkoa      [1.gif] Da, ali neće     17.03.2011. 10:54     #305889
+   [empty.gif]
+   [12923.jpg]
+   status: admin
+   broj poruka: 712 Već sam stavio Full controll za Everyone i opet neće.
+   - - - - - - - - - - - - - - - - - -
+   Željko Arnautović,
+   PC Berza d.o.o.
+   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
+   - https://www.nsinfo.rs - https://www.nisinfo.rs
+   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+      pajsgudgud     [1.gif] Re: Re: re 17.03.2011. 10:54 #305890
+   [empty.gif]
+   [1.gif]
+   status: user
+   broj poruka: 3687 EDIT: i ovi su ga kao rešili...
+   http://www.sevenforums.com/network-sharing/10586-cant-connect-win-7-sha
+   red-xp.html
+   support normality
+   :: Sve sam to i ja prošao i nije hteo..
+   ::
+   ::
+   http://www.howtogeek.com/howto/windows-7/share-files-and-printers-betwe
+   en-windows-7-and-xp
+   ::
+   ::
+   :: evo ovi gikovi su kao uspeli...mada ne vidim nigde sliku da su
+   pristupili sa xp-a na sedmicu...da napomenem da sam i sve preporuke sa
+   njihovog sajta prošao, međutim i dalje nije htelo. Jedina razlika je
+   što sam ja imao sp2 XP
+   :: support normalit
+   ::
+   :: :: Znači išao si share with - specific people - i dodao na listu
+   `everyone
+   :: ::
+   :: :: Ako neće i dalje ideš na properties - security - dodaš na listu
+   everyone i staviš dozvolu read&execute ili full control šta god da ti
+   je u plan
+   :: ::
+   :: :: Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna
+   od njih će da bljuje vatru.
+   :: ::
+   :: ::
+    :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+         raic        [1.gif] re       17.03.2011. 10:55       #305891
+   [empty.gif]
+   [15616.jpg]
+   status: user
+   broj poruka: 9023 Sharing XP-a i sedmice garant radi korektno u oba
+   smera, samo treba da se namesti po propisu.
+   Željko: Probaj da ugasiš firewall.
+   Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
+   njih će da bljuje vatru.
+   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+       strela75      [1.gif] Ja sam nekad to uspeo... 17.03.2011. 11:05 #305897
+   [empty.gif]
+   [25650.jpg]
+   status: user
+   broj poruka: 1585 ...evo teme:
+   http://www.pcberza.rs/forum/topic.php?topid=31567&forid=17&katid=2
+   + jos jedna na tu temu:
+   http://www.pcberza.rs/forum/topic.php?topid=32182&forid=23&katid=6
+   Pozdrav.
+   -
+   Just look at us.Everything is backwards. everything is upside
+   down.Doctors destroy health, lawyers destroy justice, universities
+   destroy knowledge, governments destroy freedom, the major media destroy
+   information and religions destroy spirituality
+                  :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+       zeljkoa      [1.gif] Ne radi          17.03.2011. 11:10 #305899
+   [empty.gif]
+   [12923.jpg]
+   status: admin
+   broj poruka: 712 Sve sam ja to odradio i ne radi. Ne pomaže ni
+   isključivanje firewall-a.
+   Iz XP-a vidim taj deljeni disk i vidim još jednu deljenu stavku Users.
+   To users otvara bez problema, a HDD neće pa neće.
+   - - - - - - - - - - - - - - - - - -
+   Željko Arnautović,
+   PC Berza d.o.o.
+   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
+   - https://www.nsinfo.rs - https://www.nisinfo.rs
+   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+        obradmi      [1.gif] Kod mene radi 17.03.2011. 11:22   #305902
+   [empty.gif]
+   [17549.jpg]
+   status: user
+   broj poruka: 7593 probaj share folder ,nemoj share logicke particije
+   ,sa fiksnim IP .Meni je iskljucen win firewall ,zone alarm ukljucen,a
+   mozes privremeno da stavis lokal ftp server ,dok ne vidis u cemu je
+   fora.Kad pravis share ,probaj sa numerickom IP.
+       :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+         raic        [1.gif] Re: Ne radi 17.03.2011. 11:28     #305905
+   [empty.gif]
+   [15616.jpg]
+   status: user
+   broj poruka: 9023 Šta ti stoji pod advanced sharing, jel share this
+   folder štiklirano, probaj da mu daš drugo ime, umesto H stavi recimo
+   DJUBRE ili slično.
+   Aj probaj i da kucaš ručno adresu u windows exploreru.
+   Tipa, ako ti je zeljko2 taj komp na kojem deliš a deliš particiju h
+   koju si nazvao djubre kucaš:
+   \Zeljko2\djubre
+   Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
+   njih će da bljuje vatru.
+   :: Sve sam ja to odradio i ne radi. Ne pomaže ni isključivanje
+   firewall-a
+   ::
+   :: Iz XP-a vidim taj deljeni disk i vidim još jednu deljenu stavku
+   Users. To users otvara bez problema, a HDD neće pa neće
+   ::
+     :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+       zeljkoa      [1.gif] Neće pa neće     17.03.2011. 11:52 #305913
+   [empty.gif]
+   [12923.jpg]
+   status: admin
+   broj poruka: 712 Sve sam probao i opet neće.
+   - - - - - - - - - - - - - - - - - -
+   Željko Arnautović,
+   PC Berza d.o.o.
+   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
+   - https://www.nsinfo.rs - https://www.nisinfo.rs
+   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+        FordP       [1.gif] Re: Da, ali neće 17.03.2011. 11:55 #305914
+   [empty.gif]
+   [empty.gif]
+   status: user
+   broj poruka: 133
+   :: Već sam stavio Full controll za Everyone i opet neće
+   ::
+   ceo posao je:
+   1. dodeliš Home ili Busines network
+   2. ukineš password protection
+   3. sharujesh folder koji želiš
+   4. dodaš user everyone za sharovane foldere (ako ti radi USERS znači
+   sve je sa 7-micom u redu)
+   5. dodaš read and write prava za everyone (ako ti je to potrebno)
+   i onda kada sve to i dalje ne radi - dođeš do čuvene genijalnosti
+   6. restartujesh 7 pa onda i XP :) da bi prihvatio XP promenu ovlaštenja
+   - to ponekad hoće da pravi problem :)
+   meni 15-tak mreža radi 7-mica + XP dvostrano bez ikakvog problema :)
+   tako da sigurno može da se namesti
+         :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+       zeljkoa      [1.gif] Teoretski, da    17.03.2011. 12:45 #305923
+   [empty.gif]
+   [12923.jpg]
+   status: admin
+   broj poruka: 712 Ali praktično neće pa neće ...
+   - - - - - - - - - - - - - - - - - -
+   Željko Arnautović,
+   PC Berza d.o.o.
+   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
+   - https://www.nsinfo.rs - https://www.nisinfo.rs
+   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+   Seerauber [1.gif] re:Win 7 u mreži, problem, pomozite ... 17.03.2011.
+   13:04 #305930
+   [empty.gif]
+   [39240.jpg]
+   status: user
+   broj poruka: 946 na strani 48. knjige `kucno umrezavanje-prakticni
+   vizuelni vodic` imas o konfiguraciji mreze-objedinjavanju u jednu
+   celinu. mreza u windowsu xp se konfigurise uz pomoc wizarda: control
+   panel->network conection ->setup a home or small office network
+   za windows 7 predpostavljam da je ovde negde : control panel-> network
+   and sharing center->connect to a network
+   evo linka za knjigu:
+   http://www3.zippyshare.com/v/5562367/file.html
+   meni mreza radi izmedju xp-a i win 7,mogu da pristupim sa xp na win 7
+   da li si stavio istu workgrupu?
+   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+        FordP       [1.gif] Re: Teoretski, da 17.03.2011. 13:10 #305931
+   [empty.gif]
+   [empty.gif]
+   status: user
+   broj poruka: 133
+   ako ti rade USERS (to je iz XP-a ALL users) to su foledri već sve
+   podešeno za share sa parametrima everyone, onda mora da može i kod tebe
+   da se nameste i ostali folderi (probaj za početak da se izboriš sa
+   sharovanjem foldera), ja nikad ne sharujem cele particije to mi je
+   besmisleno
+   :: Ali praktično neće pa neće ..
+          :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+        Equinoxe      [8.gif] Re:     17.03.2011. 13:28 #305934
+   [empty.gif]
+   [17766.jpg]
+   status: user
+   broj poruka: 12063
+   Primer:
+   http://img862.imageshack.us/img862/765/network.jpg
+   Šta nije jasno sa slike pitaj.
+   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+        FordP       [1.gif] sad mi samo reci 17.03.2011. 13:33     #305935
+   [empty.gif]
+   [empty.gif]
+   status: user
+   broj poruka: 133 da sharujesh cele particije, a da za to nemaš dovoljno
+   ovlašenja zbog prisustva recycle bin i System Volume Information :)
+   pošto po defautu nemaš nikakva prava nad njima pa ih ne možeš ni
+   sharovati bez special permitions
+   prikaže da je cela particija sharovana, ali ne može da joj se pristupi
+   iz mreže :)
+         :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+        -ShonE-      [1.gif] re              17.03.2011. 13:42 #305936
+   [empty.gif]
+   [16297.jpg]
+   status: user
+   broj poruka: 3529
+   Skoro sam imao isti problem, bas win 7 home premium. Resio sam ga tako
+   sto sam u shering-u pod opciom Permissions pored Everyone dodao i
+   user-a `Guest`, nakon toga momentalno je proradilo.
+   :: www :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+   zeljkoa [1.gif] Da 17.03.2011. 13:42 #305937
+   [empty.gif]
+   [12923.jpg]
+   status: admin
+   broj poruka: 712 Da, problem je u šerovanju cele D particije na kojoj
+   su podaci.
+   Uspeo sam da šerujem folder, ali particiju neće pa neće, a iskreno
+   rečeno, nervira me da šerujem svaki folder posebno. Zamislite da u rutu
+   uma 50 foldera koje treba šerovati, pa ko to da radi ručno jedan po
+   jedan ....
+   Kako da sebi obezbedim dodatna prava da šerujem celu particiju, a da
+   recimo recycle bin i slične gluposti isključim iz šeringa.
+   - - - - - - - - - - - - - - - - - -
+   Željko Arnautović,
+   PC Berza d.o.o.
+   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
+   - https://www.nsinfo.rs - https://www.nisinfo.rs
+   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+        FordP       [1.gif] Re: Da    17.03.2011. 13:48 #305939
+   [empty.gif]
+   [empty.gif]
+   status: user
+   broj poruka: 133 jednostavno rešenje:
+   šeruješ folder u rutu a onda sve ostale foldere prebaciš u njega
+   tako si šerovao sve foldere koji ti trebaju biti šerovani, a šerovan
+   samo jedan folder :)
+   :: Da, problem je u šerovanju cele D particije na kojoj su podaci
+   :: Uspeo sam da šerujem folder, ali particiju neće pa neće, a iskreno
+   rečeno, nervira me da šerujem svaki folder posebno. Zamislite da u rutu
+   uma 50 foldera koje treba šerovati, pa ko to da radi ručno jedan po
+   jedan ...
+   ::
+   :: Kako da sebi obezbedim dodatna prava da šerujem celu particiju, a da
+   recimo recycle bin i slične gluposti isključim iz šeringa
+   ::
+   :: - - - - - - - - - - - - - - - - -
+   :: Željko Arnautović
+   :: PC Berza d.o.o
+   :: https://www.pcberza.rs - https://www.bginfo.rs -
+   https://www.kginfo.rs - https://www.nsinfo.rs - https://www.nisinfo.rs
+   ::
+   ::
+   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+       zeljkoa      [1.gif] Re: Re: Da       17.03.2011. 13:57 #305941
+   [empty.gif]
+   [12923.jpg]
+   status: admin
+   broj poruka: 712 :: jednostavno rešenje
+   :: šeruješ folder u rutu a onda sve ostale foldere prebaciš u njeg
+   :: tako si šerovao sve foldere koji ti trebaju biti šerovani, a šerovan
+   samo jedan folder :
+   Izem ti vic, pa nije u tome poenta. To sam mogao da odradim i bez
+   postavljanja ove teme, ali neću to. Nemoguće da ne može da se šeruje
+   cela particija.
+   - - - - - - - - - - - - - - - - - -
+   Željko Arnautović,
+   PC Berza d.o.o.
+   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
+   - https://www.nsinfo.rs - https://www.nisinfo.rs
+   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+       savatije      [1.gif] moje iskustvo... 17.03.2011. 14:02 #305942
+   [empty.gif]
+   [1804.jpg]
+   status: user
+   broj poruka: 1118 imam slično mrežno okruzenje ( 2x7 + 1XP)...nisam
+   uspeo da šerujem ceo disk na sedmici nego samo foldere i to mi
+   obostrano funkcionise normalno, doduse sa User-ima i Pass-vordima elem
+   postoji ivelika igranka sa security polisama...pa probaj sa anonimus
+   log on....
+   http://img43.imageshack.us/i/zapcberzu.jpg/
+          :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+        FordP       [1.gif] uradio i share particije 17.03.2011. 14:39 #305950
+   [empty.gif]
+   [empty.gif]
+   status: user
+   broj poruka: 133 evo i to sam uspeo da uradim, sharovao drive :)
+   i dalje mislim da je to glupo, ali - nije moje da sudim o tome
+   ali sam na gomili uradio puno toga pa ne znam šta je tačno odradilo
+   problem
+   ono što sam radio
+   desni klik na drive
+   properties
+   security
+   advanced
+   permissions
+   change permissions
+   dodao usera everyone
+   naravno full control sam dodelio za everyone :)
+   zatim isto na owner
+   i auditing
+   moguće da je dovoljno samo change permissions da se odradi
+   pa proveri da li na zadnjem tabu imaš nakon promene sva ovlaštenja
+   bem ti serverska sharovanja :)
+   sigurnost fajlova = 0
+   pozdrav
+                 :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
+   [empty.gif]
+   [page_first_unactiv.gif] [page_previous_unactiv.gif] STRANA 1 OD 2
+   [page_next.gif] [page_last.gif]
+   Broj postavljenih tema: 59932. Broj poslatih odgovora: 642791.
+   Trenutno niste prijavljeni na PC Berzu i zbog toga imate status
+   'gosta'. Kao gost ne možete da šaljete poruke na Forum. Ako ste
+   registrovani kao član PC Berze, prijavite se. Ako ste novi korisnik,
+   molimo registrujte se da bi dobili mogućnost aktivnog učešća u radu
+   Foruma.
+   [empty.gif]
+   [no_login.gif] - niste prijavljeni [no_new_readonly.gif] - samo za
+   čitanje [no_new_locked.gif] - zaključano
+   [no_new.gif] - nema novih poruka [new_message.gif] - ima novih poruka
+   [new_topic.gif] - ima novih tema
+   [empty.gif]
+
+   Slagalica.net
+
+   Microsystems d.o.o.
+
+   IFRAME: https://www.lisica.rs/inc/banner_ak_inc.php?sirina=120
+
+   PCB Network: pcberza.rs | superponuda.com | bginfo.rs | nsinfo.rs |
+   kginfo.rs | nisinfo.rs | lisica.rs
+     * PC BERZA
+     * Adresar
+     * Copyright © 1999 - 2022 by Network IT doo & MINET DOO
+     * Kontakt
+     * Marketing
+
+   [empty.gif]
+
+   [empty.gif]
