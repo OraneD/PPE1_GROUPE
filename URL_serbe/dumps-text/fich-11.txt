@@ -246,7 +246,3 @@ Navigacija
    Copyright © 1998-2022 VREME, Beograd
 
    [EUR]
-
-   Upotreba "kolačića" je sastavni deo rada ovog veb sajta. Ako ostanete
-   na sajtu, pretpostavićemo da vam to ne smeta. Uslovi korišćenjaSlažem
-   se

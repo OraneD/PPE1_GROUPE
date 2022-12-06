@@ -220,7 +220,7 @@ Meta
 
      * Register Log in
 
-   Create a free website or blog at WordPress.com.
+   Blog at WordPress.com.
 
      * Follow Following
           + POGLED IZ SVEMIRSKOG BRODA

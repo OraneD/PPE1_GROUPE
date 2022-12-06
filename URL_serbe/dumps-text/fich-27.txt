@@ -227,7 +227,7 @@
    [empty.gif]
    [17549.jpg]
    status: user
-   broj poruka: 7593 probaj share folder ,nemoj share logicke particije
+   broj poruka: 7594 probaj share folder ,nemoj share logicke particije
    ,sa fiksnim IP .Meni je iskljucen win firewall ,zone alarm ukljucen,a
    mozes privremeno da stavis lokal ftp server ,dok ne vidis u cemu je
    fora.Kad pravis share ,probaj sa numerickom IP.
@@ -464,7 +464,7 @@
    [empty.gif]
    [page_first_unactiv.gif] [page_previous_unactiv.gif] STRANA 1 OD 2
    [page_next.gif] [page_last.gif]
-   Broj postavljenih tema: 59932. Broj poslatih odgovora: 642791.
+   Broj postavljenih tema: 59934. Broj poslatih odgovora: 642806.
    Trenutno niste prijavljeni na PC Berzu i zbog toga imate status
    'gosta'. Kao gost ne možete da šaljete poruke na Forum. Ako ste
    registrovani kao član PC Berze, prijavite se. Ako ste novi korisnik,

@@ -55,7 +55,8 @@
    vrh.
    [ ]
 
-   Contents (BUTTON) move to sidebar (BUTTON) hide
+Sadržaj (BUTTON) move to sidebar (BUTTON) hide
+
      * Početak
      * 1Дефиниција
      * 2Утицај
