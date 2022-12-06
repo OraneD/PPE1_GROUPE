@@ -19,7 +19,7 @@
 fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
 
-if [ $# -ne 2 ]
+if [[ $# -ne 2 ]]
 then
 	echo "ce programme demande 2 arguments"
 	exit
@@ -39,7 +39,7 @@ echo "<html><head>
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table class=\"table is-bordered is-hoverable is-striped\">" >> $fichier_tableau
-echo "<tr><th>ligne</th><th>code</th><th>encodage</th><th>URL</th></tr><th>dump html</th><th>dump text</th><th>occurrences</th><th>concordances</th></tr>" >> $fichier_tableau 
+echo "<tr><th>ligne</th><th>code</th><th>encodage</th><th>URL</th><th>dump html</th><th>dump text</th><th>occurrences</th><th>concordances</th></tr>" >> $fichier_tableau 
 
 
 lineno=1;
@@ -62,7 +62,7 @@ echo -e "\tURL : $URL";
 	
 	if [[$code -eq 200]]
 	then 
-		dump=$ (lynx -dump -nolist -assume_charset=$encodage -display_charset=$encodage $URL)
+		dump=$(lynx -dump -nolist -assume_charset=$encodage -display_charset=$encodage $URL)
 		if [[$encodage -ne "UTF-8" && -n "$dump"]] #récupération du dump texte du site avec lynx
 		then
 			dump=$(echo $dump | iconv -f $encodage -t UTF-8//IGNORE) #Si l'encodage n'est pas de l'UTF-8 il faut faire une conversion La variable $encodage sera l'encodage de départ du fichier comme ça on est sûrs de partir d'où il faut.
@@ -74,11 +74,15 @@ else
 fi					
 	
 echo "$dump" > "./dumps-text/fich-$lineno.txt" # le text brut de chaque URL est copié dans des fichiers situés dans le dossier dumps-text
-	
+
+#On compte le nombre d'occurrences	
 NB_OCC=$(grep -E -o $mot ./dumps-text/fich-$lineno.txt | wc -l)
 	
 grep -E -A2 -B2 $mot ./dumps-text/fich-$lineno.txt > ./contextes/fich-$lineno.txt
-bash programmes/concordance.sh ./dumps-text/fich-$lineno.txt $mot >concordances/fich-$lineno.html
+
+#construction concordance avec script externe
+
+bash concordance.sh ./dumps-text/fich-$lineno.txt $mot >concordances/fich-$lineno.html
 	
 	echo "<tr><td>$lineno </td><td>$code</td><td>$encodage</td><td><a href=\"$URL\">$URL</a></td><td><a href = "../ aspirations/fich-$lineno.html">html<a/></td><td><a href="../dumps-text/fich-$lineno.txt">text</a></td><td>$NB_OCC</td><td><a href="../contextes/fich-$lineno.txt">contextes</a></td><td><a href="../concordances/fich-$lineno.html">concordance</a></td></tr>" >> $fichier_tableau	
 	echo -e "\t--------------------------------"
