@@ -62,7 +62,7 @@ echo -e "\tURL : $URL";
 	
 	if [[$code -eq 200]]
 	then 
-		dump=$ (lunx -dump -nolist -assume_charset=$encodage -display_charset=$encodage $URL)
+		dump=$ (lynx -dump -nolist -assume_charset=$encodage -display_charset=$encodage $URL)
 		if [[$encodage -ne "UTF-8" && -n "$dump"]] #récupération du dump texte du site avec lynx
 		then
 			dump=$(echo $dump | iconv -f $encodage -t UTF-8//IGNORE) #Si l'encodage n'est pas de l'UTF-8 il faut faire une conversion La variable $encodage sera l'encodage de départ du fichier comme ça on est sûrs de partir d'où il faut.
