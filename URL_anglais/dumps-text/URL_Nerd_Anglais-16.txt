@@ -1,0 +1,10 @@
+[favicon.ico] www.lifehack.org
+
+Checking if the site connection is secure
+
+   Enable JavaScript and cookies to continue
+   www.lifehack.org needs to review the security of your connection before
+   proceeding.
+
+   Ray ID: 7796b73b6aca778c
+   Performance & security by Cloudflare
