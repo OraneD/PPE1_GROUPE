@@ -1,0 +1,229 @@
+    #CommentCaMarche.net
+
+   [alpha.png]
+
+   (BUTTON)
+     * (BUTTON) Menu principal
+     * Forum
+     * Bureautique
+     * Développement
+     * Internet
+     * Jeux vidéo
+     * Matériel
+     * Réseau
+     * Vidéo/TV
+     * Virus/Sécurité
+
+   CCM - Comment Ça Marche - Communauté informatique
+   (BUTTON)
+
+   Moteur de recherche
+
+   Rechercher ____________________ (BUTTON)
+
+   (BUTTON)
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Português
+     * Bahasa Indonesia
+     * Italiano
+     * Русский
+     * Polsky
+     * Nederlands
+     * हिंदी
+
+   (BUTTON)
+     * S'inscrire
+     * Connexion
+
+   Informatique Mobile Applis & Sites Image & Son Maison Securité
+   Téléchargement Forum
+
+   Bureautique Développement Internet Jeux vidéo Matériel Réseau Vidéo/TV
+   Virus/Sécurité Emploi
+
+    1. Accueil
+    2. Forum d'assistance informatique
+    3. Matériel informatique
+
+   Sujet Précédent Sujet Suivant
+
+Config PC Gamer
+
+   Fermé
+   léa23923 - 10 août 2016 à 17:00
+    léa23923 - 10 août 2016 à 17:31
+   Hello,
+   Je suis novice dans ce domaine mais je suis à la recherche d'une config
+   PC gaming a moindre cout (-900e). J'ai celle-ci :
+   https://www.topachat.com/pages/configomatic.php?c=uw0Mx6HKDWggZekRmIvbt
+   XJE8D%2FEOdfPo%2BnC7YH6t5I%3D
+   est-elle viable pour faire tourner des jeux comme Rocket League, CS:GO
+   ou LoL en ultra ? il y a t-il des améliorations à faire ?
+   merci :)
+   (BUTTON) Afficher la suite
+
+   (BUTTON) Moi aussi Posez votre question
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   A voir également:
+     * Config PC Gamer
+     * Benchmark pc - Guide
+     * Ecran noir pc - Guide
+     * Whatsapp pc - Guide
+     * Reinitialiser pc - Guide
+     * Test config pc ✓ - Forum Matériel informatique
+
+3 réponses
+
+   Réponse 1 / 3
+
+   arp-a Messages postés 556 Date d'inscription mardi 1 décembre 2015
+   Statut Membre Dernière intervention 3 février 2017 203
+   Modifié par arp-a le 10/08/2016 à 17:12
+   A mon avis un i3 c'est un peu faiblos, 900€ ce n'est pas réellement ton
+   budget PC car tu veux y inclure l'écran + le montage + la licence
+   Windows, ce qui fait finalement un budget à moins de 700€. Selon moi
+   difficile d'envisager du ultra en jeu mais tu t'en sortiras quand même
+   pour jouer.
+   Je suis moyennement convaincu par la carte graphique également.
+   Attends d'autres avis de nerd spécialisé en matériel =D.
+
+   (BUTTON) Commenter (BUTTON) 1 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   Réponse 2 / 3
+
+   aledu35 Messages postés 2701 Date d'inscription lundi 31 octobre 2011
+   Statut Membre Dernière intervention 3 avril 2018 406
+   10 août 2016 à 17:18
+   Hello,
+   Les faire tourner oui, en ultra je pense pas. Tu as un budget plutôt
+   pas mal, et on peux faire bien mieux que ça, si tu peux te permettre de
+   mettre un tout petit peu plus.
+   https://www.topachat.com/pages/configomatic.php?c=AvOdBs5nU%2FhtJqxvDrO
+   %2FyDbtvXazWCbUugfvJRFR2ps%3D
+   On remplace le i3 par un i5, bien meilleur et plus adapté aux jeux. On
+   garde la GTX 950, au delà les prix risquent de trop monter par rapport
+   à ton budget initial. On change l'alim pour plus puissant, histoire de
+   prévoir un éventuel changement de carte graphique plus tard. Pour
+   l'écran, il fait juste pitié, dsl de le dire, mais une résolution de
+   1300*700... Pour 10 euros de plus tu en un qui te fait passer en full
+   HD, faut pas se priver =)
+   J'ai changer le boitier, le Z3 plus est une valeur sur, et pas cher. Et
+   la cerise sur la gâteaux, j'ai changer la RAM, la même chose moins cher
+   c'est mieux non?
+   Bref j'ai fait pas mal de petit changement, et même si on dépasse un
+   peu ton budget, je pense que ça vau largement plus le coup de partir
+   sur cette config, qui sera bien meilleur, plus durable et qui
+   correspond mieux à tes attentes.
+
+   (BUTTON) Commenter (BUTTON) 1 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   Réponse 3 / 3
+
+   léa23923
+   10 août 2016 à 17:20
+   Oui, je jouais sur portable avant donc j'ai inclu l'écran et le
+   clavier. J'ai demandé le montage car je ne suis pas douée et j'ai peur
+   de faire une gaffe avec les composants :x.
+   Sinon je suis d'accord je pourrais retirer la licence pour trouver un
+   meilleur processeur/carte graphique ? Mais je n'aurais pas d'OS alors,
+   comment faire pour avoir windows ?
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   aledu35 Messages postés 2701 Date d'inscription lundi 31 octobre 2011
+   Statut Membre Dernière intervention 3 avril 2018 406
+   10 août 2016 à 17:22
+   Tu peux trouver des licences Windows moins cher sur d'autre sites en
+   fouillant un peu. Fais un tour sur Cdiscount/rue du commerce etc.. qui
+   proposent des versions de Windows à télécharger.
+
+   (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   léa23923 > aledu35 Messages postés 2701 Date d'inscription lundi 31
+   octobre 2011 Statut Membre Dernière intervention 3 avril 2018
+   10 août 2016 à 17:31
+   Très bien merci à toi ^^ ! Donc je vais retirer ma licence Windows (qui
+   pèse un peu :p). Ce sera mon premier desktop à moi alors, merci à vous.
+
+   (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   Posez votre question
+
+   Rejoignez la communauté et devenez membre en quelques clics
+     * Connectez-vous simplement avec ceux qui partagent vos intérêts
+     * Suivez vos discussions facilement et obtenez plus de réponses
+     * Mettez en avant votre expertise et aidez les autres membres
+     * Profitez de nombreuses fonctionnalités supplémentaires en vous
+       inscrivant
+
+   S'inscrire
+
+Newsletters
+
+   Newsletters
+
+   [X] Actu du jour
+   Voir un exemple
+
+   ____________________ OK
+
+   Les informations recueillies sont destinées à CCM BENCHMARK GROUP pour
+   vous assurer l'envoi de votre newsletter.
+
+   Elles seront également utilisées sous réserve des options souscrites, à
+   des fins de ciblage publicitaire.
+
+   Vous bénéficiez d’un droit d’accès et de rectification de vos données
+   personnelles, ainsi que celui d’en demander l’effacement dans les
+   limites prévues par la loi.
+
+   Vous pouvez également à tout moment revoir vos options en matière de
+   ciblage. En savoir plus sur notre politique de confidentialité .
+
+   en ce moment
+     * Téléchargement Darkino
+     * Récupération de compte Instagram piraté
+     * Google adopte Matter
+     * Hausse des tarifs Bouygues
+     * Overture Maps Foundation
+     * AI Manga TikTok
+     * Erreur 0x800f0922 Windows
+     * Jeux Netflix gratuits
+
+   A voir également
+     * Pc lent
+     * Télécharger musique gratuitement sur pc
+     * Double ecran pc
+     * Retourner ecran pc
+     * Viber pc
+
+     * Qui sommes-nous ?
+     * L'équipe
+     * Notre société
+     * Publicité
+     * Contact
+     * Recrutement
+     * Conditions générales
+     * Confidentialité
+     * Paramétrer les cookies
+     * Charte
+     * RSS
+
+   CCM Benchmark Group
+   Journal des femmes Journal Du Net Linternaute Droit-finances.net
+   Copains d'avant Viadeo JDN Jeux gratuits Ariase

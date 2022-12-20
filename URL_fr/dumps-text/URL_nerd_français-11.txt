@@ -1,0 +1,138 @@
+   #Forum Geekzone Search
+
+   IFRAME: https://www.geekzone.fr/discourse-header-iframe/
+
+   Forum Geekzone
+
+Am I a... nerd?
+
+   BlaBla
+   garuffo
+
+   Février 27, 2003, 11:43 #1
+
+   Voila la grande question existencielle que je me pose en ce moment!
+   J’imagine ne pas etre le seul sur ce site alors voila ma question:
+   Qu’est-ce qui caractérise un nerd?
+
+   gmargaro Février 28, 2003, 7:31 #2
+
+   En plus, une des principale caractéristique du Nerd, c’est qu’il ne
+   sait pas qu’il en est un… Il ne se pose même pas la question.
+   Tu est donc sauvé, Garuffo, tu ne doit pas etre un nerd
+   :stuck_out_tongue:
+
+   Spike Février 28, 2003, 7:14 #3
+
+   Garuffo je le trouve bien parano en ce moment … sur IRC il me l’a
+   demandé 3 ou 4 fois si il etait pas trop nerdz lol…
+
+   Ne t’inkiete pas mon ptit Garuffo… tout va bien !
+
+   Boltac Février 27, 2003, 12:19 #4
+
+   je pense qu’il faut rajouter au caracteristique du nerd masculin, qu’il
+   a une liste interminable de bookmarks de site du cul et des cal aux
+   doigts d’une main
+
+   [Edité le 28/2/2003 par Boltac]
+
+   garuffo Février 27, 2003, 12:08 #5
+
+   Bon examinons les caractèristique énoncé par Jeep:
+   « t’as pas de vie sociale »: j’ai pas de copine pour le moment… mais
+   j’ai des amis, des amis très cheres!
+   « tu ne les joins que par des clics et des listes de contact »: comme
+   tout le monde j’ai une messagerie instantané, mais je parle quand meme
+   plus IRL que via écran interposés (enfin si je compte que les amis IRL
+   parce qu’avec le Chan Irc…)
+   « ton bureau est recouvert de boites des McDo, de bouteilles de Coke et
+   de boites de pizza. »: mon bureau est recouvert d’un vert de jus de
+   kewee (fait maison), du courrier de la semaine, de plein de CD et…
+   tiens du Dictionnaire des littérature de langue française…
+   « quand on te dit « ça te branche un ciné ce soir? » tu réponds que ta
+   petite soeur est malade et tu restes jouer sur ta bécane. » : Putain
+   non je suis trop fan de cinéma! Par contre parfois j’aime bien y aller
+   tout seul…
+   « les gens ne te reconnaissent pas dans la rue »: Là dessus ça va on me
+   reconnait (la nerd attitude est donc lié au physique?)
+   « tu n’as aucun équipement de sport, »: Alors voyons voire… une
+   raquette de badminton une de tennis, un ballon de Rugby importé tout
+   droit de Cardiff et bientot un VTT flambant neuf (du moins je
+   l’espère!)
+   « tu vis à des hoiraires de vampire, tu te réveilles quand les autres
+   vont déjeuner. »: Là c’est les vacances donc c’est un peu ça… Enfin bon
+   je prend soin de mettre mon réveil à 10H pour pas non plus perdre ma
+   journée.
+   « tu n’as pas de femme, tu sais pas trop ce que c’est. »: là pour le
+   coup c’est vrai que j’ai pas « femme » dans ma vie… m’enfin c’est pas
+   l’envi qui manque c’est plus le faible quota de filles intéressante
+   dans mon bahut (et comme je passe ma vie au bahut en dehors des
+   vacances… :slight_smile: )
+
+   Conclusion: Je me sens rassuré, apparement un nerd c’est assez
+   gravement atteint parce que pour réunir toutes les caractéristiques de
+   JeeP faut etre balèze!
+   Merci encore, ça m’a rassuré :stuck_out_tongue:
+
+   yaourt_nature Février 27, 2003, 12:00 #6
+
+   T’ vu “Trac sur Internet” Si oui t’as ta réponse…
+
+   JeeP > t’as oublié : tout ton argent de poche passe dans ta machine, tu
+   es plus ou moins agoraphobe, tu te demande si le soleil existe encore,
+   t’as des cul de bouteille devant les yeux, tu n’as aucune idée de ce
+   qu’est une machine a lavée, prendre une douche est une perte de temps,
+   etc…
+
+   JeeP Février 27, 2003, 11:54 #7
+
+   t’as pas de vie sociale, tes « amis » tu ne les joins que par des clics
+   et des listes de contact, ton bureau est recouvert de boites des McDo,
+   de bouteilles de Coke et de boites de pizza.
+   quand on te dit « ça te branche un ciné ce soir? » tu réponds que ta
+   petite soeur est malade et tu restes jouer sur ta bécane.
+   tu n’as aucune conversation autre que l’info. t’es sans relief, les
+   gens ne te reconnaissent pas dans la rue. ils ne t’adressent pas la
+   parole, ce qui d’ailleurs te satisfait car tu ne saurais pas quoi leur
+   répondre.
+   tu n’as aucun équipement de sport, c’est aussi terrifiant pour toi
+   qu’un instrument de torture de l’époque de l’inquisition.
+   tu vis à des hoiraires de vampire, tu te réveilles quand les autres
+   vont déjeuner.
+   tu n’as pas de femme, tu sais pas trop ce que c’est.
+
+   voilà un nerd à mon avis :slight_smile:
+
+   sur ce, je vais m’acheter un big Mac :love:
+
+   ah oui aussi: tu as un P800 :stuck_out_tongue:
+
+   [Edité le 27/2/2003 par JeeP]
+
+   GloP Février 27, 2003, 11:51 #8
+
+   public void GarufoThread(Question q)
+   {
+   foreach(Message m in Thread.Messages)
+   social_entropy++;
+   }
+
+   Espece de nerd.
+
+   Edit: je sens que j’ai ete trop cryptique… explications, son thread ca
+   prend une question en param, ca renvoit pas de reponse et tout ce que
+   ca fait c’est augmenter le bordel ambiant a chaque reponse
+   :stuck_out_tongue: traduit en mega nerd… non ? non … ok …
+   :slight_smile:
+
+   [Edité le 27/2/2003 par GloP]
+
+     * Accueil
+     * Catégories
+     * FAQ/Charte
+     * Conditions générales d'utilisation
+     * Politique de confidentialité
+
+   Optimisé par Discourse, le rendu est meilleur quand JavaScript est
+   activé.

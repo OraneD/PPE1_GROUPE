@@ -1,0 +1,915 @@
+
+   (BUTTON)
+   Les forums de MacGeneration Les forums de MacGeneration
+     * Forums
+       Nouveaux sujets Chercher dans les forums
+     * Quoi de neuf ?
+       Nouveaux sujets Nouveaux messages de profil Activité récente
+     * MacGeneration
+       MacGeneration iGeneration WatchGeneration Je veux le.top iOccasion
+       RefurbGeneration
+
+   Connexion
+   S'inscrire
+   ____________________
+
+Rechercher
+
+   ____________________ [Tout____]
+   [ ] Rechercher par titre uniquement
+   Par: ____________________
+   (BUTTON) Rechercher Recherche avancée…
+   [Tout____]
+   [ ] Rechercher par titre uniquement
+   Par: ____________________
+   (BUTTON) Rechercher Advanced…
+   Les forums de MacGeneration Les forums de MacGeneration
+   ____________________
+
+Rechercher
+
+   ____________________ [Tout____]
+   [ ] Rechercher par titre uniquement
+   Par: ____________________
+   (BUTTON) Rechercher Recherche avancée…
+   [Tout____]
+   [ ] Rechercher par titre uniquement
+   Par: ____________________
+   (BUTTON) Rechercher Advanced…
+   Menu
+   Install the app
+   (BUTTON) Install
+     * App Store et applications
+
+     Applications Mac
+
+     Utilitaires
+
+   JavaScript is disabled. For a better experience, please enable
+   JavaScript in your browser before proceeding.
+
+   Vous utilisez un navigateur non à jour ou ancien. Il ne peut pas
+   afficher ce site ou d'autres sites correctement.
+   Vous devez le mettre à jour ou utiliser un navigateur alternatif.
+
+Clean my Mac a mauvaise presse
+
+     * Créateur du sujet Clari
+     * Date de début 4 Octobre 2020
+
+   Statut
+          Ce sujet est fermé.
+
+   C
+
+Clari
+
+Membre enregistré
+
+          4 Octobre 2020
+
+          5
+
+          0
+
+          45
+
+     * 4 Octobre 2020
+
+     *
+     * #1
+
+   Pourquoi ce logiciel a-t-il "mauvaise presse" ? Des années que je
+   l'utilise sans soucis. Que conseillez vous ? Sachant que j'ai aussi
+   Onyx
+
+   Dernière édition par un modérateur: 5 Octobre 2020
+   MrTom
+
+MrTom
+
+Modérateur
+
+   Modérateur
+   Club iGen
+
+          6 Août 2019
+
+          2 786
+
+          649
+
+          39
+
+     * 4 Octobre 2020
+
+     *
+     * #2
+
+   Nous conseillons de ne rien utiliser. MacOS est assez grand pour faire
+   sa maintenance tout seul.
+
+   Toggle signature
+   ---
+   Sly54
+
+Sly54
+
+Acrobate de l'espace
+
+   Modérateur
+   Club iGen
+
+          31 Janvier 2005
+
+          55 892
+
+          10 742
+
+          Nancy___
+
+     * 4 Octobre 2020
+
+     *
+     * #3
+
+   Clari a dit:
+
+   Des années que je l'utilise sans soucis.
+   Cliquez pour agrandir...
+
+   Disons qu'on a déjà vu ce forum des OS partis en vrille suite à l'usage
+   malencontreux d'un désinstallateur…
+
+   Clari a dit:
+
+   Que conseillez vous ?
+   Cliquez pour agrandir...
+
+   Pour ?..
+   Il suffit de regarder les nombreux fils sur le sujet, dont celui-là par
+   exemple.
+
+   Toggle signature
+   -
+     * J’aime
+
+   Réactions: peyret
+   C
+
+Clari
+
+Membre enregistré
+
+          4 Octobre 2020
+
+          5
+
+          0
+
+          45
+
+     * 4 Octobre 2020
+
+     *
+     * #4
+
+   Sly54 a dit:
+
+   Disons qu'on a déjà vu ce forum des OS partis en vrille suite à l'usage
+   malencontreux d'un désinstallateur…
+   Il suffit de regarder les nombreux fils sur le sujet, dont celui-là par
+   exemple.
+   Cliquez pour agrandir...
+
+   Loin l'idée pour moi de polémiquer, je suis plutôt là pour m'informer.
+   N'étant pas "geek" mais me servant de mon mac pour le travail en
+   permanence (je suis musicien) je suis loin de connaitre toutes les
+   ficelles. En même temps, en 14 ans de Mac je n'ai jamais eu de soucis,
+   mon MacBook Air à 13ans, il a été initialisé avec une sauvegarde que
+   j'avais précédemment, il m'a été conseillé d'utiliser Clean my Mac
+   avant de faire une mise à jour OS, ce que j'ai presque toujours fait.
+   Aujourd'hui je constate que mon ordi est en parfait état de
+   fonctionnement, ni il rame, ni il chauffe, bref le top !
+
+   Dernière édition par un modérateur: 4 Octobre 2020
+   Operating
+
+Operating
+
+What can I do for you ?
+
+          22 Juillet 2020
+
+          253
+
+          75
+
+          Évian-les-Bains
+
+     * 4 Octobre 2020
+
+     *
+     * #5
+
+   Clari a dit:
+
+   il m'a été conseillé d'utiliser Clean my Mac
+   Cliquez pour agrandir...
+
+   Si tu n’as pas de problème avec le logiciel, tu peux le garder, mais je
+   ne crois pas que ce soit l’outil le plus adapté... ;)
+
+   Toggle signature
+   Vous devez toujours posséder une sauvegarde de vos données.
+   Pour cela, vous pouvez utiliser Time Machine ou créer un clone parfait
+   de votre Mac avec Carbon Copy Cloner.
+   Vous pouvez aussi faire une sauvegarde dans les nuages, avec
+   iCloud ou Dropbox ou Google Drive.
+   Pour la maintenance de votre Mac, utilisez le fabuleux logiciel OnyX.
+   En cas de problème majeur, contactez
+   Apple Care par téléphone : 0805 540 003
+   Si vous résidez dans un autre pays, voici leurs coordonnées.
+   [INS: :INS]
+   C
+
+Clari
+
+Membre enregistré
+
+          4 Octobre 2020
+
+          5
+
+          0
+
+          45
+
+     * 4 Octobre 2020
+
+     *
+     * #6
+
+   Operating a dit:
+
+   Si tu n’as pas de problème avec le logiciel, tu peux le garder, mais je
+   ne crois pas que ce soit l’outil le plus adapté... ;)
+   Cliquez pour agrandir...
+
+   Je suis à l'écoute de toutes autres propositions
+
+   Operating
+
+Operating
+
+What can I do for you ?
+
+          22 Juillet 2020
+
+          253
+
+          75
+
+          Évian-les-Bains
+
+     * 4 Octobre 2020
+
+     *
+     * #7
+
+   Clari a dit:
+
+   Je suis à l'écoute de toutes autres propositions
+   Cliquez pour agrandir...
+
+   Onyx est très bien pour la maintenance, mais, concrètement, quelles
+   sont les fonctionnalités de CleanMyMac dont tu te sers le plus ?
+   Sachant que tu peux faire du nettoyage avec  > À propos de ce Mac >
+   Stockage > Gérer.
+
+   Toggle signature
+   Vous devez toujours posséder une sauvegarde de vos données.
+   Pour cela, vous pouvez utiliser Time Machine ou créer un clone parfait
+   de votre Mac avec Carbon Copy Cloner.
+   Vous pouvez aussi faire une sauvegarde dans les nuages, avec
+   iCloud ou Dropbox ou Google Drive.
+   Pour la maintenance de votre Mac, utilisez le fabuleux logiciel OnyX.
+   En cas de problème majeur, contactez
+   Apple Care par téléphone : 0805 540 003
+   Si vous résidez dans un autre pays, voici leurs coordonnées.
+   Sly54
+
+Sly54
+
+Acrobate de l'espace
+
+   Modérateur
+   Club iGen
+
+          31 Janvier 2005
+
+          55 892
+
+          10 742
+
+          Nancy___
+
+     * 4 Octobre 2020
+
+     *
+     * #8
+
+   Clari a dit:
+
+   Loin l'idée pour moi de polémiquer, je suis plutôt là pour m'informer.
+   Cliquez pour agrandir...
+
+   Moi non je ne veux pas polémiquer ;)
+   Juste te donner un peu de lecture pour que tu comprennes que "nettoyer"
+   ne sert pas à grand chose. Et surtout, toujours utiliser le
+   désinstallateur fourni.
+
+   Toggle signature
+   -
+   Moonwalker
+
+Moonwalker
+
+Dark Star
+
+   Club iGen
+
+          22 Avril 2006
+
+          23 201
+
+          5 942
+
+          Là-haut
+
+     * 6 Octobre 2020
+
+     *
+     * #9
+
+   Clari a dit:
+
+   Pourquoi ce logiciel a-t-il "mauvaise presse" ? Des années que je
+   l'utilise sans soucis. Que conseillez vous ? Sachant que j'ai aussi
+   Onyx
+   Cliquez pour agrandir...
+
+   Il y a déjà une discussion "épinglée".
+
+CleanMyMac 3 ou Onyx ?
+
+   Bonjour à tous, J'utilise actuellement ONYX pour nettoyer mon macbook
+   pro retina en ayant suivi les conseils du forum... (je suis en train de
+   voir d'installer SIERA). J'entends dire du bien du programme CleanMyMac
+   3, et je voulais avoir votre avis pour savoir s'il est mieux que ONYX..
+   Merci...
+   forums.macg.co forums.macg.co
+   Doit-on vraiment y revenir ?
+
+   Toggle signature
+   J’aime les blaireaux !
+   ASPAS - Association pour la protection de la vie sauvage
+   LS Zaitsev
+
+LS Zaitsev
+
+Membre expert
+
+   Club iGen
+
+          15 Août 2010
+
+          1 331
+
+          284
+
+          Afrique
+
+     * 14 Octobre 2020
+
+     *
+     * #10
+
+   Mon Dieu, ça va recommencer : on est partis pour 4 pages de folie.
+
+   S
+
+ScapO
+
+Membre actif
+
+          30 Septembre 2014
+
+          467
+
+          550
+
+     * 14 Octobre 2020
+
+     *
+     * #11
+
+   c'est un peu comme la marée,ça s’en va puis ça revient...
+
+   Toggle signature
+   S'il faut mourir
+   Autant vivre à en crever
+   Tout retenir pour tout immoler
+   S'il faut mourir
+   Sur nos stèles je veux graver
+   Que nos rires ont berné
+   La mort et le temps
+   ScapO on Flickr​
+   Sly54
+
+Sly54
+
+Acrobate de l'espace
+
+   Modérateur
+   Club iGen
+
+          31 Janvier 2005
+
+          55 892
+
+          10 742
+
+          Nancy___
+
+     * 14 Octobre 2020
+
+     *
+     * #12
+
+   LS Zaitsev a dit:
+
+   Mon Dieu, ça va recommencer : on est partis pour 4 pages de folie.
+   Cliquez pour agrandir...
+
+   Je n voudrais pas dire, mais c'est toi qui vient de remettre une pièce
+   dans le bouzin…
+   Il faut savoir de temps en temps laisser mourir un fil ;)
+
+   Toggle signature
+   -
+     * J’adore
+
+   Réactions: Operating
+   Operating
+
+Operating
+
+What can I do for you ?
+
+          22 Juillet 2020
+
+          253
+
+          75
+
+          Évian-les-Bains
+
+     * 14 Octobre 2020
+
+     *
+     * #13
+
+   @GeT, où es-tu ?!
+
+   Toggle signature
+   Vous devez toujours posséder une sauvegarde de vos données.
+   Pour cela, vous pouvez utiliser Time Machine ou créer un clone parfait
+   de votre Mac avec Carbon Copy Cloner.
+   Vous pouvez aussi faire une sauvegarde dans les nuages, avec
+   iCloud ou Dropbox ou Google Drive.
+   Pour la maintenance de votre Mac, utilisez le fabuleux logiciel OnyX.
+   En cas de problème majeur, contactez
+   Apple Care par téléphone : 0805 540 003
+   Si vous résidez dans un autre pays, voici leurs coordonnées.
+   LS Zaitsev
+
+LS Zaitsev
+
+Membre expert
+
+   Club iGen
+
+          15 Août 2010
+
+          1 331
+
+          284
+
+          Afrique
+
+     * 14 Octobre 2020
+
+     *
+     * #14
+
+   Sly54 a dit:
+
+   Je n voudrais pas dire, mais c'est toi qui vient de remettre une pièce
+   dans le bouzin…
+   Il faut savoir de temps en temps laisser mourir un fil ;)
+   Cliquez pour agrandir...
+
+   Oui, c'est mon vice. :D
+
+   GeT
+
+GeT
+
+Quoi de neuf ?
+
+          4 Septembre 2020
+
+          94
+
+          19
+
+          Là-bas
+
+     * 15 Octobre 2020
+
+     *
+     * #15
+
+   Operating a dit:
+
+   @GeT, où es-tu ?!
+   Cliquez pour agrandir...
+
+   Non, pas cette-fois ci!
+   D’autant plus que ça fatigue et les uns et les autres...
+
+   Dernière édition: 15 Octobre 2020
+   LS Zaitsev
+
+LS Zaitsev
+
+Membre expert
+
+   Club iGen
+
+          15 Août 2010
+
+          1 331
+
+          284
+
+          Afrique
+
+     * 15 Octobre 2020
+
+     *
+     * #16
+
+   Je ne m'explique pas le "succès" de ce logiciel. Est-ce vraiment le
+   résultat de toutes ces pubs qu'on croise sur le net ?
+   PS : je voulais supprimer mon message, mais visiblement on ne peut pas
+   (ou je ne sais pas).
+
+   Moonwalker
+
+Moonwalker
+
+Dark Star
+
+   Club iGen
+
+          22 Avril 2006
+
+          23 201
+
+          5 942
+
+          Là-haut
+
+     * 16 Octobre 2020
+
+     *
+     * #17
+
+   LS Zaitsev a dit:
+
+   Je ne m'explique pas le "succès" de ce logiciel. Est-ce vraiment le
+   résultat de toutes ces pubs qu'on croise sur le net ?
+   PS : je voulais supprimer mon message, mais visiblement on ne peut pas
+   (ou je ne sais pas).
+   Cliquez pour agrandir...
+
+   Les gens qui viennent de Windows croient qu'il est nécessaire de
+   "nettoyer" son système, que ça va l'accélérer. Bullshit ! Mais ils sont
+   tellement intoxiqués… Idem concernant la désinstallation. Ils ne
+   trouvent pas les fonctions qu'ils ont sur Windows alors ils font
+   n'importe quoi au lieu de suivre les instructions du développeur qu'ils
+   auraient du chercher avant d'installer le logiciel concerné.
+   Le reste c'est du matraquage publicitaire.
+
+   Toggle signature
+   J’aime les blaireaux !
+   ASPAS - Association pour la protection de la vie sauvage
+     * J’aime
+
+   Réactions: LS Zaitsev et peyret
+   IRONHIDE49
+
+IRONHIDE49
+
+Membre expert
+
+          23 Février 2020
+
+          2 231
+
+          328
+
+          Nantes
+
+     * 16 Octobre 2020
+
+     *
+     * #18
+
+   Clari a dit:
+
+   Loin l'idée pour moi de polémiquer, je suis plutôt là pour m'informer.
+   N'étant pas "geek" mais me servant de mon mac pour le travail en
+   permanence (je suis musicien) je suis loin de connaitre toutes les
+   ficelles. En même temps, en 14 ans de Mac je n'ai jamais eu de soucis,
+   mon MacBook Air à 13ans, il a été initialisé avec une sauvegarde que
+   j'avais précédemment, il m'a été conseillé d'utiliser Clean my Mac
+   avant de faire une mise à jour OS, ce que j'ai presque toujours fait.
+   Aujourd'hui je constate que mon ordi est en parfait état de
+   fonctionnement, ni il rame, ni il chauffe, bref le top !
+   Cliquez pour agrandir...
+
+   Ça doit être très compliqué de trouver un prototype de Mac book air,
+   Sacahnt que le premier est sortit en 2008, celui là doit être un
+   prototype... [emoji57]
+
+   Toggle signature
+   Mac Pro 2010 5.1 mono-processeur Quad-core 3,2GHz avec 16go de RAM et
+   une AMD Radeon RX580 + 2 Radeon HD 5770 Sur Mojave.
+   MacBook Pro 2011 13" avec le I5, 16Go de RAM sous Mojave et Lion.
+   Mac book 2007 avec 4Go de RAM et Lion.
+   Hackintosh HP ProBook 6560b de 2011 en 15", avec un I5 et 12Go de RAM
+   sous High Sierra.
+   Hackintosh HP ProBook 4340s de 2012 en 13", avec un I3 à
+   refroidissement passif, 10Go de RAM sous Mojave.
+   IPad 1 neuf, iPad 3, iPhone 4
+   Operating
+
+Operating
+
+What can I do for you ?
+
+          22 Juillet 2020
+
+          253
+
+          75
+
+          Évian-les-Bains
+
+     * 16 Octobre 2020
+
+     *
+     * #19
+
+   GeT a dit:
+
+   Non, pas cette-fois ci!
+   D’autant plus que ça fatigue et les uns et les autres...
+   Cliquez pour agrandir...
+
+   Vir sapiens es...enfin presque ;)
+
+   Moonwalker a dit:
+
+   Idem concernant la désinstallation.
+   Cliquez pour agrandir...
+
+   Exact ! La désinstallation des applications sur Mac, quelle histoire !
+   Tous les gens à chercher des solutions pour désinstaller « proprement »
+   leurs apps...
+   Moi aussi, ça m’agace de devoir répéter à ceux qui me le demandent : «
+   Pas de CMM, ni de AppCleaner et surtout pas de Mackeeper... »
+   Mais si les switchers regardaient sur le site d’Apple, ils verraient
+   bien que sont inutiles les apps servant à en désinstaller d’autres, car
+   officiellement : https://support.apple.com/fr-fr/HT202235
+
+   Toggle signature
+   Vous devez toujours posséder une sauvegarde de vos données.
+   Pour cela, vous pouvez utiliser Time Machine ou créer un clone parfait
+   de votre Mac avec Carbon Copy Cloner.
+   Vous pouvez aussi faire une sauvegarde dans les nuages, avec
+   iCloud ou Dropbox ou Google Drive.
+   Pour la maintenance de votre Mac, utilisez le fabuleux logiciel OnyX.
+   En cas de problème majeur, contactez
+   Apple Care par téléphone : 0805 540 003
+   Si vous résidez dans un autre pays, voici leurs coordonnées.
+   [INS: :INS]
+   Sly54
+
+Sly54
+
+Acrobate de l'espace
+
+   Modérateur
+   Club iGen
+
+          31 Janvier 2005
+
+          55 892
+
+          10 742
+
+          Nancy___
+
+     * 13 Mars 2022
+
+     *
+     * #20
+
+   LS Zaitsev a dit:
+
+   Nous restons ébahis devant une argumentation si rigoureuse... :D
+   Cliquez pour agrandir...
+
+   J'ai fait un peu de ménage ce qui fait que la 1e ligne de ton post
+   arrive un peu bizarrement.
+
+   Toggle signature
+   -
+
+   Statut
+          Ce sujet est fermé.
+
+Sujets similaires
+
+   F
+   logiciel de nettoyage et surveillance
+     * facecachee3
+     * 31 Octobre 2022
+     * Utilitaires
+
+   Réponses
+          15
+
+   Affichages
+          650
+
+   Utilitaires 16 Novembre 2022
+   facecachee3
+   F
+   Fennec72
+   un avis sur Sensei.app (de cindori, l'éditeur de TRIM Enabler)?
+     * Fennec72
+     * 29 Novembre 2020
+     * Utilitaires
+
+   Réponses
+          5
+
+   Affichages
+          764
+
+   Utilitaires 30 Novembre 2020
+   Locke
+   Locke
+   P
+   macOS Ventura Clean install nouveau mac / Emails et mots de passe
+     * pyxel_
+     * 23 Septembre 2022
+     * macOS
+
+   Réponses
+          4
+
+   Affichages
+          474
+
+   macOS 23 Septembre 2022
+   pyxel_
+   P
+   M
+   macOS Big Sur Stockage Fantôme sur disque dur
+     * moribond
+     * 31 Octobre 2021
+     * macOS
+
+   Réponses
+          0
+
+   Affichages
+          447
+
+   macOS 31 Octobre 2021
+   moribond
+   M
+   J
+   iMac Problème bouton démarrage
+     * jessy chancerel
+     * 20 Février 2022
+     * Mac
+
+   Réponses
+          18
+
+   Affichages
+          2K
+
+   Mac Vendredi à 10:11
+   wolf 1734
+   W
+
+     * App Store et applications
+
+     Applications Mac
+
+     Utilitaires
+
+Statistiques du forum
+
+   Sujets
+          467 371
+
+   Messages
+          5 544 185
+
+   Membres
+          158 720
+
+   Dernier membre
+          tichrom
+
+Sujets récents
+
+     * S
+       MacBook Pro Nappe SATA MacBook Pro 2010 défectueuse ?
+          + Dernier : STudio26
+          + il y a 16 minutes
+       Mac
+     * zirko
+       iOS 16 Mode toujours activé s'éteint le soir
+          + Dernier : zirko
+          + il y a 59 minutes
+       iOS
+     * T
+       MacBookPro fatigué - Problème de hard ou software ?
+          + Dernier : tichrom
+          + Hier à 23:39
+       Mac
+     * S
+       MacBook Air MacBook Air 2020 qui reste sur la pomme
+          + Dernier : Supergarvis
+          + Hier à 23:32
+       Mac
+     * P
+       probleme de clavier sur parallels desktop
+          + Dernier : Philippe777
+          + Hier à 23:30
+       Accessoires Mac
+
+En ligne
+
+   Membres connectés
+          4
+
+   Visiteurs en ligne
+          577
+
+   Total
+          581
+
+   Le total inclut les membres cachés.
+
+     *
+     * Orange
+     * Français (FR)
+
+     * Sponsors
+     * Règles d’utilisation
+     * Politique de confidentialité
+     * Aide
+     * Accueil
+     *
+     * RSS
+
+   Community platform by XenForo^® © 2010-2022 XenForo Ltd. | Style and
+   add-ons by ThemeHouse
+
+   Haut Bas
+
+     * Pour découvrir et maitriser votre Mac, lisez Le guide de macOS
+       Ventura !
+
+   ____________________

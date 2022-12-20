@@ -1,0 +1,290 @@
+   (BUTTON)
+   (BUTTON)
+   (BUTTON) Menu
+   Libération
+      Coupe du monde(Opens in new window)   Politique   International
+   CheckNews   Culture   Idées et Débats   Société   Environnement
+   Economie   Lifestyle   Portraits   Sciences
+   (BUTTON)
+     * Accueil(S'ouvre dans une nouvelle fenêtre)
+     * Fil Info(S'ouvre dans une nouvelle fenêtre)
+     * Politique (BUTTON)
+          + Elections
+     * International (BUTTON)
+          + Europe
+          + Amérique
+          + Afrique
+          + Moyen-Orient
+          + Asie Pacifique
+     * CheckNews
+     * Culture (BUTTON)
+          + Arts
+          + Cinéma
+          + Jeux vidéo
+          + Musique
+          + Photographie
+          + Livres
+          + BD
+          + Scènes
+          + Séries
+     * Idées et Débats (BUTTON)
+          + Opinions
+          + Editorial
+          + Tribunes
+     * Société (BUTTON)
+          + Police / Justice
+          + Droits des femmes
+          + Education
+          + Familles
+          + Logement
+          + Religions
+          + Santé
+          + Sexualités et genres
+          + Ville
+     * Environnement (BUTTON)
+          + Agriculture
+          + Alimentation
+          + Biodiversité
+          + Climat
+          + Nucléaire
+          + Pollution
+     * Economie (BUTTON)
+          + Economie numérique
+          + Médias
+          + Social
+          + Transports
+     * Lifestyle (BUTTON)
+          + Design
+          + High tech
+          + Mode
+          + Gastronomie
+          + Voyages
+     * En images(S'ouvre dans une nouvelle fenêtre)
+     * Portraits
+     * Sports (BUTTON)
+          + Football
+          + Coupe du monde(S'ouvre dans une nouvelle fenêtre)
+          + Cyclisme
+          + Jeux Olympiques
+          + Tennis
+          + Rugby
+          + Sports mécaniques
+     * Sciences (BUTTON)
+          + Archéologie
+          + Biologie
+          + Espace
+          + Histoire
+     * Plus (BUTTON)
+          + Séries d'été
+          + Numéros spéciaux
+     * Forums & événements
+     * Archives (BUTTON)
+          + 2022(S'ouvre dans une nouvelle fenêtre)
+          + 2021(S'ouvre dans une nouvelle fenêtre)
+          + 2020(S'ouvre dans une nouvelle fenêtre)
+     * Lire le journal(S'ouvre dans une nouvelle fenêtre)
+     * La boutique(S'ouvre dans une nouvelle fenêtre)
+     * Les newsletters(S'ouvre dans une nouvelle fenêtre)
+     * Les unes(S'ouvre dans une nouvelle fenêtre)
+     * Foire aux questions(S'ouvre dans une nouvelle fenêtre)
+     * Contactez-nous(S'ouvre dans une nouvelle fenêtre)
+     * Petites annonces(S'ouvre dans une nouvelle fenêtre)
+     *
+
+   Accueil / Economie
+
+Nerd attitude. Le nerd est un zinzin d'informatique, un bidouilleur de
+programmes, un fou de jargon en mode binaire. Nez dans l'écran, part de pizza
+et canette de Coca en main, il passe son temps sur sa babasse. Dans la
+famille des nerds, on trouve le surdoué qui invente le Net, le cousin simplet
+qui copie pour rien les logiciels, le nuisible qui pénètre dans les systèmes
+de sécurité, le hacker qui pirate pour de belles causes"" Typologie.
+
+   par Emmanuèle Peyret
+   publié le 6 mars 1998 à 22h16
+
+   Bien sûr, les plus beaux spécimens nichent dans la Silicon Valley,
+
+   pas très loin de Palo Alto. Mais de façon générale, partout, tout le
+   monde en connaît un. Un des zombies gaulé comme un moineau anorexique
+   ou obèse  c'est fonction des Mc Do qu'il mange , qui porterait une
+   chemise à carreaux, des tongs, un short. Pour qui le sport serait le
+   truc qu'on le forçait à faire quand il avait 6 ans, avant qu'il ait son
+   premier ordinateur et qu'il programme sa première application en
+   langage basic. Qui préfère la dent gâtée parce qu'il n'a pas le temps
+   d'aller chez le dentiste, trop occupé qu'il est à débugger la version
+   2.0 de la Lipso 14, et qui voit très bien son écran au travers de ses
+   verres épais monture Sécu tenue par un trombone. Et ne comprend que ses
+   semblables, quand il remarque que «son lecteur n'atteint même pas 1 Mo
+   par seconde (testé avec utilitaire Adaptez EZ SCSI 4.0), alors qu'il
+   devrait être compris entre 1,8 et 3,6 Mo par seconde».
+
+   Bref, on l'appelle affectueusement le nerd, mot dont l'origine est un
+   peu floue, mais qui signifie à coup sûr un dingue d'informatique,
+   inséparable de sa babasse (1). Un terme générique qui regroupe une
+   multitude de catégories, la frontière la plus simple séparant les
+   incompétents des autres. Les autres? Ceux qui, explique un ancien qui a
+   décroché, «font l'informatique et l'Internet de demain», rangés dans
+   leurs bureaux redécorés façon Star Trek dans des grosses boîtes
+   californiennes. Maximum respect, donc, quand il s'agit de ceux qui
+   inventent des logiciels. Surtout quand ils programment «avec élégance»,
+   sans fioritures, et parviennent par exemple à faire un serveur web en
+   huit lignes de programmation. Ainsi en est-il du geek (prononcer guik),
+   le top, un fou d'informatique ultracompétent qui parle couramment le
+   perl, et peut aussi bien installer un programme sur la machine à Coca
+   pour savoir combien il en reste que mettre au point un système
+   d'exploitation. Bill Gates a commencé comme ça, Bill Gates a fait des
+   petits. Seulement «la nerditude» est aussi une grande famille avec des
+   sous-branches un peu fin de race: «Ça peut être quelqu'un qui n'aime
+   que les jeux vidéo, un nul mais superaccro», explique François,
+   ex-fréquentateur de nerds. Le nerd inutile, c'est celui qui bidouille
+   mais n'invente rien. Le nerd nuisible, le cracker, bien doué, lui, qui
+   est un pirate informatique malfaisant, comme le phreacker, qui
+   squattera des lignes de téléphone longue distance dans un but non
+   utile. Figure romantique, le hacker, sorte de Robin des Bois qui
+   résoudra un truc de manière élégante, sur l'air de «je vais hacker une
+   banque et redistribuer le tout aux pauvres».
+
+   Quoi qu'il en soit, les nerds ont des points communs, c'est à ça qu'on
+   les reconnaît. Le nerd se lève tard, pas parce qu'il a forniqué (le
+   nerd a plutôt une sexualité manuelle), mais parce qu'il a travaillé la
+   nuit. «Ça aide à se concentrer, on n'est pas dérangé, il y a une
+   intimité, on peut programmer des choses compliquées», analyse Tristan,
+   un des petits génies de la Silicon Valley, qui se défend d'être un
+   nerd, comme la plupart de ceux qui sont tombés dedans: «J'évite d'en
+   fréquenter, ce ne sont pas des gens très rigolos. Je vais souvent au
+   ciné, dans des bars louches, je fréquente des filles, je ne mange pas
+   de junk food, je ne suis pas obèse, je ne bois pas de Coca, je n'ai pas
+   de lunettes.» Bref, le contraire du nerd. Qui, à peine réveillé de sa
+   nuit programmante, «checke son mail» (relève sa boîte électronique),
+   quelques centaines de messages en général. Comme il a fait un filtre,
+   le courrier est classé et archivé. Il lui reste les groupes de
+   discussions qu'il anime (il est «contributif» et bénévole) et les
+   listes de diffusion qu'il gère et qu'il faut fournir en infos.
+
+   Tout d'un coup, au bout de quelques heures, il se rappelle qu'il a
+   faim, met son économiseur d'écran, festoie à coups de pizzas, de Bolino
+   («Ça pourrait marcher en e-commerce», rigole Tariq, un nerd qui s'en
+   est sorti), de chips et s'envoie des grandes rasades de Jolt Cola qu'il
+   s'est fait livrer via l'Internet. Une version très améliorée du Coca,
+   «avec plus de sucre, plus de caféine, t'en prends un, t'as les mains
+   qui tremblent, mais ça fait tenir», sourit Tariq. Tout en bouffant sa
+   pizza froide, il mate dans la web-cam qu'il a installée dans la salle
+   informatique pour voir s'il trouve plus nerd que lui. Le nerd a ça de
+   particulier qu'il adore les trucs inutiles, genre bricoler une espèce
+   d'IRC (Internet Relay Chat, des téléconférences) avec son voisin
+   installé à deux mètres de là. Ce qui l'intéresse, c'est comprendre
+   comment ça marche. Le vrai nerd n'est pas du genre ostentatoire. Au
+   contraire, «plus les nerds exhibent leur technique, en publiant sur le
+   Net qu'ils ont piraté tel logiciel et qu'ils peuvent le distribuer,
+   plus ils sont incompétents, explique François, catégorique. Ils
+   piratent tout ce qu'ils trouvent, entassent les disquettes et les
+   logiciels de pré-version de n'importe quoi, mais n'inventent rien.
+   Seulement ils ont rien à foutre de leur journée.» Evidemment, depuis
+   que les premiers nerds ont commencé à s'agiter sur les ordinateurs des
+   années soixante, plusieurs générations ont coulé dans les réseaux, la
+   dernière, celle des 16-17 ans «qui ne pensent qu'à s'équiper pas cher,
+   à copier des logiciels et nagent là-dedans», s'énerve François, n'étant
+   pas la plus en vogue. Tous, l'oeil mouillé, évoquant l'esprit du Net à
+   ses débuts, parlent avec un respect confinant à la dévotion de ces «100
+   000 nerds dans le monde qui contribuent à maintenir l'évolution
+   technique, payés par des grosses boîtes pour faire avancer les choses»,
+   dixit Tariq. Un peu l'avenir du monde, quoi, rassemblé dans une sorte
+   de secte dont le mot d'ordre serait «la nerditude, un way of life».
+
+   Une philosophie de la vie magistralement décrite dans Microserfs, de
+   Douglas Coupland (2), livre qui est à la vie du nerd (chez Microsoft)
+   ce que les documentaires de Frédéric Rossif furent à la vie des
+   animaux: anthologique. On les voit travailler dix-huit heures par jour,
+   passer des soirées déguisées, à avoir peur que «le PowerPC leur pète au
+   nez ou d'une fusion éventuelle avec Motorola», pisser du code pour «un
+   moloch industriel qui nous prend pour des figurines interchangeables»,
+   «flamer les mails» (3), jongler entre le «swap» et le «boot» (sic).
+   Vivre dans des maisons communautaires, regarder Les Simpson, se bourrer
+   de bonbons Mentos. Des loisirs? L'un d'eux, après mûre réflexion, se
+   souvient de son vieux kayak rangé en garage: «Ooooh, du kayak. C'est
+   ça. Je kayake.» Un animal domestique? Un chat, ça permet de l'oublier
+   trois jours avec des boîtes pour aller au Comdex, le salon informatique
+   de Las Vegas. Les autres? L'autisme: ça permet de se débarrasser du
+   monde et de se concentrer sur son travail.
+
+   (1) Pour une socio-étymologie du mot, lire Technobabble, de John A.
+   Barry, MIT Press, 1991. Voir aussi la définition qu'en donne le
+   «Dictionnaire des hackers»: www.new.ox.ac.uk/jargon/ (2) Chez Lattès,
+   en 10/18, 1996.
+
+   (3) Envoyer des insultes en guise de mail.
+   (BUTTON) (BUTTON)
+   Dans la même rubrique
+
+Diffuseurs télé : une Coupe du monde 2022 réussie grâce à la France et au
+calcul d’audiences
+
+   17 déc. 2022
+
+Twitter : Elon Musk rétablit les comptes de journalistes suspendus, l’ONU
+reste «préoccupée»
+
+   Economie numérique17 déc. 2022
+
+Mondial 2022 : des écrans et de la bière à gogo mais pas d’effet miracle sur
+l’économie
+
+   Economie17 déc. 2022
+
+COP 15 biodiversité : «La question des financements de la protection reste le
+sujet majeur»
+
+   Biodiversité17 déc. 2022
+   Le portrait du jour
+
+Kelly Massol, boucle d’or
+
+   18 déc. 2022abonnés
+
+   © Libé 2022
+
+   © Libé 2022
+
+Dans l'actu
+
+     * Coupe du monde(Opens in new window)
+     * Réchauffement climatique
+     * Révolte en Iran
+     * Guerre en Ukraine
+     * Crise énergétique
+     * Le gouvernement Borne
+     * Réforme des retraites
+     * Inflation
+
+Services
+
+     * S'abonner(Opens in new window)
+     * La boutique(Opens in new window)
+     * Contactez-nous(Opens in new window)
+     * Donnez-nous votre avis(Opens in new window)
+     * Foire aux questions(Opens in new window)
+     * Proposer une tribune(Opens in new window)
+     * Evénements Libé(Opens in new window)
+     * Cours d'anglais(Opens in new window)
+     * Petites annonces(Opens in new window)
+
+Conditions générales
+
+     * Mentions légales(Opens in new window)
+     * Charte éthique(Opens in new window)
+     * CGVU(Opens in new window)
+     * Protection des données personnelles(Opens in new window)
+     * Gestion des cookies(Opens in new window)
+     * Licence(Opens in new window)
+
+Où lire Libé?
+
+     * Lire le journal(Opens in new window)
+     * Les newsletters(Opens in new window)
+     * Présentation de l'application(Opens in new window)
+     * Application sur Android(Opens in new window)
+     * Application sur iPhone / iPad(Opens in new window)
+     * Archives
+
+   Libération

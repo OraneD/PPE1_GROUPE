@@ -1,0 +1,121 @@
+   #FORUM Le Grand Forum - Les Numériques Search
+
+   Les Numériques
+
+     * 🔥 Tous les bons plans
+     * Tests
+     * Actualités
+     * Comparatifs & guides d'achat
+     * Téléchargement
+     * Émissions
+
+   FORUM Le Grand Forum - Les Numériques
+
+Chrome OS : deuxième système d'exploitation le plus utilisé sur ordinateurs
+devant macOS, mais derrière Windows
+
+   Informatique & Tablettes Système d’exploitation
+   Commentaires
+   LesNumeriques
+
+   Février 18, 2021, 2:18 #1
+
+   Chrome OS, le système d’exploitation des Chromebooks poussés par
+   Google, profite du contexte exceptionnel de l’année…
+
+   Lire la suite sur le site.
+
+   overhead Février 18, 2021, 2:19 #2
+
+   quand je vois comment les outils google drive sont nuls et
+   inutilisables pour un utilisateur avancé, j’ai peur de cet OS…
+   Quelle horreur de devoir utiliser google drive, sheet, doc and co !
+   Quel retour arrière par rapport à la suite office… Je pleure tous les
+   jours au boulot avec ces outils !
+
+   laboiteaprog Février 18, 2021, 4:49 #3
+
+   rien ne te force à utiliser les outils google… tu peux utiliser office
+   365, sinon office mobile…
+
+   tu peux installer des applications android, linux, windows (via
+   crossover, parallel, sinon citrix)
+
+   Veruza Février 18, 2021, 6:41 #4
+
+   C’est tout de même ultra limité Chrome OS… C’est bien pour une personne
+   agée novice en informatique mais pour un utilisateur ayant un peu
+   d’usages variés… On se retrouve vite avec une grosse tablette, la
+   plupart du temps pas si puissante que ca (les grosses Samsung et Apple
+   font mieux très souvent en ARM que les Chromebook en X86) et avec
+   beaucoup de limitations logicielles, comme une tablette. Je ne
+   comprends vraiment pas l’intéret de ChromeOS, il y a tout un tas de
+   distributions Linux bien plus permissives et toutes aussi légères sur
+   le marché
+
+   Kalipok Février 18, 2021, 7:52 #5
+
+   Il a dit « au boulot », où, à priori, on fait avec les outils
+   bureautiques autorisés par l’IT…
+
+   laboiteaprog Février 18, 2021, 9:35 #6
+
+   comme déjà écris tu peux faire fonctionner des applications: linux,
+   android et windows…
+   tu peux faire énormément en ligne maintenant… tu as des ide dans le
+   cloud, intégration continue dans le cloud… montage vidéo
+
+   tu as des machines dell avec chromeos en i5, i7
+
+   MrPatator Février 19, 2021, 7:57 #7
+
+   La suite office en ligne n’a rien a envier à GSuite.
+   Pour utiliser les deux, Drive à la maison et Office365 au boulot, 95%
+   de ce qui est nécessaire se trouve dans GDrive. La GED Sharepoint est
+   une horreur absolue en terme de recherche de documents et convivialité,
+   Office365 n’est même pas foutu d’éditer correctement ses propres
+   fichiers Word un peu complexes, GDrive s’en sort mieux (un comble!).
+   L’ouverture de documents MS Office un peu complexes demande
+   l’utilisation de la suite classique, une usine à gaze sous Sahrepoint
+   avec ses popups d’avertissement encombrantes.
+
+   MrPatator Février 19, 2021, 8:08 #8
+
+   Pour en avoir un à la maison depuis 4 ans, un chromebook suffit
+   largement à 90% de ce que font els gens à la maison avec un laptop:
+   surfer sur Internet, regarder de la VoD, télécharger, écouter de la
+   musique, éditer des documents. Evidement ça ne conviendra pas au gamer
+   ou au nerd qui cherche une machine aux petits oignons.
+
+   L’OS est hyper léger, les mises à jours se font tout le temps en un
+   claquement de doigt: certes, ça demande de redémarrer, mais comme ça
+   reboot en moins de 5 secondes (PC prêt à être utilisé), c’est pas
+   contraignant comme les mises à jour terriblement lente ou foireuse de
+   Windows. Les prix sont accessibles, mais tout dépend de ce qu’on veut
+   faire:
+     * on peut trouver des Chromebook à 250€, avec le strict minimum: ca
+       rame parfois, les finitions ne sont pas terribles, mais ça marche
+       correctement. Faire tourner un Windows sur un laptop à 250€ est
+       impossible.
+     * un bon Chromebook commence à 400€: c’est fluide, c’est bien fini,
+       parait pour l’immense majorité des gens. Là encore mettre un
+       Windows sur un laptop à 400€, ça marchotte et on ne peut pas faire
+       gd chose.
+     * un Chromebook HDG c’est 700€, à ce prix là on a un bon laptop
+       bureautique sous Windows, genre Vivobook, mais qui servira à de la
+       bureautique uniquement, comme un Chromebook à 400€.
+
+   laboiteaprog Février 19, 2021, 1:46 #9
+
+   pour avoir travaillé dans une bonne quinzaine de boîte, très rare que
+   je pouvais pas installer ce que je voulais quand il ne fallait pas une
+   licence payante
+
+     * Accueil
+     * Catégories
+     * FAQ/Charte
+     * Conditions générales d'utilisation
+     * Politique de confidentialité
+
+   Optimisé par Discourse, le rendu est meilleur quand JavaScript est
+   activé.

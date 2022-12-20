@@ -1,0 +1,419 @@
+   (BUTTON) Fermer la modale de partage
+
+   Partager
+     * (BUTTON) Partager sur facebook
+     * (BUTTON) Partager sur twitter
+     * (BUTTON) Partager sur pinterest
+     * (BUTTON) Partager sur whatsapp
+     * (BUTTON) Partager sur email
+     * (BUTTON) Partager sur sms
+
+   (BUTTON) Ouvrir le menu principal ELLE, le magazine de toute
+   l'actualité des femmes
+     * Lien vers réseau social mail
+     * Lien vers réseau social facebook
+     * Lien vers réseau social twitter
+     * Lien vers réseau social pinterest
+     * Lien vers réseau social youtube
+     * Lien vers réseau social instagram
+     * Lien vers réseau social tiktok
+
+   Se connecter (BUTTON) (BUTTON) Sauvegarder Sauvegardé Je m'abonne pour
+   1€
+   Le mag
+   (BUTTON) Ouvrir le menu principal ELLE, le magazine de toute
+   l'actualité des femmes
+   Je m'abonne pour 1€
+   Le mag
+   (BUTTON) Ouvrir le modal de recherche
+
+   (BUTTON) Fermer le modal de recherche
+
+   Rechercher sur ELLE
+   ____________________ (BUTTON) Lancer la recherche
+
+   ELLE, le magazine de toute l'actualité des femmes (BUTTON) Fermer menu
+   burger
+
+   Se connecter (BUTTON) Rechercher sur le site
+
+     * TOUTE L'ACTU
+     * Cadeaux
+     * Noël
+     * Edition Abonnées
+     * BONS PLANS
+     * LES RENDEZ-VOUS ELLE
+     * MODE
+          + Chaussures
+          + Actu
+          + Robes
+               o Robes de soirées
+          + Shopping Mode
+               o Jeans
+               o Lingerie
+               o Pulls et Gilets
+               o Accessoires de mode
+               o Manteaux
+          + Défilés de Mode
+               o Fashion week
+               o Créateurs
+          + Horlogerie-Joaillerie
+          + Mode de Stars
+          + Conseils
+               o DIY Mode
+               o Morpho mode
+          + Tendances
+               o Push mode
+               o Streetstyle
+               o L'instant mode
+               o Lookbook
+               o It-pièce
+               o Mode par année
+          + Tests & Quiz Mode
+          + Street Style
+          + Carnet de Mode
+     * BEAUTÉ
+          + Actu
+          + Cheveux
+               o Coupe de cheveux
+               o Coiffure
+               o Coiffure de soirée
+               o Coloration
+               o Coiffure facile
+               o Astuces cheveux
+               o Tuto Coiffure
+               o Balayage
+          + Maquillage
+               o Maquillage des yeux
+               o Maquillage de soirée
+               o Astuces maquillage
+          + Soins Beauté
+               o Soins corps & visage
+               o Manucure
+               o Épilation
+               o Bronzage
+          + Tendances
+          + Parfums
+          + Beauté des Stars
+               o Coiffure de stars
+          + Beauté ethnique
+          + Chirurgie esthétique
+          + Tests & Quiz Beauté
+     * FORME
+          + Secrets des Stars
+          + Actu
+          + Régimes
+               o Calcul calories
+               o Guide des calories
+               o Poids idéal
+          + Astuces pour maigrir
+          + Forme
+          + Sport
+          + Tests & Quiz Forme et Santé
+     * CULTURE
+          + Actu
+          + Cinéma
+          + Livres
+               o Grands Prix Littéraires ELLE
+          + Musique
+               o Festival
+               o Concerts
+               o Nos playlists
+               o Le clip de la semaine
+          + Séries
+          + Sorties
+               o Actu
+               o Musés/Expos
+               o Bars
+               o Théâtres
+               o Hôtels
+               o Restaurants
+          + Télé
+          + Programme TV avec Télé 7 Jours
+          + Tests & Quiz Culture
+     * ÉVASION
+     * PEOPLE
+          + Actu
+          + Vie des People
+          + Style
+          + Tapis rouge
+          + Enfants de Stars
+          + Royauté
+          + Bios People
+          + Tests & Quiz People
+     * SOCIÉTÉ
+          + Actu Société
+          + Santé
+          + Politique
+          + Justice
+          + Phénomènes
+          + Femmes à suivre
+          + L'édito
+          + Interviews
+          + L'actu en images
+          + Tests & Quiz Culture Générale
+     * ELLE A TABLE
+          + Actu
+               o Cuisine du placard
+               o Idées menus
+               o Astuces cuisine
+               o Menus de chefs
+          + Cuisine minceur
+               o Entrées light
+               o Apéro minceur
+               o Plats minceur
+               o Desserts light
+          + Recettes
+               o Apéritifs
+               o Entrées
+               o Plats
+               o Desserts
+               o Cocktails
+               o Par ingrédient
+          + Thèmes
+               o Recettes classiques
+               o Cuisine rapide
+               o Recettes faciles
+               o Cuisine du monde
+               o Cuisine de saison
+               o Recettes à petits prix
+               o Pâtisseries
+               o Cuisson
+               o Recettes sans gluten
+               o Recettes végétariennes
+               o Cuisine bio
+          + Menu de la semaine
+          + Accords Mets & Vins
+          + Tests & Quiz Cuisine
+     * ELLE DÉCORATION
+          + News & Tendances
+          + Conseils pratiques
+          + Reportages
+          + Déco par pièce
+          + Déco par couleur
+          + Déco par style
+          + Déco extérieure
+          + Blog déco : Billie Blanket
+     * ELLE ACTIVE
+          + Tests & Quiz ELLE Active
+     * ELLE GREEN
+     * ELLE ZEN
+          + Bien-être
+          + Bien manger
+          + Yoga
+          + Sommeil
+          + Massages
+          + Spas
+     * PSYCHO-SEXO
+          + Actu
+          + Sexualité
+          + Kamasutra
+          + Fantasmes
+          + Couple
+          + Célibataires
+          + C'est mon histoire
+          + Tests & Quiz Psycho-Sexo
+          + Psycho
+     * ASTRO
+          + Horoscope
+               o Horoscope 2023
+               o Horoscope du jour
+               o Horoscope de demain
+               o Horoscope de la semaine
+               o Horoscope amoureux
+               o Horoscope du mois
+               o Caractère des signes
+               o Horoscope Saint Valentin
+               o Calcul ascendant
+          + Horoscope Chinois
+               o Horoscope chinois 2022
+               o Horoscope chinois du jour
+               o Horoscope chinois de la semaine
+               o Caractère des signes chinois
+          + Amour
+               o Compatibilité amoureuse
+               o Compatibilité des prénoms
+               o Profil sexuel
+               o Personnalité des prénoms
+               o Quel homme est il ?
+          + Tarots
+               o Tarot Oui/Non
+               o Tarot amour
+               o Tarot travail
+               o Tarot des stars
+          + Numérologie
+               o Numérologie 2023
+               o Numérologie du couple
+               o Profil numérologique
+               o Numérologie du travail
+               o Calcul chemin de vie
+          + Boule de Cristal
+          + Idées de prénoms
+     * MARIAGE
+          + Robes de Mariée
+          + Actu
+          + Bagues et alliances
+          + Coiffures
+          + Mise en beauté
+          + Accessoires
+          + Préparatifs
+     * MAMAN
+          + Actu
+          + Grossesse
+          + Conception
+          + Bébé
+          + Enfant
+          + Ado
+          + Famille
+          + Tests & Quiz Maman
+     * TESTS & QUIZ
+     * LAURY THILLEMAN BY ELLE
+     * NEWSLETTERS
+     * PODCASTS
+     * J'offre ELLE
+     * ABONNEZ-VOUS
+
+     * Elle
+     * Culture
+     * High tech
+     * News high-tech
+
+     * (BUTTON) Partager sur facebook
+     * (BUTTON) Partager sur twitter
+     * (BUTTON) Partager sur pinterest
+
+Les femmes aussi sont des geeks !
+
+   Les femmes aussi sont des geeks !
+   (BUTTON) Sauvegarder Sauvegardé
+
+   Longtemps considéré comme « nolife » et ringard, le geek (à définir
+   comme féru d’informatique) est aujourd’hui très à la mode. A l’heure où
+   les hautes technologies dominent le monde, les accros de l’informatique
+   sont les nouveaux branchés. Et dans cet univers longtemps masculin, les
+   femmes s’imposent. Hier soir, blogueuses, journalistes web ou
+   informaticiennes se sont retrouvées au Windows 7 café à Paris. Leur
+   point commun ? Une passion commune pour les nouvelles technologies et
+   un langage, incompris du commun des mortels : le code html. Selon le
+   site de « 20minutes », les geekettes parisiennes se sont donné
+   rendez-vous au café éphémère de Microsoft pour parler gadgets high
+   tech, consoles de jeu et Java script. Cette soirée entre dans le cadre
+   des « Girl Geek Dinners », débarqués en France fin 2008 et nés à
+   Londres en 2005. L’occasion pour les férues d’informatique de partager
+   leurs connaissances sur un seul thème mais entre deux cocktails. Pas
+   d’élitisme chez les geekettes ! Les « Girl Geek Dinners » sont ouverts
+   à toutes, apprentie geek comme experte éclairée. J.DLR.
+
+   28/10/2009
+
+   > Voir l'actualité des "Girl Geek Dinners"
+
+
+    Par
+
+   La Rédaction
+   La Rédaction
+
+À lire également
+
+     * Britney Spears cherche geek de confiance
+       Britney Spears cherche geek de confiance
+     * Le sex toy Paris Hilton
+       Le sex toy Paris Hilton
+     * Ligne Haute Couture
+       Ligne Haute Couture
+     * Un bijou de portable
+       Un bijou de portable
+
+   Article précédent
+
+   J'ai appris à twitter avec Nathalie Kosciusko-Morizet
+   Classement ELLE-Wikio : qui seront les prochaines reines du web ?
+
+   Article suivant
+
+   Classement ELLE-Wikio : qui seront les prochaines reines du web ?
+
+Les + populaires Culture
+
+     * 1.
+       Barbie : Margot Robbie et Ryan Gosling se dévoilent dans la
+       première bande-annonce (et c’est génial)
+     * 2.
+       Édition abonnées
+       Chloé Jouannet : « Être fils ou fille de…, on me le faisait payer »
+     * 3.
+       Les Frères Scott : alerte nostalgie, le casting s’est réuni dix ans
+       après la fin de la série
+     * 4.
+       « Mercredi » : cette destination en vogue grâce à la série Netflix
+     * 5.
+       « Avatar : la voie de l’eau » : 3 bonnes raisons d’aller voir le
+       nouveau film de James Cameron
+     * 6.
+       Florent Pagny : après son traitement contre le cancer, le chanteur
+       va bientôt remonter sur scène
+     * 7.
+       70 films à voir absolument une fois dans sa vie
+     * 8.
+       Édition abonnées
+       Cécile de France : « Qu'on arrête un peu de ne montrer que des
+       femmes jeunes comme objets de désir »
+
+Toute l'actu Culture
+
+     * Chékéba Hachemi et sa fille Mariame : l'Afghanistan en héritage
+       Édition abonnées
+       Chékéba Hachemi et sa fille Mariame : l'Afghanistan en héritage
+     * Michel Polnareff : « Quitter son pays en pleine gloire, c'est
+       terrible »
+       Édition abonnées
+       Michel Polnareff : « Quitter son pays en pleine gloire, c'est
+       terrible »
+     * Netflix : ces films adaptés de romans à voir sur la plateforme
+       Netflix : ces films adaptés de romans à voir sur la plateforme
+     * « Sissi » (TF1) : la saison 2 disponible dans quelques jours
+       « Sissi » (TF1) : la saison 2 disponible dans quelques jours
+     * Barbie : Margot Robbie et Ryan Gosling se dévoilent dans la
+       première bande-annonce (et c’est génial)
+       Barbie : Margot Robbie et Ryan Gosling se dévoilent dans la
+       première bande-annonce (et c’est génial)
+
+   Toutes les infos Culture
+   Teaser promo Teaser promo
+
+   Horoscope 2021 Lien abonnement
+
+   (BUTTON)
+
+   Haut de page
+   ELLE, le magazine de toute l'actualité des femmes
+
+Suivez-nous
+
+     * Lien vers réseau social facebook
+     * Lien vers réseau social twitter
+     * Lien vers réseau social pinterest
+     * Lien vers réseau social youtube
+     * Lien vers réseau social instagram
+     * Lien vers réseau social tiktok
+
+Newsletter Culture
+
+   Je m'inscris
+
+Contacts
+
+     * Annonceurs
+     * Abonnez-vous
+     * La rédaction
+
+     * Nos RSS
+     * Mentions légales et CGU
+     * Données personnelles et cookies
+     * (BUTTON) Gérer mes cookies
+     * Conditions Générales de Vente
+     * Foire aux Questions
+     * Le groupe CMI France
+     * CMI Media
+     * ELLE International

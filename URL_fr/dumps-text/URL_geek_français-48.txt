@@ -1,0 +1,412 @@
+   (BUTTON) Fermer la modale de partage
+
+   Partager
+     * (BUTTON) Partager sur facebook
+     * (BUTTON) Partager sur twitter
+     * (BUTTON) Partager sur pinterest
+     * (BUTTON) Partager sur whatsapp
+     * (BUTTON) Partager sur email
+     * (BUTTON) Partager sur sms
+
+   (BUTTON) Ouvrir le menu principal ELLE, le magazine de toute
+   l'actualité des femmes
+     * Lien vers réseau social mail
+     * Lien vers réseau social facebook
+     * Lien vers réseau social twitter
+     * Lien vers réseau social pinterest
+     * Lien vers réseau social youtube
+     * Lien vers réseau social instagram
+     * Lien vers réseau social tiktok
+
+   Se connecter (BUTTON) (BUTTON) Sauvegarder Sauvegardé Je m'abonne pour
+   1€
+   Le mag
+   (BUTTON) Ouvrir le menu principal ELLE, le magazine de toute
+   l'actualité des femmes
+   Je m'abonne pour 1€
+   Le mag
+   (BUTTON) Ouvrir le modal de recherche
+
+   (BUTTON) Fermer le modal de recherche
+
+   Rechercher sur ELLE
+   ____________________ (BUTTON) Lancer la recherche
+
+   ELLE, le magazine de toute l'actualité des femmes (BUTTON) Fermer menu
+   burger
+
+   Se connecter (BUTTON) Rechercher sur le site
+
+     * TOUTE L'ACTU
+     * Cadeaux
+     * Noël
+     * Edition Abonnées
+     * BONS PLANS
+     * LES RENDEZ-VOUS ELLE
+     * MODE
+          + Chaussures
+          + Actu
+          + Robes
+               o Robes de soirées
+          + Shopping Mode
+               o Jeans
+               o Lingerie
+               o Pulls et Gilets
+               o Accessoires de mode
+               o Manteaux
+          + Défilés de Mode
+               o Fashion week
+               o Créateurs
+          + Horlogerie-Joaillerie
+          + Mode de Stars
+          + Conseils
+               o DIY Mode
+               o Morpho mode
+          + Tendances
+               o Push mode
+               o Streetstyle
+               o L'instant mode
+               o Lookbook
+               o It-pièce
+               o Mode par année
+          + Tests & Quiz Mode
+          + Street Style
+          + Carnet de Mode
+     * BEAUTÉ
+          + Actu
+          + Cheveux
+               o Coupe de cheveux
+               o Coiffure
+               o Coiffure de soirée
+               o Coloration
+               o Coiffure facile
+               o Astuces cheveux
+               o Tuto Coiffure
+               o Balayage
+          + Maquillage
+               o Maquillage des yeux
+               o Maquillage de soirée
+               o Astuces maquillage
+          + Soins Beauté
+               o Soins corps & visage
+               o Manucure
+               o Épilation
+               o Bronzage
+          + Tendances
+          + Parfums
+          + Beauté des Stars
+               o Coiffure de stars
+          + Beauté ethnique
+          + Chirurgie esthétique
+          + Tests & Quiz Beauté
+     * FORME
+          + Secrets des Stars
+          + Actu
+          + Régimes
+               o Calcul calories
+               o Guide des calories
+               o Poids idéal
+          + Astuces pour maigrir
+          + Forme
+          + Sport
+          + Tests & Quiz Forme et Santé
+     * CULTURE
+          + Actu
+          + Cinéma
+          + Livres
+               o Grands Prix Littéraires ELLE
+          + Musique
+               o Festival
+               o Concerts
+               o Nos playlists
+               o Le clip de la semaine
+          + Séries
+          + Sorties
+               o Actu
+               o Musés/Expos
+               o Bars
+               o Théâtres
+               o Hôtels
+               o Restaurants
+          + Télé
+          + Programme TV avec Télé 7 Jours
+          + Tests & Quiz Culture
+     * ÉVASION
+     * PEOPLE
+          + Actu
+          + Vie des People
+          + Style
+          + Tapis rouge
+          + Enfants de Stars
+          + Royauté
+          + Bios People
+          + Tests & Quiz People
+     * SOCIÉTÉ
+          + Actu Société
+          + Santé
+          + Politique
+          + Justice
+          + Phénomènes
+          + Femmes à suivre
+          + L'édito
+          + Interviews
+          + L'actu en images
+          + Tests & Quiz Culture Générale
+     * ELLE A TABLE
+          + Actu
+               o Cuisine du placard
+               o Idées menus
+               o Astuces cuisine
+               o Menus de chefs
+          + Cuisine minceur
+               o Entrées light
+               o Apéro minceur
+               o Plats minceur
+               o Desserts light
+          + Recettes
+               o Apéritifs
+               o Entrées
+               o Plats
+               o Desserts
+               o Cocktails
+               o Par ingrédient
+          + Thèmes
+               o Recettes classiques
+               o Cuisine rapide
+               o Recettes faciles
+               o Cuisine du monde
+               o Cuisine de saison
+               o Recettes à petits prix
+               o Pâtisseries
+               o Cuisson
+               o Recettes sans gluten
+               o Recettes végétariennes
+               o Cuisine bio
+          + Menu de la semaine
+          + Accords Mets & Vins
+          + Tests & Quiz Cuisine
+     * ELLE DÉCORATION
+          + News & Tendances
+          + Conseils pratiques
+          + Reportages
+          + Déco par pièce
+          + Déco par couleur
+          + Déco par style
+          + Déco extérieure
+          + Blog déco : Billie Blanket
+     * ELLE ACTIVE
+          + Tests & Quiz ELLE Active
+     * ELLE GREEN
+     * ELLE ZEN
+          + Bien-être
+          + Bien manger
+          + Yoga
+          + Sommeil
+          + Massages
+          + Spas
+     * PSYCHO-SEXO
+          + Actu
+          + Sexualité
+          + Kamasutra
+          + Fantasmes
+          + Couple
+          + Célibataires
+          + C'est mon histoire
+          + Tests & Quiz Psycho-Sexo
+          + Psycho
+     * ASTRO
+          + Horoscope
+               o Horoscope 2023
+               o Horoscope du jour
+               o Horoscope de demain
+               o Horoscope de la semaine
+               o Horoscope amoureux
+               o Horoscope du mois
+               o Caractère des signes
+               o Horoscope Saint Valentin
+               o Calcul ascendant
+          + Horoscope Chinois
+               o Horoscope chinois 2022
+               o Horoscope chinois du jour
+               o Horoscope chinois de la semaine
+               o Caractère des signes chinois
+          + Amour
+               o Compatibilité amoureuse
+               o Compatibilité des prénoms
+               o Profil sexuel
+               o Personnalité des prénoms
+               o Quel homme est il ?
+          + Tarots
+               o Tarot Oui/Non
+               o Tarot amour
+               o Tarot travail
+               o Tarot des stars
+          + Numérologie
+               o Numérologie 2023
+               o Numérologie du couple
+               o Profil numérologique
+               o Numérologie du travail
+               o Calcul chemin de vie
+          + Boule de Cristal
+          + Idées de prénoms
+     * MARIAGE
+          + Robes de Mariée
+          + Actu
+          + Bagues et alliances
+          + Coiffures
+          + Mise en beauté
+          + Accessoires
+          + Préparatifs
+     * MAMAN
+          + Actu
+          + Grossesse
+          + Conception
+          + Bébé
+          + Enfant
+          + Ado
+          + Famille
+          + Tests & Quiz Maman
+     * TESTS & QUIZ
+     * LAURY THILLEMAN BY ELLE
+     * NEWSLETTERS
+     * PODCASTS
+     * J'offre ELLE
+     * ABONNEZ-VOUS
+
+     * Elle
+     * Mode
+     * Accessoires de Mode
+
+     * (BUTTON) Partager sur facebook
+     * (BUTTON) Partager sur twitter
+     * (BUTTON) Partager sur pinterest
+
+Radar mode #2 : les lunettes geek
+
+   Radar mode #2 : les lunettes geek © TheFashionGuitar.com
+   (BUTTON) Sauvegarder Sauvegardé
+
+   Légende photo : TheFashionGuitare.com
+
+   Si on nous avait dit un jour qu’on allait aimer l’accessoire qui
+   caractérise le geek, on aurait ri. Et pourtant ! Les lunettes de vue
+   aviateur à la monture métal sont le nouveau détail mode de la saison.
+   Exit l’effet nerd, cet accessoire vintage donne au look une touche
+   masculine et coquine qui ne laissera personne indifférent.
+
+   Lunettes similaires :
+
+   Asos
+
+   Asos Eshop
+
+   aviator_Chanel
+
+   Chanel Eshop
+
+   A voir aussi :
+
+10 paires de lunettes de vue qui nous font de l’œil
+
+   11 Voir la galerie
+   (BUTTON) Fermer la modal de la galerie
+   10 paires de lunettes de vue qui nous font de l’œil
+
+
+    Par
+
+   Stéphanie Kohen
+   Stéphanie Kohen
+     * Mode automne hiver
+     * Carnet de mode ELLE
+     * Le radar mode
+
+   Article précédent
+
+   Radar mode #1 : le mini sac
+   Pour ou contre : peut-on vraiment porter des collants en septembre ?
+
+   Article suivant
+
+   Pour ou contre : peut-on vraiment porter des collants en septembre ?
+
+Les + populaires Mode
+
+     * 1.
+       Letizia d’Espagne : cuissardes et total look noir pour sa dernière
+       sortie
+     * 2.
+       Édition abonnées
+       Moquée pour son chapeau au mariage de Kate et William, comment
+       Beatrice d’York a riposté
+     * 3.
+       5 astuces pour rendre nos looks plus luxe
+     * 4.
+       Édition abonnées
+       L’œil de la styliste : se faire belle, ça sert à quoi ?
+     * 5.
+       Bella Hadid regrette d’avoir porté cette robe à Cannes
+     * 6.
+       Kate Middleton adopte ces baskets iconiques à moins de 70 €
+     * 7.
+       Les essentiels pour une parenthèse à la montagne
+     * 8.
+       Le matching look de Kate Middleton et de la princesse Charlotte
+       pour le « Together at Christmas » Carol Service à Londres
+
+Toute l'actu Mode
+
+     * Dynastie mode : Meghan Markle, Doria Ragland, Archie et Lilibet
+       Édition abonnées
+       Dynastie mode : Meghan Markle, Doria Ragland, Archie et Lilibet
+     * On garde ou on jette ? Les sequins
+       Édition abonnées
+       On garde ou on jette ? Les sequins
+     * Letizia d’Espagne : cuissardes et total look noir pour sa dernière
+       sortie
+       Letizia d’Espagne : cuissardes et total look noir pour sa dernière
+       sortie
+     * Cette veste est le nouvel indispensable d’Hailey Bieber
+       Cette veste est le nouvel indispensable d’Hailey Bieber
+     * Pour ou contre : la doudoune ?
+       Édition abonnées
+       Pour ou contre : la doudoune ?
+
+   Toutes les infos Mode
+   Teaser promo Teaser promo
+
+   Horoscope 2021 Lien abonnement
+
+   (BUTTON)
+
+   Haut de page
+   ELLE, le magazine de toute l'actualité des femmes
+
+Suivez-nous
+
+     * Lien vers réseau social facebook
+     * Lien vers réseau social twitter
+     * Lien vers réseau social pinterest
+     * Lien vers réseau social youtube
+     * Lien vers réseau social instagram
+     * Lien vers réseau social tiktok
+
+Newsletter Mode
+
+   Je m'inscris
+
+Contacts
+
+     * Annonceurs
+     * Abonnez-vous
+     * La rédaction
+
+     * Nos RSS
+     * Mentions légales et CGU
+     * Données personnelles et cookies
+     * (BUTTON) Gérer mes cookies
+     * Conditions Générales de Vente
+     * Foire aux Questions
+     * Le groupe CMI France
+     * CMI Media
+     * ELLE International

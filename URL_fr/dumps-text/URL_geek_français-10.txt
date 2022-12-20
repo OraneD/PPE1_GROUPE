@@ -1,0 +1,529 @@
+    #CommentCaMarche.net
+
+   [alpha.png]
+
+   (BUTTON)
+     * (BUTTON) Menu principal
+     * Forum
+     * Bureautique
+     * Développement
+     * Internet
+     * Jeux vidéo
+     * Matériel
+     * Réseau
+     * Vidéo/TV
+     * Virus/Sécurité
+
+   CCM - Comment Ça Marche - Communauté informatique
+   (BUTTON)
+
+   Moteur de recherche
+
+   Rechercher ____________________ (BUTTON)
+
+   (BUTTON)
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Português
+     * Bahasa Indonesia
+     * Italiano
+     * Русский
+     * Polsky
+     * Nederlands
+     * हिंदी
+
+   (BUTTON)
+     * S'inscrire
+     * Connexion
+
+   Informatique Mobile Applis & Sites Image & Son Maison Securité
+   Téléchargement Forum
+
+   Bureautique Développement Internet Jeux vidéo Matériel Réseau Vidéo/TV
+   Virus/Sécurité Emploi
+
+    1. Accueil
+    2. Forum d'assistance informatique
+    3. Virus / Sécurité
+
+   Sujet Précédent Sujet Suivant
+
+Piratage téléphone portable
+
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022 - Modifié le 20 août 2022 à
+   15:46
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022 - 21 août 2022 à 10:51
+
+   Bonjour à tous,
+
+   Mon copain m'a avoué avoir accéder à mes textos qui sont sur mon
+   téléphone portable. Il me dit que cela a été possible car il a eu accès
+   à mon PC via lequel il a accédé à mes comptes Instagram et Facebook
+   ainsi qu'à mon compte google qui est le même compte google enregistré
+   sur mon téléphone.
+
+   J'ai lancé une analyse de logiciel malveillant sur mon téléphone et sur
+   mon PC: pas de logiciel malveillant détecté.
+
+   Egalement, mon téléphone est renvoyé seulement vers ma messagerie
+   vocale en cas de transfert d'appel si occupé.
+
+   A t-il pu accéder à mes textos seulement grâce à mes comptes instagram
+   ou Facebook quand bien même je ne crois pas avoir enregistré mon numéro
+   de téléphone sur ces comptes là?
+
+   A t-il pu se faire aider par un ami geek pour pirater mon téléphone à
+   distance sans l'avoir entre les mains?
+
+   J'ai regardé dans l'historique de mon PC et il est allé sur mes comptes
+   Instagram, Facebook et google chrome - pas d'autres sites selon
+   l'historique.
+   Merci d'avance de votre retour
+   (BUTTON) Afficher la suite
+
+   Répondre (BUTTON) Moi aussi
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   A voir également:
+     * Piratage téléphone portable
+     * Piratage facebook - Guide
+     * Annuaire portable gratuit a partir d'un nom ✓ - Forum Mobile
+     * Telecharger video youtube sur telephone - Guide
+     * Localiser un portable gratuitement sans autorisation forum ✓ -
+       Forum Free mobile
+     * Écran noir pc portable - Guide
+
+7 réponses
+
+   Réponse 1 / 7
+
+   jag72 Messages postés 15318 Date d'inscription dimanche 16 août 2009
+   Statut Membre Dernière intervention 12 décembre 2022 2 744
+   20 août 2022 à 17:52
+
+   Bonjour,
+
+   "  il a eu accès à mon PC  "
+   Il n'a eu accès que à vos comptes cités.
+
+   Pour avoir la lecture de votre téléphone, il faut aussi que votre pc
+   soit doté de l'application Microsoft du nom de Votre téléphone où
+   apparaissent toutes notifications, photos et messages.
+
+   Donc si il affirme avoir lu, pourquoi ne pas lui demander quel était le
+   dernier message et son contenu. ;)
+     __________________________________________________________________
+
+   (BUTTON) Commenter (BUTTON) 1 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   Réponse 2 / 7
+
+   Pierr10 Messages postés 9020 Date d'inscription mardi 13 février 2018
+   Statut Contributeur Dernière intervention 18 décembre 2022 4 339
+   20 août 2022 à 21:42
+
+   Bonjour,
+
+   Je suis comme jag72 : Je ne crois pas du tout à un piratage de votre
+   téléphone.
+
+   Je pense plutôt à une indiscrétion minable qui a consisté à mémoriser
+   votre schéma de déverrouillage ou à regarder quel code vous utilisez.
+   Ensuite il faut moins d'une minute pour accéder à vos textos quand vous
+   avez le dos tourné.
+
+   C'est infiniment plus probable que le copain geek capable de prendre le
+   contrôle du téléphone.
+
+   Commencez donc par changer votre déverrouillage écran.
+
+   Pour le reste, c'est votre vie privée, et donc il n'y a pas de
+   commentaires à faire.
+     __________________________________________________________________
+
+   Ce que l'on conçoit bien s'énonce clairement,
+   Et les mots pour le dire arrivent aisément.
+   (Boileau)
+
+   (BUTTON) Commenter (BUTTON) 1 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   Réponse 3 / 7
+
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022
+   20 août 2022 à 20:02
+
+   Bonjour,
+
+   Merci pour votre réponse. Si il a eu connaissance de mes textos, il m'a
+   cité des conversations que j'ai eu uniquement par SMS. Je suis sûre à
+   100 % qu'il a lu mes textos alors qu'il n'avait pas mon portable entre
+   les mains.
+
+   Mon PC est un Mac et mon portable un Samsung. La seule chose qui les
+   relie c'est mon compte Google Chrome.
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   jag72 Messages postés 15318 Date d'inscription dimanche 16 août 2009
+   Statut Membre Dernière intervention 12 décembre 2022 2 744
+   20 août 2022 à 20:59
+
+   Oui mais Google n'a pas accès à vos SMS puisque c'est l'opérateur
+   mobile donc si il connait la personne à qui vous avez écrit, ce n'est
+   peut être de l'information qu'il a obtenu par ce moyen
+
+   (BUTTON) Commenter (BUTTON) 1 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   Réponse 4 / 7
+
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022
+   20 août 2022 à 21:09
+
+   Non il ne connaît pas cette personne... il a eu accès à la conversation
+   et aux photos envoyées, il a également eu accès à d'autres
+   conversations SMS.
+
+   Il m'a dit qu'avec mes comptes instagram et Facebook il pouvait avoir
+   accès à tout. J'ai vu qu'il était allé dans les réglages et paramètres
+   de ces comptes. Mais sur ce point là je pense qu'il me ment.
+
+   Il m'a également dit que s'il l'avait voulu mais qu'il ne l'a pas fait,
+   il aurait pu se rapprocher d'un ami geek qui lui aurait également
+   permis d'avoir accès à ces informations.
+
+   Je suis sûre à 100% qu'il lit mes SMS mais je ne sais pas de quelle
+   manière.
+
+   Sur mon téléphone portable j'ai une sauvegarde de mes SMS via mon
+   compte Google. Je ne sais pas s'il aurait pu passer par là.
+
+   Ou alors son ami geek a un logiciel très performant...
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   Vous n’avez pas trouvé la réponse que vous recherchez ?
+   Posez votre question
+   Réponse 5 / 7
+
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022
+   20 août 2022 à 22:12
+
+   Il aurait pu avoir accès à mon téléphone effectivement mais très peu de
+   temps et je doute qu'en ce laps de temps il ait eu le temps de faire
+   défiler toutes mes conversations... parce que vu tout ce dont il a eu
+   connaissance c'est qu'il a eu bien le temps de lire.
+
+   En plus il m'a fait des reproches le jour même concernant mes messages
+   instagram et Facebook uniquement. Puis il est rentré chez lui le
+   lendemain et à partir du lendemain il a commencé à me dire qu'il avait
+   également eu accès à mes SMS. Ce dont il ne m'avait pas parlé le jour
+   même de la consultation de mes comptes instagram et Facebook alors
+   qu'il était très remonté.
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   Réponse 6 / 7
+
+   jag72 Messages postés 15318 Date d'inscription dimanche 16 août 2009
+   Statut Membre Dernière intervention 12 décembre 2022 2 744
+   Modifié le 20 août 2022 à 23:54
+
+   Un oublie sur le coup de la colère mais si la relation est de la
+   jalousie de couple, regarder des conversations privés c'est pas
+   franchement sympathique et dans ce cas vous êtes en plein droit d'être
+   remonté à votre tour.
+
+   Il y a violation de la vie privé.
+
+   Toutefois il est possible qu'il y ait eu accès si vous avez autorisé
+   l'application Messenger à gérer vos SMS !!
+   Dans ce cas la il a vu les conversation par Facebook et je conseil
+   fortement de changer tous vos mots de passes de connexion
+     __________________________________________________________________
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022
+   21 août 2022 à 09:38
+
+   Bonjour Jag72,
+
+   La consultation des textos via Facebook est la plus probable puisqu'il
+   avait mes codes Facebook et qu'il m'a dit qu'avec "Facebook et
+   instagram on avait accès à tout". Toutefois je n'avais pas activé
+   "texto" sur messenger. De plus, j'ai fait le test : en activant "texto"
+   sur l'appli messenger on a bien accès aux SMS du téléphone mais en se
+   connectant à messenger via PC portable on y a pas accès.
+
+   Aurait-il pu se connecter à mon compte messenger sur son téléphone
+   portable à lui, activer l'option "texto" et consulter mes SMS de cette
+   manière sans avoir accès à mon téléphone physiquement ?
+
+   J'ai changé mes mots de passe Facebook et instagram mais j'aimerais
+   savoir comment il a eu accès à mes SMS car à l'heure actuelle je ne
+   sais pas s'il y a encore accès.
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   Réponse 7 / 7
+
+   Pierr10 Messages postés 9020 Date d'inscription mardi 13 février 2018
+   Statut Contributeur Dernière intervention 18 décembre 2022 4 339
+   Modifié le 21 août 2022 à 00:13
+
+   Donc pour les comptes Facebook et Instagram, il a consulté les messages
+   depuis votre ordinateur. Problème résolu.
+
+   Il reste le cas des textos. On peut les consulter effectivement depuis
+   un ordinateur, mais il faut avoir associé le smartphone et
+   l'ordinateur. Il est donc fort possible qu'il ait associé votre
+   smartphone à son ordinateur ; l'opération ne demande que quelques
+   secondes. Lisez tout ce qui est sur cette page :
+
+   https://support.google.com/messages/answer/7611075?hl=fr#zippy=%2Csur-v
+   otre-t%C3%A9l%C3%A9phone-android
+
+   Voyez sur votre smartphone, dans l'application Messages, s'il y a un
+   ordinateur associé.
+
+   Je vous conseille de changer d'application de messagerie ; utilisez
+   celle de Samsung au lieu de celle de Google.
+
+   Changez également tous vos mots de passe.
+     __________________________________________________________________
+
+   Ce que l'on conçoit bien s'énonce clairement,
+   Et les mots pour le dire arrivent aisément.
+   (Boileau)
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   brucine Messages postés 7561 Date d'inscription lundi 22 février 2021
+   Statut Membre Dernière intervention 18 décembre 2022 789
+   21 août 2022 à 08:31
+
+   Bonjour,
+   Moi, je conseille plutôt de changer de copain; cette tendance 2.0 à
+   vouloir toujours plus s'immiscer dans les conversations ou courriers
+   privés d'autrui, que le moyen soit physique ou informatique, me semble
+   absolument intolérable.
+
+   (BUTTON) Commenter (BUTTON) 1 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022
+   21 août 2022 à 09:30
+
+   Bonjour Pier10,
+
+   Je suis allée dans les paramètres de mon application de messagerie mais
+   on ne me propose pas d'associer un appareil ni de voir si un autre
+   appareil est connecté...
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022
+   21 août 2022 à 09:44
+
+   En fait, je n'ai pas l'application messages propre à Google.  J'utilise
+   l'application messages de mon Android Samsung. Toutefois, je suis
+   connectée à mon compte Google sur mon téléphone portable.
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   Pierr10 Messages postés 9020 Date d'inscription mardi 13 février 2018
+   Statut Contributeur Dernière intervention 18 décembre 2022 4 339 >
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022
+   21 août 2022 à 09:54
+
+   Sur Samsung, vous avez 2 applis de messageries installées. Pour
+   simplifier les choses, elles s'appellent toutes deux Messages !
+     * L'appli Messages de Google : icône à fond bleu avec un texte
+       stylisé
+
+     * L'appli Messages de Samsung : icône à fond bleu avec une bulle de
+       conversation à l'intérieur et 3 points bleus.
+
+   (Voyez l'ensemble des applis installées).
+
+   Si vous basculez d'une appli sur l'autre, elle récupère normalement les
+   messages.
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022 > Pierr10 Messages postés
+   9020 Date d'inscription mardi 13 février 2018 Statut Contributeur
+   Dernière intervention 18 décembre 2022
+   21 août 2022 à 10:15
+
+   Merci pour votre réponse.
+
+   L'appli messages de Google est désactivée sur mon téléphone.
+
+   Aurait-il pu avoir accès à mes textos en téléchargeant cette appli sur
+   son téléphone à lui?
+
+   Je viens également de me rendre compte qu'il avait accès à mon WhatsApp
+   également.
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   Pierr10 Messages postés 9020 Date d'inscription mardi 13 février 2018
+   Statut Contributeur Dernière intervention 18 décembre 2022 4 339 >
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022
+   Modifié le 21 août 2022 à 10:39
+
+   1ère question : Il faudrait qu'il utilise votre compte Google. Ça
+   semble peu probable. Pour sécuriser Google, activez la double
+   authentification.
+   https://support.google.com/accounts/answer/185839?hl=fr&co=GENIE.Platfo
+   rm%3DDesktop
+
+   2ème point : L'accès à WhatsApp se fait en connectant le smartphone à
+   un ordinateur (comme pour Messages de Google). Voyez dans les
+   paramètres généraux de WhatsApp (accessible depuis la liste des
+   contacts), s'il y a un ordinateur connecté.
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   pira_78 Messages postés 9 Date d'inscription samedi 20 août 2022 Statut
+   Membre Dernière intervention 21 août 2022 > Pierr10 Messages postés
+   9020 Date d'inscription mardi 13 février 2018 Statut Contributeur
+   Dernière intervention 18 décembre 2022
+   21 août 2022 à 10:51
+
+   Merci Pierr10
+
+   Je ne sais pas ce n'est pas impossible qu'il ait accès à mon compte
+   Google mais en effet quand je regarde l'historique des connexions
+   Google il n'y a que mon téléphone et mon PC qui apparaissent.
+
+   Pour WhatsApp on me propose de connecter un appareil mais pas de
+   consulter la liste des appareils connectés.
+
+   Je ne sais pas lui m'a parlé de la piste Facebook il m'a laissé un
+   indice, peut-être qu'il a consulté mes SMS durant mon sommeil. Même si
+   ça m'étonne car j'ai le sommeil léger...
+
+   Cette dernière option m'inquieterait moins. Ce qui me surprend c'est
+   qu'il a fait des imprim écrans de mes conversations messengers et insta
+   pendant qu'il avait mon PC entre les mains toute la journée. Mais pas d
+   imprim écran de mes Textos dont il a eu je suis sûre connaissance à 100
+   %.
+
+   (BUTTON) Commenter (BUTTON) 0 (BUTTON)
+   (BUTTON)
+     * (BUTTON) Signaler
+
+   (BUTTON) Afficher les 7 commentaires
+
+   Répondre Posez votre question
+
+Votre réponse
+
+   Rejoignez la communauté et devenez membre en quelques clics
+     * Connectez-vous simplement avec ceux qui partagent vos intérêts
+     * Suivez vos discussions facilement et obtenez plus de réponses
+     * Mettez en avant votre expertise et aidez les autres membres
+     * Profitez de nombreuses fonctionnalités supplémentaires en vous
+       inscrivant
+
+   S'inscrire
+
+Newsletters
+
+   Newsletters
+
+   [X] Actu du jour
+   Voir un exemple
+
+   ____________________ OK
+
+   Les informations recueillies sont destinées à CCM BENCHMARK GROUP pour
+   vous assurer l'envoi de votre newsletter.
+
+   Elles seront également utilisées sous réserve des options souscrites, à
+   des fins de ciblage publicitaire.
+
+   Vous bénéficiez d’un droit d’accès et de rectification de vos données
+   personnelles, ainsi que celui d’en demander l’effacement dans les
+   limites prévues par la loi.
+
+   Vous pouvez également à tout moment revoir vos options en matière de
+   ciblage. En savoir plus sur notre politique de confidentialité .
+
+   en ce moment
+     * Téléchargement Darkino
+     * Récupération de compte Instagram piraté
+     * Google Nest Matter
+     * Augmentation des prix Orange
+     * Overture Maps Foundation
+     * Filtre AI Manga
+     * Erreur 0x800f0922 Windows
+     * Nouveaux jeux Netflix
+
+   A voir également
+     * Localiser mon telephone
+     * Comment trouver un numéro à partir du nom et prénom
+     * Règle en cm sur téléphone
+     * Ordinateur portable lent
+     * Mode securise telephone
+
+     * Qui sommes-nous ?
+     * L'équipe
+     * Notre société
+     * Publicité
+     * Contact
+     * Recrutement
+     * Conditions générales
+     * Confidentialité
+     * Paramétrer les cookies
+     * Charte
+     * RSS
+
+   CCM Benchmark Group
+   Journal des femmes Journal Du Net Linternaute Droit-finances.net
+   Copains d'avant Viadeo JDN Jeux gratuits Ariase

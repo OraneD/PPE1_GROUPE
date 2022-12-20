@@ -1,0 +1,262 @@
+   #Forum Geekzone Search next
+
+   IFRAME: https://www.geekzone.fr/discourse-header-iframe/
+
+   Forum Geekzone
+
+Open Pandora, la console des nerds
+
+   Articles GZ
+   gring
+
+   Octobre 1, 2008, 1:16 #1
+
+   [center] [/center]
+
+   En 2004, Gamepark, une société coréenne, sortait la GP32. Basée sur un
+   processeur ARM à 133 Mhz, cette console avait été conçue de manière
+   ouverte, pour que n’importe quel programmeur puisse coder le logiciel
+   de ses rêves. Une communauté s’est rapidement créée autour de ce jouet
+   pour geek, mais, faute d’un catalogue de jeux commerciaux viable, elle
+   n’a connu qu’un succès d’estime. Et encore, ça, c’est la version polie…
+
+   Ce que moins de gens savent, c’est que durant le développement de la
+   GP32 et de sa petite soeur, une scission eut lieu chez Gamepark. Suite
+   à un désaccord sur la philosophie à suivre pour la conception de la
+   nouvelle console, une partie du personnel (surtout des barbus) quitta
+   Gamepark pour créer Gamepark holdings, et concevoir ainsi la GP2X, qui
+   garde la philosophie ouverte de la GP32. Le projet de Gamepark, la XGP,
+   censée concurrencer la PSP de Sony, ne sortira jamais suite à la
+   faillite de la société en 2006.
+
+   La GP2X est basée sur un processeur double coeur ARM 920T / 940T
+   cadencé à 200Mhz (mais qui peut monter jusqu’à 300 Mhz), et tourne sous
+   une version adaptée de Linux. Elle permet de lire des vidéos au format
+   mpeg 4, de faire tourner des émulateurs pour tous les ordinateurs et
+   consoles jusqu’à la génération 16 bits (SNES, Megadrive, PC Engine, et
+   Neo Geo, pour citer les plus populaires), ainsi que des jeux compilés
+   nativement (Doom, Duke Nukem, Quake, Cave Story…). Une version plus
+   récente, la GP2X F200, possède en plus un écran tactile. Bref, chez les
+   barbus, on se fait plaisir !
+
+   Mais ça ne suffit pas pour certains. Insatisfaits de la GP2X, trois
+   membres de la communauté, Craig “Craigix” Rothwell, Michael “MWeston”
+   Weston, et Michael “EvilDragon” Mrozek, se sont mis à rêver sur les
+   forums de ce que pourrait être la console portable Open Source ultime,
+   au lieu de se chercher des pseudonymes moins ridicules. Alors que
+   certains criaient au vaporware, leur projet a abouti, et les premiers
+   prototypes ont été fournis aux développeurs. Le résultat est, contre
+   toute attente, assez impressionnant.
+
+   Basée sur un processeur ARM Cortex™-A8 à 600 MHz (qui peut monter
+   jusqu’à 900) épaulé par un DSP et un accélérateur 3D compatible OpenGL
+   2.0 ES, l’Open Pandora ressemble à une Nintendo DS qui aurait été
+   conçue par des Soviétiques. Mmmh, oui je sais, dit comme ça, c’est pas
+   super sexy… Mais attendez la suite (et puis rappelez-vous la première
+   “Panzer” DS) !
+
+   Équipée d’un écran tactile 4,3 pouces d’une résolution de 800x480
+   pixels (à comparer aux 480×272 de la PSP de Sony et aux 320x240 de la
+   GP32 et de la GP2X), d’un clavier compact ainsi que de deux pads
+   analogiques, l’Open Pandora est en réalité un nano ordinateur portable,
+   qui ferait passer l’eeePc d’Asus pour une baleine obèse. La
+   connectivité n’est pas en reste, puisque la bête dispose d’un port USB
+   2.0 esclave, d’un port USB 2.0 maître, de modules WiFi, BlueTooth, de
+   deux fentes pour cartes mémoire SD, d’un microphone, ainsi que d’une
+   sortie vidéo (S-vidéo et composite), le tout dans un boîtier à peine
+   plus gros qu’une Nintendo DS.
+
+   Côté logiciels, la console devrait pouvoir faire tourner FireFox 3,
+   Quake 3, ainsi que des émulateurs PS1 et Nintendo 64. On peut d’ors et
+   déjà voir sur les sites de vidéo des prototypes de la console. Pour les
+   animations Flash, la console se heurte au même problème que l’iPhone,
+   vu que les plugins Flash n’existent que pour l’architecture x86. Les
+   développeurs sont cependant confiants quant à l’apparition de plugins
+   libres, vu qu’ Adobe fournit désormais les spécifications pour le
+   développement d’un plugin.
+
+   Conscients que leur produit ne s’adresse qu’à une communauté restreinte
+   de nerds, les créateurs ont décidé de limiter la première production à
+   3 000 exemplaires, une seconde livrée devant arriver en 2009 en cas de
+   succès. La console est en précommande pour 250 euros depuis le 30
+   septembre sur le site officiel.
+
+   Pour plus de détails, consultez la FAQ sur le Wiki.
+
+   De son côté, Gamepark Holdings espère sortir sa nouvelle console, la
+   GP2X Wiz, au cours du mois d’octobre. Moins alléchante sur le papier,
+   elle est également moins chère (180 dollars, ce qui nous fait 128
+   euros). L’avantage de tout ça : du choix même pour les nerds barbus
+   amateurs de bidouilles sur machines portables. On vit une époque
+   formidable. Mais si…
+
+   GottferDamnt Octobre 3, 2008, 5:00 #2
+
+   Impressionant!
+
+   Paco Octobre 3, 2008, 11:08 #3
+
+   Miam ! Mon geekometer s’affole (heureusement que je suis fauché :))
+
+   rolyat Octobre 4, 2008, 1:58 #4
+
+   Je viens de comprendre pourquoi mes programmes ne marchent pas tous du
+   premier coup : je suis geek, mais pas barbu, voilà !
+
+   Ce post gratuit et sans intérêt vous est offert par… ROLYAT!
+
+   Bon matin chez vous (ouais, enfin, ayez de beaux rêves, vue l’heure en
+   Europe au moment où je tape ces lignes).
+
+   Aht0d Octobre 5, 2008, 8:21 #5
+
+   J’avoue que ça donne envie :slight_smile: <.
+
+   Après la chose me parait quand même assez massif et faut voir
+   l’ergonomie des 2 joysticks.
+
+   Et puis le prix bien que abordable pour ce qu’offre la console reste
+   quand même trop important pour moi.
+
+   Sinon très bonne alternative des classiques DS et PSP, même si
+   évidemment le catalogue des jeux spécifiques est incomparable.
+
+   Si je décidais de macheter une console portable aucun doute que l’Open
+   Pandora emporterai ma décision.
+
+   vorkosigan Octobre 5, 2008, 10:14 #6
+
+   /me bave …
+   Faut vraiment que je me coupe la barbe :slight_smile:
+
+   rolyat Octobre 6, 2008, 2:23 #7
+
+   Oui, si tu baves, il vaut mieux !
+
+   koubiak Octobre 6, 2008, 11:24 #8
+
+   quid de l autonomie?
+
+   Koubiak
+
+   olivarius Octobre 6, 2008, 12:31 #9
+
+   [quote=“koubiak, post:8, topic: 48341”]quid de l autonomie?
+
+   Koubiak[/quote]
+
+     Around 10+ Hours battery life
+
+   Sherlock51 Octobre 6, 2008, 12:40 #10
+
+   Ca ressemble franchement plus à un mini PC (type EEE) qu’à une console
+   de jeux portable. En tout cas la prise en main façon “manette de jeu” a
+   l’air bien bien bizarre (oserais-je dire "pas confortable pour un clou
+   ? . ah ben oui je l’ai dit).
+
+   cedric Octobre 7, 2008, 11:00 #11
+
+   Sherlock51:
+
+     Ca ressemble franchement plus à un mini PC (type EEE) qu’à une
+     console de jeux portable. En tout cas la prise en main façon
+     « manette de jeu » a l’air bien bien bizarre (oserais-je dire "pas
+     confortable pour un clou ? . ah ben oui je l’ai dit).
+
+   T’es sûr que t’as bien regardé ? :wink: La Pandora est un rien plus
+   grande qu’une DS Lite et les contrôles sont positionnés de façon très
+   similaire.
+
+   Pandora : 140 x 83 x 27 mm
+   DS Lite : 133 × 73.9 × 21,5 mm
+
+   Moe Octobre 7, 2008, 12:35 #12
+
+   J’ai trouvé la DS assez inconfortable, à Mario Kart (en position
+   normale) ou sur Brain Training (en position « livre »), la DS est trop
+   petite et trop fine pour moi. Si la Open Pandora a les mêmes
+   dimensions, elle aura le même défaut. De toute façon, je ne comptais
+   pas acheter une console qui n’aura sûrement pas de jeux en dehors des
+   jeux émulés, comme la GP32. En fait, je crois qu’on ne devrait même pas
+   l’appeler « console » mais plutôt « outil portatif multi-fonction
+   permettant de jouer à des jeux émulés ». :slight_smile:
+
+   Sherlock51 Octobre 7, 2008, 2:06 #13
+
+   [quote=« cedric, post:11, topic: 48341 »]T’es sûr que t’as bien regardé
+   ? :wink: La Pandora est un rien plus grande qu’une DS Lite et les
+   contrôles sont positionnés de façon très similaire.
+
+   Pandora : 140 x 83 x 27 mm
+   DS Lite : 133 × 73.9 × 21,5 mm[/quote]
+
+   Oui oui j’ai bien regardé. Et les mesures que tu donnes me confortent
+   dans mon impression (qui n’est effectivement donc qu’une impression) :
+   Quand tu joues à la DS, tu amènes ton pouce légèrement sur le dessus
+   pour attendre la croix directionnelle et les boutons. Dans le cas de la
+   Pandora, tu mets juste les doigts sur le clavier. Qui plus est, si tu
+   as des mains de taille normal, la largeur (83mm) m’a l’air bien grande
+   pour ne pas avoir l’arrête inférieure qui t’oblige a étendre plus la
+   main que de raison (sachant qu’elle est également plus épaisse).
+
+   Mais encore une fois ce n’est qu’une impression que ne demande qu’à
+   être infirmée par une prise en main de l’engin soviétique.
+
+   Spag Octobre 8, 2008, 9:16 #14
+
+   Vivement qu’un petit étudiant ukrainien nous sorte un émulateur DS…
+   :slight_smile:
+
+   Rabban Octobre 8, 2008, 9:46 #15
+
+   avec un seul écran?
+
+   c’est sur que vu la résolution on pourra toujours mettre les deux
+   affichages l’un en dessous de l’autre en les basculant de 90°, mais
+   j’ai quand même un énorme doute sur la jouabilité
+
+   cedric Octobre 8, 2008, 10:15 #16
+
+   [quote=“Rabban, post:15, topic: 48341”]avec un seul écran?
+
+   c’est sur que vu la résolution on pourra toujours mettre les deux
+   affichages l’un en dessous de l’autre en les basculant de 90°, mais
+   j’ai quand même un énorme doute sur la jouabilité[/quote]
+
+   Vu la faible résolution de la ds (256x192 pixels, 3") on pourrait
+   afficher 2 écrans en hauteur sur la Pandora (800x480 pixels, 4.3"),
+   mais ça risque d’etre assez petit.
+
+   Rabban Octobre 8, 2008, 10:21 #17
+
+   ah, effectivement, je me suis planté dans mon souvenir de la résolution
+   de la ds. enfin ça ne change pas grand chose sur l’utilisabilité du
+   stylet (même si pour le coup, les jeux ne l’utilisant pas deviennent
+   carrément envisageables)
+
+   cedric Octobre 9, 2008, 7:36 #18
+
+   @Rabban: l’écran de la Pandora est tactile, donc pas de soucis de ce
+   côté là :slight_smile:
+
+   Rabban Octobre 9, 2008, 7:51 #19
+
+   je parlais au niveau du positionnement de la main pour tenir le stylet
+   sur l’écran, qui me parait bien moins naturel que sur l’ecran du bas de
+   la ds.
+
+   cedric Octobre 9, 2008, 11:00 #20
+
+   Une liste “semi-spéculative” des émulateurs est disponible :
+   http://www.gp32x.com/board/index.php?showt…=41897&st=0
+
+   page suivante →
+
+     * Accueil
+     * Catégories
+     * FAQ/Charte
+     * Conditions générales d'utilisation
+     * Politique de confidentialité
+
+   Optimisé par Discourse, le rendu est meilleur quand JavaScript est
+   activé.

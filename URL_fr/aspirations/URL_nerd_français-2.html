@@ -1,0 +1,1380 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <!-- App Indexing for Google Search -->
+        <link href="android-app://com.quoord.tapatalkpro.activity/tapatalk/www.brassageamateur.com/forum/?ttfid=51664&location=index&channel=google-indexing" rel="alternate" />
+        <link href="ios-app://307880732/tapatalk/www.brassageamateur.com/forum/?ttfid=51664&location=index&channel=google-indexing" rel="alternate" />
+        
+        <link href="./mobitap/smartbanner/manifest.json" rel="manifest">
+        
+        <meta name="apple-itunes-app" content="app-id=307880732, affiliate-data=at=10lR7C, app-argument=tapatalk://www.brassageamateur.com/forum/?ttfid=51664&location=index" />
+        
+<title>un Geek et Nerd, amateur de JDR, et maintenant brasseur - BrassageAmateur.com</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Flux - BrassageAmateur.com" href="/forum/app.php/feed?sid=ec554c188d07353e7b287d164b848f53">	<link rel="alternate" type="application/atom+xml" title="Flux - Nouveautés" href="/forum/app.php/feed/news?sid=ec554c188d07353e7b287d164b848f53">	<link rel="alternate" type="application/atom+xml" title="Flux - Tous les forums" href="/forum/app.php/feed/forums?sid=ec554c188d07353e7b287d164b848f53">			<link rel="alternate" type="application/atom+xml" title="Flux - Forum - Petits Nouveaux" href="/forum/app.php/feed/forum/29?sid=ec554c188d07353e7b287d164b848f53">	<link rel="alternate" type="application/atom+xml" title="Flux - Sujet - un Geek et Nerd, amateur de JDR, et maintenant brasseur" href="/forum/app.php/feed/topic/31089?sid=ec554c188d07353e7b287d164b848f53">	
+	<link rel="canonical" href="https://www.brassageamateur.com/forum/viewtopic.php?t=31089">
+
+<!--
+	phpBB style name: prosilver
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by:
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=122" rel="stylesheet">
+<link href="./styles/prosilver/theme/stylesheet.css?assets_version=122" rel="stylesheet">
+<link href="./styles/prosilver/theme/fr/stylesheet.css?assets_version=122" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver/theme/tweaks.css?assets_version=122" rel="stylesheet">
+<![endif]-->
+
+<script>
+let saveallbutton = true; 
+let windowposition = false; 
+let klarohiddenwindows = false;
+let tothecookiesettings = false;
+let windowfixinthemiddle = false;
+let klaronote = true;
+let showdeclinebutton = false;
+let htmlcodeprocessing = true; 
+let groupformation = true;
+let nameofcookie = "klaro";
+let klarodivcontainer = "klaro";
+let cookieruntime = "30";
+let cookiedomain = ".brassageamateur.com";
+let storageversion = "cookie";
+let google_webfont_switch = false;
+let google_adsense_switch = false;
+let google_maps_switch = false;
+let youtube_bbcode_switch = false; 
+let vimeo_bbcode_switch = false; 
+let spotify_bbcode_switch = false; 
+let google_translator_switch = false; 
+let google_analytics_no_tm_switch = false;
+let matomo_switch = false;
+let cookie_icon_selection = "FONTAWESOME_FOR_COOKIE";
+let new_line = "";
+let data_name_googleanalytics = "g-analytics";
+let data_name_matomo = "matomo";
+let data_name_googlewebfont = "googlewebfont";
+let data_name_googleadsense = "google_adsense";
+let data_name_googletranslate = "googletranslate";
+let data_name_googlemaps = "googlemaps";
+let klarostylecolor = "light";
+let klarostyleposition1 = "bottom";
+let klarostyleposition2 = "right";
+let klarostylewidth = "small";
+const all_accept = 'Accepter\u0020tout';
+const accept = 'Accepter';
+const accept_selected = 'Accepter\u0020la\u0020s\u00E9lection';
+const decline = 'Refuser';
+const save = 'Sauver';
+const close = 'Fermer';
+const powerd_by = 'R\u00E9alis\u00E9\u0020avec\u0020Klaro\u0020\u0021';
+const first_infos = 'Quelques\u0020r\u00E9glages\u0020sont\u0020n\u00E9cessaires\u0020pour\u0020pouvoir\u0020utiliser\u0020certaines\u0020fonctions.\u0020Cela\u0020contr\u00F4le\u0020si\u0020un\u0020service\u0020est\u0020autoris\u00E9\u0020\u00E0\u0020d\u00E9finir\u0020des\u0020cookies\u0020ou\u0020non.\u003Cbr\u003E\u003Cbr\u003ELes\u0020cookies\u0020sont\u0020d\u00E9finis\u0020pour\u0020les\u0020services\u0020suivants\u0020\u003A\u003Cbr\u003E\u003Cbr\u003E\u007Bpurposes\u007D.\u0020\u003Cbr\u003E\u003Cbr\u003ELes\u0020param\u00E8tres\u0020peuvent\u0020\u00EAtre\u0020modifi\u00E9s\u0020ult\u00E9rieurement\u0020\u00E0\u0020tout\u0020moment.\u003Cbr\u003E\u003Cbr\u003E';
+const the_cookie_settings = 'Vers\u0020les\u0020param\u00E8tres\u0020des\u0020cookies';
+const all_switch_explain = 'Avec\u0020ce\u0020commutateur,\u0020vous\u0020pouvez\u0020activer\u0020ou\u0020d\u00E9sactiver\u0020tous\u0020les\u0020services.';
+const all_switch = 'Activer\u0020ou\u0020d\u00E9sactiver\u0020tous\u0020les\u0020services';
+const optout_info = 'Ces\u0020services\u0020sont\u0020charg\u00E9s\u0020par\u0020d\u00E9faut\u0020\u0028mais\u0020vous\u0020pouvez\u0020les\u0020d\u00E9sactiver\u0029';
+const klaro_purpose = 'Objectif';
+const klaro_purposes = 'Objectifs';
+const allways_required_service = 'Ce\u0020service\u0020est\u0020toujours\u0020requis\u0020\u0021';
+const allways_required = '\u0028toujours\u0020obligatoire\u0029';
+const klaro_service = 'Service';
+const klaro_services = 'Services';
+const settings_for_cookie = '\u003Ci\u0020class\u003D\u0022opt\u002Din\u002Dcookie\u002Dicon\u0020cookie\u002Dbox\u002Dicon\u0022\u003E\u003C\/i\u003E\u0020Param\u00E8tres\u0020des\u0020cookies';
+const second_infos = 'Les\u0020param\u00E8tres\u0020des\u0020cookies\u0020d\u00E9finis\u0020sur\u0020ce\u0020forum.\u003Cbr\u003E\u003Cbr\u003E\u0020Pour\u0020des\u0020notes\u0020et\u0020informations\u0020g\u00E9n\u00E9rales,\u0020veuillez\u0020vous\u0020r\u00E9f\u00E9rer\u0020\u00E0\u0020notre\u0020\u003Ca\u0020href\u003D\u0022https\u003A\/\/forums.caforum.fr\/app.php\/privacy\u0022\u003E\u003Cstrong\u003EParam\u00E8tres\u0020de\u0020confidentialit\u00E9\u003C\/strong\u003E\u0020\u003C\/a\u003E\u0020respectivement\u0020\u003Ca\u0020href\u003D\u0022https\u003A\/\/forums.caforum.fr\/app.php\/cookie\u0022\u003E\u003Cstrong\u003EPolitique\u0020de\u0020cookie\u003C\/strong\u003E\u003C\/a\u003E.';
+const cookies_must_have = 'Ces\u0020cookies\u0020sont\u0020des\u0020valeurs\u0020pr\u00E9d\u00E9finies\u0020et\u0020doivent\u0020\u00EAtre\u0020accept\u00E9s\u0020car\u0020ils\u0020sont\u0020n\u00E9cessaires\u0020au\u0020fonctionnement\u0020du\u0020forum.';
+const technical_cookies = 'Cookies\u0020techniquement\u0020n\u00E9cessaires';
+const extern_cookies_explain = 'Des\u0020cookies\u0020peuvent\u0020\u00EAtre\u0020d\u00E9finis\u0020ici\u0020qui\u0020sont\u0020cr\u00E9\u00E9s\u0020par\u0020des\u0020m\u00E9dias\u0020externes\u0020tels\u0020que\u0020YouTube,\u0020Facebook,\u0020etc.';
+const extern_cookies = 'Support\u0020externe';
+const new_changes = 'Il\u0020y\u0020a\u0020eu\u0020des\u0020changements\u0020depuis\u0020votre\u0020derni\u00E8re\u0020visite,\u0020veuillez\u0020renouveler\u0020votre\u0020consentement.';
+const tools = 'Services';
+const tools_cookies = 'Des\u0020services\u0020tels\u0020que\u0020Google\u0020Translator\u0020ou\u0020Google\u0020Search\u0020sont\u0020disponibles\u0020ici';
+const another_ext = 'ANOTHER_EXT';
+const another_ext_explain = 'ANOTHER_EXT_EXPLAIN';
+const extra_services  = 'EXTRA_SERVICE';
+const extra_services_explain  = 'EXTRA_SERVICE_EXPLAIN';
+const load_external_content = 'Souhaitez\u002Dvous\u0020charger\u0020du\u0020contenu\u0020externe\u0020fourni\u0020par\u0020\u007Btitle\u007D\u0020\u003F';
+const allow_once = 'Autoriser\u0020une\u0020seule\u0020fois';
+const permit_permanently = 'Autoriser\u0020en\u0020permanence\u0020\u0028vous\u0020pouvez\u0020modifier\u0020les\u0020param\u00E8tres\u0020\u00E0\u0020tout\u0020moment\u0020\u0021\u0029';
+const cs_techcookie = 'CS_TECH_COOKIE';
+const ds_techcookie = 'DS_TECH_COOKIE';
+const cs_klarocookie = 'CS_KLARO_COOKIE';
+const ds_klarocookie = 'DS_KLARO_COOKIE';
+const cs_youtube = 'CS_YOUTUBE';
+const ds_youtube = 'DS_YOUTUBE';
+const cs_matomo = 'CS_MATOMO';
+const ds_matomo = 'MATOMO_DESCRIPTION';
+const matomo_url = '';
+const cs_vimeo = 'CS_VIMEO';
+const ds_vimeo = 'DS_VIMEO';
+const cs_spotify = 'CS_SPOTIFY';
+const ds_spotify = 'DS_SPOTIFY';
+const cs_google_translator = 'CS_GOOGLE_TRANSLATOR';
+const ds_google_translator = 'DS_GOOGLE_TRANSLATOR';
+const cs_google_analytics = 'CS_GOOGLE_ANALYTICS';
+const ds_google_analytics_no_tm = 'DS_GOOGLE_ANALYTICS_NO_TM';
+const google_analytics_id = '';
+const cs_google_webfont_switch = 'CS_GOOGLE_WEBFONT';
+const ds_google_webfont_switch = 'DS_GOOGLE_WEBFONT';
+const cs_google_adsense_switch = 'CS_GOOGLE_ADSENSE';
+const ds_google_adsense_switch = 'DS_GOOGLE_ADSENSE';
+const cs_google_maps_switch = 'CS_GOOGLE_MAPS';
+const ds_google_maps_switch = 'DS_GOOGLE_MAPS';
+</script>
+
+
+<link rel="stylesheet" href="https://www.brassageamateur.com/forum/ext/w3all/imageattachrotation/styles/prosilver/template/css/style.css">
+
+<link href="./ext/chris1278/cookie/styles/all/theme/cookie.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/chris1278/cookie/styles/all/theme/cookie_icon.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/chris1278/cookie/styles/all/theme/youtube_bbcode_switch_of.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/chris1278/cookie/styles/all/theme/vimeo_bbcode_switch_of.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/chris1278/cookie/styles/all/theme/spotify_bbcode_switch_of.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/hifikabin/birthdaylistontop/styles/all/theme/blot.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/hifikabin/quotethumbnails/styles/prosilver/theme/quotethumbnails.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/paybas/quickstyle/styles/all/theme/quickstyle.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/phpbb/pages/styles/prosilver/theme/pages_common.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/phpbbgallery/core/styles/prosilver/theme/gallery.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/phpbbgallery/core/styles/all/theme/default.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/skouat/ppde/styles/all/theme/donation.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/vse/abbc3/styles/all/theme/abbc3_common.min.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/chris1278/cookie/styles/all/theme/cookie_no_java.css?assets_version=122" rel="stylesheet" media="screen" />
+<link href="./ext/vse/lightbox/styles/all/template/lightbox/css/lightbox.min.css?assets_version=122" rel="stylesheet" media="screen" />
+
+
+<!--
+* Scripts can be entered here which should be executed relatively at the beginning of the page.
+-->
+
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic/ftopic31089-0.html ltr ">
+
+<noscript>
+<div id="wrap" class="wrap nojava rules">
+	<div class="inner">
+		NO_JAVA_SKRIPT_INFO
+	</div>
+</div>
+</noscript>
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div align="justify" class="responsive-hide"  style="margin-right:0px;"><b>Avertissement :</b> Ce site n'est pas un encouragement &agrave; la consommation d'alcool mais un forum de discussion sur la pratique du brassage amateur de la bi&egrave;re par des adultes, pour leur consommation personnelle et celle de leurs proches et ce sans qu'il en soit fait aucun commerce. Votre participation &agrave; ce forum ainsi que la consultation de son contenu sont soumises &agrave; votre acceptation des conditions g&eacute;n&eacute;rales telles que pr&eacute;sent&eacute;es dans la rubrique <a href=faq.php>FAQ</a>. En restant sur ce site, vous confirmez notamment avoir l'&acirc;ge l&eacute;gal pour consommer de la bi&egrave;re et surtout tenter de fabriquer de la bi&egrave;re pour votre consommation personnelle, et ce, en conformit&eacute; avec la l&eacute;gislation telle qu'&eacute;tablie dans le pays depuis lequel vous consultez ce site. Vous pouvez &agrave; tout moment quitter ce forum si vous ne souhaitez pas ou ne pouvez pas vous conformer &agrave; ces conditions, en cliquant sur le lien suivant : <a href=javascript:self.close();>quitter</a><br/><br/>
+	</div>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="./index.php?sid=ec554c188d07353e7b287d164b848f53" title="Accueil du forum">
+					<img src="/forum/images/brassageamateur_2.gif" alt="Brassage Amateur.com Index du Forum" vspace="0"/>
+				</a><br/>
+				<span class="responsive-show" style="display: none;">
+				<h1>BrassageAmateur.com</h1>
+				<p>Le forum du brasseur et amateur de bière !</p>
+				</span>
+				<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+			</div>
+
+									<div id="search-box" class="search-box search-header" role="search">
+				<form action="./search.php?sid=ec554c188d07353e7b287d164b848f53" method="get" id="search">
+				<fieldset>
+					<input name="keywords" id="keywords" type="search" maxlength="128" title="Rechercher par mots-clés" class="inputbox search tiny" size="20" value="" placeholder="Rechercher…" />
+					<button class="button button-search" type="submit" title="Rechercher">
+						<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+					</button>
+					<a href="./search.php?sid=ec554c188d07353e7b287d164b848f53" class="button button-search-end" title="Recherche avancée">
+						<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+					</a>
+					<input type="hidden" name="sid" value="ec554c188d07353e7b287d164b848f53" />
+
+				</fieldset>
+				</form>
+			</div>
+						
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Raccourcis</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./search.php?search_id=unanswered&amp;sid=ec554c188d07353e7b287d164b848f53" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Sujets sans réponse</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.php?search_id=active_topics&amp;sid=ec554c188d07353e7b287d164b848f53" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Sujets actifs</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.php?sid=ec554c188d07353e7b287d164b848f53" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Rechercher</span>
+								</a>
+							</li>
+					
+										<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+					<li data-skip-responsive="true">
+			<a href="/forum/app.php/help/faq?sid=ec554c188d07353e7b287d164b848f53" rel="help" title="Foire aux questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+								<li data-last-responsive="true">
+				<a href="/wiki" title="Le Wiki de BrassageAmateur.com" role="menuitem" >
+				<i class="icon fa-wikipedia-w fa-fw" aria-hidden="true"></i><span>iki</span>
+				</a>
+			</li>
+								<li data-last-responsive="true">
+				<a href="/forum/app.php/gallery" title="La galerie photo des membres du forum" role="menuitem" >
+				<i class="icon fa-camera fa-fw" aria-hidden="true"></i><span>Galerie</span>
+				</a>
+			</li>
+									
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;redirect=viewtopic.php%2Fftopic31089-0.html%3Fstart%3D0%26t%3D31089&amp;sid=ec554c188d07353e7b287d164b848f53" title="Connexion" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Connexion</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=ec554c188d07353e7b287d164b848f53" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Inscription</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="./index.php?sid=ec554c188d07353e7b287d164b848f53" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Accueil du forum</span></a><meta itemprop="position" content="1" /></span>
+
+											
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="29"><a itemprop="item" href="./viewforum.php?f=29&amp;sid=ec554c188d07353e7b287d164b848f53"><span itemprop="name">Petits Nouveaux</span></a><meta itemprop="position" content="2" /></span>
+							
+					</li>
+
+		
+					<li class="rightside responsive-search">
+				<a href="./search.php?sid=ec554c188d07353e7b287d164b848f53" title="Accéder aux paramètres avancés de la recherche" role="menuitem">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<h2 class="topic-title"><a href="./viewforum.php?f=29&amp;sid=ec554c188d07353e7b287d164b848f53">Petits Nouveaux</a> &rArr; <a href="./viewtopic.php?t=31089&amp;sid=ec554c188d07353e7b287d164b848f53">un Geek et Nerd, amateur de JDR, et maintenant brasseur</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+<div style="display: none !important;">Nouveau sur le forum ? Venez donc ici vous présenter <img class="smilies" src="./images/smilies/icon/smile.gif" width="15" height="17" alt=":)" title="Smile"><br /></div>
+
+	<div class="rules">
+		<div class="inner">
+
+					<strong>Règles du forum</strong><br />
+			Chers membres, merci de prendre connaissance et respecter les quelques règles de bon sens suivantes avant de poster votre message :<br>
+- Vous assurer que vous postez dans la bonne rubrique<br>
+- Vérifier qu'il n’existe pas déjà une réponse à votre question ou un sujet identique<br>
+- Prendre conscience que vos propos n’engagent que vous et que vous devrez en assumer la paternité<br>
+- Vérifier les sources des informations que vous diffusez, en vous assurant le cas échéant de respecter les droits d’auteur qui peuvent être liés aux informations, images ou documents cités<br>
+- Prendre soin de respecter vos interlocuteurs et bannir les insultes et autres propos diffamatoires ou dégradants<br>
+- Vous assurer de rester autant que faire se peut dans le sujet exposé<br>
+- Prendre le temps de vérifier l’orthographe et la grammaire de votre message<br>
+Merci par avance de votre contribution à préserver le bon esprit de ce forum.
+		
+		</div>
+	</div>
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;t=31089&amp;sid=ec554c188d07353e7b287d164b848f53" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?t=31089&amp;sid=ec554c188d07353e7b287d164b848f53&amp;view=print" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+									<li>
+		<a href="./viewtopic.php?t=31089&amp;sid=ec554c188d07353e7b287d164b848f53&amp;view=printall" title="Tout imprimer">
+			<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Tout imprimer</span>
+		</a>
+	</li>
+			</ul>
+		</div>
+	</div>
+	
+			<div class="search-box" role="search">
+			<form method="get" id="topic-search" action="./search.php?sid=ec554c188d07353e7b287d164b848f53">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Rechercher…" />
+				<button class="button button-search" type="submit" title="Rechercher">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+				</button>
+				<a href="./search.php?sid=ec554c188d07353e7b287d164b848f53" class="button button-search-end" title="Recherche avancée">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+				</a>
+				<input type="hidden" name="t" value="31089" />
+<input type="hidden" name="sf" value="msgonly" />
+<input type="hidden" name="sid" value="ec554c188d07353e7b287d164b848f53" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+			<div class="pagination">
+			12 messages
+							<ul>
+		<li class="active"><span>1</span></li>
+				<li><a class="button" href="./viewtopic.php?t=31089&amp;sid=ec554c188d07353e7b287d164b848f53&amp;start=10" role="button">2</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="./viewtopic.php?t=31089&amp;sid=ec554c188d07353e7b287d164b848f53&amp;start=10" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+		</div>
+
+
+
+
+			<div id="p376096" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile376096">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=17939&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Frenhil</a>							</dt>
+
+						<dd class="profile-rank">Ch'ti nouveau</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.php?author_id=17939&amp;sr=posts&amp;sid=ec554c188d07353e7b287d164b848f53">2</a></dd>		<dd class="profile-joined"><strong>Inscrit depuis :</strong> <span title="Inscription: 02 août 2017 13:22">5 ans 4 mois</span></dd>		
+		
+											<dd class="profile-custom-field profile-amateur_pro"><strong>Brasseur :</strong> Amateur</dd>
+							    <dd class="profile-posts" data-user-give-id="17939"></dd>
+    <dd class="profile-posts" data-user-receive-id="17939"></dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content376096">
+
+					<h3 class="first">
+						<a href="./viewtopic.php?p=376096&amp;sid=ec554c188d07353e7b287d164b848f53#p376096">un Geek et Nerd, amateur de JDR, et maintenant brasseur</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=376096&amp;sid=ec554c188d07353e7b287d164b848f53" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+															</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=376096&amp;sid=ec554c188d07353e7b287d164b848f53#p376096" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=17939&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Frenhil</a></strong> &raquo; </span><time datetime="2017-08-02T11:55:20+00:00">02 août 2017 13:55</time>
+			</p>
+			
+			
+			
+			<div class="content">Bonjour à tous<br>
+<br>
+Frenhil aka Arthur 30 ans,<br>
+Conseil en Propriété Industrielle, <br>
+Geek et Nerd, amateur de JDR, en particulier les nains, il est donc normale que je vienne chez vous...<br>
+<br>
+j'ai fait mon premier brassin à Brew Unique (rue des jeuneurs à Paris avec Ronan) samedi dernier...<br>
+j'ai beaucoup aimé d'autant plus que je suis de formation Biotechnologie et j'ai déjà fait du chouchen/hydromel dans le cadre de mes études. donc cela me rappel plein de souvenir d'étudiant...<br>
+*** je commence a être vieux et nostalgique....<br>
+<br>
+<br>
+Je compte produire en amateur par batch de 20L.<br>
+<br>
+le 4 septembre j'ai ma mise en bouteille... très impatient....<br>
+<br>
+pour mon premier brassin j'ai pu choisir entre une 30taine de recette, j'ai pris la HABANERO Ale produite en BIAB.<br>
+<br>
+à base de : <br>
+CaraPils<br>
+Mt Hood<br>
+et Habanero, un piment d'origine mexicain que l'on trouve aux Antilles pour les connaisseurs c'est les des piments les plus fort....</div>
+
+			
+			
+									
+						<div id='list_thanks376096'>
+</div>
+<div id='div_post_reput376096'>
+</div>
+			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p376099" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile376099">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=17884&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Tankriska</a>							</dt>
+
+						<dd class="profile-rank">Ch'ti nouveau</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.php?author_id=17884&amp;sr=posts&amp;sid=ec554c188d07353e7b287d164b848f53">21</a></dd>		<dd class="profile-joined"><strong>Inscrit depuis :</strong> <span title="Inscription: 20 juil. 2017 11:22">5 ans 4 mois</span></dd>		
+		
+											<dd class="profile-custom-field profile-amateur_pro"><strong>Brasseur :</strong> Amateur</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> quincié en beaujolais</dd>
+							    <dd class="profile-posts" data-user-give-id="17884"><strong>A remercié :</strong> <a href="/forum/app.php/thankslist/givens/17884/true?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">2 fois</a></dd>
+    <dd class="profile-posts" data-user-receive-id="17884"><strong>A été remercié :</strong> <a href="/forum/app.php/thankslist/givens/17884/false?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">1 fois</a></dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content376099">
+
+					<h3 >
+						<a href="./viewtopic.php?p=376099&amp;sid=ec554c188d07353e7b287d164b848f53#p376099">Re: un Geek et Nerd, amateur de JDR, et maintenant brasseur</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=376099&amp;sid=ec554c188d07353e7b287d164b848f53" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+															</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=376099&amp;sid=ec554c188d07353e7b287d164b848f53#p376099" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=17884&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Tankriska</a></strong> &raquo; </span><time datetime="2017-08-02T12:09:55+00:00">02 août 2017 14:09</time>
+			</p>
+			
+			
+			
+			<div class="content">Bienvenue,<br>
+<br>
+C'est marrant j'ai dans mon potager un pied de piments habanero ! je ne savait pas quoi en faire :p !</div>
+
+			
+			
+									
+						<div id='list_thanks376099'>
+</div>
+<div id='div_post_reput376099'>
+</div>
+			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p376103" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile376103">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=13316&amp;sid=ec554c188d07353e7b287d164b848f53" class="avatar"><img class="avatar" src="./download/file.php?avatar=13316_1589525767.jpg" width="90" height="86" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=13316&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Malibzh</a>							</dt>
+
+						<dd class="profile-rank">Maître Brasseur<br /><img src="./images/ranks/n5.gif" alt="Maître Brasseur" title="Maître Brasseur" /></dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.php?author_id=13316&amp;sr=posts&amp;sid=ec554c188d07353e7b287d164b848f53">2249</a></dd>		<dd class="profile-joined"><strong>Inscrit depuis :</strong> <span title="Inscription: 05 avr. 2015 17:11">7 ans 8 mois</span></dd>		
+		
+											<dd class="profile-custom-field profile-amateur_pro"><strong>Brasseur :</strong> Amateur</dd>
+																	<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Kemper / Quimper</dd>
+							    <dd class="profile-posts" data-user-give-id="13316"><strong>A remercié :</strong> <a href="/forum/app.php/thankslist/givens/13316/true?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">59 fois</a></dd>
+    <dd class="profile-posts" data-user-receive-id="13316"><strong>A été remercié :</strong> <a href="/forum/app.php/thankslist/givens/13316/false?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">109 fois</a></dd>
+
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Malibzh">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Malibzh</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="http://argak.unblog.fr/" title="Site internet" class="last-cell">
+										<span class="contact-icon phpbb_website-icon">Site internet</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content376103">
+
+					<h3 >
+						<a href="./viewtopic.php?p=376103&amp;sid=ec554c188d07353e7b287d164b848f53#p376103">Re: un Geek et Nerd, amateur de JDR, et maintenant brasseur</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=376103&amp;sid=ec554c188d07353e7b287d164b848f53" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+															</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=376103&amp;sid=ec554c188d07353e7b287d164b848f53#p376103" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=13316&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Malibzh</a></strong> &raquo; </span><time datetime="2017-08-02T12:30:07+00:00">02 août 2017 14:30</time>
+			</p>
+			
+			
+			
+			<div class="content">C'est quoi un nerd ? c'est quoi du JDR ? je ne capte rien...</div>
+
+			
+			
+									
+						<div id='list_thanks376103'>
+</div>
+<div id='div_post_reput376103'>
+</div>
+			<div id="sig376103" class="signature"><span style="font-size:85%;line-height:116%"><strong class="text-strong">En bouteille :</strong> #40 Cream ale Hallertau blanc #41 British Strong Ale #42 Triple Avoine #43 Maibock<br>
+<strong class="text-strong">En fermentation :</strong>#44 : Saison sarrasin/centennial (100% sans gluten)</span></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p376104" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile376104">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=13529&amp;sid=ec554c188d07353e7b287d164b848f53" class="avatar"><img class="avatar" src="./download/file.php?avatar=13529_1432894604.jpg" width="90" height="90" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=13529&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Ark</a>							</dt>
+
+						<dd class="profile-rank">Assistant<br /><img src="./images/ranks/n3.gif" alt="Assistant" title="Assistant" /></dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.php?author_id=13529&amp;sr=posts&amp;sid=ec554c188d07353e7b287d164b848f53">958</a></dd>		<dd class="profile-joined"><strong>Inscrit depuis :</strong> <span title="Inscription: 11 mai 2015 10:18">7 ans 7 mois</span></dd>		
+		
+											<dd class="profile-custom-field profile-equipement"><strong>Mon équipement :</strong> 2 cuves 100l, 1 cuve 50l, manifold, refroidisseurs à plaques.<br />seaux 30l, fût 50l, fûts 180l.</dd>
+												<dd class="profile-custom-field profile-amateur_pro"><strong>Brasseur :</strong> Amateur</dd>
+																	<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Sud Cantal</dd>
+							    <dd class="profile-posts" data-user-give-id="13529"><strong>A remercié :</strong> <a href="/forum/app.php/thankslist/givens/13529/true?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">70 fois</a></dd>
+    <dd class="profile-posts" data-user-receive-id="13529"><strong>A été remercié :</strong> <a href="/forum/app.php/thankslist/givens/13529/false?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">79 fois</a></dd>
+
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Ark">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Ark</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="http://www.arkalive.fr" title="Site internet" class="last-cell">
+										<span class="contact-icon phpbb_website-icon">Site internet</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content376104">
+
+					<h3 >
+						<a href="./viewtopic.php?p=376104&amp;sid=ec554c188d07353e7b287d164b848f53#p376104">Re: un Geek et Nerd, amateur de JDR, et maintenant brasseur</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=376104&amp;sid=ec554c188d07353e7b287d164b848f53" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+															</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=376104&amp;sid=ec554c188d07353e7b287d164b848f53#p376104" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=13529&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Ark</a></strong> &raquo; </span><time datetime="2017-08-02T12:32:37+00:00">02 août 2017 14:32</time>
+			</p>
+			
+			
+			
+			<div class="content">Tu te fais vieux Malibzh !<br>
+<br>
+Wikipédia :
+<blockquote class="uncited"><div>
+Un nerd est, dans le domaine des stéréotypes de la culture populaire, une personne solitaire, passionnée voire obnubilée par des sujets intellectuels abscons, peu attractifs, inapplicables ou fantasmatiques, et liés aux sciences (en général symboliques, comme les mathématiques, la physique ou la logique) et aux techniques - ou autres sujets inconnus aux yeux de tous.</div></blockquote>
+
+Et JDR c'est certainement Jeu De Rôle (RPG en anglais).<br>
+<br>
+Bienvenue à toi Frenhil <img class="smilies" src="./images/smilies/icon/wink.gif" width="15" height="17" alt=";)" title="Wink">.</div>
+
+			
+			
+									
+						<div id='list_thanks376104'>
+</div>
+<div id='div_post_reput376104'>
+</div>
+			<div id="sig376104" class="signature">-Bouteille : Plus rien !<br>
+-Fermentation : Rien du tout.<br>
+-Projet :  Irish Red, Porter.</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p376105" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile376105">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=4505&amp;sid=ec554c188d07353e7b287d164b848f53" class="avatar"><img class="avatar" src="./download/file.php?avatar=4505_1482928335.png" width="68" height="90" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=4505&amp;sid=ec554c188d07353e7b287d164b848f53" style="color: #FF9900;" class="username-coloured">Gamb</a>							</dt>
+
+						<dd class="profile-rank">Brasseur<br /><img src="./images/ranks/n4.gif" alt="Brasseur" title="Brasseur" /></dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.php?author_id=4505&amp;sr=posts&amp;sid=ec554c188d07353e7b287d164b848f53">1721</a></dd>		<dd class="profile-joined"><strong>Inscrit depuis :</strong> <span title="Inscription: 07 janv. 2011 18:00">11 ans 11 mois</span></dd>		
+		
+											<dd class="profile-custom-field profile-equipement"><strong>Mon équipement :</strong> Pico &quot;v2.1&quot; 80L max - 3 cuves, gaz, manifold et contre-courant :<br /><!-- m --><a class="postlink" href="http://gamb.fr/pico2.php">http://gamb.fr/pico2.php</a><!-- m --></dd>
+												<dd class="profile-custom-field profile-amateur_pro"><strong>Brasseur :</strong> Amateur</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Revel 31 (lorrain d'origine !)</dd>
+							    <dd class="profile-posts" data-user-give-id="4505"><strong>A remercié :</strong> <a href="/forum/app.php/thankslist/givens/4505/true?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">106 fois</a></dd>
+    <dd class="profile-posts" data-user-receive-id="4505"><strong>A été remercié :</strong> <a href="/forum/app.php/thankslist/givens/4505/false?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">118 fois</a></dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content376105">
+
+					<h3 >
+						<a href="./viewtopic.php?p=376105&amp;sid=ec554c188d07353e7b287d164b848f53#p376105">Re: un Geek et Nerd, amateur de JDR, et maintenant brasseur</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=376105&amp;sid=ec554c188d07353e7b287d164b848f53" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+															</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=376105&amp;sid=ec554c188d07353e7b287d164b848f53#p376105" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=4505&amp;sid=ec554c188d07353e7b287d164b848f53" style="color: #FF9900;" class="username-coloured">Gamb</a></strong> &raquo; </span><time datetime="2017-08-02T12:40:22+00:00">02 août 2017 14:40</time>
+			</p>
+			
+			
+			
+			<div class="content">Ah les nains, mon équipe préférée dans Blood Bowl  <img class="smilies" src="./images/smilies/icon/lol.gif" width="15" height="15" alt=":lol:" title="Laughing">  <img class="smilies" src="./images/smilies/icon/lol.gif" width="15" height="15" alt=":lol:" title="Laughing">  <img class="smilies" src="./images/smilies/icon/lol.gif" width="15" height="15" alt=":lol:" title="Laughing">  <img class="smilies" src="./images/smilies/icon/lol.gif" width="15" height="15" alt=":lol:" title="Laughing"> <br>
+<br>
+Bienvenu ici, tu verras c'est blindé de geek ici (mais aussi de décroissant anti-geek <img class="smilies" src="./images/smilies/icon/biggrin.gif" width="15" height="17" alt=":D" title="Very Happy">)<br>
+<br>
+A+</div>
+
+			
+			
+									
+						<div id='list_thanks376105'>
+</div>
+<div id='div_post_reput376105'>
+</div>
+			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p376107" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile376107">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=13316&amp;sid=ec554c188d07353e7b287d164b848f53" class="avatar"><img class="avatar" src="./download/file.php?avatar=13316_1589525767.jpg" width="90" height="86" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=13316&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Malibzh</a>							</dt>
+
+						<dd class="profile-rank">Maître Brasseur<br /><img src="./images/ranks/n5.gif" alt="Maître Brasseur" title="Maître Brasseur" /></dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.php?author_id=13316&amp;sr=posts&amp;sid=ec554c188d07353e7b287d164b848f53">2249</a></dd>		<dd class="profile-joined"><strong>Inscrit depuis :</strong> <span title="Inscription: 05 avr. 2015 17:11">7 ans 8 mois</span></dd>		
+		
+											<dd class="profile-custom-field profile-amateur_pro"><strong>Brasseur :</strong> Amateur</dd>
+																	<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Kemper / Quimper</dd>
+							    <dd class="profile-posts" data-user-give-id="13316"><strong>A remercié :</strong> <a href="/forum/app.php/thankslist/givens/13316/true?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">59 fois</a></dd>
+    <dd class="profile-posts" data-user-receive-id="13316"><strong>A été remercié :</strong> <a href="/forum/app.php/thankslist/givens/13316/false?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">109 fois</a></dd>
+
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Malibzh">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Malibzh</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="http://argak.unblog.fr/" title="Site internet" class="last-cell">
+										<span class="contact-icon phpbb_website-icon">Site internet</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content376107">
+
+					<h3 >
+						<a href="./viewtopic.php?p=376107&amp;sid=ec554c188d07353e7b287d164b848f53#p376107">Re: un Geek et Nerd, amateur de JDR, et maintenant brasseur</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=376107&amp;sid=ec554c188d07353e7b287d164b848f53" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+															</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=376107&amp;sid=ec554c188d07353e7b287d164b848f53#p376107" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=13316&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Malibzh</a></strong> &raquo; </span><time datetime="2017-08-02T12:49:06+00:00">02 août 2017 14:49</time>
+			</p>
+			
+			
+			
+			<div class="content">RPG ca me parle mieux. Purée, je vieillis.<br>
+<br>
+		Je vais passer de jeune con à vieux con.</div>
+
+			
+			
+									
+						<div id='list_thanks376107'>
+</div>
+<div id='div_post_reput376107'>
+</div>
+			<div id="sig376107" class="signature"><span style="font-size:85%;line-height:116%"><strong class="text-strong">En bouteille :</strong> #40 Cream ale Hallertau blanc #41 British Strong Ale #42 Triple Avoine #43 Maibock<br>
+<strong class="text-strong">En fermentation :</strong>#44 : Saison sarrasin/centennial (100% sans gluten)</span></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p376114" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile376114">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=17939&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Frenhil</a>							</dt>
+
+						<dd class="profile-rank">Ch'ti nouveau</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.php?author_id=17939&amp;sr=posts&amp;sid=ec554c188d07353e7b287d164b848f53">2</a></dd>		<dd class="profile-joined"><strong>Inscrit depuis :</strong> <span title="Inscription: 02 août 2017 13:22">5 ans 4 mois</span></dd>		
+		
+											<dd class="profile-custom-field profile-amateur_pro"><strong>Brasseur :</strong> Amateur</dd>
+							    <dd class="profile-posts" data-user-give-id="17939"></dd>
+    <dd class="profile-posts" data-user-receive-id="17939"></dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content376114">
+
+					<h3 >
+						<a href="./viewtopic.php?p=376114&amp;sid=ec554c188d07353e7b287d164b848f53#p376114">Re: un Geek et Nerd, amateur de JDR, et maintenant brasseur</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=376114&amp;sid=ec554c188d07353e7b287d164b848f53" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+															</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=376114&amp;sid=ec554c188d07353e7b287d164b848f53#p376114" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=17939&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Frenhil</a></strong> &raquo; </span><time datetime="2017-08-02T13:56:44+00:00">02 août 2017 15:56</time>
+			</p>
+			
+			
+			
+			<div class="content">Effectivement JDR = RPG, <br>
+<br>
+Merci à tous pour votre accueil</div>
+
+			
+			
+									
+						<div id='list_thanks376114'>
+</div>
+<div id='div_post_reput376114'>
+</div>
+			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p376116" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile376116">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=16190&amp;sid=ec554c188d07353e7b287d164b848f53" class="avatar"><img class="avatar" src="./images/avatars/gallery/nature/jungle.jpg" width="117" height="79" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=16190&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Den's Rotten</a>							</dt>
+
+						<dd class="profile-rank">Ch'ti nouveau</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.php?author_id=16190&amp;sr=posts&amp;sid=ec554c188d07353e7b287d164b848f53">241</a></dd>		<dd class="profile-joined"><strong>Inscrit depuis :</strong> <span title="Inscription: 10 oct. 2016 16:10">6 ans 2 mois</span></dd>		
+		
+											<dd class="profile-custom-field profile-equipement"><strong>Mon équipement :</strong> cuves Polsinelli 50lt, ébul 75lt<br />échangeur 60 plaques<br />fermenteurs de toutes sortes de 15 à 75 lt</dd>
+												<dd class="profile-custom-field profile-amateur_pro"><strong>Brasseur :</strong> Amateur</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Vallée de Joux</dd>
+							    <dd class="profile-posts" data-user-give-id="16190"><strong>A remercié :</strong> <a href="/forum/app.php/thankslist/givens/16190/true?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">63 fois</a></dd>
+    <dd class="profile-posts" data-user-receive-id="16190"><strong>A été remercié :</strong> <a href="/forum/app.php/thankslist/givens/16190/false?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">26 fois</a></dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content376116">
+
+					<h3 >
+						<a href="./viewtopic.php?p=376116&amp;sid=ec554c188d07353e7b287d164b848f53#p376116">Re: un Geek et Nerd, amateur de JDR, et maintenant brasseur</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=376116&amp;sid=ec554c188d07353e7b287d164b848f53" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+															</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=376116&amp;sid=ec554c188d07353e7b287d164b848f53#p376116" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=16190&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Den's Rotten</a></strong> &raquo; </span><time datetime="2017-08-02T14:09:23+00:00">02 août 2017 16:09</time>
+			</p>
+			
+			
+			
+			<div class="content">Salut Frenhil et sois le bienvenu !<br>
+<br>
+Pour ma par j'ai aussi toujours dis JDR et je suis un "vieux" con !</div>
+
+			
+			
+									
+						<div id='list_thanks376116'>
+</div>
+<div id='div_post_reput376116'>
+</div>
+			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p376135" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile376135">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=16206&amp;sid=ec554c188d07353e7b287d164b848f53" class="avatar"><img class="avatar" src="./download/file.php?avatar=16206_1506694160.jpg" width="90" height="83" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=16206&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Hyeronimus</a>							</dt>
+
+						<dd class="profile-rank">Apprenti<br /><img src="./images/ranks/n2.gif" alt="Apprenti" title="Apprenti" /></dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.php?author_id=16206&amp;sr=posts&amp;sid=ec554c188d07353e7b287d164b848f53">516</a></dd>		<dd class="profile-joined"><strong>Inscrit depuis :</strong> <span title="Inscription: 12 oct. 2016 19:41">6 ans 2 mois</span></dd>		
+		
+											<dd class="profile-custom-field profile-equipement"><strong>Mon équipement :</strong> BM,  seaux brou brou, bricole et ficelle...</dd>
+												<dd class="profile-custom-field profile-amateur_pro"><strong>Brasseur :</strong> Amateur</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Alsace</dd>
+							    <dd class="profile-posts" data-user-give-id="16206"><strong>A remercié :</strong> <a href="/forum/app.php/thankslist/givens/16206/true?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">25 fois</a></dd>
+    <dd class="profile-posts" data-user-receive-id="16206"><strong>A été remercié :</strong> <a href="/forum/app.php/thankslist/givens/16206/false?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">25 fois</a></dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content376135">
+
+					<h3 >
+						<a href="./viewtopic.php?p=376135&amp;sid=ec554c188d07353e7b287d164b848f53#p376135">Re: un Geek et Nerd, amateur de JDR, et maintenant brasseur</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=376135&amp;sid=ec554c188d07353e7b287d164b848f53" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+															</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=376135&amp;sid=ec554c188d07353e7b287d164b848f53#p376135" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=16206&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">Hyeronimus</a></strong> &raquo; </span><time datetime="2017-08-02T16:11:49+00:00">02 août 2017 18:11</time>
+			</p>
+			
+			
+			
+			<div class="content">Hello, la bienvenue à toi  <img class="smilies" src="./images/smilies/icon_cool.gif" width="15" height="15" alt="8)" title="Cool"> <br>
+<br>
+Doit y avoir quelques adeptes de JDR  <img class="smilies" src="./images/smilies/alien.gif" width="15" height="20" alt=":alien:" title="alien"> <br>
+Ca va faire 25 ans pour moi (de JDR of course)</div>
+
+			
+			
+									
+						<div id='list_thanks376135'>
+</div>
+<div id='div_post_reput376135'>
+</div>
+			<div id="sig376135" class="signature">Mousse qui veut !<br>
+</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p376136" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile376136">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=17560&amp;sid=ec554c188d07353e7b287d164b848f53" class="avatar"><img class="avatar" src="./images/avatars/gallery/beer/beer.jpg" width="105" height="72" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=17560&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">DavidPAPA</a>							</dt>
+
+						<dd class="profile-rank">Ch'ti nouveau</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.php?author_id=17560&amp;sr=posts&amp;sid=ec554c188d07353e7b287d164b848f53">230</a></dd>		<dd class="profile-joined"><strong>Inscrit depuis :</strong> <span title="Inscription: 17 mai 2017 13:25">5 ans 7 mois</span></dd>		
+		
+											<dd class="profile-custom-field profile-equipement"><strong>Mon équipement :</strong> Marmite allu  25L<br />Kit brassage , sceau PEHD ...</dd>
+												<dd class="profile-custom-field profile-amateur_pro"><strong>Brasseur :</strong> Amateur</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Alentour de Bordeaux st loubes</dd>
+							    <dd class="profile-posts" data-user-give-id="17560"><strong>A remercié :</strong> <a href="/forum/app.php/thankslist/givens/17560/true?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">11 fois</a></dd>
+    <dd class="profile-posts" data-user-receive-id="17560"><strong>A été remercié :</strong> <a href="/forum/app.php/thankslist/givens/17560/false?tslash=&amp;sid=ec554c188d07353e7b287d164b848f53">8 fois</a></dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content376136">
+
+					<h3 >
+						<a href="./viewtopic.php?p=376136&amp;sid=ec554c188d07353e7b287d164b848f53#p376136">Re: un Geek et Nerd, amateur de JDR, et maintenant brasseur</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=376136&amp;sid=ec554c188d07353e7b287d164b848f53" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+															</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=376136&amp;sid=ec554c188d07353e7b287d164b848f53#p376136" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=17560&amp;sid=ec554c188d07353e7b287d164b848f53" class="username">DavidPAPA</a></strong> &raquo; </span><time datetime="2017-08-02T16:23:53+00:00">02 août 2017 18:23</time>
+			</p>
+			
+			
+			
+			<div class="content">Bienvenue ,<br>
+<br>
+Et vive le JDR sous toute ces formes , j'ai commencer sur papier , ben oui y'avait pas de PC ou console capable de cela , c'était ping pong ou tenis ^^<br>
+Warhammer , appel de chtullu et JDR grandeur nature...<br>
+Vive les quadra !</div>
+
+			
+			
+									
+						<div id='list_thanks376136'>
+</div>
+<div id='div_post_reput376136'>
+</div>
+			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;t=31089&amp;sid=ec554c188d07353e7b287d164b848f53" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?t=31089&amp;sid=ec554c188d07353e7b287d164b848f53&amp;view=print" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+									<li>
+		<a href="./viewtopic.php?t=31089&amp;sid=ec554c188d07353e7b287d164b848f53&amp;view=printall" title="Tout imprimer">
+			<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Tout imprimer</span>
+		</a>
+	</li>
+			</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?t=31089&amp;sid=ec554c188d07353e7b287d164b848f53">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Options d’affichage et de tri" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Afficher : <select name="st" id="st"><option value="0" selected="selected">Tous les messages</option><option value="1">1 jour</option><option value="7">7 jours</option><option value="14">2 semaines</option><option value="30">1 mois</option><option value="90">3 mois</option><option value="180">6 mois</option><option value="365">1 an</option></select></label>
+								<label>Trier par : <select name="sk" id="sk"><option value="a">Auteur</option><option value="t" selected="selected">Date du message</option><option value="s">Sujet</option></select></label>
+				<label>Ordre : <select name="sd" id="sd"><option value="a" selected="selected">Croissant</option><option value="d">Décroissant</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Aller" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			12 messages
+							<ul>
+		<li class="active"><span>1</span></li>
+				<li><a class="button" href="./viewtopic.php?t=31089&amp;sid=ec554c188d07353e7b287d164b848f53&amp;start=10" role="button">2</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="./viewtopic.php?t=31089&amp;sid=ec554c188d07353e7b287d164b848f53&amp;start=10" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="./viewforum.php?f=29&amp;sid=ec554c188d07353e7b287d164b848f53" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Revenir à « Petits Nouveaux »</span>
+		</a>
+	</p>
+	
+		<br /><br />
+	</div>
+
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="./index.php?sid=ec554c188d07353e7b287d164b848f53" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Accueil du forum</span></a></span>					</li>
+		
+				<li class="rightside">Fuseau horaire sur <span title="Europe/Paris">UTC+01:00</span></li>
+			<li class="rightside">
+		<a  href="#" data-ajax="true" data-refresh="true" role="menuitem" onclick="return klaro.show();">
+		<i class="opt-in-cookie-icon cok_nav"></i><span>Paramètres des cookies</span>
+		</a>
+	</li>
+
+
+
+	
+
+			
+					
+					<li class="rightside">
+				<a href="./ucp.php?mode=delete_cookies&amp;sid=ec554c188d07353e7b287d164b848f53" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Supprimer les cookies</span>
+				</a>
+			</li>
+																<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=contactadmin&amp;sid=ec554c188d07353e7b287d164b848f53" role="menuitem">
+					<i class="icon fa-envelope fa-fw" aria-hidden="true"></i><span>Nous contacter</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Développé par <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+				<p class="footer-row">
+			<span class="footer-copyright"><a href="https://www.phpbb.com/customise/db/translation/french/">Traduction française officielle</a> &copy; <a href="https://www.qiaeru.com">Qiaeru</a></span>
+		</p>
+						<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=ec554c188d07353e7b287d164b848f53" title="Confidentialité" role="menuitem">
+				<span class="footer-link-text">Confidentialité</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=ec554c188d07353e7b287d164b848f53" title="Conditions" role="menuitem">
+				<span class="footer-link-text">Conditions</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="Erreur AJAX" data-ajax-error-text="Une erreur est survenue lors du traitement de votre requête." data-ajax-error-text-abort="La requête a été interrompue par l’utilisateur." data-ajax-error-text-timeout="Votre requête a expiré prématurément. Veuillez réessayer." data-ajax-error-text-parsererror="Une erreur est survenue lors du traitement de votre requête et le serveur a renvoyé une réponse invalide.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Erreur" data-l-timeout-processing-req="Le délai a été dépassé.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="./assets/javascript/jquery-3.6.0.min.js?assets_version=122"></script>
+<script src="./assets/javascript/core.js?assets_version=122"></script>
+
+
+<!--
+* Scripts can be entered here which should be executed relatively at the ending of the page.
+-->
+
+<!--// Let's destroy all gallery stuff -->
+<script>
+	(function($) {  // Avoid conflicts with other libraries
+		$('#pf_gallery_palbum').prop('disabled', true);
+	})(jQuery); // Avoid conflicts with other libraries
+</script><script>
+(function($) {  // Avoid conflicts with other libraries
+
+'use strict';
+
+	phpbb.addAjaxCallback('reporttosfs', function(data) {
+		if (data.postid !== "undefined") {
+			$('#sfs' + data.postid).hide();
+			phpbb.closeDarkenWrapper(5000);
+		}
+	});
+
+})(jQuery);
+</script>											<script>
+		var vseLightbox = {};
+		vseLightbox.resizeHeight = 0;
+		vseLightbox.resizeWidth = 0;
+		vseLightbox.lightboxGal = 2;
+		vseLightbox.lightboxSig = 0;
+		vseLightbox.imageTitles = 1;
+		vseLightbox.lightboxAll = 1;
+		vseLightbox.downloadFile = 'download/file.php';
+	</script>
+
+<script src="./ext/chris1278/cookie/styles/all/template/thirdparty/config.js?assets_version=122"></script>
+<script src="./ext/chris1278/cookie/styles/all/template/thirdparty/klaro.js?assets_version=122"></script>
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=122"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=122"></script>
+<script src="./ext/vse/abbc3/styles/all/template/js/abbc3.min.js?assets_version=122"></script>
+<script src="./ext/vse/lightbox/styles/all/template/js/resizer.js?assets_version=122"></script>
+<script src="./ext/vse/lightbox/styles/all/template/lightbox/js/lightbox.min.js?assets_version=122"></script>
+
+
+<script>
+	lightbox.option({
+		'albumLabel': 'Image\u0020\u00251\u0020sur\u0020\u00252'
+	});
+</script>
+
+</body>
+</html>
