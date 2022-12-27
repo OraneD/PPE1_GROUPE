@@ -1,0 +1,101 @@
+html, body {
+	background-image: url("https://wallpapercave.com/wp/wp4820378.jpg");
+}
+
+body {margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+}
+   
+nav {
+	width:100%;
+	margin : 0 auto;
+	background-color: hsl(0, 0%, 4%);
+	position: sticky;
+	top: 0px;
+    position: relative;
+	z-index:10;
+}
+
+nav ul{
+	list-style-type: none;
+}
+
+nav ul li {
+    float: left;
+    width: 16.5%;
+    text-align: center;
+position: relative;
+}
+nav ul::after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+nav a{
+    display: block;
+    text-decoration: none;
+border-bottom: 2px solid
+transparent;
+padding: 10px 0px;
+color:hsl(171, 100%, 96%);
+}   
+
+
+nav a:hover{
+	color: orange;
+	border-bottom: 2px solid gold;
+	font-size: 1.4em;
+
+}
+
+nav a { 
+	font-size: 1rem;
+
+}
+
+.sous{
+	display: none;
+	box-shadow: 0px 1px 2px #CCC;
+	background-color: black;
+	position: absolute;
+	width: 100%;
+	z-index: 1000;
+}
+
+nav > ul li:hover .sous{
+	display: block;
+}
+
+.sous li{
+	float: none;
+	width: 100%;
+	text-align: left;
+}
+
+.sous a{
+	padding: 10px;
+	border-bottom: none;
+}
+
+.sous a:hover{
+	border-bottom: none;
+	background-color:
+	RGBa(200,200,200,0.1);
+}
+
+.deroulant > a::after{
+	content:" ▼";
+	font-size: 12px;
+}
+
+.column:hover{
+    cursor:pointer;
+  transform:scale(1.08);
+
+}
+
+.column {
+    transition:transform .4s;
+}
