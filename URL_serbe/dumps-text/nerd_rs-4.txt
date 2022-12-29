@@ -1,0 +1,458 @@
+   JMU Radio-televizija Vojvodine  / četvrtak 29. decembar 2022. 11.16
+   Prijavi me na imejl vesti
+     * Radio 1
+     * Radio 2
+     * Radio 3
+     * Oradio
+     * TV 1
+     * TV 2
+     * Odloženo gledanje
+     * Odloženo slušanje
+     * Program uživo
+
+   Ћир| Lat| Hu| Ro| Rsn| Sk| Rom| Hr| Eng
+   RTV logo
+     * Vesti
+          + Sve vesti
+          + Vojvodina
+               o Srem
+               o Banat
+               o Bačka
+               o Novi Sad
+          + Politika
+               o Stranačka hronika
+          + Koronavirus
+          + Društvo
+          + Ekonomija
+               o Aktuelno
+               o Globus
+               o Balkan
+               o Finansije
+               o Poljoprivreda
+          + Hronika
+          + Svet
+          + Evropa
+          + Region
+     * Ekonomija
+          + Aktuelno
+          + Globus
+          + Balkan
+          + Finansije
+          + Poljoprivreda
+     * Sport
+          + Fudbal
+               o Superliga
+               o Prva liga Srbije
+               o Srpska liga Vojvodina
+               o Liga Šampiona
+               o Liga Evrope
+               o Lige petice
+               o Reprezentacija
+          + Košarka
+               o ABA Liga
+               o Košarkaška liga Srbije
+               o NBA Liga
+               o Evroliga
+               o Evrokup
+               o Reprezentacija
+          + Ekipni
+               o Rukomet
+               o Odbojka
+               o Vaterpolo
+               o Ostali ekipni sportovi
+          + Individualni
+          + Auto moto
+               o Formula 1
+               o Automobilizam
+               o Moto
+          + Tenis
+          + Sportska Vojvodina
+     * Kultura
+          + Muzika
+          + Film
+          + Pozorište
+          + Književnost
+          + Izložbe
+     * Život
+          + Ženski kutak
+               o Fitnes
+               o Moda
+               o Šminka
+               o Ona & on
+          + Porodica
+               o Kuvajte sa RTV
+               o Putovanja
+               o Dečije ćoše
+               o Dom
+               o Kućni ljubimac
+          + Radionica
+          + Magazin
+          + Nauka i tehnologija
+          + Zdravlje
+          + Zanimljivost
+     * Mladi
+          + Aktuelno
+          + Konkursi
+               o Obuke i treninzi
+               o Projekti
+               o Stipendije
+               o Ostali konkursi
+          + Zapošljavanje
+               o Novosti o zapošljavanju
+               o Berza poslova
+               o Studentske zadruge
+          + Obrazovanje
+               o Škole
+               o Fakulteti
+               o Neformalno obrazovanje
+               o Adresar
+          + Gde otići?
+               o Dešavanja
+               o Mobilnost
+          + Aktivizam
+               o Udruženja mladih
+               o Postignuća
+               o Omladinska politika
+          + Saznajte
+               o Moja prava
+               o Internet bezbednost
+     * Servisi
+          + Blog
+          + E-mail vesti
+          + WAP
+          + RSS
+          + ČITAJ MI!
+          + Podcast
+     * RTV
+          + Upravni odbor
+          + Programski savet
+          + Organizacija
+          + Poslovanje
+          + Konkursi
+          + Javne nabavke
+          + Stanje ljudskih resursa
+          + Informator o radu
+          + Taksa
+          + Slavuj Hadžić - nagrada
+          + Logotip
+
+   Budimo humani Njima se dičimo Pretraga
+     * Kategorije
+          + Vesti
+               o Sve vesti
+               o Vojvodina
+                    # Srem
+                    # Banat
+                    # Bačka
+                    # Novi Sad
+               o Politika
+                    # Stranačka hronika
+               o Koronavirus
+               o Društvo
+               o Ekonomija
+                    # Aktuelno
+                    # Globus
+                    # Balkan
+                    # Finansije
+                    # Poljoprivreda
+               o Hronika
+               o Svet
+               o Evropa
+               o Region
+          + Ekonomija
+               o Aktuelno
+               o Globus
+               o Balkan
+               o Finansije
+               o Poljoprivreda
+          + Sport
+               o Fudbal
+                    # Superliga
+                    # Prva liga Srbije
+                    # Srpska liga Vojvodina
+                    # Liga Šampiona
+                    # Liga Evrope
+                    # Lige petice
+                    # Reprezentacija
+               o Košarka
+                    # ABA Liga
+                    # Košarkaška liga Srbije
+                    # NBA Liga
+                    # Evroliga
+                    # Evrokup
+                    # Reprezentacija
+               o Ekipni
+                    # Rukomet
+                    # Odbojka
+                    # Vaterpolo
+                    # Ostali ekipni sportovi
+               o Individualni
+               o Auto moto
+                    # Formula 1
+                    # Automobilizam
+                    # Moto
+               o Tenis
+               o Sportska Vojvodina
+          + Kultura
+               o Muzika
+               o Film
+               o Pozorište
+               o Književnost
+               o Izložbe
+          + Život
+               o Ženski kutak
+                    # Fitnes
+                    # Moda
+                    # Šminka
+                    # Ona & on
+               o Porodica
+                    # Kuvajte sa RTV
+                    # Putovanja
+                    # Dečije ćoše
+                    # Dom
+                    # Kućni ljubimac
+               o Radionica
+               o Magazin
+               o Nauka i tehnologija
+               o Zdravlje
+          + Mladi
+               o Aktuelno
+               o Konkursi
+                    # Obuke i treninzi
+                    # Projekti
+                    # Stipendije
+                    # Ostali konkursi
+               o Zapošljavanje
+                    # Novosti o zapošljavanju
+                    # Berza poslova
+                    # Studentske zadruge
+               o Obrazovanje
+                    # Škole
+                    # Fakulteti
+                    # Neformalno obrazovanje
+                    # Adresar
+               o Gde otići?
+                    # Dešavanja
+                    # Mobilnost
+               o Aktivizam
+                    # Udruženja mladih
+                    # Postignuća
+                    # Omladinska politika
+               o Saznajte
+                    # Moja prava
+                    # Internet bezbednost
+          + Servisi
+               o Blog
+               o E-mail vesti
+               o WAP
+               o RSS
+               o ČITAJ MI!
+               o Podcast
+          + RTV
+               o Upravni odbor
+               o Programski savet
+               o Organizacija
+               o Poslovanje
+               o Konkursi
+               o Javne nabavke
+               o Stanje ljudskih resursa
+               o Taksa
+               o Logotip
+     * Program
+          + Radio 1
+          + Radio 2
+          + Radio 3
+          + Oradio
+          + TV 1
+          + TV 2
+          + Program uživo
+          + Odloženo slušanje
+          + Odloženo gledanje
+     * Jezici
+          + Ћир
+          + Lat
+          + Hu
+          + Ro
+          + Rsn
+          + Sk
+          + Rom
+          + Eng
+
+     *
+
+     * Facebook
+     * Twitter
+     * YouTube
+     * Instagram
+     * LinkedIn
+     * RSS
+
+   Vest > Vojvodina | Novi Sad
+   03. novembar  2022. 20.02  | Izvor: RTV (Ana Bojović)
+
+Novosađanin Miloš Rakita dao drugačiju konotaciju pojmu "štreber"
+
+      Podeli
+      Tvituj
+      Pošalji
+   (BUTTON)
+   (BUTTON)    Čitaj mi
+   (BUTTON)
+   A
+
+   A
+
+   A
+   NOVI SAD -
+
+   Novosađanin Miloš Rakita još jedna je mlada osoba iz našeg grada, koja
+   je učešćem u televizijskom kvizu pokazala zavidno znanje, te srušila
+   predrasudu o mladima, kao površnim i nezainteresovanim za prave stvari.
+   Rekordom koji je Miloš postavio, ponose se mnogi, dok on ističe da mu
+   je drago što je pojmu "štreber" dao drugačiju konotaciju.
+   video icon
+
+   Za njega je televizijski kviz bio izazov - proveriti znanje i pred
+   kamerama, a da je postavio rekord saznao je dva dana nakon snimanja. Na
+   pitanje da li postoje suvišne informacije odgovara - kako kome.
+
+   kviz
+
+   "Ja u svemu vidim neku lepu informaciju ili podatak. Mi se ovde, ekipa
+   kviza, često srećemo na kafama i uvek su to neki razgovori koji su
+   prožeti tim temama. Meni je recimo u Poteri bilo pitanje iz koje zemlje
+   dolazi fond koji je preuzeo Njukasl Junajted i ja sam to znao jer ovde
+   smo toliko fudbalskih utakmica ispratili", izjavio je Miloš.
+
+   Iza svega je zapravo potreba za znanjem iz raznih oblasti, koja ga je
+   motivisala za upis Gimnazije "Svetozar Marković", kao i pobednika
+   slagalice, takođe Novosađanina, Branimira Arsića. Potencijal se dalje
+   samo razvijao.
+
+   "Izdvojio bih tu mog profesora matematike, Dejana Ćebića kog često
+   srećem ovde i profesoricu istorije Aleksandru Popović. To dvoje ljudi
+   su  lep primer kako ti ne moraš da se vežeš za materiju koju oni
+   predaju, ali dovoljno je da vidiš kako izgleda čovek koji je srećan
+   zbog posla kojim se bavi", kazao je on.
+
+   Ističe da su oni imali značajan uticaj, ali neosporno je on taj zbog
+   kojeg reč "štreber" danas i ne zvuči tako loše.
+
+   Danas je ja mislim to obrnulo uloge, a mislim i da je pop kultura
+   termin štrebera stavila u prvi plan, tako da to osim što nije sramota
+   danas je i poželjno.
+
+   „Potera“ je njegova dosadašnja kruna, ali ne i poslednja stanica. Sa
+   ekipom „Zanesenjak“ Miloš nastavlja sa kvizomanijom, pozivajući i druge
+   da se uključe, ističući da inteligencija ne uvek mora biti ključ
+   uspeha. Da biste proverili šta je vaš adut prijavite se za učešće na
+   nekom od pab kvizova.
+
+   IFRAME: //www.youtube.com/embed/l_8Av2qU75A?rel=0
+
+      Podeli
+      Tvituj
+      Pošalji
+   (BUTTON)
+      Štampaj
+
+   Ostavite komentar
+
+   (BUTTON) Najnovije (BUTTON) Najčitanije
+
+Fotoprognoza
+
+
+
+
+
+
+
+
+
+
+
+     * RTV
+     *
+          + Upravni odbor
+          + Programski savet
+          + Organizacija
+          + Poslovanje
+          + Konkursi
+          + Javne nabavke
+          + Stanje ljudskih resursa
+          + Informator o radu
+          + Taksa
+          + Slavuj Hadžić - nagrada
+          + Logotip
+          + Kontakt
+
+     * Radio
+     *
+          + Radio prvi program
+          + Radio drugi program
+          + Radio treći program
+          + Oradio
+
+     * Televizija
+     *
+          + TV prvi program
+          + TV drugi program
+
+     * Projekti
+     *
+          + TaktoNS
+
+     * Marketing
+     *
+          + Kontakti i cenovnik
+
+     * RTV
+
+     * Preuzmite
+     *
+          + Android app
+          + iOS app
+
+     * Partneri
+     *
+          + Partner Centra za kompetentnost za javne medijske servise na
+            zapadnom Balkanu
+          + dw logo
+
+     * Kontaktirajte nas
+     *
+          + Javna medijska ustanova
+            Radio-televizija Vojvodine
+            Kamenički put 45,
+            21132 Novi Sad - Petrovaradin,
+            Srbija
+          + Centrala: +381 21 210 14 20
+          + Imejl: pisarnicaradija@rtv.rs
+
+     * RTV
+
+     * RTV
+     * Radio
+     * Televizija
+     * Projekti
+     * Kontakt
+
+     * Preuzmite
+     *
+          + Android app
+          + ios app
+
+     * Pratite nas
+     *
+          + rss icon
+          + facebook icon
+          + twitter icon
+          + youtube icon
+          + instagram icon
+          + linkedin icon
+
+     * Uslovi preuzimanja
+     * Politika privatnosti
+
+   © 2006-2022. Radio-televizija Vojvodine - Sva prava zadržana

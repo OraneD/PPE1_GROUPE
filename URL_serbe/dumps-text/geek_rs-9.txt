@@ -1,0 +1,478 @@
+UTF-8 and Unicode
+
+   Unicode Transformation Format 8-bit is a variable-width encoding that
+   can represent every character in the Unicode character set. It was
+   designed for backward compatibility with ASCII and to avoid the
+   complications of endianness and byte order marks in UTF-16 and UTF-32.
+   ^[1]
+
+   UTF-8 encodes each Unicode character as a variable number of 1 to 4
+   octets, where the number of octets depends on the integer value
+   assigned to the Unicode character. It is an efficient encoding of
+   Unicode documents that use mostly US-ASCII characters because it
+   represents each character in the range U+0000 through U+007F as a
+   single octet.
+
+   UTF-8 is the default encoding for XML and since 2010 has become the
+   dominant character set on the Web.
+
+Standards
+
+     * RFC 3629: UTF-8, a transformation format of ISO 10646. November
+       2003.
+     * The Unicode Standard 5.0, November 2006. [purchase from Amazon.com]
+          + In particular, see the informal description of UTF-8 in
+            sections 2.5 and 2.6, pages 30-32, and a much more formal
+            definition in sections 3.9 and 3.10, pages 77-81.
+
+Articles and background reading
+
+     * UTF-8 and Unicode FAQ for Unix/Linux by Markus Kuhn
+     * Forms of Unicode, an excellent overview by Mark Davis
+     * Wikipedia UTF-8 contains a good discussion of why five- and
+       six-octet sequences are now illegal UTF-8
+     * Unicode Transformation Formats [czyborra.com]
+     * The Absolute Minimum Every Software Developer Absolutely,
+       Positively Must Know About Unicode and Character Sets (No
+       Excuses!), an amusing and informative article by Joel Spolsky
+
+Character Sets
+
+   The MIME character set attribute for UTF-8 is UTF-8. Character sets are
+   case-insensitive, so utf-8 is equally valid. [IANA Character Sets].
+
+   In a modern HTML 5 page, place this tag inside <head> ... </head>:
+<meta charset="UTF-8">
+
+   In an XML prolog, the encoding is typically specified as an attribute:
+<?xml version="1.0" encoding="UTF-8" ?>
+     __________________________________________________________________
+
+   Last modified: Wed Jan 5 12:57:21 PST 2022
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NM4J3XM
+
+     * Povratak na Kurir
+     *
+     *
+     *
+
+   ____________________
+   Stil Stil
+     * ____________________
+     * Najnovije vesti
+     * Naslovna
+     * Porodica
+          + Vaše dete & vi
+          + Enterijer
+     * Celebrities
+          + Šuška se
+          + Vip priča
+     * Lepi & Zdravi
+          + Nega
+          + Saveti stručnjaka
+          + Fitnes & Nutricija
+          + Medicina
+     * Lifestyle
+          + Zanimljivosti
+          + Ljubimci
+          + Običaji
+          + Horoskop
+          + Bašta
+     * Moda
+     * Trpeza
+          + Recepti
+     * Galerije
+     * Ljubav
+
+     * Marketing
+     * Impressum
+     * O nama
+     * Uslovi korišćenja
+     * Terms and Conditions / Privacy Policy
+
+   neverovatna žena!
+
+ONA JE DEFINISALA IZGLED DEVEDESETIH: 5 životnih lekcija legendarne šminkerke
+i poslovne žene - BOBI BRAUN! (FOTO)
+
+   Bjuti gikovi su pomalo poput onih kompjuterskih - i obožavamo ih - ali
+   ne morate biti opsednuti industrijom da biste znali njeno ime. Bobi
+   Braun je kult sama za sebe, žena pionir na toliko nivoa da je ponekad
+   teško setiti se šminke i načina na koji su žene izgledale pre nego što
+   se ona pojavila na sceni.
+   Nega
+   13.04.2022. - 21:02h Autor: Stil / buro247.rs
+     *
+     *
+     *
+     *
+     *
+     *
+
+   ONA JE DEFINISALA IZGLED DEVEDESETIH: 5 životnih lekcija legendarne
+   šminkerke i poslovne žene - BOBI BRAUN! (FOTO)
+   Bobi Braun, Foto: Profimedia
+
+   Profesionalna šminkerka koja je radila na nekima od vizuala koji su
+   obeležili devedesete i dvehiljadite, Bobi je bila (i ostala) inovatorka
+   i u poslu. Davne 1991, lansirala je liniju šminke zato što joj se
+   “smučio crveni ruž”. Četiri godine kasnije kompanija Estée Lauder je
+   otkupila brend ali je Bobi ostala na njegovom čelu. Šminka sa njenim
+   potpisom postala je sinonim za no makeup makeup, neutralne tonove i
+   antitezu supermodel izgledudevedesetih.
+
+   2016. godine, Bobi je izašla iz svoje kompanije ali je danas na čelu
+   novog brenda Jones Road, koji je - pogađate - ponovo napravila sama, a
+   bavi se i različitim drugim projektima poput svog Masterclassa i
+   konsaltinga.
+
+   Danas, sa svojih 65 godina, Bobi i dalje živi po svojoj meri i prava je
+   pravcata sila, istinska perrennialka i izvor inspiracije isto kao i
+   Džena Lions (sa kojom sarađuje). Oduševljeni smo njenom energijom i
+   filozofijom, evo 5 lekcija koje smo naučili od nje, a koje nemaju veze
+   sa time kako da postignete savršen nude lip.
+
+   IFRAME: https://assets.pinterest.com/ext/embed.html?id=3659243434436772
+
+   #1 RAVNOTEŽA NE POSTOJI
+
+   Bar ne kada su karijera i posao u pitanju. "Trudiš se najviše što možeš
+   ali ta stvar jednostavno ne postoji. Tajna uspeha jeste odrediti
+   prioritete," izjavila je. Bobbi tvrdi da nije propustila nijedan važan
+   trenutak u životu svoje dece i da je upravo želja da bude sa njima dok
+   rastu bio razlog što je svoj brend prodala Estée Lauder. "Nisam želela
+   da budem jedna od onih žena koje putuju po svetu ali koje su zaboravile
+   na svoju porodicu."
+
+   #2 GODINE SU SAMO BROJ
+
+   Jedan od razloga zbog kojih je njen ugovor o prodaji brenda imao
+   klauzulu o zabrani rada u istoj industriji u trajanju od 25 godina,
+   jeste Bobin (tadašnji) stav da je to toliko dug period da "sigurno neću
+   hteti da raim kad budem imala 60 godina". ovo se pokazalo potpuno
+   netačnim, a svoj novi brend Džouns Road Bjuti uspešno je lansirala ni
+   manje ni više nego u sred pandemije. "BIlo mi je potrebno da radim
+   nešto, inače bih dovela do ludila sve oko sebe."rekla je Bobi jednom
+   prilikom.
+
+   #3 BUDITE OTVORENI ZA SVE
+
+   "Budite spremni da iznenadite sve, a najviše i sebe same. Nakon što sam
+   napustila brend Bobi Braun, muž mi je rekao "hajde da otvorimo hotel".
+   Posle sam napravila Just Bobbi Shop za Lord & Taylor, pa velnes brend i
+   Just Bobbi sajt. Tek nakon toga sam dobila ideju da se vratim u
+   kozmetičku industriju."
+
+   IFRAME:
+   https://assets.pinterest.com/ext/embed.html?id=330522060161884229
+
+   #4 PROMENE SU DOBRA STVAR
+
+   Proces rada na Jones Road Beauty je za Bobi bio prepun novina pošto se
+   industrija poprilično promenila od dana kada je pokretala svoju prvu
+   liniju. Strategija launcha bila je usko povezana sa inetrakcijom sa
+   kupcima, a Bobi je ovo postigla snimanjem videa i komunikacijom preko
+   društvenih mreža, a velik broj žena uključivao se ne samo zbog nje, već
+   i zbo toga što je pričala o makeupu za žene koje imaju preko 40 i 50
+   godina. Zanimljivosti: na jedan od njenih prvih videa na temu, u
+   rekordnom roku stiglo je preko 2000 komentara.
+
+   #5 OSTANITE VERNI SEBI
+
+   Kada je počinjala, devedesetih, Bobi je potpuno odudarala od onoga što
+   je bio mejnstrim ali to je nije sprečilo da se drži onoga što je
+   osećala da je njena filozofija. "Bila je to era u kojoj je vladao moto
+   "više je više", Kevin Aukoin, očigledno konturisanje, tamne oči, usne
+   iscrtane olovkom. Ja nisam volela da prekrivam lica. Prva naslovan
+   strana na kojoj sam radila bila je zajedan italiijanski magazin.
+   Koristila sam samo bronzer na obrazima, očima i usnama i pomislila sam
+   kako je to nešto najlepše što sam ikada videla."
+
+NE PROPUSTITE
+
+PREŽIVELA SEKTU, OSEĆA SE NAJBOLJE KADA JE - SAMA: 10 vrednih životnih
+lekcija glumačke dive GLEN KLOUZ! (FOTO)
+
+NAJSMEŠNIJI CITATI IZ ALANA FORDA: Alane, bjež’mo, njih je dvojica, a mi smo
+sami! (FOTO)
+
+CEO SVOJ ŽIVOT ČEKALA JE NEŠTO, I UBILO JU JE KADA JE TO I PRONAŠLA: Ovo su
+najmoćniji književni citati svih vremena!
+
+VERUJEM DA MORATE DA SE BORITE ČAK I KADA NE ZNATE PROTIV ČEGA SE BORITE: 40
+neverovatnih citata Elizabet Tejlor! (FOTO)
+
+   Kliknite za sledeću vest
+   Pratite Stil magazin na facebook:
+   https://www.facebook.com/Stil.kurir.rs
+     *
+     *
+     *
+     *
+     *
+     *
+
+TAGOVI:
+
+   Bobi BraunšminkasaveticitatiŽivotne lekcijeuspehdevedesete
+
+   IFRAME: //www.adriamediacontent.com/code/stil/modul-hor.php
+
+   [176193.gif]
+     * Najnovije
+     * Komentari
+
+     * žene, obratite pažnju!
+
+PRODAVAČICA IZ PARFIMERIJE OTKRILA KAKO JE SHVATALA KADA MUŽEVI KUPUJU POKLON
+LJUBAVNICAMA: Jedan detalj je neverovatan
+       10:51
+     *
+
+BIVŠI MUŽ ANĐELKE PRPIĆ UTEHU PRONAŠAO U ZANOSNOJ CRNKI: Dariova devojka
+nimalo ne liči na popularnu glumicu
+       10:16
+     *
+
+SLAĐANA MILOŠEVIĆ TEŠKO POVREĐENA: Strahota šta je doživela, svaka žena mora
+da bude oprezna zbog ovoga
+       10:03
+     *
+
+OVA ŽENA TVRDI KAKO JE NA VENERI ŽIVELA 210 GODINA, A ONDA JE DOŠLA NA
+ZEMLJU: Njene reči izazvale su PAŽNJU I STRAH
+       09:59
+     *
+
+NAJVEĆI KARMIČKI GREH SVAKOG ZNAKA: To je ono što nas stalno sputava i vraća
+na početak - od njega se ne može pobeći
+       08:47
+
+   Sve najnovije vesti >
+     * Verovali ili ne
+
+ZA OVOM ŽENOM SU GLAVU GUBILI MUŠKARCI ŠIROM SVETA: Onda se ona udala za
+bogataša i prestala da se doteruje
+        73 73
+       23.12.
+     *
+
+ON JE SAV U SUVIM MIŠIĆIMA, A ONA PUNA CELULITA: Žena zgodnog glumca ima jak
+razlog zašto izgleda ovako
+         7   66 66
+       26.12.
+     *
+
+ODRASLA POD ŠATOROM U SELU PORED POŽAREVCA: Kako je Anđelka Prpić izgledala
+pre slave? Slike koje izazivaju nevericu
+        41 41
+       27.12.
+     * neverovatna ljubavna priča
+
+ŽENA KOJA JE ZBOG LJUBAVI PRISTALA NA SVE: Tretirao je kao psa,50 godina je
+držao zatvorenu,nije joj došao ni na sahranu
+        27 27
+       22.12.
+     * brak i porodica
+
+KAKO SAČUVATI BRAK I VEZU: Jedna stvar je ključna otkriva Otac Predrag
+Popović - "PORODICA SE NE NAPUŠTA!"
+        26 26
+       27.12.
+
+Najčitanije
+
+     * KOLIKO ČESTO SE TREBA TUŠIRATI -EKSPERT ŠOKIRAO JAVNOST: "Odbijam
+       poverovati, kako spavati s tolikom PRLJAVŠTINOM?"
+       Lepi & Zdravi
+
+KOLIKO ČESTO SE TREBA TUŠIRATI -EKSPERT ŠOKIRAO JAVNOST: "Odbijam poverovati,
+kako spavati s tolikom PRLJAVŠTINOM?"
+        9 9
+     * "PRILIKOM AUTOPSIJE DOKTORI MAHOM NALAZE OVO U ŽELUCU PACIJENATA -
+       NAPITAK KOJI SE NE VARI": Principi zdravlja dr Šenoa
+       Fitnes & Nutricija
+
+"PRILIKOM AUTOPSIJE DOKTORI MAHOM NALAZE OVO U ŽELUCU PACIJENATA - NAPITAK
+KOJI SE NE VARI": Principi zdravlja dr Šenoa
+        6 6
+     * "KAO SLAVSKI KOLAČ DA IMA NA GLAVI" Niko nije mogao da skine pogled
+       sa neobične frizure Milice Jokanović iz "Potere"
+       Lepi & Zdravi
+
+"KAO SLAVSKI KOLAČ DA IMA NA GLAVI" Niko nije mogao da skine pogled sa
+neobične frizure Milice Jokanović iz "Potere"
+        17 17
+     * NAJZGODNIJA ŽENA SVETA HIPNOTIŠE FIGUROM: Za izvajano telo i
+       savršene obline poštuje pravila koje svi mogu da primene
+       Fitnes & Nutricija
+
+NAJZGODNIJA ŽENA SVETA HIPNOTIŠE FIGUROM: Za izvajano telo i savršene obline
+poštuje pravila koje svi mogu da primene
+         7
+     * BOJA KOSE KOJA ĆE BITI NAJVEĆI TREND U 2023. GODINI: S razlogom je
+       zovu BOGATOM NIJANSOM, a lice čini mlađim i svežijim
+       Lepi & Zdravi
+
+BOJA KOSE KOJA ĆE BITI NAJVEĆI TREND U 2023. GODINI: S razlogom je zovu
+BOGATOM NIJANSOM, a lice čini mlađim i svežijim
+
+Facebook
+
+     * "KAO SLAVSKI KOLAČ DA IMA NA GLAVI" Niko nije mogao da skine pogled
+       sa neobične frizure Milice Jokanović iz "Potere"
+       Lepi & Zdravi
+
+"KAO SLAVSKI KOLAČ DA IMA NA GLAVI" Niko nije mogao da skine pogled sa
+neobične frizure Milice Jokanović iz "Potere"
+        17 17
+     * KUĆA LUKE MODRIĆA OD 12 MILIONA € JE KAO NASELJE: Ima 9 spavaćih
+       soba, privatni bioskop, od pogleda na baštu ZASTAJE DAH
+       Enterijer
+
+KUĆA LUKE MODRIĆA OD 12 MILIONA € JE KAO NASELJE: Ima 9 spavaćih soba,
+privatni bioskop, od pogleda na baštu ZASTAJE DAH
+         5   12 12
+     * "MISLILA SAM DA ĆU UMRETI KAO DEVICA, ONDA SE POJAVIO ON I SVE
+       PROMENO": Neobičan par trpi zgražavanje zbog jedne stvari
+       Ljubav
+
+"MISLILA SAM DA ĆU UMRETI KAO DEVICA, ONDA SE POJAVIO ON I SVE PROMENO":
+Neobičan par trpi zgražavanje zbog jedne stvari
+        7 7
+     * KO SU SRPSKE MILIONERKE IZ BLATA: Odrastanje obeleženo bedom, neke
+       nisu imale čak ni redovne obroke - sad su NAJBOGATIJE
+       Celebrities
+
+KO SU SRPSKE MILIONERKE IZ BLATA: Odrastanje obeleženo bedom, neke nisu imale
+čak ni redovne obroke - sad su NAJBOGATIJE
+         8   4
+     * KAKO JE NAJLEPŠA RUMUNKA IZGLEDALA PRE SVIH OPERACIJA? Procurile su
+       stare fotografije i sada se zna prava istina
+       Celebrities
+
+KAKO JE NAJLEPŠA RUMUNKA IZGLEDALA PRE SVIH OPERACIJA? Procurile su stare
+fotografije i sada se zna prava istina
+         11   3
+
+Celebrities
+
+     * NAJVEĆA TRAGEDIJA VELIKOG BRATA: Troje mladih učesnika rijalitija
+       koji su sleteli u reku pamti cela Srbija
+       Celebrities
+
+NAJVEĆA TRAGEDIJA VELIKOG BRATA: Troje mladih učesnika rijalitija koji su
+sleteli u reku pamti cela Srbija
+        1
+     * SESTRI DADE POLUMENTE JE PARALIZOVANO 60 % MOZGA SAMO ZBOG JEDNE
+       STVARI: Pevač ne može da se pomiri sa tim
+       Vip priča
+
+SESTRI DADE POLUMENTE JE PARALIZOVANO 60 % MOZGA SAMO ZBOG JEDNE STVARI:
+Pevač ne može da se pomiri sa tim
+     * OVAKO IZGLEDA ŽENA U 5. DECENIJI KOJA PUCA OD SAMOPOUZDANJA:
+       Ponosno stari, a mnogi komentarišu izgleda MLAĐE OD ĆERKE
+       Celebrities
+
+OVAKO IZGLEDA ŽENA U 5. DECENIJI KOJA PUCA OD SAMOPOUZDANJA: Ponosno stari, a
+mnogi komentarišu izgleda MLAĐE OD ĆERKE
+         8
+
+   IFRAME: //www.adriamediacontent.com/elle_widget/index.php
+
+Horoskop
+
+     * Ovan
+       POSAO: Očekuju vas važna poslovna dešavanja. Možete da se nadate
+       nekim novim informacijama koje ćete dobiti od nadređenih. Bićete
+       zadovoljni onim što čujete.
+     * Bik
+       POSAO: Pred vama su zanimljiva dešavanja, pogotovo ako sarađujete s
+       inostranstvom. Povoljan je period i za sudske procese. Možete da se
+       nadate srećnim okolnostima.
+     * Blizanci
+       POSAO: Možete da očekujete određene promene na polju finansija.
+       Uspećete da ostvarite dodatnu zaradu ili da dobijete neki bonus na
+       poslu. Pred vama je povoljan ...
+     * Rak
+       POSAO: Hladno donosite nove poslovne odluke i ne uzbuđujete se
+       previše zbog promena. Veoma ste izričiti u svojim namerama i
+       saradnici vam ukazuju poštovanje.
+     * Lav
+       POSAO: Imate dosta poslovnih obaveza, pa je neophodno da se
+       naoružate energijom i strpljenjem. Pred vama je period u kom možete
+       postići dosta važnih stvari.
+     * Devica
+       POSAO: Možete da očekujete pozitivne okolnosti na poslovnom planu.
+       Držite se svoje analitičnosti. Pred vama su važna dešavanja.
+     * Vaga
+       POSAO: Moguće je da tokom današnjeg dana nećete imati većih promena
+       na poslovnom planu. Ovo polje vam je stabilno postavljeno, znate
+       dobro na čemu ste i kakvo ...
+     * škorpija
+       POSAO: Možete da očekujete da ćete u poslovnim pregovorima
+       ostvariti veći uspeh. Pred vama je veoma povoljan period u kom
+       možete da dokažete svoje poslovne sposobnosti.
+     * Strelac
+       POSAO: Moguće je da ste zabrinuti za svoje finansije, ali nemate
+       neki veliki razlog za to. Ubrzo ćete nadoknaditi velike troškove
+       koje ste napravili u prethodnom ...
+     * Jarac
+       POSAO: Ne očekuju vas preterano velike promene na poslovnom planu
+       tokom ovog dana. Možete da očekujete sasvim mirnu i opuštenu
+       situaciju, bez ikakvog stresa.
+     * Vodolija
+       POSAO: Imate neke unutrašnje dileme u vezi sa poslovnim odlukama
+       koje bi trebalo da donesete. Posavetujte se s osobom od poverenja i
+       rešićete sve svoje nedoumice.
+     * Ribe
+       POSAO: Možete da očekujete da ćete imati dosta poslovnih obaveza
+       tokom današnjeg dana. Veoma vam je važno da ostanete maksimalno
+       posvećeni i fokusirani.
+
+   Sve Horoskop
+
+   [tr?id=330566140963695&ev=PageView&noscript=1]
+
+     * Porodica
+          + Vaše dete & vi
+          + Enterijer
+     * Celebrities
+          + Šuška se
+          + Vip priča
+     * Lepi & Zdravi
+          + Nega
+          + Saveti stručnjaka
+          + Fitnes & Nutricija
+          + Medicina
+     * Lifestyle
+          + Zanimljivosti
+          + Ljubimci
+          + Običaji
+          + Horoskop
+          + Bašta
+     * Moda
+     * Trpeza
+          + Recepti
+     * Galerije
+     * Ljubav
+
+     * Elle
+     * Mondo
+     * stvar ukusa
+     * Lepa i Srećna
+     * National Geographic
+     * Wanted
+     * Smart Life
+     * Sensa
+     * yumama
+
+   Prijatelji sajta:
+     * na vidiku
+
+   Marketing Impressum O nama Uslovi korišćenja Terms and Conditions /
+   Privacy Policy
+   Pratite nas na Facebooku Pratite nas na Twitteru Stil RSS feed
+
+   Copyright © Stil magazin 2022. Sva prava zadržana.
