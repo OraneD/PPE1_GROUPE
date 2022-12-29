@@ -1,0 +1,1853 @@
+<!DOCTYPE html>
+<html lang="sr-RS">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://cdn.consentmanager.mgr.consensu.org/delivery/cmp.min.css" />
+	<script>window.gdprAppliesGlobally=true;if(!("cmp_id" in window)){window.cmp_id=20921}if(!("cmp_params" in window)){window.cmp_params=""}if(!("cmp_host" in window)){window.cmp_host="b.delivery.consentmanager.net"}if(!("cmp_cdn" in window)){window.cmp_cdn="cdn.consentmanager.net"}if(!("cmp_proto" in window)){window.cmp_proto="https:"}window.cmp_getsupportedLangs=function(){var b=["DE","EN","FR","IT","NO","DA","FI","ES","PT","RO","BG","ET","EL","GA","HR","LV","LT","MT","NL","PL","SV","SK","SL","CS","HU","RU","SR","ZH","TR","UK","AR","BS"];if("cmp_customlanguages" in window){for(var a=0;a<window.cmp_customlanguages.length;a++){b.push(window.cmp_customlanguages[a].l.toUpperCase())}}return b};window.cmp_getRTLLangs=function(){return["AR"]};window.cmp_getlang=function(j){if(typeof(j)!="boolean"){j=true}if(j&&typeof(cmp_getlang.usedlang)=="string"&&cmp_getlang.usedlang!==""){return cmp_getlang.usedlang}var g=window.cmp_getsupportedLangs();var c=[];var f=location.hash;var e=location.search;var a="languages" in navigator?navigator.languages:[];if(f.indexOf("cmplang=")!=-1){c.push(f.substr(f.indexOf("cmplang=")+8,2).toUpperCase())}else{if(e.indexOf("cmplang=")!=-1){c.push(e.substr(e.indexOf("cmplang=")+8,2).toUpperCase())}else{if("cmp_setlang" in window&&window.cmp_setlang!=""){c.push(window.cmp_setlang.toUpperCase())}else{if(a.length>0){for(var d=0;d<a.length;d++){c.push(a[d])}}}}}if("language" in navigator){c.push(navigator.language)}if("userLanguage" in navigator){c.push(navigator.userLanguage)}var h="";for(var d=0;d<c.length;d++){var b=c[d].toUpperCase();if(g.indexOf(b)!=-1){h=b;break}if(b.indexOf("-")!=-1){b=b.substr(0,2)}if(g.indexOf(b)!=-1){h=b;break}}if(h==""&&typeof(cmp_getlang.defaultlang)=="string"&&cmp_getlang.defaultlang!==""){return cmp_getlang.defaultlang}else{if(h==""){h="EN"}}h=h.toUpperCase();return h};(function(){var n=document;var p=window;var f="";var b="_en";if("cmp_getlang" in p){f=p.cmp_getlang().toLowerCase();if("cmp_customlanguages" in p){for(var h=0;h<p.cmp_customlanguages.length;h++){if(p.cmp_customlanguages[h].l.toUpperCase()==f.toUpperCase()){f="en";break}}}b="_"+f}function g(e,d){var l="";e+="=";var i=e.length;if(location.hash.indexOf(e)!=-1){l=location.hash.substr(location.hash.indexOf(e)+i,9999)}else{if(location.search.indexOf(e)!=-1){l=location.search.substr(location.search.indexOf(e)+i,9999)}else{return d}}if(l.indexOf("&")!=-1){l=l.substr(0,l.indexOf("&"))}return l}var j=("cmp_proto" in p)?p.cmp_proto:"https:";var o=["cmp_id","cmp_params","cmp_host","cmp_cdn","cmp_proto"];for(var h=0;h<o.length;h++){if(g(o[h],"%%%")!="%%%"){window[o[h]]=g(o[h],"")}}var k=("cmp_ref" in p)?p.cmp_ref:location.href;var q=n.createElement("script");q.setAttribute("data-cmp-ab","1");var c=g("cmpdesign","");var a=g("cmpregulationkey","");q.src=j+"//"+p.cmp_host+"/delivery/cmp.php?id="+p.cmp_id+"&h="+encodeURIComponent(k)+(c!=""?"&cmpdesign="+encodeURIComponent(c):"")+(a!=""?"&cmpregulationkey="+encodeURIComponent(a):"")+("cmp_params" in p?"&"+p.cmp_params:"")+(n.cookie.length>0?"&__cmpfcc=1":"")+"&l="+f.toLowerCase()+"&o="+(new Date()).getTime();q.type="text/javascript";q.async=true;if(n.currentScript){n.currentScript.parentElement.appendChild(q)}else{if(n.body){n.body.appendChild(q)}else{var m=n.getElementsByTagName("body");if(m.length==0){m=n.getElementsByTagName("div")}if(m.length==0){m=n.getElementsByTagName("span")}if(m.length==0){m=n.getElementsByTagName("ins")}if(m.length==0){m=n.getElementsByTagName("script")}if(m.length==0){m=n.getElementsByTagName("head")}if(m.length>0){m[0].appendChild(q)}}}var q=n.createElement("script");q.src=j+"//"+p.cmp_cdn+"/delivery/js/cmp"+b+".min.js";q.type="text/javascript";q.setAttribute("data-cmp-ab","1");q.async=true;if(n.currentScript){n.currentScript.parentElement.appendChild(q)}else{if(n.body){n.body.appendChild(q)}else{var m=n.getElementsByTagName("body");if(m.length==0){m=n.getElementsByTagName("div")}if(m.length==0){m=n.getElementsByTagName("span")}if(m.length==0){m=n.getElementsByTagName("ins")}if(m.length==0){m=n.getElementsByTagName("script")}if(m.length==0){m=n.getElementsByTagName("head")}if(m.length>0){m[0].appendChild(q)}}}})();window.cmp_addFrame=function(b){if(!window.frames[b]){if(document.body){var a=document.createElement("iframe");a.style.cssText="display:none";a.name=b;document.body.appendChild(a)}else{window.setTimeout(window.cmp_addFrame,10,b)}}};window.cmp_rc=function(h){var b=document.cookie;var f="";var d=0;while(b!=""&&d<100){d++;while(b.substr(0,1)==" "){b=b.substr(1,b.length)}var g=b.substring(0,b.indexOf("="));if(b.indexOf(";")!=-1){var c=b.substring(b.indexOf("=")+1,b.indexOf(";"))}else{var c=b.substr(b.indexOf("=")+1,b.length)}if(h==g){f=c}var e=b.indexOf(";")+1;if(e==0){e=b.length}b=b.substring(e,b.length)}return(f)};window.cmp_stub=function(){var a=arguments;__cmapi.a=__cmapi.a||[];if(!a.length){return __cmapi.a}else{if(a[0]==="ping"){if(a[1]===2){a[2]({gdprApplies:gdprAppliesGlobally,cmpLoaded:false,cmpStatus:"stub",displayStatus:"hidden",apiVersion:"2.0",cmpId:31},true)}else{a[2]({gdprAppliesGlobally:gdprAppliesGlobally,cmpLoaded:false},true)}}else{if(a[0]==="getUSPData"){a[2]({version:1,uspString:window.cmp_rc("")},true)}else{if(a[0]==="getTCData"){__cmapi.a.push([].slice.apply(a))}else{if(a[0]==="addEventListener"||a[0]==="removeEventListener"){__cmapi.a.push([].slice.apply(a))}else{if(a.length==4&&a[3]===false){a[2]({},false)}else{__cmapi.a.push([].slice.apply(a))}}}}}}};window.cmp_msghandler=function(d){var a=typeof d.data==="string";try{var c=a?JSON.parse(d.data):d.data}catch(f){var c=null}if(typeof(c)==="object"&&c!==null&&"__cmpCall" in c){var b=c.__cmpCall;window.__cmp(b.command,b.parameter,function(h,g){var e={__cmpReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")})}if(typeof(c)==="object"&&c!==null&&"__cmapiCall" in c){var b=c.__cmapiCall;window.__cmapi(b.command,b.parameter,function(h,g){var e={__cmapiReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")})}if(typeof(c)==="object"&&c!==null&&"__uspapiCall" in c){var b=c.__uspapiCall;window.__uspapi(b.command,b.version,function(h,g){var e={__uspapiReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")})}if(typeof(c)==="object"&&c!==null&&"__tcfapiCall" in c){var b=c.__tcfapiCall;window.__tcfapi(b.command,b.version,function(h,g){var e={__tcfapiReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")},b.parameter)}};window.cmp_setStub=function(a){if(!(a in window)||(typeof(window[a])!=="function"&&typeof(window[a])!=="object"&&(typeof(window[a])==="undefined"||window[a]!==null))){window[a]=window.cmp_stub;window[a].msgHandler=window.cmp_msghandler;window.addEventListener("message",window.cmp_msghandler,false)}};window.cmp_addFrame("__cmapiLocator");window.cmp_addFrame("__cmpLocator");window.cmp_addFrame("__uspapiLocator");window.cmp_addFrame("__tcfapiLocator");window.cmp_setStub("__cmapi");window.cmp_setStub("__cmp");window.cmp_setStub("__tcfapi");window.cmp_setStub("__uspapi");</script>
+	
+	<!-- Google Tag Manager -->
+	<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WFLPSRX');</script> 
+	<!-- End Google Tag Manager -->
+	
+	<link rel="stylesheet" href="https://www.ana.rs/forum/Themes/ana/css/minified_c0ff8dfc1ac408a5fb15128475c45f66.css?smf213_1669320483">
+	<style>
+	.signature img { max-width: 468px; max-height: 30px; }
+	
+						.sceditor-button-facebook div {
+							background: url('https://www.ana.rs/forum/Themes/default/images/bbc/facebook.png');
+						}
+						.sceditor-button-instagram div {
+							background: url('https://www.ana.rs/forum/Themes/default/images/bbc/instagram.png');
+						}
+						.sceditor-button-spoiler div {
+							background: url('https://www.ana.rs/forum/Themes/default/images/bbc/spoiler.png');
+						}
+	
+	img.avatar { max-width: 140px !important; max-height: 105px !important; }
+	
+	.postarea .bbc_img, .list_posts .bbc_img, .post .inner .bbc_img, form#reported_posts .bbc_img, #preview_body .bbc_img { max-width: min(100%,150px); }
+	
+	.postarea .bbc_img, .list_posts .bbc_img, .post .inner .bbc_img, form#reported_posts .bbc_img, #preview_body .bbc_img { max-height: 150px; }
+	
+	</style>
+	<script>
+		var smf_theme_url = "https://www.ana.rs/forum/Themes/ana";
+		var smf_default_theme_url = "https://www.ana.rs/forum/Themes/default";
+		var smf_images_url = "https://www.ana.rs/forum/Themes/ana/images";
+		var smf_smileys_url = "https://www.ana.rs/forum/Smileys";
+		var smf_smiley_sets = "default,aaron,akyhne";
+		var smf_smiley_sets_default = "default";
+		var smf_avatars_url = "https://www.ana.rs/forum/avatars";
+		var smf_scripturl = "https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;";
+		var smf_iso_case_folding = false;
+		var smf_charset = "UTF-8";
+		var smf_session_id = "90d0b6c30455a5d28910ccbe60c826fa";
+		var smf_session_var = "a2920e969f7d";
+		var smf_member_id = 0;
+		var smf_member_name = 'Gost';
+		var ajax_notification_text = 'Učitavam...';
+		var help_popup_heading_text = 'Imamo nesporazum? Dozvolite nam da objasnimo:';
+		var banned_text = 'Izvinjavamo se Gost, zabranjeno ti je da koristiš ovaj forum!';
+		var smf_txt_expand = 'Proširi';
+		var smf_txt_shrink = 'Skupi';
+		var smf_quote_expand = false;
+		var allow_xhjr_credentials = false;
+	</script>
+	<script src="https://www.ana.rs/forum/Themes/default/scripts/jquery-3.6.0.min.js"></script>
+	<script src="https://www.ana.rs/forum/Themes/default/scripts/jquery.sceditor.bbcode.min.js?smf213_1669320483"></script>
+	<script src="https://www.ana.rs/forum/Themes/ana/scripts/minified_bf0213da2ca67f6b2c950221c89259d5.js?smf213_1669320483"></script>
+	<script src="https://www.ana.rs/forum/Themes/ana/scripts/minified_9a30b7841d33c53000b8af2782049396.js?smf213_1669320483" defer></script>
+	<script>
+		var smf_smileys_url = 'https://www.ana.rs/forum/Smileys/default';
+		var bbc_quote_from = 'Citat';
+		var bbc_quote = 'Citat';
+		var bbc_search_on = 'poslato';
+	var smf_you_sure ='Da li si sigurna da želiš da uradiš ovo?';
+	</script>
+	<title>Ne želim dete... - Ana.rs - Strana 729</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:site_name" content="Ana.rs - Ženski forum">
+	<meta property="og:title" content="Ne želim dete... - Ana.rs - Strana 729">
+	<meta property="og:url" content="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10920">
+	<meta property="og:image" content="https://www.ana.rs/forum/Themes/ana/images/anafb.png">
+	<meta property="og:description" content="Imam 33 godine, dobar brak koji trje tri godine, zavrsen Pravni fakultet. Zivim u divnom stanu, na prolece krecemo sa radovima u novoj, nasoj kuci. Na izgled sv...">
+	<meta name="description" content="Imam 33 godine, dobar brak koji trje tri godine, zavrsen Pravni fakultet. Zivim u divnom stanu, na prolece krecemo sa radovima u novoj, nasoj kuci. Na izgled sv...">
+	<meta name="theme-color" content="#ffe3ff">
+	<link rel="canonical" href="https://www.ana.rs/forum/index.php?topic=134661.10920">
+	<link rel="help" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=help">
+	<link rel="contents" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;">
+	<link rel="search" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=search">
+	<link rel="alternate" type="application/rss+xml" title="Ana.rs - Ženski forum - RSS" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=.xml;type=rss2;board=151">
+	<link rel="alternate" type="application/atom+xml" title="Ana.rs - Ženski forum - Atom" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=.xml;type=atom;board=151">
+	<link rel="next" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10935">
+	<link rel="prev" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10905">
+	<link rel="index" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;board=151.0">
+	<link rel="icon" href="/favicon.ico" sizes="any">
+    <!--link rel="icon" href="/favicon.svg" type="image/svg+xml"-->
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    
+		<script type="text/javascript">
+			<!--//--><![CDATA[//><!--
+			var pp_gemius_identifier = 'p3XlFDuoEPOzIQ56_rii3tWZ73x16AOWFC4Fdly0me3.w7';
+			// lines below shouldn't be edited
+			function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+			gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+			(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+			gt.setAttribute('defer','defer'); gt.src=l+'://gars.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+			//--><!]]>
+		</script>
+	<script type="text/javascript">
+	__cmp("addEventListener",["consent", enableAdoForCmp, false],null);
+	
+	function enableAdoForCmp(event, object) {
+		var consentData = __cmp("getCMPData");
+		console.log(consentData);
+	
+		if (!(consentData.gdprApplies === false) && !(consentData.vendorConsents[328] !== undefined && consentData.vendorConsents[328] === true)) {
+			return;
+		}
+		
+		(function() {
+			var loadJS = function(url, callback, location){
+				var scriptTag = document.createElement("script");
+				scriptTag.src = url;
+				scriptTag.onload = callback;
+				scriptTag.onreadystatechange = callback;
+				location.appendChild(scriptTag);
+			};
+	    })();
+	}
+	</script>
+		<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+		<script>
+			var script = document.createElement("script");
+			script.type = "text/javascript";
+			script.src = (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) ? "https://adxbid.info/anars_mobile.js" : "https://adxbid.info/anars_desktop.js";
+			script.setAttribute("async", "");
+			document.head.appendChild(script);
+		</script>
+		
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5241680-1"></script>
+	<script>
+		var gptadslots = [];
+		var googletag = googletag || {cmd:[]};
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag("js", new Date());
+		gtag("set", {"anonymize_ip":true,"dimension1":"Guest","dimension2":"Gost","content_group1":"Topic","content_group2":"Svakodnevni \u017eivot","content_group3":"\u017divotni principi i navike"});
+		gtag("config", "UA-5241680-1");
+	</script>
+	
+		<script>
+			let adsKeywords = {
+				category: 'životni_principi_i_navike',
+				pageType: 'article',
+				articleUuid: '134661',
+				articleTags: []
+			}
+		</script>
+
+		<script>
+			googletag.cmd.push(function() {
+				var mapBillboard = googletag.sizeMapping()
+					.addSize([1024, 0],    [[728, 90], [970, 445], [970, 60], [1060, 250], [970, 400], [970, 90], [970, 600], [970, 250]])
+					.addSize([768, 0],    [[728, 90]])
+					.addSize([0, 0],    [[320, 50], [320, 100]])
+					.build();
+		
+				var mapSidebar = googletag.sizeMapping()
+					.addSize([1024, 0],    [[160, 600], [300, 600]])
+					.addSize([768, 0],    [])
+					.addSize([0, 0],    [])
+					.build();
+		
+				var mapInArticle1 = googletag.sizeMapping()
+					.addSize([1024, 0],    [[790, 200], [300, 250], [580, 280]])
+					.addSize([768, 0],    [[300, 250]])
+					.addSize([0, 0],    [[300, 250], [336, 280], [320, 100], [320, 50]])
+					.build();
+		
+				var mapInArticle2 = googletag.sizeMapping()
+					.addSize([1024, 0],    [[300, 250]])
+					.addSize([768, 0],    [[300, 250]])
+					.addSize([0, 0],    [])
+					.build();
+		
+				var mapP = googletag.sizeMapping()
+					.addSize([1024, 0],    [])
+					.addSize([768, 0],    [])
+					.addSize([0, 0],    [[300, 250], [336, 280], [320, 100], [320, 50]])
+					.build();
+		
+				var mapBranding = googletag.sizeMapping()
+					.addSize([1024, 0],    [[470, 1080]])
+					.addSize([768, 0],    [])
+					.addSize([0, 0],    [])
+					.build();
+		
+				var mapSticky = googletag.sizeMapping()
+					.addSize([1024, 0],    [[750, 200], [750, 250]])
+					.addSize([768, 0],    [[750, 200]])
+					.addSize([0, 0],    [[320, 100], [320, 50]])
+					.build();
+		
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Billboard', [[728, 90], [970, 445], [320, 100], [970, 60], [1060, 250], [970, 400], [970, 90], [320, 50], [970, 600], [970, 250]], 'Billboard')
+					.defineSizeMapping(mapBillboard).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Sidebar_1', [[300, 600], [160, 600]], 'Sidebar_1')
+					.defineSizeMapping(mapSidebar).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Sidebar_2', [[300, 600], [160, 600]], 'Sidebar_2')
+					.defineSizeMapping(mapSidebar).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_1', [[790, 200], [580, 280], [300, 250], [336, 280], [320, 100], [320, 50]], 'InArticle_1')
+					.defineSizeMapping(mapInArticle1).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_2', [[790, 200], [580, 280], [300, 250], [336, 280], [320, 100], [320, 50]], 'InArticle_2')
+					.defineSizeMapping(mapInArticle1).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_3', [[790, 200], [580, 280], [300, 250], [336, 280], [320, 100], [320, 50]], 'InArticle_3')
+					.defineSizeMapping(mapInArticle1).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_4_Left', [300, 250], 'InArticle_4_Left')
+					.defineSizeMapping(mapInArticle2).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_4_Right', [300, 250], 'InArticle_4_Right')
+					.defineSizeMapping(mapInArticle2).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_5_Left', [300, 250], 'InArticle_5_Left')
+					.defineSizeMapping(mapInArticle2).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_5_Right', [300, 250], 'InArticle_5_Right')
+					.defineSizeMapping(mapInArticle2).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/P1', [[300, 250], [336, 280], [320, 100], [320, 50]], 'P1')
+					.defineSizeMapping(mapP).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/P2', [[300, 250], [336, 280], [320, 100], [320, 50]], 'P2')
+					.defineSizeMapping(mapP).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Branding_Left', [470, 1080], 'Branding_Left')
+					.defineSizeMapping(mapBranding).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Branding_Right', [470, 1080], 'Branding_Right')
+					.defineSizeMapping(mapBranding).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Sticky', [[320, 50], [750, 250], [750, 200], [320, 100]], 'Sticky')
+					.defineSizeMapping(mapSticky).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				
+		
+				googletag.pubads().enableSingleRequest();
+				googletag.pubads().enableLazyLoad({
+					fetchMarginPercent: 50,  //
+					renderMarginPercent: 50,  //
+					mobileScaling: 0.5  //
+				});
+				googletag.pubads().disableInitialLoad();
+				googletag.pubads().collapseEmptyDivs(true);
+				googletag.enableServices();
+				googletag.pubads().setTargeting('kwrds', adsKeywords.category);
+				googletag.pubads().setTargeting('articleUUID', [adsKeywords.articleUuid].join(','));
+				googletag.pubads().setTargeting('articleTAG', adsKeywords.articleTags.join(','));
+		
+			});
+		</script>
+		
+		<script type='text/javascript'>
+		var axel = Math.random() + '';
+		var a = axel * 10000000000000;
+		document.write('<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/161634325/;ord=' + a + ';dc_seg=873361257;age=18-24;age=25-34;age=35-44;age=45-54;age=55-64;age=65-74;Gender=Female;Gender=Male?" width="1" height="1" border="0" style="position:absolute;" />');
+		</script>
+		<noscript>
+		<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/161634325/;ord=1;dc_seg=873361257;age=18-24;age=25-34;age=35-44;age=45-54;age=55-64;age=65-74;Gender=Female;Gender=Male?" width="1" height="1" border="0" style="position:absolute;" />');
+		</noscript>
+		
+		<link rel="dns-prefetch" href="https://c.aklamator.com" />
+		<script async type="text/javascript" src="https://s.aklamator.com/i/w.js"></script>
+		
+	<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+	
+	<link rel="stylesheet" type="text/css" href="https://www.ana.rs/forum/Themes/default/css/instagram.css" />
+</head>
+<body id="smf" class="action_messageindex board_151">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFLPSRX" height="0" width=0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		
+<script>
+	const pageWidth = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName("body")[0].clientWidth;
+	const isSmallerScreen = pageWidth <= 1200;
+</script>
+	
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [{"@type":"ListItem","position":1,"name":"Ana.rs - \u017denski forum","item":"https:\/\/www.ana.rs\/forum\/index.php"},{"@type":"ListItem","position":2,"name":"Svakodnevni \u017eivot","item":"https:\/\/www.ana.rs\/forum\/index.php#c17"},{"@type":"ListItem","position":3,"name":"Moj \u017eivote","item":"https:\/\/www.ana.rs\/forum\/index.php?board=55.0"},{"@type":"ListItem","position":4,"name":"\u017divotni principi i navike","item":"https:\/\/www.ana.rs\/forum\/index.php?board=151.0"},{"@type":"ListItem","position":5,"name":"Ne \u017eelim dete...","item":"https:\/\/www.ana.rs\/forum\/index.php?topic=134661.0"}]
+}
+</script>
+	
+<script>
+	if (isSmallerScreen) {
+		var aklawidgets = ['ePZHE0e','FwCrezu']
+	} else {
+		var aklawidgets = ['39ODbrW','FwCrezu'] 
+	}
+</script>
+		
+<div id="footerfix">
+		<div id="brending-left">
+			<div id='Branding_Left' style='min-width: 470px; min-height: 1080px;'>
+			  <script>
+				googletag.cmd.push(function() { googletag.display('Branding_Left'); });
+			  </script>
+			</div>
+		</div>
+		<div id="brending-right">
+			<div id='Branding_Right' style='min-width: 470px; min-height: 1080px;'>
+			  <script>
+				googletag.cmd.push(function() { googletag.display('Branding_Right'); });
+			  </script>
+			</div>
+		
+		</div>
+	<div id="top_section">
+		<div class="inner_wrap">
+			<ul class="floatleft">
+				<li class="welcome">Dobrodošla na <strong>Ana.rs - Ženski forum</strong>. Molimo da se <a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=login" onclick="return reqOverlayDiv(this.href, 'Prijavljivanje', 'login');">prijaviš</a> ili da se <a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=signup">registruješ</a>.</li>
+			</ul>
+			<form id="search_form" class="floatright" action="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=search2" method="post" accept-charset="UTF-8">
+				<input type="search" name="search" value="" placeholder="Unesi termin...">&nbsp;
+				<select name="search_selection">
+					<option value="all">Ceo forum </option>
+					<option value="topic" selected>Ova tema</option>
+					<option value="board">Ovaj potforum</option>
+				</select>
+				<input type="hidden" name="sd_topic" value="134661">
+				<input type="submit" name="search2" value="Pretraga" class="button">
+				<input type="hidden" name="advanced" value="0">
+				<input type="hidden" name="show_complete" value="1">
+			</form>
+		</div><!-- .inner_wrap -->
+	</div><!-- #top_section -->
+	<div id="header">
+			<a id="top" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;"><img src="https://www.ana.rs/forum/Themes/ana/images/ana-logo.png" width="150" height="40" alt="Ana.rs - Ženski forum"></a>
+		<div id="siteslogan">Prvi i najveći ženski forum</div>
+	</div>
+	<div id="wrapper">
+		<div id="upper_section">
+			<div id="inner_section">
+				<div id="inner_wrap" class="hide_720">
+					<div class="user">
+						<time datetime="2022-12-29T10:16:02Z">29.12.2022. 11:16</time>
+					</div>
+				</div>
+				<div style="display: flex; justify-content: space-between">
+					<a class="mobile_user_menu">
+						<span class="menu_icon"></span>
+						<span class="text_menu">Glavni meni</span>
+					</a>
+				</div>
+				<div id="main_menu">
+					<div id="mobile_user_menu" class="popup_container">
+						<div class="popup_window description">
+							<div class="popup_heading">Glavni meni
+								<a href="javascript:void(0);" class="main_icons hide_popup"></a>
+							</div>
+							
+					<ul class="dropmenu menu_nav">
+						<li class="button_home">
+							<a class="active" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;">
+								<span class="main_icons home"></span><span class="textmenu">Početna</span>
+							</a>
+						</li>
+						<li class="button_rules">
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=rules">
+								<span class="main_icons rules"></span><span class="textmenu">Pravila foruma</span>
+							</a>
+						</li>
+						<li class="button_search">
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=search">
+								<span class="main_icons search"></span><span class="textmenu">Pretraga</span>
+							</a>
+						</li>
+						<li class="button_login">
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=login" onclick="return reqOverlayDiv(this.href, 'Prijavljivanje');">
+								<span class="main_icons login"></span><span class="textmenu">Prijavljivanje</span>
+							</a>
+						</li>
+						<li class="button_signup">
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=signup">
+								<span class="main_icons regcenter"></span><span class="textmenu">Registracija</span>
+							</a>
+						</li>
+					</ul><!-- .menu_nav -->
+						</div>
+					</div>
+				</div>
+				<div id='ad-billboard'>
+					<script>
+						if (!isSmallerScreen) {
+							document.write("<div id='Billboard' style='min-width: 320px; min-height: 50px;'></div>");
+							googletag.cmd.push(function() { googletag.display('Billboard'); });                    
+						}
+					</script>
+				</div>
+		
+				<div class="forum_highlights">
+					<div class="two_columns">
+					<div class="news">
+						<h2>Tema dana: </h2>
+						<div><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=38337.0" class="bbc_link" target="_blank" rel="noopener"><b>Šta planirate da spremate za Novu Godinu?</b></a><br><br><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=17193344" class="bbc_link" target="_blank" rel="noopener"><b>Pridružite nam se na nekoj od naših novogodišnjih tema - pogledajte spisak.</b></a><br><br><a href="https://zena.blic.rs/moda/francuskinje-su-majstori-dobrog-stila-a-ovih-5-odevnih-komada-uvek-imaju-u-ormaru/fm6qnxc?ref=anaposttd" class="bbc_link" target="_blank" rel="noopener"><b>Francuskinje su OLIČENJE VRHUNSKOG ŠIKA, a ovo je 5 KOMADA koja baš svaka od njih IMA U ORMARU<b></b></b></a><br><br><a href="https://zena.blic.rs/lepota/novogodisnja-sminka-najlepse-ideje-za-efektan-mejkap/eqxrzz6?ref=anaposttd" class="bbc_link" target="_blank" rel="noopener"><b>NAJLEPŠA NOVOGODIŠNJA ŠMINKA - ovo je 5 trendi i jednostavnih načina da bukvalno ZASIJATE: Trikovi koji u sekundi ceo izgled dižu na viši nivo i daju GLAM EFEKAT<b></b></b></a><br><br><a href="https://zena.blic.rs/lifestyle/kako-se-slagalica-pretvorila-u-okrsaj-jednog-delije-i-jednog-grobara/gvrn26q?ref=anaposttd" class="bbc_link" target="_blank" rel="noopener"><b>KAKO SE SLAGALICA PRETVORILA U OKRŠAJ JEDNOG DELIJE I JEDNOG GROBARA Sve se zakuvalo u igri SKOČKO, reagovala i voditeljka i svi pričaju o ovom izdanju čuvenog kviza <b></b></b></a></div>
+					</div>
+					<div class="recent_posts">
+						<h3>Skorašnje teme:</h3>
+						<div>
+							<ul>
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=239418.msg22862214;topicseen#new" rel="nofollow" title="Mirror, treba slušati muža po nekad&nbsp; &nbsp; ">Odg: Trudnički kutak za ćaskanje XIII</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=236832.msg22862213;topicseen#new" rel="nofollow" title="^^Mi smo pre mozda mesec to pak od pola kg uzeli, onako, bilo i bzv i ok. Mislim da je nemoguće kupiti kesten i da su svi lepi&nbsp; ...">Odg: Lidl Srbija</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=264161.msg22862212;topicseen#new" rel="nofollow" title="Maja sve više puca, ali Aleksandra je neviđeno glupa u ovom odnosu sa Filipom. Nevjerojatno da žena ima toliko iskustva s likovi...">Odg: Zadruga 6</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=245655.msg22862211;topicseen#new" rel="nofollow" title="@Malibus Napucana crnka&nbsp;  Slažem se sa Zojom, može ovde više vsrijanti da dođe u obzir sada .... Ali ja bih ipak sačekala Martin...">Odg: Prevarila sam muza</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=265600.msg22862209;topicseen#new" rel="nofollow" title="Citat: Iza oblaka poslato danas u 11:05Partibrejkers - Mesečeva kći&nbsp; ili&nbsp; Prsten&nbsp; &nbsp; ili&nbsp; &nbsp; Kreni prema meni&nbsp; &nbsp; &nbsp; &nbsp; ili&nbsp; bilo šta...">Odg: &#127928; Igra rock'n'roll cela Jugoslavija &#127928; Yu rock- izbor za najbolju pesmu</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=195575.msg22862207;topicseen#new" rel="nofollow" title="Ja se ne žalim, čak šta više&nbsp; ">Odg: Ćaskanje sa pozitivcima :) VI</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=231651.msg22862201;topicseen#new" rel="nofollow" title="Svi su mu neprijatelji dok ne dokažu suprotno. ">Odg: Šta mislite o osobi iznad? :) VI</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=107198.msg22862198;topicseen#new" rel="nofollow" title="Citat: Salaso poslato juče u 12:36Kalimeroooa: hvala na informaciji za nadoknadu troskova ugradnje implanta, ali me zanima gde s...">Odg: Ostecenje sluha</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=264961.msg22862196;topicseen#new" rel="nofollow" title="Citat: Miray poslato danas u 11:07Steta za Warrior&nbsp;  &#10;Iznenadih se sto nije prosla&#10;Za 1 poen samo.&nbsp;  ">Odg: &#127925;Izbor za najbolju pesmu Eurosonga&#127925; - svih vremena! </a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=3640.msg22862193;topicseen#new" rel="nofollow" title="Ima šanse da opstanu, razgovori kvare trenutak, oni bi romantično ćutali.">Odg: Idealna razlika u godinama izmedju muskarca i zene?</a></li>
+			
+							</ul>
+						</div>
+					</div>
+					</div>
+					<div class="facebook">
+						<a href="https://www.facebook.com/Anars-%C5%BDenski-forum-281713881943648" target="_blank">Posetite forumsku fan stranicu na Facebook-u</a>
+						<br />
+						<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FAnars-%25C5%25BDenski-forum-281713881943648&width=90&layout=button_count&action=like&size=small&share=false&height=21" width="150" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+					</div>
+				</div>
+			<div class="roundframe mobile_search">
+				<div class="heading">Forumska pretraga</div>
+				<form action="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=search2" method="post" accept-charset="UTF-8">
+					<input type="search" name="search" value="" placeholder="Unesi termin..." autocomplete="off">&nbsp;
+					<select name="search_selection">
+						<option value="all">Ceo forum </option>
+						<option value="topic" selected>Ova tema</option>
+						<option value="board">Ovaj potforum</option>
+				</select>
+					<input type="hidden" name="sd_topic" value="134661">
+					<input type="submit" name="search2" value="Pretraga" class="button">
+					<input type="hidden" name="advanced" value="0">
+					<input type="hidden" name="show_complete" value="1">
+				</form>
+			</div>
+		<iframe id="blic-widget" src="https://zena.blic.rs/widget/carousel?uuid=9d53cb2e-242c-4b14-bcf9-3f0e2085138a" width="100%" height="201" style="border: none;"></iframe> 
+	
+				<div class="navigate_section">
+					<ul>
+						<li>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;"><span>Ana.rs - Ženski forum</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;#c17"><span>Svakodnevni život</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;board=55.0"><span>Moj živote</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;board=151.0"><span>Životni principi i navike</span></a>
+						</li>
+						<li class="last">
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.0"><span>Ne želim dete...</span></a>
+						</li>
+					</ul>
+				</div><!-- .navigate_section -->
+			</div><!-- #inner_section -->
+		</div><!-- #upper_section -->
+		<div id="central_wrapper">
+		<div id="forum_wrapper">
+		<div id="content_section">
+			<div id="main_content_section">
+		<div id="display_head" class="information">
+			<h1 class="display_title">
+				<span id="top_subject">Ne želim dete...</span> <span class="main_icons lock"></span>
+			</h1>
+			<p>Započela Millana, 30.07.2011. 19:01</p>
+			<div class="topic_info">Tema je vise puta sredjivana, ostavljana su obavestenja da se stane sa chatom off topikom <a href="http://www.ana.rs/forum/index.php?topic=134661.msg4851242#msg4851242" class="bbc_link" target="_blank" rel="noopener">ovde</a> i <a href="http://www.ana.rs/forum/index.php?topic=134661.msg4843801#msg4843801" class="bbc_link" target="_blank" rel="noopener">ovde</a> i <a href="http://www.ana.rs/forum/index.php?topic=134661.msg4832812#msg4832812" class="bbc_link" target="_blank" rel="noopener">ovde</a> ... ali se uvek iznova, verovatno u nedostatku ideje da se kaze nesto sto vec nije receno, nastavlja po starom. Ostavljana su urednicka upozorenja ali je, s vremena na vreme, tema opet odlazila u pogresnom pravcu.<br>Molimo vas da se pridrzavate <a href="http://www.ana.rs/forum/index.php?action=rules" class="bbc_link" target="_blank" rel="noopener">Pravilnika foruma</a>, pisite u skladu sa nazivom teme da ne bi dosli u situaciju da se tema trajno zakljuca a prekrsioci sankcionisu.</div>
+		</div><!-- #display_head -->
+		
+		<div class="pagesection top">
+			
+		<div class="buttonlist floatright">
+			
+				<a class="button button_strip_print" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=printpage;topic=134661.0"  rel="nofollow">Štampaj</a>
+		</div>
+			 
+			<div class="pagelinks floatleft">
+				<a href="#bot" class="button">Idi dole</a>
+				<select onchange="javascript:window.location=('https://www.ana.rs/forum/index.php?topic=134661.%1$d').replace(/%1\$d/, this.value);"><option value="0">1</option><option value="15">2</option><option value="30">3</option><option value="45">4</option><option value="60">5</option><option value="75">6</option><option value="90">7</option><option value="105">8</option><option value="120">9</option><option value="135">10</option><option value="150">11</option><option value="165">12</option><option value="180">13</option><option value="195">14</option><option value="210">15</option><option value="225">16</option><option value="240">17</option><option value="255">18</option><option value="270">19</option><option value="285">20</option><option value="300">21</option><option value="315">22</option><option value="330">23</option><option value="345">24</option><option value="360">25</option><option value="375">26</option><option value="390">27</option><option value="405">28</option><option value="420">29</option><option value="435">30</option><option value="450">31</option><option value="465">32</option><option value="480">33</option><option value="495">34</option><option value="510">35</option><option value="525">36</option><option value="540">37</option><option value="555">38</option><option value="570">39</option><option value="585">40</option><option value="600">41</option><option value="615">42</option><option value="630">43</option><option value="645">44</option><option value="660">45</option><option value="675">46</option><option value="690">47</option><option value="705">48</option><option value="720">49</option><option value="735">50</option><option value="750">51</option><option value="765">52</option><option value="780">53</option><option value="795">54</option><option value="810">55</option><option value="825">56</option><option value="840">57</option><option value="855">58</option><option value="870">59</option><option value="885">60</option><option value="900">61</option><option value="915">62</option><option value="930">63</option><option value="945">64</option><option value="960">65</option><option value="975">66</option><option value="990">67</option><option value="1005">68</option><option value="1020">69</option><option value="1035">70</option><option value="1050">71</option><option value="1065">72</option><option value="1080">73</option><option value="1095">74</option><option value="1110">75</option><option value="1125">76</option><option value="1140">77</option><option value="1155">78</option><option value="1170">79</option><option value="1185">80</option><option value="1200">81</option><option value="1215">82</option><option value="1230">83</option><option value="1245">84</option><option value="1260">85</option><option value="1275">86</option><option value="1290">87</option><option value="1305">88</option><option value="1320">89</option><option value="1335">90</option><option value="1350">91</option><option value="1365">92</option><option value="1380">93</option><option value="1395">94</option><option value="1410">95</option><option value="1425">96</option><option value="1440">97</option><option value="1455">98</option><option value="1470">99</option><option value="1485">100</option><option value="1500">101</option><option value="1515">102</option><option value="1530">103</option><option value="1545">104</option><option value="1560">105</option><option value="1575">106</option><option value="1590">107</option><option value="1605">108</option><option value="1620">109</option><option value="1635">110</option><option value="1650">111</option><option value="1665">112</option><option value="1680">113</option><option value="1695">114</option><option value="1710">115</option><option value="1725">116</option><option value="1740">117</option><option value="1755">118</option><option value="1770">119</option><option value="1785">120</option><option value="1800">121</option><option value="1815">122</option><option value="1830">123</option><option value="1845">124</option><option value="1860">125</option><option value="1875">126</option><option value="1890">127</option><option value="1905">128</option><option value="1920">129</option><option value="1935">130</option><option value="1950">131</option><option value="1965">132</option><option value="1980">133</option><option value="1995">134</option><option value="2010">135</option><option value="2025">136</option><option value="2040">137</option><option value="2055">138</option><option value="2070">139</option><option value="2085">140</option><option value="2100">141</option><option value="2115">142</option><option value="2130">143</option><option value="2145">144</option><option value="2160">145</option><option value="2175">146</option><option value="2190">147</option><option value="2205">148</option><option value="2220">149</option><option value="2235">150</option><option value="2250">151</option><option value="2265">152</option><option value="2280">153</option><option value="2295">154</option><option value="2310">155</option><option value="2325">156</option><option value="2340">157</option><option value="2355">158</option><option value="2370">159</option><option value="2385">160</option><option value="2400">161</option><option value="2415">162</option><option value="2430">163</option><option value="2445">164</option><option value="2460">165</option><option value="2475">166</option><option value="2490">167</option><option value="2505">168</option><option value="2520">169</option><option value="2535">170</option><option value="2550">171</option><option value="2565">172</option><option value="2580">173</option><option value="2595">174</option><option value="2610">175</option><option value="2625">176</option><option value="2640">177</option><option value="2655">178</option><option value="2670">179</option><option value="2685">180</option><option value="2700">181</option><option value="2715">182</option><option value="2730">183</option><option value="2745">184</option><option value="2760">185</option><option value="2775">186</option><option value="2790">187</option><option value="2805">188</option><option value="2820">189</option><option value="2835">190</option><option value="2850">191</option><option value="2865">192</option><option value="2880">193</option><option value="2895">194</option><option value="2910">195</option><option value="2925">196</option><option value="2940">197</option><option value="2955">198</option><option value="2970">199</option><option value="2985">200</option><option value="3000">201</option><option value="3015">202</option><option value="3030">203</option><option value="3045">204</option><option value="3060">205</option><option value="3075">206</option><option value="3090">207</option><option value="3105">208</option><option value="3120">209</option><option value="3135">210</option><option value="3150">211</option><option value="3165">212</option><option value="3180">213</option><option value="3195">214</option><option value="3210">215</option><option value="3225">216</option><option value="3240">217</option><option value="3255">218</option><option value="3270">219</option><option value="3285">220</option><option value="3300">221</option><option value="3315">222</option><option value="3330">223</option><option value="3345">224</option><option value="3360">225</option><option value="3375">226</option><option value="3390">227</option><option value="3405">228</option><option value="3420">229</option><option value="3435">230</option><option value="3450">231</option><option value="3465">232</option><option value="3480">233</option><option value="3495">234</option><option value="3510">235</option><option value="3525">236</option><option value="3540">237</option><option value="3555">238</option><option value="3570">239</option><option value="3585">240</option><option value="3600">241</option><option value="3615">242</option><option value="3630">243</option><option value="3645">244</option><option value="3660">245</option><option value="3675">246</option><option value="3690">247</option><option value="3705">248</option><option value="3720">249</option><option value="3735">250</option><option value="3750">251</option><option value="3765">252</option><option value="3780">253</option><option value="3795">254</option><option value="3810">255</option><option value="3825">256</option><option value="3840">257</option><option value="3855">258</option><option value="3870">259</option><option value="3885">260</option><option value="3900">261</option><option value="3915">262</option><option value="3930">263</option><option value="3945">264</option><option value="3960">265</option><option value="3975">266</option><option value="3990">267</option><option value="4005">268</option><option value="4020">269</option><option value="4035">270</option><option value="4050">271</option><option value="4065">272</option><option value="4080">273</option><option value="4095">274</option><option value="4110">275</option><option value="4125">276</option><option value="4140">277</option><option value="4155">278</option><option value="4170">279</option><option value="4185">280</option><option value="4200">281</option><option value="4215">282</option><option value="4230">283</option><option value="4245">284</option><option value="4260">285</option><option value="4275">286</option><option value="4290">287</option><option value="4305">288</option><option value="4320">289</option><option value="4335">290</option><option value="4350">291</option><option value="4365">292</option><option value="4380">293</option><option value="4395">294</option><option value="4410">295</option><option value="4425">296</option><option value="4440">297</option><option value="4455">298</option><option value="4470">299</option><option value="4485">300</option><option value="4500">301</option><option value="4515">302</option><option value="4530">303</option><option value="4545">304</option><option value="4560">305</option><option value="4575">306</option><option value="4590">307</option><option value="4605">308</option><option value="4620">309</option><option value="4635">310</option><option value="4650">311</option><option value="4665">312</option><option value="4680">313</option><option value="4695">314</option><option value="4710">315</option><option value="4725">316</option><option value="4740">317</option><option value="4755">318</option><option value="4770">319</option><option value="4785">320</option><option value="4800">321</option><option value="4815">322</option><option value="4830">323</option><option value="4845">324</option><option value="4860">325</option><option value="4875">326</option><option value="4890">327</option><option value="4905">328</option><option value="4920">329</option><option value="4935">330</option><option value="4950">331</option><option value="4965">332</option><option value="4980">333</option><option value="4995">334</option><option value="5010">335</option><option value="5025">336</option><option value="5040">337</option><option value="5055">338</option><option value="5070">339</option><option value="5085">340</option><option value="5100">341</option><option value="5115">342</option><option value="5130">343</option><option value="5145">344</option><option value="5160">345</option><option value="5175">346</option><option value="5190">347</option><option value="5205">348</option><option value="5220">349</option><option value="5235">350</option><option value="5250">351</option><option value="5265">352</option><option value="5280">353</option><option value="5295">354</option><option value="5310">355</option><option value="5325">356</option><option value="5340">357</option><option value="5355">358</option><option value="5370">359</option><option value="5385">360</option><option value="5400">361</option><option value="5415">362</option><option value="5430">363</option><option value="5445">364</option><option value="5460">365</option><option value="5475">366</option><option value="5490">367</option><option value="5505">368</option><option value="5520">369</option><option value="5535">370</option><option value="5550">371</option><option value="5565">372</option><option value="5580">373</option><option value="5595">374</option><option value="5610">375</option><option value="5625">376</option><option value="5640">377</option><option value="5655">378</option><option value="5670">379</option><option value="5685">380</option><option value="5700">381</option><option value="5715">382</option><option value="5730">383</option><option value="5745">384</option><option value="5760">385</option><option value="5775">386</option><option value="5790">387</option><option value="5805">388</option><option value="5820">389</option><option value="5835">390</option><option value="5850">391</option><option value="5865">392</option><option value="5880">393</option><option value="5895">394</option><option value="5910">395</option><option value="5925">396</option><option value="5940">397</option><option value="5955">398</option><option value="5970">399</option><option value="5985">400</option><option value="6000">401</option><option value="6015">402</option><option value="6030">403</option><option value="6045">404</option><option value="6060">405</option><option value="6075">406</option><option value="6090">407</option><option value="6105">408</option><option value="6120">409</option><option value="6135">410</option><option value="6150">411</option><option value="6165">412</option><option value="6180">413</option><option value="6195">414</option><option value="6210">415</option><option value="6225">416</option><option value="6240">417</option><option value="6255">418</option><option value="6270">419</option><option value="6285">420</option><option value="6300">421</option><option value="6315">422</option><option value="6330">423</option><option value="6345">424</option><option value="6360">425</option><option value="6375">426</option><option value="6390">427</option><option value="6405">428</option><option value="6420">429</option><option value="6435">430</option><option value="6450">431</option><option value="6465">432</option><option value="6480">433</option><option value="6495">434</option><option value="6510">435</option><option value="6525">436</option><option value="6540">437</option><option value="6555">438</option><option value="6570">439</option><option value="6585">440</option><option value="6600">441</option><option value="6615">442</option><option value="6630">443</option><option value="6645">444</option><option value="6660">445</option><option value="6675">446</option><option value="6690">447</option><option value="6705">448</option><option value="6720">449</option><option value="6735">450</option><option value="6750">451</option><option value="6765">452</option><option value="6780">453</option><option value="6795">454</option><option value="6810">455</option><option value="6825">456</option><option value="6840">457</option><option value="6855">458</option><option value="6870">459</option><option value="6885">460</option><option value="6900">461</option><option value="6915">462</option><option value="6930">463</option><option value="6945">464</option><option value="6960">465</option><option value="6975">466</option><option value="6990">467</option><option value="7005">468</option><option value="7020">469</option><option value="7035">470</option><option value="7050">471</option><option value="7065">472</option><option value="7080">473</option><option value="7095">474</option><option value="7110">475</option><option value="7125">476</option><option value="7140">477</option><option value="7155">478</option><option value="7170">479</option><option value="7185">480</option><option value="7200">481</option><option value="7215">482</option><option value="7230">483</option><option value="7245">484</option><option value="7260">485</option><option value="7275">486</option><option value="7290">487</option><option value="7305">488</option><option value="7320">489</option><option value="7335">490</option><option value="7350">491</option><option value="7365">492</option><option value="7380">493</option><option value="7395">494</option><option value="7410">495</option><option value="7425">496</option><option value="7440">497</option><option value="7455">498</option><option value="7470">499</option><option value="7485">500</option><option value="7500">501</option><option value="7515">502</option><option value="7530">503</option><option value="7545">504</option><option value="7560">505</option><option value="7575">506</option><option value="7590">507</option><option value="7605">508</option><option value="7620">509</option><option value="7635">510</option><option value="7650">511</option><option value="7665">512</option><option value="7680">513</option><option value="7695">514</option><option value="7710">515</option><option value="7725">516</option><option value="7740">517</option><option value="7755">518</option><option value="7770">519</option><option value="7785">520</option><option value="7800">521</option><option value="7815">522</option><option value="7830">523</option><option value="7845">524</option><option value="7860">525</option><option value="7875">526</option><option value="7890">527</option><option value="7905">528</option><option value="7920">529</option><option value="7935">530</option><option value="7950">531</option><option value="7965">532</option><option value="7980">533</option><option value="7995">534</option><option value="8010">535</option><option value="8025">536</option><option value="8040">537</option><option value="8055">538</option><option value="8070">539</option><option value="8085">540</option><option value="8100">541</option><option value="8115">542</option><option value="8130">543</option><option value="8145">544</option><option value="8160">545</option><option value="8175">546</option><option value="8190">547</option><option value="8205">548</option><option value="8220">549</option><option value="8235">550</option><option value="8250">551</option><option value="8265">552</option><option value="8280">553</option><option value="8295">554</option><option value="8310">555</option><option value="8325">556</option><option value="8340">557</option><option value="8355">558</option><option value="8370">559</option><option value="8385">560</option><option value="8400">561</option><option value="8415">562</option><option value="8430">563</option><option value="8445">564</option><option value="8460">565</option><option value="8475">566</option><option value="8490">567</option><option value="8505">568</option><option value="8520">569</option><option value="8535">570</option><option value="8550">571</option><option value="8565">572</option><option value="8580">573</option><option value="8595">574</option><option value="8610">575</option><option value="8625">576</option><option value="8640">577</option><option value="8655">578</option><option value="8670">579</option><option value="8685">580</option><option value="8700">581</option><option value="8715">582</option><option value="8730">583</option><option value="8745">584</option><option value="8760">585</option><option value="8775">586</option><option value="8790">587</option><option value="8805">588</option><option value="8820">589</option><option value="8835">590</option><option value="8850">591</option><option value="8865">592</option><option value="8880">593</option><option value="8895">594</option><option value="8910">595</option><option value="8925">596</option><option value="8940">597</option><option value="8955">598</option><option value="8970">599</option><option value="8985">600</option><option value="9000">601</option><option value="9015">602</option><option value="9030">603</option><option value="9045">604</option><option value="9060">605</option><option value="9075">606</option><option value="9090">607</option><option value="9105">608</option><option value="9120">609</option><option value="9135">610</option><option value="9150">611</option><option value="9165">612</option><option value="9180">613</option><option value="9195">614</option><option value="9210">615</option><option value="9225">616</option><option value="9240">617</option><option value="9255">618</option><option value="9270">619</option><option value="9285">620</option><option value="9300">621</option><option value="9315">622</option><option value="9330">623</option><option value="9345">624</option><option value="9360">625</option><option value="9375">626</option><option value="9390">627</option><option value="9405">628</option><option value="9420">629</option><option value="9435">630</option><option value="9450">631</option><option value="9465">632</option><option value="9480">633</option><option value="9495">634</option><option value="9510">635</option><option value="9525">636</option><option value="9540">637</option><option value="9555">638</option><option value="9570">639</option><option value="9585">640</option><option value="9600">641</option><option value="9615">642</option><option value="9630">643</option><option value="9645">644</option><option value="9660">645</option><option value="9675">646</option><option value="9690">647</option><option value="9705">648</option><option value="9720">649</option><option value="9735">650</option><option value="9750">651</option><option value="9765">652</option><option value="9780">653</option><option value="9795">654</option><option value="9810">655</option><option value="9825">656</option><option value="9840">657</option><option value="9855">658</option><option value="9870">659</option><option value="9885">660</option><option value="9900">661</option><option value="9915">662</option><option value="9930">663</option><option value="9945">664</option><option value="9960">665</option><option value="9975">666</option><option value="9990">667</option><option value="10005">668</option><option value="10020">669</option><option value="10035">670</option><option value="10050">671</option><option value="10065">672</option><option value="10080">673</option><option value="10095">674</option><option value="10110">675</option><option value="10125">676</option><option value="10140">677</option><option value="10155">678</option><option value="10170">679</option><option value="10185">680</option><option value="10200">681</option><option value="10215">682</option><option value="10230">683</option><option value="10245">684</option><option value="10260">685</option><option value="10275">686</option><option value="10290">687</option><option value="10305">688</option><option value="10320">689</option><option value="10335">690</option><option value="10350">691</option><option value="10365">692</option><option value="10380">693</option><option value="10395">694</option><option value="10410">695</option><option value="10425">696</option><option value="10440">697</option><option value="10455">698</option><option value="10470">699</option><option value="10485">700</option><option value="10500">701</option><option value="10515">702</option><option value="10530">703</option><option value="10545">704</option><option value="10560">705</option><option value="10575">706</option><option value="10590">707</option><option value="10605">708</option><option value="10620">709</option><option value="10635">710</option><option value="10650">711</option><option value="10665">712</option><option value="10680">713</option><option value="10695">714</option><option value="10710">715</option><option value="10725">716</option><option value="10740">717</option><option value="10755">718</option><option value="10770">719</option><option value="10785">720</option><option value="10800">721</option><option value="10815">722</option><option value="10830">723</option><option value="10845">724</option><option value="10860">725</option><option value="10875">726</option><option value="10890">727</option><option value="10905">728</option><option value="10920" selected="selected">729</option><option value="10935">730</option><option value="10950">731</option><option value="10965">732</option><option value="10980">733</option><option value="10995">734</option><option value="11010">735</option><option value="11025">736</option><option value="11040">737</option><option value="11055">738</option><option value="11070">739</option><option value="11085">740</option><option value="11100">741</option><option value="11115">742</option><option value="11130">743</option><option value="11145">744</option><option value="11160">745</option><option value="11175">746</option><option value="11190">747</option><option value="11205">748</option><option value="11220">749</option><option value="11235">750</option><option value="11250">751</option><option value="11265">752</option><option value="11280">753</option><option value="11295">754</option><option value="11310">755</option><option value="11325">756</option><option value="11340">757</option><option value="11355">758</option><option value="11370">759</option><option value="11385">760</option><option value="11400">761</option><option value="11415">762</option><option value="11430">763</option><option value="11445">764</option><option value="11460">765</option><option value="11475">766</option><option value="11490">767</option><option value="11505">768</option><option value="11520">769</option><option value="11535">770</option><option value="11550">771</option><option value="11565">772</option><option value="11580">773</option><option value="11595">774</option><option value="11610">775</option><option value="11625">776</option><option value="11640">777</option><option value="11655">778</option><option value="11670">779</option><option value="11685">780</option><option value="11700">781</option><option value="11715">782</option><option value="11730">783</option><option value="11745">784</option><option value="11760">785</option><option value="11775">786</option><option value="11790">787</option><option value="11805">788</option></select> &nbsp;<span class="pages">Stranice</span><a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10905"><span class="main_icons previous_page"></span></a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.0">1</a> <span class="expand_pages" onclick="expandPages(this, '&lt;a class=&quot;nav_page&quot; href=&quot;' + smf_scripturl + '?topic=134661.%1$d&quot;&gt;%2$s&lt;/a&gt; ', 15, 10890, 15);"> ... </span><a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10890">727</a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10905">728</a> <span class="current_page">729</span> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10935">730</a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10950">731</a> <span class="expand_pages" onclick="expandPages(this, '&lt;a class=&quot;nav_page&quot; href=&quot;' + smf_scripturl + '?topic=134661.%1$d&quot;&gt;%2$s&lt;/a&gt; ', 10965, 11805, 15);"> ... </span><a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.11805">788</a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10935"><span class="main_icons next_page"></span></a> 
+			</div>
+		<div class="mobile_buttons floatright">
+			
+			<a class="button mobile_act">Akcije</a>
+			
+		</div>
+		</div>
+		<div id="forumposts">
+			<form action="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=quickmod2;topic=134661.10920" method="post" accept-charset="UTF-8" name="quickModForm" id="quickModForm" onsubmit="return oQuickModify.bInEditMode ? oQuickModify.modifySave('90d0b6c30455a5d28910ccbe60c826fa', 'a2920e969f7d') : false">
+		<div class="topic-ad">
+	
+			<script>
+				if (isSmallerScreen) {
+					document.write("<div id='Billboard' class='banner' style='min-width: 320px; min-height: 50px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('Billboard'); });
+				}					
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg10981348">
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=126970" title="Pogledaj korisnički nalog članice pinkman">pinkman</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=126970"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_126970_1383831896.png"  width="70" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 9.229</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+								<li class="profile">
+									<ol class="profile_icons">
+										<li><a href="https://thelonghairguru.com/" title="" target="_blank" rel="noopener"><span class="main_icons www centericon" title=""></span></a></li>
+									</ol>
+								</li><!-- .profile -->
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=126970"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_126970_1383831896.png"  width="70" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=126970" title="Pogledaj korisnički nalog članice pinkman">pinkman</a></h4>
+									<div class="message_count">Poruka:&nbsp;9.229</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981348" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981348" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10920</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981348" rel="nofollow" title="Odgovor #10920 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 14:54</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981348">
+									</span>
+								</div>
+								<div id="msg_10981348_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981348" id="msg_10981348">
+									Mislim da Hemuli nije mislila konkretno njoj, niti bilo kome to da kaze, nego vise kao sam sebi, da se ne zavarava.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg10981357">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=71508" title="Pogledaj korisnički nalog članice Sofija10">Sofija10</a>
+							</h4>
+							<ul class="user_info">
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 3.411</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=71508" title="Pogledaj korisnički nalog članice Sofija10">Sofija10</a></h4>
+									<div class="message_count">Poruka:&nbsp;3.411</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981357" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981357" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10921</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981357" rel="nofollow" title="Odgovor #10921 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 14:56</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981357">
+									</span>
+								</div>
+								<div id="msg_10981357_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981357" id="msg_10981357">
+									Pa neka se zavarava, šta? To je njegov mozak, njegova duša, njegov život, karma, ciljevi...
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg10981386">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154817" title="Pogledaj korisnički nalog članice Reptil">Reptil</a>
+							</h4>
+							<ul class="user_info">
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 5.644</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_1" title="Muški"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154817" title="Pogledaj korisnički nalog članice Reptil">Reptil</a></h4>
+									<div class="message_count">Poruka:&nbsp;5.644</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_1" title="Muški"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981386" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981386" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10922</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981386" rel="nofollow" title="Odgovor #10922 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:01</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981386">
+									</span>
+								</div>
+								<div id="msg_10981386_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981386" id="msg_10981386">
+									<blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.msg10980280#msg10980280">Citat: stormwind poslato 29.06.2015. 12:00</a></cite><br />Nije tacno da nema kompromisa i da je razlaz jedino resenje.<br /><br />Eto, muskarac iz moje price je pre pristao da ima dete nego da ga zena ostavi. <br /><br />Suvise lako vi donosite neke univerzalne zakljucke. Svaka prica je prica za sebe, posebno kad se radi o tako delikatnim stvarima kao sto su ljudske zelje, stavovi i osecanja.<br /></blockquote><br />To nije kompromis, to je ucena!!! Velika je razlika izmedju ova dva! <br /><br />Postoje likovi koji to urade zbog zene, vecinom zbog ljubavi... A sta ce biti kad ljubav nestane?
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<script>
+				if (!isSmallerScreen) {
+					document.write("<div id='InArticle_1' class='banner' style='min-width: 300px; min-height: 200px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_1'); });
+				}					
+			</script>
+		</div>
+	
+		<div class="topic-ad">
+	
+			<script>
+				if (isSmallerScreen) {
+					document.write("<div id='P1' class='banner' style='min-width: 320px; min-height: 50px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('P1'); });                            
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg10981399">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154314" title="Pogledaj korisnički nalog članice komplimenatabez">komplimenatabez</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154314"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_154314_1572621744.png"  width="120" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 20.547</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154314"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_154314_1572621744.png"  width="120" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154314" title="Pogledaj korisnički nalog članice komplimenatabez">komplimenatabez</a></h4>
+									<div class="message_count">Poruka:&nbsp;20.547</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981399" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981399" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10923</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981399" rel="nofollow" title="Odgovor #10923 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:03</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981399">
+									</span>
+								</div>
+								<div id="msg_10981399_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981399" id="msg_10981399">
+									<blockquote class="bbc_standard_quote"><cite>Citat</cite>Meni je ovo isto kao i to &quot;necu da imam djecu jer ima masu bezobrazne djece&quot; ili &quot;necu da se udajem jer ima masu losih brakova&quot;. Kakve to veze ima sa licnim odlukama?</blockquote><br />To je ravno izjavi - tezak je zivot, sta sve moze da me snadje... necu da zivim!&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/icon_mrgreen.gif" width="15" height="15" alt="&#58;mrgreen&#58;" title="icon_mrgreen.gif" class="smiley">
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_10981399_signature">
+								Arguing with a genius is very difficult, but arguing with an idiot is impossible.
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg10981413">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=33983" title="Pogledaj korisnički nalog članice anonimna2804">anonimna2804</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=33983"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_33983_1644014790.png"  width="59" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 5.937</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=33983"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_33983_1644014790.png"  width="59" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=33983" title="Pogledaj korisnički nalog članice anonimna2804">anonimna2804</a></h4>
+									<div class="message_count">Poruka:&nbsp;5.937</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981413" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981413" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10924</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981413" rel="nofollow" title="Odgovor #10924 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:05</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981413">
+									</span>
+								</div>
+								<div id="msg_10981413_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981413" id="msg_10981413">
+									Citam ovu temu vec danima...i ono sto najvise upada u oci su clanice koje ne razumeju smisao zivota bez dece. <br />Upadaju mi u oci takvi stavovi koje ne mogu da razumem. <br /><br />Kao, zivot nema smisla ako nemas decu&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/shocking.gif" width="18" height="18" alt="&#58;shock&#58;" title="shocking.gif" class="smiley"> <br /><br />Kao prvo, mnogi ne mogu da imaju decu, a to zele, osecali bi se kao u***** golubovi kada bi procitali ova razmisljanja koja pride zvuce vrlo surovo (pored toga sto zvuce potpuno glupavo, da tako kazem). Povredilo bi ih najverovatnije, sto je i prirodno.<br />Kao drugo, oni koji ne zele da imaju decu, kako oni koji imaju decu ili smatraju da treba svi koji prirodno mogu da imaju decu, mogu da znaju da to nije ispravno razmisljanje? Da njihovi stavovi, odsustvo osecaja za roditeljstvo i odluke nisu legitimni? Kako mogu oni da ubedjuju <img src="https://www.ana.rs/forum/Smileys/default/shocking.gif" width="18" height="18" alt="&#58;shock&#58;" title="shocking.gif" class="smiley"> ove da nisu u pravu ako ne zele decu itd i tako blize? <br /><br />Interesuje me, na osnovu cega roditelji, majke, znaju da su ovi drugi koji misle drugacije u krivu ako ne zele decu, ako vec znamo da ne mogu da udju u njihovu kozu, ne osecaju kao oni? <br /><br />Isto tako, smatram da ono dvoje koji se razilaze, razvode, jer ne mogu da imaju decu (iz raznih razloga), nisu nikada ni bili jedno za drugo. Bolje i da nisu docekali tu decu ako im je nedostatak dece dovoljan da se zauvek razidju...Mozda to zvuci surovo ili kako god hocete, ali to je istina. Druga je stvar sto je to nekih 5% procenata pravih brakova i ljubavi koji odolevaju svemu i ostaju zajedno uprkos svemu! I da, itekako njihovi brakovi bez dece imaju smisla!!&nbsp; <br /><br />Primite punu podrsku od jedne trudnice&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/flowers.gif" width="28" height="18" alt="&#58;flower&#58;" title="flowers.gif" class="smiley">
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_10981413_signature">
+								IG: @oleum.rs
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg10981417">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154817" title="Pogledaj korisnički nalog članice Reptil">Reptil</a>
+							</h4>
+							<ul class="user_info">
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 5.644</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_1" title="Muški"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154817" title="Pogledaj korisnički nalog članice Reptil">Reptil</a></h4>
+									<div class="message_count">Poruka:&nbsp;5.644</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_1" title="Muški"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981417" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981417" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10925</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981417" rel="nofollow" title="Odgovor #10925 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:06</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981417">
+									</span>
+								</div>
+								<div id="msg_10981417_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981417" id="msg_10981417">
+									<blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.msg10980825#msg10980825">Citat: Eleonora011 poslato 29.06.2015. 13:35</a></cite><br />Da, kompromis je nemoguc.<br />Ja nisam u fazonu jurenja karijere, pa opet ne zelim decu. Zadovoljna sam poslom, plata bi mogla biti i vece, posebno sto mi je smanjena 10%, ali zato imam puno neradnih dana&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/icon_mrgreen.gif" width="15" height="15" alt="&#58;mrgreen&#58;" title="icon_mrgreen.gif" class="smiley"><br /><br />Uclanila sam se u grupu Zivot bez dece, ali se i isclanila nakon 5 minuta jer su se podsemvali spomenicima u Rusiji i Italiji, gde stoji majka ( trudna) sa dvoje dece.&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/nono.gif" width="23" height="25" alt="&#58;nono&#58;" title="nono.gif" class="smiley"> <img src="https://www.ana.rs/forum/Smileys/default/bash.gif" width="41" height="28" alt="&#58;dong&#58;" title="bash.gif" class="smiley"> <img src="https://www.ana.rs/forum/Smileys/default/batina.php.gif" width="24" height="21" alt="&#58;batina&#58;" title="batina" class="smiley">&nbsp; mozda bi ti tamo mogao naci takvu devojku, ali mi se po imenima cini da nisu iz Srbije.<br /></blockquote><br />A to su oni childfree gikovi&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/smile.gif" width="20" height="20" alt="&#58;&#41;" title="smile" class="smiley"> Ne, zelim srpkinju!
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<script>
+				if (!isSmallerScreen) {
+					document.write("<div id='InArticle_2' class='banner' style='min-width: 300px; min-height: 200px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_2'); });
+				}					
+			</script>
+		</div>
+	
+		<div class="topic-ad">
+	
+			<script>
+				if (isSmallerScreen) {
+					document.write("<div id='InArticle_1' class='banner' style='min-width: 320px; min-height: 50px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_1'); });
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg10981449">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=71508" title="Pogledaj korisnički nalog članice Sofija10">Sofija10</a>
+							</h4>
+							<ul class="user_info">
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 3.411</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=71508" title="Pogledaj korisnički nalog članice Sofija10">Sofija10</a></h4>
+									<div class="message_count">Poruka:&nbsp;3.411</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981449" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981449" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10926</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981449" rel="nofollow" title="Odgovor #10926 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:10</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981449">
+									</span>
+								</div>
+								<div id="msg_10981449_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981449" id="msg_10981449">
+									<b>Anonimna2804</b>, vrlo lep post i to jedne buduće mame! <img src="https://www.ana.rs/forum/Smileys/default/congratulations.gif" width="125" height="58" alt="&#58;congratulations&#58;" title="congratulations.gif" class="smiley"> Čestitam bebicu i hvala za ovaj post i pokazanu toleranciju! <img src="https://www.ana.rs/forum/Smileys/default/ylinfant.gif" width="21" height="41" alt="&#58;ylinfant&#58;" title="ylinfant.gif" class="smiley"> <img src="https://www.ana.rs/forum/Smileys/default/flowers.gif" width="28" height="18" alt="&#58;flower&#58;" title="flowers.gif" class="smiley">
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg10981465">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=85148" title="Pogledaj korisnički nalog članice Hemuli">Hemuli</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=85148"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_85148_1384862988.png"  width="124" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 8.247</li>
+								<li class="blurb">Što je argument slabiji, ton je jači.</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=85148"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_85148_1384862988.png"  width="124" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=85148" title="Pogledaj korisnički nalog članice Hemuli">Hemuli</a></h4>
+									<div class="message_count">Poruka:&nbsp;8.247</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981465" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981465" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10927</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981465" rel="nofollow" title="Odgovor #10927 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:12</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981465">
+									</span>
+								</div>
+								<div id="msg_10981465_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981465" id="msg_10981465">
+									<blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.msg10981338#msg10981338">Citat: Sofija10 poslato 29.06.2015. 14:53</a></cite><br />Sa prvim pasus se apsolutno slažem, ali imam jedno pitanje- zašto neko mora da se pravda? Da obrazlaže svoje odluke? I još da nađe dostojan razlog, nije svaki dobar, nego treba neki uzvišeni cilj? <img src="https://www.ana.rs/forum/Smileys/default/lol.gif" width="20" height="20" alt="&#58;ll&#58;" title="lol.gif" class="smiley"> Kakvi ste vi pa se igrate bogova, mogu misliti, svi za primer kako treba živeti! <img src="https://www.ana.rs/forum/Smileys/default/clap.gif" width="31" height="25" alt="&#58;clap&#58;" title="clap.gif" class="smiley"> (nije usmereno ka tebi, nego generalni utisak a tvoj post me povukao)<br /></blockquote><br />Ne mora uopste da mi se pravda, naravno <img src="https://www.ana.rs/forum/Smileys/default/flowers.gif" width="28" height="18" alt="&#58;flower&#58;" title="flowers.gif" class="smiley"> Ni meni, ni nikome (osim mozda roditeljima, posto je odlucio da ne studira, a jos nije planirao da radi u dogledno vrijeme, nego da se odmaro od srednje, sta li <img src="https://www.ana.rs/forum/Smileys/default/icon_mrgreen.gif" width="15" height="15" alt="&#58;mrgreen&#58;" title="icon_mrgreen.gif" class="smiley">). Nego kazem, kad vec ima potrebu da podijeli koji je to razlog, ja mu necu aplaudirati na tom konkretnom razlogu. Ova tema je tako koncipirana, ljudi sami iznose svoje razloge za i protiv. Neki su mi razumljivi, neki nisu. Kao sto nekome nisu razumljivi neki moji izbori koje sam ovde iznijela, iako nisam morala <img src="https://www.ana.rs/forum/Smileys/default/icon_mrgreen.gif" width="15" height="15" alt="&#58;mrgreen&#58;" title="icon_mrgreen.gif" class="smiley"> Naravno, uvijek uzimam u obzir da je to sto ne razumijem - i do mene donekle, dakle ne mogu da se stavim u njihovu kozu.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_10981465_signature">
+								What ever our souls are made of, his and mine are the same.
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<!--ana izlog widget -->
+			<script type="text/javascript">
+				if (!isSmallerScreen) {
+					document.write('<div id="aklaFwCrezu" class="aklawidgets"></div>');
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg10981535">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154817" title="Pogledaj korisnički nalog članice Reptil">Reptil</a>
+							</h4>
+							<ul class="user_info">
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 5.644</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_1" title="Muški"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154817" title="Pogledaj korisnički nalog članice Reptil">Reptil</a></h4>
+									<div class="message_count">Poruka:&nbsp;5.644</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_1" title="Muški"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981535" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981535" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10928</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981535" rel="nofollow" title="Odgovor #10928 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:21</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981535">
+									</span>
+								</div>
+								<div id="msg_10981535_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981535" id="msg_10981535">
+									<blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.msg10981413#msg10981413">Citat: anonimna2804 poslato 29.06.2015. 15:05</a></cite><br />Citam ovu temu vec danima...i ono sto najvise upada u oci su clanice koje ne razumeju smisao zivota bez dece. <br />Upadaju mi u oci takvi stavovi koje ne mogu da razumem. <br /><br />Kao, zivot nema smisla ako nemas decu&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/shocking.gif" width="18" height="18" alt="&#58;shock&#58;" title="shocking.gif" class="smiley"> <br /><br />Kao prvo, mnogi ne mogu da imaju decu, a to zele, osecali bi se kao u***** golubovi kada bi procitali ova razmisljanja koja pride zvuce vrlo surovo (pored toga sto zvuce potpuno glupavo, da tako kazem). Povredilo bi ih najverovatnije, sto je i prirodno.<br />Kao drugo, oni koji ne zele da imaju decu, kako oni koji imaju decu ili smatraju da treba svi koji prirodno mogu da imaju decu, mogu da znaju da to nije ispravno razmisljanje? Da njihovi stavovi, odsustvo osecaja za roditeljstvo i odluke nisu legitimni? Kako mogu oni da ubedjuju <img src="https://www.ana.rs/forum/Smileys/default/shocking.gif" width="18" height="18" alt="&#58;shock&#58;" title="shocking.gif" class="smiley"> ove da nisu u pravu ako ne zele decu itd i tako blize? <br /><br />Interesuje me, na osnovu cega roditelji, majke, znaju da su ovi drugi koji misle drugacije u krivu ako ne zele decu, ako vec znamo da ne mogu da udju u njihovu kozu, ne osecaju kao oni? <br /><br />Isto tako, smatram da ono dvoje koji se razilaze, razvode, jer ne mogu da imaju decu (iz raznih razloga), nisu nikada ni bili jedno za drugo. Bolje i da nisu docekali tu decu ako im je nedostatak dece dovoljan da se zauvek razidju...Mozda to zvuci surovo ili kako god hocete, ali to je istina. Druga je stvar sto je to nekih 5% procenata pravih brakova i ljubavi koji odolevaju svemu i ostaju zajedno uprkos svemu! I da, itekako njihovi brakovi bez dece imaju smisla!!&nbsp; <br /><br />Primite punu podrsku od jedne trudnice&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/flowers.gif" width="28" height="18" alt="&#58;flower&#58;" title="flowers.gif" class="smiley"><br /></blockquote><br />Neki pronalaze smisao jedino u tome.<br />Imam kolegu na poslu koji je sterilan, covek ima ozbiljan problem zbog toga (ne moze da se pomiri sa tim) a ne zeli da usvoji. <br />Kod mene licno ne postoji nikakava zelja za roditeljstvom, kod mene je nesto zakazalo, nemam taj ocinski instinkt. Sta konkretno to je vec za dublju analizu kod nekog strucnog ali to ne zelim, sta god mi neko kaze moj stav ostaje isti. Jednostavno imam pravo na svoju odluku i tako ce i da bude. Ljudi koji komentarisu opet imaju svoje razloge za to. Dobijam i ja komentare tipa da sam sebican, kako jos nisam nasao pravu, mlad sam predomislicu se... Samo kazem ok, u pravu si i menjam temu.<br /><br />Razlaz zbog deteta je vec jako osetljiva tema. Neki nemaju problem sa usvajanjem, neki jednostavno ne zele brigu o nekome ko nema njihovu genetiku. <br /><br />Srecno&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/flowers.gif" width="28" height="18" alt="&#58;flower&#58;" title="flowers.gif" class="smiley">
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<script>
+				if (!isSmallerScreen) {
+					document.write("<div id='InArticle_3' class='banner' style='min-width: 300px; min-height: 200px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_3'); });
+				}					
+			</script>
+		</div>
+	
+		<div class="topic-ad">
+	
+			<script>
+				if (isSmallerScreen) {
+					document.write("<div id='InArticle_2' class='banner' style='min-width: 320px; min-height: 50px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_2'); });
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg10981568">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=167652" title="Pogledaj korisnički nalog članice Galaxis">Galaxis</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=167652"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_167652_1447355278.png"  width="140" height="89" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 4.186</li>
+								<li class="blurb">Praslin &lt;3</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=167652"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_167652_1447355278.png"  width="140" height="89" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=167652" title="Pogledaj korisnički nalog članice Galaxis">Galaxis</a></h4>
+									<div class="message_count">Poruka:&nbsp;4.186</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981568" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981568" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10929</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981568" rel="nofollow" title="Odgovor #10929 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:27</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981568">
+									</span>
+								</div>
+								<div id="msg_10981568_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981568" id="msg_10981568">
+									Neko je pomenuo da se parovi sa decom manje razvode. To je verovatno tacno, ali cesto je razlog finansijske prirode (nemaju gde i kako sa malim detetom) ili ostaju zajedno &#039;zbog deteta&#039;. <br /><br />Ja zelim decu, ali nisam toliko opterecena tim. Verujem da bih i bez njih bila srecna. Ako ne mogu da imam decu, usvojila verovatno ne bih, jer ako zelim dete, onda zelim neko o kome je vodjeno racuna tokom cele trudnoce i ranog detinjstva.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_10981568_signature">
+								<a href="http://pdgf.pitapata.com/rzL6p1.png" target="_blank" rel="nofollow"><img src="https://www.ana.rs/forum/thumbs/img.php?src=http%3A%2F%2Fpdgf.pitapata.com%2FrzL6p1.png" alt="" width="150" height="30" class="bbc_img resized" loading="lazy"></a>
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<!--ana izlog widget -->
+			<script type="text/javascript">
+				if (isSmallerScreen) {
+					document.write('<div id="aklaFwCrezu" class="aklawidgets"></div>');
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg10981604">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=33983" title="Pogledaj korisnički nalog članice anonimna2804">anonimna2804</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=33983"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_33983_1644014790.png"  width="59" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 5.937</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=33983"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_33983_1644014790.png"  width="59" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=33983" title="Pogledaj korisnički nalog članice anonimna2804">anonimna2804</a></h4>
+									<div class="message_count">Poruka:&nbsp;5.937</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981604" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981604" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10930</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981604" rel="nofollow" title="Odgovor #10930 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:32</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981604">
+									</span>
+								</div>
+								<div id="msg_10981604_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981604" id="msg_10981604">
+									Ok, neki pronalaze smisao samo i iskljucivo u deci. <br />Neki ne zele decu uopste. <br />Neki imaju i svoju i usvojenu. <br />Neki ne zele tudju. <br />Itd, itd..Mozemo o svima njima sada, ali&nbsp; tema su oni koji ne zele decu.<br /><br />Ja sam se osvrnula na one koji samo dodju i bubnu kako &quot;zivot bez dece nema smisla&quot;. I to cudeci se kako neko moze da se usudi da misli drugacije i kako samo neko ko nema decu moze tako da prica. <br />Pa cekaj, jednog dana i moja deca ce otici, imati svoje porodice, brakove ako Bog da, a ja?! Meni valjda ostaje mm..nas brak, zajednica. Prema tome, deca i ne smeju da samo ona budu smisao zivota.<br /><br />Mene interesuju odgovori na ono sto sam pitala pa se nadam da ce se neko javiti da mi odgovori na njih.<br /><br /><b>Sofija</b>, nema na cemu zaista! I hvala velika na cestitkama&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/flowers.gif" width="28" height="18" alt="&#58;flower&#58;" title="flowers.gif" class="smiley">
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_10981604_signature">
+								IG: @oleum.rs
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg10981623">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=167652" title="Pogledaj korisnički nalog članice Galaxis">Galaxis</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=167652"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_167652_1447355278.png"  width="140" height="89" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 4.186</li>
+								<li class="blurb">Praslin &lt;3</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=167652"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_167652_1447355278.png"  width="140" height="89" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=167652" title="Pogledaj korisnički nalog članice Galaxis">Galaxis</a></h4>
+									<div class="message_count">Poruka:&nbsp;4.186</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981623" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981623" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10931</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981623" rel="nofollow" title="Odgovor #10931 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:36</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981623">
+									</span>
+								</div>
+								<div id="msg_10981623_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981623" id="msg_10981623">
+									Plus, od &#039;zivot bez dece nema smisla&#039; lako dodje do ogranicavanja vec odraslog deteta, ne daj boze da se odseli daleko, ko ce majci i ocu da pomaze... Prevrne mi se zeludac kad cujem da zele decu inace nece imati ko da ih pazi u buducnosti.&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/rolleyes01.gif" width="20" height="20" alt="&#58;rolleyes&#58;" title="rolleyes1" class="smiley">
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_10981623_signature">
+								<a href="http://pdgf.pitapata.com/rzL6p1.png" target="_blank" rel="nofollow"><img src="https://www.ana.rs/forum/thumbs/img.php?src=http%3A%2F%2Fpdgf.pitapata.com%2FrzL6p1.png" alt="" width="150" height="30" class="bbc_img resized" loading="lazy"></a>
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<div style='display: flex; justify-content: space-around'>
+				<script>
+					if (!isSmallerScreen) {
+						document.write("<div id='InArticle_4_Left' class='banner' style='min-width: 300px; min-height: 250px; margin: 1em 0;'></div>");
+						googletag.cmd.push(function() { googletag.display('InArticle_4_Left'); });
+						document.write("<div id='InArticle_4_Right' class='banner' style='min-width: 300px; min-height: 250px; margin: 1em 0;'></div>");
+						googletag.cmd.push(function() { googletag.display('InArticle_4_Right'); });
+					}
+				</script>
+			</div>
+		</div>
+	
+		<div class="topic-ad">
+	
+			<script>
+				if (isSmallerScreen) {
+					document.write("<div id='InArticle_3' class='banner' style='min-width: 320px; min-height: 50px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_3'); });
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg10981654">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154817" title="Pogledaj korisnički nalog članice Reptil">Reptil</a>
+							</h4>
+							<ul class="user_info">
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 5.644</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_1" title="Muški"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=154817" title="Pogledaj korisnički nalog članice Reptil">Reptil</a></h4>
+									<div class="message_count">Poruka:&nbsp;5.644</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_1" title="Muški"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981654" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981654" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10932</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981654" rel="nofollow" title="Odgovor #10932 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:41</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981654">
+									</span>
+								</div>
+								<div id="msg_10981654_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981654" id="msg_10981654">
+									Mi smo u sustini genetski jako slicni sa zivotinjama. Zivotinjksi smisao postojanja&nbsp; je ocuvanje sopstvenog zivota i produzenje vrste. Razlika je u donosenju odluka, ljudi ce donose i&nbsp; racionalne odluke a zivotinje samo nagonsku. Nekome je jednostavno nezamislivo da neko ne zeli dete i to je u redu. Oni ce otici ali ti si svoje gene nastavila i to je to.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg10981693">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=144290" title="Pogledaj korisnički nalog članice jovan1984">jovan1984</a>
+							</h4>
+							<ul class="user_info">
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 608</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_1" title="Muški"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=144290" title="Pogledaj korisnički nalog članice jovan1984">jovan1984</a></h4>
+									<div class="message_count">Poruka:&nbsp;608</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_1" title="Muški"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981693" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981693" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10933</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981693" rel="nofollow" title="Odgovor #10933 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:46</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981693">
+									</span>
+								</div>
+								<div id="msg_10981693_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981693" id="msg_10981693">
+									Anonimna 2804 odlicno razmisljas!
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg10981695">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=166699" title="Pogledaj korisnički nalog članice Nata C">Nata C</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=166699"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_166699_1429287161.png"  width="111" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 128</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=166699"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_166699_1429287161.png"  width="111" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=profile;u=166699" title="Pogledaj korisnički nalog članice Nata C">Nata C</a></h4>
+									<div class="message_count">Poruka:&nbsp;128</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_10981695" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981695" rel="nofollow">Odg: Ne želim dete...</a>
+								</div>
+								<span class="page_number floatright">#10934</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;msg=10981695" rel="nofollow" title="Odgovor #10934 - Odg: Ne želim dete..." class="smalltext">29.06.2015. 15:46</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_10981695">
+									</span>
+								</div>
+								<div id="msg_10981695_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="10981695" id="msg_10981695">
+									A to kad neko kaze da si sebican jer ne zelis decu, LOL!&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/icon_mrgreen.gif" width="15" height="15" alt="&#58;mrgreen&#58;" title="icon_mrgreen.gif" class="smiley"> Pa deca se iz te kvazi &quot;sebicnosti&quot; i licne zelje roditelja i radjaju. Bas zbog njih i njihovih zelja i razmisljanja odluce da imaju dete, isto zbog cega neki drugi odluce da ih nemaju. Ali uvek se nadje neko &quot;pametan&quot; da namece da &quot;svi sve moraju, jer se to tako radi i &quot;priroda&quot; je to&quot;. Ali mnogima je jasno koja grupa grupa ljudi to radi. <img src="https://www.ana.rs/forum/Smileys/default/shocking.gif" width="18" height="18" alt="&#58;shock&#58;" title="shocking.gif" class="smiley"> <img src="https://www.ana.rs/forum/Smileys/default/rolleyes01.gif" width="20" height="20" alt="&#58;rolleyes&#58;" title="rolleyes1" class="smiley">&nbsp; Barem se nadam. <img src="https://www.ana.rs/forum/Smileys/default/lol.gif" width="20" height="20" alt="&#58;ll&#58;" title="lol.gif" class="smiley"> <br /><br />A inace imam dvoje dece, i naravno da smo mm i ja odlucili da ih imamo zbog nas, nase zelje i ljubavi, a ne zato sto tako mora ili tako treba. I imam prijatelje koji nemaju decu, ne zele ih, i odlicno im je. I vise nego odlicno. Mislim, cudno sto na ovoj temi uopste mora da se napise da je nekome odlicno i bez dece kao da se to ne podrazumeva, sa milion i jednom drugom zeljom i zanimacijom u zivotu, kad bi to trebalo da je normalno da svako radi kako zeli i hoce. <br /><br />Meni jedino ostaje cudno odakle tolika ogranicenost mnogih ljudi (ne svih, hvala Bogu) da sve mora po nekom sablonu, &quot;prirodi&quot; i cemu ne vec da se radi, i to naravno ne samo na ovoj temi, vec svuda.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<div style='display: flex; justify-content: space-around'>
+				<script>
+					if (!isSmallerScreen) {
+						document.write("<div id='InArticle_5_Left' class='banner' style='min-width: 300px; min-height: 250px; margin: 1em 0;'></div>");
+						googletag.cmd.push(function() { googletag.display('InArticle_5_Left'); });
+						document.write("<div id='InArticle_5_Right' class='banner' style='min-width: 300px; min-height: 250px; margin: 1em 0;'></div>");
+						googletag.cmd.push(function() { googletag.display('InArticle_5_Right'); });
+					}
+				</script>
+			</div>
+		</div>
+	
+			</form>
+		</div><!-- #forumposts -->
+		<div class="pagesection">
+			
+		<div class="buttonlist floatright">
+			
+				<a class="button button_strip_print" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=printpage;topic=134661.0"  rel="nofollow">Štampaj</a>
+		</div>
+			 
+			<div class="pagelinks floatleft">
+				<a href="#main_content_section" class="button" id="bot">Idi gore</a>
+				<select onchange="javascript:window.location=('https://www.ana.rs/forum/index.php?topic=134661.%1$d').replace(/%1\$d/, this.value);"><option value="0">1</option><option value="15">2</option><option value="30">3</option><option value="45">4</option><option value="60">5</option><option value="75">6</option><option value="90">7</option><option value="105">8</option><option value="120">9</option><option value="135">10</option><option value="150">11</option><option value="165">12</option><option value="180">13</option><option value="195">14</option><option value="210">15</option><option value="225">16</option><option value="240">17</option><option value="255">18</option><option value="270">19</option><option value="285">20</option><option value="300">21</option><option value="315">22</option><option value="330">23</option><option value="345">24</option><option value="360">25</option><option value="375">26</option><option value="390">27</option><option value="405">28</option><option value="420">29</option><option value="435">30</option><option value="450">31</option><option value="465">32</option><option value="480">33</option><option value="495">34</option><option value="510">35</option><option value="525">36</option><option value="540">37</option><option value="555">38</option><option value="570">39</option><option value="585">40</option><option value="600">41</option><option value="615">42</option><option value="630">43</option><option value="645">44</option><option value="660">45</option><option value="675">46</option><option value="690">47</option><option value="705">48</option><option value="720">49</option><option value="735">50</option><option value="750">51</option><option value="765">52</option><option value="780">53</option><option value="795">54</option><option value="810">55</option><option value="825">56</option><option value="840">57</option><option value="855">58</option><option value="870">59</option><option value="885">60</option><option value="900">61</option><option value="915">62</option><option value="930">63</option><option value="945">64</option><option value="960">65</option><option value="975">66</option><option value="990">67</option><option value="1005">68</option><option value="1020">69</option><option value="1035">70</option><option value="1050">71</option><option value="1065">72</option><option value="1080">73</option><option value="1095">74</option><option value="1110">75</option><option value="1125">76</option><option value="1140">77</option><option value="1155">78</option><option value="1170">79</option><option value="1185">80</option><option value="1200">81</option><option value="1215">82</option><option value="1230">83</option><option value="1245">84</option><option value="1260">85</option><option value="1275">86</option><option value="1290">87</option><option value="1305">88</option><option value="1320">89</option><option value="1335">90</option><option value="1350">91</option><option value="1365">92</option><option value="1380">93</option><option value="1395">94</option><option value="1410">95</option><option value="1425">96</option><option value="1440">97</option><option value="1455">98</option><option value="1470">99</option><option value="1485">100</option><option value="1500">101</option><option value="1515">102</option><option value="1530">103</option><option value="1545">104</option><option value="1560">105</option><option value="1575">106</option><option value="1590">107</option><option value="1605">108</option><option value="1620">109</option><option value="1635">110</option><option value="1650">111</option><option value="1665">112</option><option value="1680">113</option><option value="1695">114</option><option value="1710">115</option><option value="1725">116</option><option value="1740">117</option><option value="1755">118</option><option value="1770">119</option><option value="1785">120</option><option value="1800">121</option><option value="1815">122</option><option value="1830">123</option><option value="1845">124</option><option value="1860">125</option><option value="1875">126</option><option value="1890">127</option><option value="1905">128</option><option value="1920">129</option><option value="1935">130</option><option value="1950">131</option><option value="1965">132</option><option value="1980">133</option><option value="1995">134</option><option value="2010">135</option><option value="2025">136</option><option value="2040">137</option><option value="2055">138</option><option value="2070">139</option><option value="2085">140</option><option value="2100">141</option><option value="2115">142</option><option value="2130">143</option><option value="2145">144</option><option value="2160">145</option><option value="2175">146</option><option value="2190">147</option><option value="2205">148</option><option value="2220">149</option><option value="2235">150</option><option value="2250">151</option><option value="2265">152</option><option value="2280">153</option><option value="2295">154</option><option value="2310">155</option><option value="2325">156</option><option value="2340">157</option><option value="2355">158</option><option value="2370">159</option><option value="2385">160</option><option value="2400">161</option><option value="2415">162</option><option value="2430">163</option><option value="2445">164</option><option value="2460">165</option><option value="2475">166</option><option value="2490">167</option><option value="2505">168</option><option value="2520">169</option><option value="2535">170</option><option value="2550">171</option><option value="2565">172</option><option value="2580">173</option><option value="2595">174</option><option value="2610">175</option><option value="2625">176</option><option value="2640">177</option><option value="2655">178</option><option value="2670">179</option><option value="2685">180</option><option value="2700">181</option><option value="2715">182</option><option value="2730">183</option><option value="2745">184</option><option value="2760">185</option><option value="2775">186</option><option value="2790">187</option><option value="2805">188</option><option value="2820">189</option><option value="2835">190</option><option value="2850">191</option><option value="2865">192</option><option value="2880">193</option><option value="2895">194</option><option value="2910">195</option><option value="2925">196</option><option value="2940">197</option><option value="2955">198</option><option value="2970">199</option><option value="2985">200</option><option value="3000">201</option><option value="3015">202</option><option value="3030">203</option><option value="3045">204</option><option value="3060">205</option><option value="3075">206</option><option value="3090">207</option><option value="3105">208</option><option value="3120">209</option><option value="3135">210</option><option value="3150">211</option><option value="3165">212</option><option value="3180">213</option><option value="3195">214</option><option value="3210">215</option><option value="3225">216</option><option value="3240">217</option><option value="3255">218</option><option value="3270">219</option><option value="3285">220</option><option value="3300">221</option><option value="3315">222</option><option value="3330">223</option><option value="3345">224</option><option value="3360">225</option><option value="3375">226</option><option value="3390">227</option><option value="3405">228</option><option value="3420">229</option><option value="3435">230</option><option value="3450">231</option><option value="3465">232</option><option value="3480">233</option><option value="3495">234</option><option value="3510">235</option><option value="3525">236</option><option value="3540">237</option><option value="3555">238</option><option value="3570">239</option><option value="3585">240</option><option value="3600">241</option><option value="3615">242</option><option value="3630">243</option><option value="3645">244</option><option value="3660">245</option><option value="3675">246</option><option value="3690">247</option><option value="3705">248</option><option value="3720">249</option><option value="3735">250</option><option value="3750">251</option><option value="3765">252</option><option value="3780">253</option><option value="3795">254</option><option value="3810">255</option><option value="3825">256</option><option value="3840">257</option><option value="3855">258</option><option value="3870">259</option><option value="3885">260</option><option value="3900">261</option><option value="3915">262</option><option value="3930">263</option><option value="3945">264</option><option value="3960">265</option><option value="3975">266</option><option value="3990">267</option><option value="4005">268</option><option value="4020">269</option><option value="4035">270</option><option value="4050">271</option><option value="4065">272</option><option value="4080">273</option><option value="4095">274</option><option value="4110">275</option><option value="4125">276</option><option value="4140">277</option><option value="4155">278</option><option value="4170">279</option><option value="4185">280</option><option value="4200">281</option><option value="4215">282</option><option value="4230">283</option><option value="4245">284</option><option value="4260">285</option><option value="4275">286</option><option value="4290">287</option><option value="4305">288</option><option value="4320">289</option><option value="4335">290</option><option value="4350">291</option><option value="4365">292</option><option value="4380">293</option><option value="4395">294</option><option value="4410">295</option><option value="4425">296</option><option value="4440">297</option><option value="4455">298</option><option value="4470">299</option><option value="4485">300</option><option value="4500">301</option><option value="4515">302</option><option value="4530">303</option><option value="4545">304</option><option value="4560">305</option><option value="4575">306</option><option value="4590">307</option><option value="4605">308</option><option value="4620">309</option><option value="4635">310</option><option value="4650">311</option><option value="4665">312</option><option value="4680">313</option><option value="4695">314</option><option value="4710">315</option><option value="4725">316</option><option value="4740">317</option><option value="4755">318</option><option value="4770">319</option><option value="4785">320</option><option value="4800">321</option><option value="4815">322</option><option value="4830">323</option><option value="4845">324</option><option value="4860">325</option><option value="4875">326</option><option value="4890">327</option><option value="4905">328</option><option value="4920">329</option><option value="4935">330</option><option value="4950">331</option><option value="4965">332</option><option value="4980">333</option><option value="4995">334</option><option value="5010">335</option><option value="5025">336</option><option value="5040">337</option><option value="5055">338</option><option value="5070">339</option><option value="5085">340</option><option value="5100">341</option><option value="5115">342</option><option value="5130">343</option><option value="5145">344</option><option value="5160">345</option><option value="5175">346</option><option value="5190">347</option><option value="5205">348</option><option value="5220">349</option><option value="5235">350</option><option value="5250">351</option><option value="5265">352</option><option value="5280">353</option><option value="5295">354</option><option value="5310">355</option><option value="5325">356</option><option value="5340">357</option><option value="5355">358</option><option value="5370">359</option><option value="5385">360</option><option value="5400">361</option><option value="5415">362</option><option value="5430">363</option><option value="5445">364</option><option value="5460">365</option><option value="5475">366</option><option value="5490">367</option><option value="5505">368</option><option value="5520">369</option><option value="5535">370</option><option value="5550">371</option><option value="5565">372</option><option value="5580">373</option><option value="5595">374</option><option value="5610">375</option><option value="5625">376</option><option value="5640">377</option><option value="5655">378</option><option value="5670">379</option><option value="5685">380</option><option value="5700">381</option><option value="5715">382</option><option value="5730">383</option><option value="5745">384</option><option value="5760">385</option><option value="5775">386</option><option value="5790">387</option><option value="5805">388</option><option value="5820">389</option><option value="5835">390</option><option value="5850">391</option><option value="5865">392</option><option value="5880">393</option><option value="5895">394</option><option value="5910">395</option><option value="5925">396</option><option value="5940">397</option><option value="5955">398</option><option value="5970">399</option><option value="5985">400</option><option value="6000">401</option><option value="6015">402</option><option value="6030">403</option><option value="6045">404</option><option value="6060">405</option><option value="6075">406</option><option value="6090">407</option><option value="6105">408</option><option value="6120">409</option><option value="6135">410</option><option value="6150">411</option><option value="6165">412</option><option value="6180">413</option><option value="6195">414</option><option value="6210">415</option><option value="6225">416</option><option value="6240">417</option><option value="6255">418</option><option value="6270">419</option><option value="6285">420</option><option value="6300">421</option><option value="6315">422</option><option value="6330">423</option><option value="6345">424</option><option value="6360">425</option><option value="6375">426</option><option value="6390">427</option><option value="6405">428</option><option value="6420">429</option><option value="6435">430</option><option value="6450">431</option><option value="6465">432</option><option value="6480">433</option><option value="6495">434</option><option value="6510">435</option><option value="6525">436</option><option value="6540">437</option><option value="6555">438</option><option value="6570">439</option><option value="6585">440</option><option value="6600">441</option><option value="6615">442</option><option value="6630">443</option><option value="6645">444</option><option value="6660">445</option><option value="6675">446</option><option value="6690">447</option><option value="6705">448</option><option value="6720">449</option><option value="6735">450</option><option value="6750">451</option><option value="6765">452</option><option value="6780">453</option><option value="6795">454</option><option value="6810">455</option><option value="6825">456</option><option value="6840">457</option><option value="6855">458</option><option value="6870">459</option><option value="6885">460</option><option value="6900">461</option><option value="6915">462</option><option value="6930">463</option><option value="6945">464</option><option value="6960">465</option><option value="6975">466</option><option value="6990">467</option><option value="7005">468</option><option value="7020">469</option><option value="7035">470</option><option value="7050">471</option><option value="7065">472</option><option value="7080">473</option><option value="7095">474</option><option value="7110">475</option><option value="7125">476</option><option value="7140">477</option><option value="7155">478</option><option value="7170">479</option><option value="7185">480</option><option value="7200">481</option><option value="7215">482</option><option value="7230">483</option><option value="7245">484</option><option value="7260">485</option><option value="7275">486</option><option value="7290">487</option><option value="7305">488</option><option value="7320">489</option><option value="7335">490</option><option value="7350">491</option><option value="7365">492</option><option value="7380">493</option><option value="7395">494</option><option value="7410">495</option><option value="7425">496</option><option value="7440">497</option><option value="7455">498</option><option value="7470">499</option><option value="7485">500</option><option value="7500">501</option><option value="7515">502</option><option value="7530">503</option><option value="7545">504</option><option value="7560">505</option><option value="7575">506</option><option value="7590">507</option><option value="7605">508</option><option value="7620">509</option><option value="7635">510</option><option value="7650">511</option><option value="7665">512</option><option value="7680">513</option><option value="7695">514</option><option value="7710">515</option><option value="7725">516</option><option value="7740">517</option><option value="7755">518</option><option value="7770">519</option><option value="7785">520</option><option value="7800">521</option><option value="7815">522</option><option value="7830">523</option><option value="7845">524</option><option value="7860">525</option><option value="7875">526</option><option value="7890">527</option><option value="7905">528</option><option value="7920">529</option><option value="7935">530</option><option value="7950">531</option><option value="7965">532</option><option value="7980">533</option><option value="7995">534</option><option value="8010">535</option><option value="8025">536</option><option value="8040">537</option><option value="8055">538</option><option value="8070">539</option><option value="8085">540</option><option value="8100">541</option><option value="8115">542</option><option value="8130">543</option><option value="8145">544</option><option value="8160">545</option><option value="8175">546</option><option value="8190">547</option><option value="8205">548</option><option value="8220">549</option><option value="8235">550</option><option value="8250">551</option><option value="8265">552</option><option value="8280">553</option><option value="8295">554</option><option value="8310">555</option><option value="8325">556</option><option value="8340">557</option><option value="8355">558</option><option value="8370">559</option><option value="8385">560</option><option value="8400">561</option><option value="8415">562</option><option value="8430">563</option><option value="8445">564</option><option value="8460">565</option><option value="8475">566</option><option value="8490">567</option><option value="8505">568</option><option value="8520">569</option><option value="8535">570</option><option value="8550">571</option><option value="8565">572</option><option value="8580">573</option><option value="8595">574</option><option value="8610">575</option><option value="8625">576</option><option value="8640">577</option><option value="8655">578</option><option value="8670">579</option><option value="8685">580</option><option value="8700">581</option><option value="8715">582</option><option value="8730">583</option><option value="8745">584</option><option value="8760">585</option><option value="8775">586</option><option value="8790">587</option><option value="8805">588</option><option value="8820">589</option><option value="8835">590</option><option value="8850">591</option><option value="8865">592</option><option value="8880">593</option><option value="8895">594</option><option value="8910">595</option><option value="8925">596</option><option value="8940">597</option><option value="8955">598</option><option value="8970">599</option><option value="8985">600</option><option value="9000">601</option><option value="9015">602</option><option value="9030">603</option><option value="9045">604</option><option value="9060">605</option><option value="9075">606</option><option value="9090">607</option><option value="9105">608</option><option value="9120">609</option><option value="9135">610</option><option value="9150">611</option><option value="9165">612</option><option value="9180">613</option><option value="9195">614</option><option value="9210">615</option><option value="9225">616</option><option value="9240">617</option><option value="9255">618</option><option value="9270">619</option><option value="9285">620</option><option value="9300">621</option><option value="9315">622</option><option value="9330">623</option><option value="9345">624</option><option value="9360">625</option><option value="9375">626</option><option value="9390">627</option><option value="9405">628</option><option value="9420">629</option><option value="9435">630</option><option value="9450">631</option><option value="9465">632</option><option value="9480">633</option><option value="9495">634</option><option value="9510">635</option><option value="9525">636</option><option value="9540">637</option><option value="9555">638</option><option value="9570">639</option><option value="9585">640</option><option value="9600">641</option><option value="9615">642</option><option value="9630">643</option><option value="9645">644</option><option value="9660">645</option><option value="9675">646</option><option value="9690">647</option><option value="9705">648</option><option value="9720">649</option><option value="9735">650</option><option value="9750">651</option><option value="9765">652</option><option value="9780">653</option><option value="9795">654</option><option value="9810">655</option><option value="9825">656</option><option value="9840">657</option><option value="9855">658</option><option value="9870">659</option><option value="9885">660</option><option value="9900">661</option><option value="9915">662</option><option value="9930">663</option><option value="9945">664</option><option value="9960">665</option><option value="9975">666</option><option value="9990">667</option><option value="10005">668</option><option value="10020">669</option><option value="10035">670</option><option value="10050">671</option><option value="10065">672</option><option value="10080">673</option><option value="10095">674</option><option value="10110">675</option><option value="10125">676</option><option value="10140">677</option><option value="10155">678</option><option value="10170">679</option><option value="10185">680</option><option value="10200">681</option><option value="10215">682</option><option value="10230">683</option><option value="10245">684</option><option value="10260">685</option><option value="10275">686</option><option value="10290">687</option><option value="10305">688</option><option value="10320">689</option><option value="10335">690</option><option value="10350">691</option><option value="10365">692</option><option value="10380">693</option><option value="10395">694</option><option value="10410">695</option><option value="10425">696</option><option value="10440">697</option><option value="10455">698</option><option value="10470">699</option><option value="10485">700</option><option value="10500">701</option><option value="10515">702</option><option value="10530">703</option><option value="10545">704</option><option value="10560">705</option><option value="10575">706</option><option value="10590">707</option><option value="10605">708</option><option value="10620">709</option><option value="10635">710</option><option value="10650">711</option><option value="10665">712</option><option value="10680">713</option><option value="10695">714</option><option value="10710">715</option><option value="10725">716</option><option value="10740">717</option><option value="10755">718</option><option value="10770">719</option><option value="10785">720</option><option value="10800">721</option><option value="10815">722</option><option value="10830">723</option><option value="10845">724</option><option value="10860">725</option><option value="10875">726</option><option value="10890">727</option><option value="10905">728</option><option value="10920" selected="selected">729</option><option value="10935">730</option><option value="10950">731</option><option value="10965">732</option><option value="10980">733</option><option value="10995">734</option><option value="11010">735</option><option value="11025">736</option><option value="11040">737</option><option value="11055">738</option><option value="11070">739</option><option value="11085">740</option><option value="11100">741</option><option value="11115">742</option><option value="11130">743</option><option value="11145">744</option><option value="11160">745</option><option value="11175">746</option><option value="11190">747</option><option value="11205">748</option><option value="11220">749</option><option value="11235">750</option><option value="11250">751</option><option value="11265">752</option><option value="11280">753</option><option value="11295">754</option><option value="11310">755</option><option value="11325">756</option><option value="11340">757</option><option value="11355">758</option><option value="11370">759</option><option value="11385">760</option><option value="11400">761</option><option value="11415">762</option><option value="11430">763</option><option value="11445">764</option><option value="11460">765</option><option value="11475">766</option><option value="11490">767</option><option value="11505">768</option><option value="11520">769</option><option value="11535">770</option><option value="11550">771</option><option value="11565">772</option><option value="11580">773</option><option value="11595">774</option><option value="11610">775</option><option value="11625">776</option><option value="11640">777</option><option value="11655">778</option><option value="11670">779</option><option value="11685">780</option><option value="11700">781</option><option value="11715">782</option><option value="11730">783</option><option value="11745">784</option><option value="11760">785</option><option value="11775">786</option><option value="11790">787</option><option value="11805">788</option></select> &nbsp;<span class="pages">Stranice</span><a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10905"><span class="main_icons previous_page"></span></a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.0">1</a> <span class="expand_pages" onclick="expandPages(this, '&lt;a class=&quot;nav_page&quot; href=&quot;' + smf_scripturl + '?topic=134661.%1$d&quot;&gt;%2$s&lt;/a&gt; ', 15, 10890, 15);"> ... </span><a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10890">727</a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10905">728</a> <span class="current_page">729</span> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10935">730</a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10950">731</a> <span class="expand_pages" onclick="expandPages(this, '&lt;a class=&quot;nav_page&quot; href=&quot;' + smf_scripturl + '?topic=134661.%1$d&quot;&gt;%2$s&lt;/a&gt; ', 10965, 11805, 15);"> ... </span><a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.11805">788</a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.10935"><span class="main_icons next_page"></span></a> 
+			</div>
+		<div class="mobile_buttons floatright">
+			
+			<a class="button mobile_act">Akcije</a>
+			
+		</div>
+		</div>
+		<div style='display: flex; align-items: center; justify-content: center'>
+			<script>
+				if (isSmallerScreen) {
+                    document.write("<div id='P2' class='banner' style='min-width: 320px; min-height: 50px;'></div>");
+                    googletag.cmd.push(function() { googletag.display('P2'); });
+				}
+			</script>
+		</div>
+		
+		<!--ana.rs aklamator widget teme - desktop + mobile v3-->
+		<div id="aklaePZHE0e" class="aklawidgets"></div>
+		
+				<div class="navigate_section">
+					<ul>
+						<li>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;"><span>Ana.rs - Ženski forum</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;#c17"><span>Svakodnevni život</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;board=55.0"><span>Moj živote</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;board=151.0"><span>Životni principi i navike</span></a>
+						</li>
+						<li class="last">
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;topic=134661.0"><span>Ne želim dete...</span></a>
+						</li>
+					</ul>
+				</div><!-- .navigate_section -->
+		<div id="moderationbuttons">
+			
+		</div>
+		<div id="display_jump_to"></div>
+		<div id="mobile_action" class="popup_container">
+			<div class="popup_window description">
+				<div class="popup_heading">
+					Akcije
+					<a href="javascript:void(0);" class="main_icons hide_popup"></a>
+				</div>
+				
+		<div class="buttonlist">
+			
+				<a class="button button_strip_print" href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=printpage;topic=134661.0"  rel="nofollow">Štampaj</a>
+		</div>
+			</div>
+		</div>
+		<script>
+			if ('XMLHttpRequest' in window)
+			{
+				var oQuickModify = new QuickModify({
+					sScriptUrl: smf_scripturl,
+					sClassName: 'quick_edit',
+					bShowModify: true,
+					iTopicId: 134661,
+					sTemplateBodyEdit: '\n\t\t\t\t\t\t<div id="quick_edit_body_container">\n\t\t\t\t\t\t\t<div id="error_box" class="error"><' + '/div>\n\t\t\t\t\t\t\t<textarea class="editor" name="message" rows="12" tabindex="1">%body%<' + '/textarea><br>\n\t\t\t\t\t\t\t<input type="hidden" name="a2920e969f7d" value="90d0b6c30455a5d28910ccbe60c826fa">\n\t\t\t\t\t\t\t<input type="hidden" name="topic" value="134661">\n\t\t\t\t\t\t\t<input type="hidden" name="msg" value="%msg_id%">\n\t\t\t\t\t\t\t<div class="righttext quickModifyMargin">\n\t\t\t\t\t\t\t\t<input type="submit" name="post" value="Sačuvaj" tabindex="2" onclick="return oQuickModify.modifySave(\'90d0b6c30455a5d28910ccbe60c826fa\', \'a2920e969f7d\');" accesskey="s" class="button"> <input type="submit" name="cancel" value="Otkaži" tabindex="3" onclick="return oQuickModify.modifyCancel();" class="button">\n\t\t\t\t\t\t\t<' + '/div>\n\t\t\t\t\t\t<' + '/div>',
+					sTemplateSubjectEdit: '<input type="text" name="subject" value="%subject%" size="80" maxlength="80" tabindex="4">',
+					sTemplateBodyNormal: '%body%',
+					sTemplateSubjectNormal: '<a hr'+'ef="' + smf_scripturl + '?topic=134661.msg%msg_id%#msg%msg_id%" rel="nofollow">%subject%<' + '/a>',
+					sTemplateTopSubject: '%subject%',
+					sTemplateReasonEdit: 'Razlog za izmenu: <input type="text" name="modify_reason" value="%modify_reason%" size="80" maxlength="80" tabindex="5" class="quickModifyMargin">',
+					sTemplateReasonNormal: '%modify_text',
+					sErrorBorderStyle: '1px solid red'
+				});
+
+				aJumpTo[aJumpTo.length] = new JumpTo({
+					sContainerId: "display_jump_to",
+					sJumpToTemplate: "<label class=\"smalltext jump_to\" for=\"%select_id%\">Prebaci se na<" + "/label> %dropdown_list%",
+					iCurBoardId: 151,
+					iCurBoardChildLevel: 1,
+					sCurBoardName: "Životni principi i navike",
+					sBoardChildLevelIndicator: "==",
+					sBoardPrefix: "=> ",
+					sCatSeparator: "-----------------------------",
+					sCatPrefix: "",
+					sGoButtonLabel: "Idi"
+				});
+
+				aIconLists[aIconLists.length] = new IconList({
+					sBackReference: "aIconLists[" + aIconLists.length + "]",
+					sIconIdPrefix: "msg_icon_",
+					sScriptUrl: smf_scripturl,
+					bShowModify: true,
+					iBoardId: 151,
+					iTopicId: 134661,
+					sSessionId: smf_session_id,
+					sSessionVar: smf_session_var,
+					sLabelIconList: "Ikona poruke",
+					sBoxBackground: "transparent",
+					sBoxBackgroundHover: "#ffffff",
+					iBoxBorderWidthHover: 1,
+					sBoxBorderColorHover: "#adadad" ,
+					sContainerBackground: "#ffffff",
+					sContainerBorder: "1px solid #adadad",
+					sItemBorder: "1px solid #ffffff",
+					sItemBorderHover: "1px dotted gray",
+					sItemBackground: "transparent",
+					sItemBackgroundHover: "#e0e0f0"
+				});
+			}
+		</script>
+			</div><!-- #main_content_section -->
+		</div><!-- #content_section -->
+		</div><!-- #forum_wrapper -->
+		
+		<div id="sidebar_wrapper">
+			<div style="position: sticky; top: 0; margin-top: 5px">
+				<script>
+					if (!isSmallerScreen) {
+						document.write("<div class='banner' id='Sidebar_1' style='min-width: 160px; min-height: 600px;'></div>");
+						googletag.cmd.push(function() { googletag.display('Sidebar_1'); });
+					}		
+				</script>
+				<!--ana.rs aklamator widget potkategorije i teme vertikalni v3-->
+				<div id="akla39ODbrW" class="aklawidgets" style="width: 300px;"></div>
+				
+				<script>
+					if (!isSmallerScreen) {
+						document.write("<div class='banner' id='Sidebar_2' style='min-width: 160px; min-height: 600px;'></div>");
+						googletag.cmd.push(function() { googletag.display('Sidebar_2'); });
+					}		
+				</script>
+			
+			</div>
+		</div>
+		
+		</div><!-- #central_wrapper -->
+	</div><!-- #wrapper -->
+</div><!-- #footerfix -->
+	<div id="footer">
+		<div class="inner_wrap">
+		<ul>
+			<li class="floatright">
+				<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=rules">Pravila foruma</a> | 
+				<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=privacy">Politika privatnosti</a> |  
+				<a href="mailto:oglasavanje@ana.rs">Cenovnik oglasnog prostora</a> | 
+				<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=impressum">Impresum</a> | 
+				<a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=about">O nama</a> 
+			</li>
+			<li class="copyright"><a href="https://www.ana.rs/forum/index.php?PHPSESSID=r9oc6au9di7obo59l34ld8unvo&amp;action=credits" title="License" target="_blank" rel="noopener">SMF 2.1.3 &copy; 2022</a>,<a href="https://www.simplemachines.org" title="Simple Machines" target="_blank" rel="noopener">Simple Machines</a></li>
+		</ul>
+		<p>Strana je kreirana za 0.098 sekundi i 25 upita.</p>
+		</div>
+	</div><!-- #footer -->
+	<div class="goUp">
+		<img width="16" height="34" src="https://www.ana.rs/forum/Themes/ana/images/ToTop.gif" title="Vrati se na vrh" alt="Vrati se na vrh" />
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function(){
+	    $(window).scroll(function() { 
+			if ($(window).scrollTop() > 0){
+				$(".goUp").fadeIn();
+			} else {
+				$(".goUp").fadeOut();
+			}
+		});
+
+		$(".goUp").click(function() {
+			$("html:not(:animated),body").animate({scrollTop: 0}, "slow");
+		});
+	});
+	</script>
+	
+<script>
+window.addEventListener("DOMContentLoaded", function() {
+		$.sceditor.locale["sr"] = {
+			"Width (optional):": "Širina (opciono):",
+			"Height (optional):": "Visina (opciono):",
+			"Insert": "Ubaci",
+			"Description (optional):": "Opis (nije obavezno)",
+			"Rows:": "Redova:",
+			"Cols:": "Kolona:",
+			"URL:": "URL:",
+			"E-mail:": "Imejl:",
+			"Video URL:": "URL do video fajla:",
+			"More": "Još",
+			"Close": "Zatvori",
+			dateFormat: "day.month.year"
+		};
+});
+</script>
+		<div id="bannerStickyBottom">
+			<div class="banner__close" style="position: absolute;top: -31px;right: -5px;cursor: pointer;padding: 5px;border-radius: 50%;border: 1px solid #b8b9be;box-shadow: 0 0 3px #b8b9be;background: #FFFFFF;">
+				<svg style="display: block; fill: #171929;" width="19px" height="19px" viewBox="0 0 8 8" xmlns="http://www.w3.org/2000/svg">
+					<path d="M1.41 0l-1.41 1.41.72.72 1.78 1.81-1.78 1.78-.72.69 1.41 1.44.72-.72 1.81-1.81 1.78 1.81.69.72 1.44-1.44-.72-.69-1.81-1.78 1.81-1.81.72-.72-1.44-1.41-.69.72-1.78 1.78-1.81-1.78-.72-.72z" />
+				</svg>
+			</div>
+			
+			<!-- banner placement here -->
+			<div class="banner" id="Sticky" style="min-width: 320px; min-height: 50px;">
+				<script>
+					googletag.cmd.push(function() { googletag.display("Sticky"); });
+				</script>
+			</div>
+			<!-- end banner placement here -->
+		</div>
+		
+		<script type="text/javascript">
+			const bannerStickyBottomConfig = {
+				hidden: true,       // is banner visible the whole time
+				scrolled: 200,      // scrolled pixels after banner is visible
+				negative: 300,      // how much banner will be off screen
+				center: 0           // banner moved to left/right from its center
+			}
+		
+			const bannerStickyBottom=document.getElementById("bannerStickyBottom"),bannerStickyBottomClose=document.querySelector("#bannerStickyBottom .banner__close");let bannerStickyBottomStart="";const bannerStickyBottomStyle="position:fixed;left:50%;bottom:"+(bannerStickyBottomStart=bannerStickyBottomConfig.hidden?-bannerStickyBottomConfig.negative+"px":"0")+";z-index:999999;transform:translateX(-50%) translateX("+bannerStickyBottomConfig.center+"px);transition:all 300ms ease";bannerStickyBottom.setAttribute("style",bannerStickyBottomStyle);const stickBanner=()=>{let t=0;document.addEventListener("scroll",function(){(t=window.scrollY)>bannerStickyBottomConfig.scrolled?bannerStickyBottom.style.bottom="0":bannerStickyBottom.style.bottom=bannerStickyBottomStart})};bannerStickyBottomClose&&bannerStickyBottomClose.addEventListener("click",()=>{bannerStickyBottom.remove()}),bannerStickyBottomConfig.hidden&&stickBanner();
+		</script>
+		
+		<iframe srcdoc="<script src='https://cdn.performax.cz/acc/loader.js?aab=loader'></script>" style="display: none" data-web="ana.rs" data-hash="cb239af71e27add71a70728e1e9dd126"></iframe>
+		
+</body>
+</html>

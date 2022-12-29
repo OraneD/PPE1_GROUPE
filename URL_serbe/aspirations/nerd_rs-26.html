@@ -1,0 +1,1895 @@
+<!DOCTYPE html>
+<html lang="sr-RS">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://cdn.consentmanager.mgr.consensu.org/delivery/cmp.min.css" />
+	<script>window.gdprAppliesGlobally=true;if(!("cmp_id" in window)){window.cmp_id=20921}if(!("cmp_params" in window)){window.cmp_params=""}if(!("cmp_host" in window)){window.cmp_host="b.delivery.consentmanager.net"}if(!("cmp_cdn" in window)){window.cmp_cdn="cdn.consentmanager.net"}if(!("cmp_proto" in window)){window.cmp_proto="https:"}window.cmp_getsupportedLangs=function(){var b=["DE","EN","FR","IT","NO","DA","FI","ES","PT","RO","BG","ET","EL","GA","HR","LV","LT","MT","NL","PL","SV","SK","SL","CS","HU","RU","SR","ZH","TR","UK","AR","BS"];if("cmp_customlanguages" in window){for(var a=0;a<window.cmp_customlanguages.length;a++){b.push(window.cmp_customlanguages[a].l.toUpperCase())}}return b};window.cmp_getRTLLangs=function(){return["AR"]};window.cmp_getlang=function(j){if(typeof(j)!="boolean"){j=true}if(j&&typeof(cmp_getlang.usedlang)=="string"&&cmp_getlang.usedlang!==""){return cmp_getlang.usedlang}var g=window.cmp_getsupportedLangs();var c=[];var f=location.hash;var e=location.search;var a="languages" in navigator?navigator.languages:[];if(f.indexOf("cmplang=")!=-1){c.push(f.substr(f.indexOf("cmplang=")+8,2).toUpperCase())}else{if(e.indexOf("cmplang=")!=-1){c.push(e.substr(e.indexOf("cmplang=")+8,2).toUpperCase())}else{if("cmp_setlang" in window&&window.cmp_setlang!=""){c.push(window.cmp_setlang.toUpperCase())}else{if(a.length>0){for(var d=0;d<a.length;d++){c.push(a[d])}}}}}if("language" in navigator){c.push(navigator.language)}if("userLanguage" in navigator){c.push(navigator.userLanguage)}var h="";for(var d=0;d<c.length;d++){var b=c[d].toUpperCase();if(g.indexOf(b)!=-1){h=b;break}if(b.indexOf("-")!=-1){b=b.substr(0,2)}if(g.indexOf(b)!=-1){h=b;break}}if(h==""&&typeof(cmp_getlang.defaultlang)=="string"&&cmp_getlang.defaultlang!==""){return cmp_getlang.defaultlang}else{if(h==""){h="EN"}}h=h.toUpperCase();return h};(function(){var n=document;var p=window;var f="";var b="_en";if("cmp_getlang" in p){f=p.cmp_getlang().toLowerCase();if("cmp_customlanguages" in p){for(var h=0;h<p.cmp_customlanguages.length;h++){if(p.cmp_customlanguages[h].l.toUpperCase()==f.toUpperCase()){f="en";break}}}b="_"+f}function g(e,d){var l="";e+="=";var i=e.length;if(location.hash.indexOf(e)!=-1){l=location.hash.substr(location.hash.indexOf(e)+i,9999)}else{if(location.search.indexOf(e)!=-1){l=location.search.substr(location.search.indexOf(e)+i,9999)}else{return d}}if(l.indexOf("&")!=-1){l=l.substr(0,l.indexOf("&"))}return l}var j=("cmp_proto" in p)?p.cmp_proto:"https:";var o=["cmp_id","cmp_params","cmp_host","cmp_cdn","cmp_proto"];for(var h=0;h<o.length;h++){if(g(o[h],"%%%")!="%%%"){window[o[h]]=g(o[h],"")}}var k=("cmp_ref" in p)?p.cmp_ref:location.href;var q=n.createElement("script");q.setAttribute("data-cmp-ab","1");var c=g("cmpdesign","");var a=g("cmpregulationkey","");q.src=j+"//"+p.cmp_host+"/delivery/cmp.php?id="+p.cmp_id+"&h="+encodeURIComponent(k)+(c!=""?"&cmpdesign="+encodeURIComponent(c):"")+(a!=""?"&cmpregulationkey="+encodeURIComponent(a):"")+("cmp_params" in p?"&"+p.cmp_params:"")+(n.cookie.length>0?"&__cmpfcc=1":"")+"&l="+f.toLowerCase()+"&o="+(new Date()).getTime();q.type="text/javascript";q.async=true;if(n.currentScript){n.currentScript.parentElement.appendChild(q)}else{if(n.body){n.body.appendChild(q)}else{var m=n.getElementsByTagName("body");if(m.length==0){m=n.getElementsByTagName("div")}if(m.length==0){m=n.getElementsByTagName("span")}if(m.length==0){m=n.getElementsByTagName("ins")}if(m.length==0){m=n.getElementsByTagName("script")}if(m.length==0){m=n.getElementsByTagName("head")}if(m.length>0){m[0].appendChild(q)}}}var q=n.createElement("script");q.src=j+"//"+p.cmp_cdn+"/delivery/js/cmp"+b+".min.js";q.type="text/javascript";q.setAttribute("data-cmp-ab","1");q.async=true;if(n.currentScript){n.currentScript.parentElement.appendChild(q)}else{if(n.body){n.body.appendChild(q)}else{var m=n.getElementsByTagName("body");if(m.length==0){m=n.getElementsByTagName("div")}if(m.length==0){m=n.getElementsByTagName("span")}if(m.length==0){m=n.getElementsByTagName("ins")}if(m.length==0){m=n.getElementsByTagName("script")}if(m.length==0){m=n.getElementsByTagName("head")}if(m.length>0){m[0].appendChild(q)}}}})();window.cmp_addFrame=function(b){if(!window.frames[b]){if(document.body){var a=document.createElement("iframe");a.style.cssText="display:none";a.name=b;document.body.appendChild(a)}else{window.setTimeout(window.cmp_addFrame,10,b)}}};window.cmp_rc=function(h){var b=document.cookie;var f="";var d=0;while(b!=""&&d<100){d++;while(b.substr(0,1)==" "){b=b.substr(1,b.length)}var g=b.substring(0,b.indexOf("="));if(b.indexOf(";")!=-1){var c=b.substring(b.indexOf("=")+1,b.indexOf(";"))}else{var c=b.substr(b.indexOf("=")+1,b.length)}if(h==g){f=c}var e=b.indexOf(";")+1;if(e==0){e=b.length}b=b.substring(e,b.length)}return(f)};window.cmp_stub=function(){var a=arguments;__cmapi.a=__cmapi.a||[];if(!a.length){return __cmapi.a}else{if(a[0]==="ping"){if(a[1]===2){a[2]({gdprApplies:gdprAppliesGlobally,cmpLoaded:false,cmpStatus:"stub",displayStatus:"hidden",apiVersion:"2.0",cmpId:31},true)}else{a[2]({gdprAppliesGlobally:gdprAppliesGlobally,cmpLoaded:false},true)}}else{if(a[0]==="getUSPData"){a[2]({version:1,uspString:window.cmp_rc("")},true)}else{if(a[0]==="getTCData"){__cmapi.a.push([].slice.apply(a))}else{if(a[0]==="addEventListener"||a[0]==="removeEventListener"){__cmapi.a.push([].slice.apply(a))}else{if(a.length==4&&a[3]===false){a[2]({},false)}else{__cmapi.a.push([].slice.apply(a))}}}}}}};window.cmp_msghandler=function(d){var a=typeof d.data==="string";try{var c=a?JSON.parse(d.data):d.data}catch(f){var c=null}if(typeof(c)==="object"&&c!==null&&"__cmpCall" in c){var b=c.__cmpCall;window.__cmp(b.command,b.parameter,function(h,g){var e={__cmpReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")})}if(typeof(c)==="object"&&c!==null&&"__cmapiCall" in c){var b=c.__cmapiCall;window.__cmapi(b.command,b.parameter,function(h,g){var e={__cmapiReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")})}if(typeof(c)==="object"&&c!==null&&"__uspapiCall" in c){var b=c.__uspapiCall;window.__uspapi(b.command,b.version,function(h,g){var e={__uspapiReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")})}if(typeof(c)==="object"&&c!==null&&"__tcfapiCall" in c){var b=c.__tcfapiCall;window.__tcfapi(b.command,b.version,function(h,g){var e={__tcfapiReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")},b.parameter)}};window.cmp_setStub=function(a){if(!(a in window)||(typeof(window[a])!=="function"&&typeof(window[a])!=="object"&&(typeof(window[a])==="undefined"||window[a]!==null))){window[a]=window.cmp_stub;window[a].msgHandler=window.cmp_msghandler;window.addEventListener("message",window.cmp_msghandler,false)}};window.cmp_addFrame("__cmapiLocator");window.cmp_addFrame("__cmpLocator");window.cmp_addFrame("__uspapiLocator");window.cmp_addFrame("__tcfapiLocator");window.cmp_setStub("__cmapi");window.cmp_setStub("__cmp");window.cmp_setStub("__tcfapi");window.cmp_setStub("__uspapi");</script>
+	
+	<!-- Google Tag Manager -->
+	<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WFLPSRX');</script> 
+	<!-- End Google Tag Manager -->
+	
+	<link rel="stylesheet" href="https://www.ana.rs/forum/Themes/ana/css/minified_c0ff8dfc1ac408a5fb15128475c45f66.css?smf213_1669320483">
+	<style>
+	.signature img { max-width: 468px; max-height: 30px; }
+	
+						.sceditor-button-facebook div {
+							background: url('https://www.ana.rs/forum/Themes/default/images/bbc/facebook.png');
+						}
+						.sceditor-button-instagram div {
+							background: url('https://www.ana.rs/forum/Themes/default/images/bbc/instagram.png');
+						}
+						.sceditor-button-spoiler div {
+							background: url('https://www.ana.rs/forum/Themes/default/images/bbc/spoiler.png');
+						}
+	
+	img.avatar { max-width: 140px !important; max-height: 105px !important; }
+	
+	.postarea .bbc_img, .list_posts .bbc_img, .post .inner .bbc_img, form#reported_posts .bbc_img, #preview_body .bbc_img { max-width: min(100%,150px); }
+	
+	.postarea .bbc_img, .list_posts .bbc_img, .post .inner .bbc_img, form#reported_posts .bbc_img, #preview_body .bbc_img { max-height: 150px; }
+	
+	</style>
+	<script>
+		var smf_theme_url = "https://www.ana.rs/forum/Themes/ana";
+		var smf_default_theme_url = "https://www.ana.rs/forum/Themes/default";
+		var smf_images_url = "https://www.ana.rs/forum/Themes/ana/images";
+		var smf_smileys_url = "https://www.ana.rs/forum/Smileys";
+		var smf_smiley_sets = "default,aaron,akyhne";
+		var smf_smiley_sets_default = "default";
+		var smf_avatars_url = "https://www.ana.rs/forum/avatars";
+		var smf_scripturl = "https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;";
+		var smf_iso_case_folding = false;
+		var smf_charset = "UTF-8";
+		var smf_session_id = "22e0ac2cd6136dd5b8e3f5b8255621ee";
+		var smf_session_var = "c2fcb67";
+		var smf_member_id = 0;
+		var smf_member_name = 'Gost';
+		var ajax_notification_text = 'Učitavam...';
+		var help_popup_heading_text = 'Imamo nesporazum? Dozvolite nam da objasnimo:';
+		var banned_text = 'Izvinjavamo se Gost, zabranjeno ti je da koristiš ovaj forum!';
+		var smf_txt_expand = 'Proširi';
+		var smf_txt_shrink = 'Skupi';
+		var smf_quote_expand = false;
+		var allow_xhjr_credentials = false;
+	</script>
+	<script src="https://www.ana.rs/forum/Themes/default/scripts/jquery-3.6.0.min.js"></script>
+	<script src="https://www.ana.rs/forum/Themes/default/scripts/jquery.sceditor.bbcode.min.js?smf213_1669320483"></script>
+	<script src="https://www.ana.rs/forum/Themes/ana/scripts/minified_bf0213da2ca67f6b2c950221c89259d5.js?smf213_1669320483"></script>
+	<script src="https://www.ana.rs/forum/Themes/ana/scripts/minified_9a30b7841d33c53000b8af2782049396.js?smf213_1669320483" defer></script>
+	<script>
+		var smf_smileys_url = 'https://www.ana.rs/forum/Smileys/default';
+		var bbc_quote_from = 'Citat';
+		var bbc_quote = 'Citat';
+		var bbc_search_on = 'poslato';
+	var smf_you_sure ='Da li si sigurna da želiš da uradiš ovo?';
+	</script>
+	<title>Kako da dokazem da nisam streber? - Ana.rs - Strana 2</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:site_name" content="Ana.rs - Ženski forum">
+	<meta property="og:title" content="Kako da dokazem da nisam streber? - Ana.rs - Strana 2">
+	<meta property="og:url" content="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.15">
+	<meta property="og:image" content="https://www.ana.rs/forum/Themes/ana/images/anafb.png">
+	<meta property="og:description" content="U skoli imam sve petice i neki decaci iz odeljenja mi kazu da sam streber. Mene to uopste ne dotice, ali zelim da im dokazem da to nisam. Oni misle da je strebe...">
+	<meta name="description" content="U skoli imam sve petice i neki decaci iz odeljenja mi kazu da sam streber. Mene to uopste ne dotice, ali zelim da im dokazem da to nisam. Oni misle da je strebe...">
+	<meta name="theme-color" content="#ffe3ff">
+	<link rel="canonical" href="https://www.ana.rs/forum/index.php?topic=167455.15">
+	<link rel="help" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=help">
+	<link rel="contents" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;">
+	<link rel="search" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=search">
+	<link rel="alternate" type="application/rss+xml" title="Ana.rs - Ženski forum - RSS" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=.xml;type=rss2;board=151">
+	<link rel="alternate" type="application/atom+xml" title="Ana.rs - Ženski forum - Atom" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=.xml;type=atom;board=151">
+	<link rel="next" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.30">
+	<link rel="prev" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.0">
+	<link rel="index" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;board=151.0">
+	<link rel="icon" href="/favicon.ico" sizes="any">
+    <!--link rel="icon" href="/favicon.svg" type="image/svg+xml"-->
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    
+		<script type="text/javascript">
+			<!--//--><![CDATA[//><!--
+			var pp_gemius_identifier = 'p3XlFDuoEPOzIQ56_rii3tWZ73x16AOWFC4Fdly0me3.w7';
+			// lines below shouldn't be edited
+			function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+			gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+			(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+			gt.setAttribute('defer','defer'); gt.src=l+'://gars.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+			//--><!]]>
+		</script>
+	<script type="text/javascript">
+	__cmp("addEventListener",["consent", enableAdoForCmp, false],null);
+	
+	function enableAdoForCmp(event, object) {
+		var consentData = __cmp("getCMPData");
+		console.log(consentData);
+	
+		if (!(consentData.gdprApplies === false) && !(consentData.vendorConsents[328] !== undefined && consentData.vendorConsents[328] === true)) {
+			return;
+		}
+		
+		(function() {
+			var loadJS = function(url, callback, location){
+				var scriptTag = document.createElement("script");
+				scriptTag.src = url;
+				scriptTag.onload = callback;
+				scriptTag.onreadystatechange = callback;
+				location.appendChild(scriptTag);
+			};
+	    })();
+	}
+	</script>
+		<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+		<script>
+			var script = document.createElement("script");
+			script.type = "text/javascript";
+			script.src = (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) ? "https://adxbid.info/anars_mobile.js" : "https://adxbid.info/anars_desktop.js";
+			script.setAttribute("async", "");
+			document.head.appendChild(script);
+		</script>
+		
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5241680-1"></script>
+	<script>
+		var gptadslots = [];
+		var googletag = googletag || {cmd:[]};
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag("js", new Date());
+		gtag("set", {"anonymize_ip":true,"dimension1":"Guest","dimension2":"Gost","content_group1":"Topic","content_group2":"Svakodnevni \u017eivot","content_group3":"\u017divotni principi i navike"});
+		gtag("config", "UA-5241680-1");
+	</script>
+	
+		<script>
+			let adsKeywords = {
+				category: 'životni_principi_i_navike',
+				pageType: 'article',
+				articleUuid: '167455',
+				articleTags: []
+			}
+		</script>
+
+		<script>
+			googletag.cmd.push(function() {
+				var mapBillboard = googletag.sizeMapping()
+					.addSize([1024, 0],    [[728, 90], [970, 445], [970, 60], [1060, 250], [970, 400], [970, 90], [970, 600], [970, 250]])
+					.addSize([768, 0],    [[728, 90]])
+					.addSize([0, 0],    [[320, 50], [320, 100]])
+					.build();
+		
+				var mapSidebar = googletag.sizeMapping()
+					.addSize([1024, 0],    [[160, 600], [300, 600]])
+					.addSize([768, 0],    [])
+					.addSize([0, 0],    [])
+					.build();
+		
+				var mapInArticle1 = googletag.sizeMapping()
+					.addSize([1024, 0],    [[790, 200], [300, 250], [580, 280]])
+					.addSize([768, 0],    [[300, 250]])
+					.addSize([0, 0],    [[300, 250], [336, 280], [320, 100], [320, 50]])
+					.build();
+		
+				var mapInArticle2 = googletag.sizeMapping()
+					.addSize([1024, 0],    [[300, 250]])
+					.addSize([768, 0],    [[300, 250]])
+					.addSize([0, 0],    [])
+					.build();
+		
+				var mapP = googletag.sizeMapping()
+					.addSize([1024, 0],    [])
+					.addSize([768, 0],    [])
+					.addSize([0, 0],    [[300, 250], [336, 280], [320, 100], [320, 50]])
+					.build();
+		
+				var mapBranding = googletag.sizeMapping()
+					.addSize([1024, 0],    [[470, 1080]])
+					.addSize([768, 0],    [])
+					.addSize([0, 0],    [])
+					.build();
+		
+				var mapSticky = googletag.sizeMapping()
+					.addSize([1024, 0],    [[750, 200], [750, 250]])
+					.addSize([768, 0],    [[750, 200]])
+					.addSize([0, 0],    [[320, 100], [320, 50]])
+					.build();
+		
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Billboard', [[728, 90], [970, 445], [320, 100], [970, 60], [1060, 250], [970, 400], [970, 90], [320, 50], [970, 600], [970, 250]], 'Billboard')
+					.defineSizeMapping(mapBillboard).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Sidebar_1', [[300, 600], [160, 600]], 'Sidebar_1')
+					.defineSizeMapping(mapSidebar).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Sidebar_2', [[300, 600], [160, 600]], 'Sidebar_2')
+					.defineSizeMapping(mapSidebar).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_1', [[790, 200], [580, 280], [300, 250], [336, 280], [320, 100], [320, 50]], 'InArticle_1')
+					.defineSizeMapping(mapInArticle1).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_2', [[790, 200], [580, 280], [300, 250], [336, 280], [320, 100], [320, 50]], 'InArticle_2')
+					.defineSizeMapping(mapInArticle1).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_3', [[790, 200], [580, 280], [300, 250], [336, 280], [320, 100], [320, 50]], 'InArticle_3')
+					.defineSizeMapping(mapInArticle1).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_4_Left', [300, 250], 'InArticle_4_Left')
+					.defineSizeMapping(mapInArticle2).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_4_Right', [300, 250], 'InArticle_4_Right')
+					.defineSizeMapping(mapInArticle2).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_5_Left', [300, 250], 'InArticle_5_Left')
+					.defineSizeMapping(mapInArticle2).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/InArticle_5_Right', [300, 250], 'InArticle_5_Right')
+					.defineSizeMapping(mapInArticle2).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/P1', [[300, 250], [336, 280], [320, 100], [320, 50]], 'P1')
+					.defineSizeMapping(mapP).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/P2', [[300, 250], [336, 280], [320, 100], [320, 50]], 'P2')
+					.defineSizeMapping(mapP).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Branding_Left', [470, 1080], 'Branding_Left')
+					.defineSizeMapping(mapBranding).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Branding_Right', [470, 1080], 'Branding_Right')
+					.defineSizeMapping(mapBranding).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				gptadslots.push(googletag.defineSlot('/161634325/Ana.rs/Sticky', [[320, 50], [750, 250], [750, 200], [320, 100]], 'Sticky')
+					.defineSizeMapping(mapSticky).setTargeting('Gender', ['Male', 'Female']).setTargeting('age', ['18-24', '25-34', '35-44', '45-54', '55-64', '65-74']).addService(googletag.pubads()));
+				
+		
+				googletag.pubads().enableSingleRequest();
+				googletag.pubads().enableLazyLoad({
+					fetchMarginPercent: 50,  //
+					renderMarginPercent: 50,  //
+					mobileScaling: 0.5  //
+				});
+				googletag.pubads().disableInitialLoad();
+				googletag.pubads().collapseEmptyDivs(true);
+				googletag.enableServices();
+				googletag.pubads().setTargeting('kwrds', adsKeywords.category);
+				googletag.pubads().setTargeting('articleUUID', [adsKeywords.articleUuid].join(','));
+				googletag.pubads().setTargeting('articleTAG', adsKeywords.articleTags.join(','));
+		
+			});
+		</script>
+		
+		<script type='text/javascript'>
+		var axel = Math.random() + '';
+		var a = axel * 10000000000000;
+		document.write('<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/161634325/;ord=' + a + ';dc_seg=873361257;age=18-24;age=25-34;age=35-44;age=45-54;age=55-64;age=65-74;Gender=Female;Gender=Male?" width="1" height="1" border="0" style="position:absolute;" />');
+		</script>
+		<noscript>
+		<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/161634325/;ord=1;dc_seg=873361257;age=18-24;age=25-34;age=35-44;age=45-54;age=55-64;age=65-74;Gender=Female;Gender=Male?" width="1" height="1" border="0" style="position:absolute;" />');
+		</noscript>
+		
+		<link rel="dns-prefetch" href="https://c.aklamator.com" />
+		<script async type="text/javascript" src="https://s.aklamator.com/i/w.js"></script>
+		
+	<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+	
+	<link rel="stylesheet" type="text/css" href="https://www.ana.rs/forum/Themes/default/css/instagram.css" />
+</head>
+<body id="smf" class="action_messageindex board_151">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFLPSRX" height="0" width=0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		
+<script>
+	const pageWidth = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName("body")[0].clientWidth;
+	const isSmallerScreen = pageWidth <= 1200;
+</script>
+	
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [{"@type":"ListItem","position":1,"name":"Ana.rs - \u017denski forum","item":"https:\/\/www.ana.rs\/forum\/index.php"},{"@type":"ListItem","position":2,"name":"Svakodnevni \u017eivot","item":"https:\/\/www.ana.rs\/forum\/index.php#c17"},{"@type":"ListItem","position":3,"name":"Moj \u017eivote","item":"https:\/\/www.ana.rs\/forum\/index.php?board=55.0"},{"@type":"ListItem","position":4,"name":"\u017divotni principi i navike","item":"https:\/\/www.ana.rs\/forum\/index.php?board=151.0"},{"@type":"ListItem","position":5,"name":"Kako da dokazem da nisam streber?","item":"https:\/\/www.ana.rs\/forum\/index.php?topic=167455.0"}]
+}
+</script>
+	
+<script>
+	if (isSmallerScreen) {
+		var aklawidgets = ['ePZHE0e','FwCrezu']
+	} else {
+		var aklawidgets = ['39ODbrW','FwCrezu'] 
+	}
+</script>
+		
+<div id="footerfix">
+		<div id="brending-left">
+			<div id='Branding_Left' style='min-width: 470px; min-height: 1080px;'>
+			  <script>
+				googletag.cmd.push(function() { googletag.display('Branding_Left'); });
+			  </script>
+			</div>
+		</div>
+		<div id="brending-right">
+			<div id='Branding_Right' style='min-width: 470px; min-height: 1080px;'>
+			  <script>
+				googletag.cmd.push(function() { googletag.display('Branding_Right'); });
+			  </script>
+			</div>
+		
+		</div>
+	<div id="top_section">
+		<div class="inner_wrap">
+			<ul class="floatleft">
+				<li class="welcome">Dobrodošla na <strong>Ana.rs - Ženski forum</strong>. Molimo da se <a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=login" onclick="return reqOverlayDiv(this.href, 'Prijavljivanje', 'login');">prijaviš</a> ili da se <a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=signup">registruješ</a>.</li>
+			</ul>
+			<form id="search_form" class="floatright" action="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=search2" method="post" accept-charset="UTF-8">
+				<input type="search" name="search" value="" placeholder="Unesi termin...">&nbsp;
+				<select name="search_selection">
+					<option value="all">Ceo forum </option>
+					<option value="topic" selected>Ova tema</option>
+					<option value="board">Ovaj potforum</option>
+				</select>
+				<input type="hidden" name="sd_topic" value="167455">
+				<input type="submit" name="search2" value="Pretraga" class="button">
+				<input type="hidden" name="advanced" value="0">
+				<input type="hidden" name="show_complete" value="1">
+			</form>
+		</div><!-- .inner_wrap -->
+	</div><!-- #top_section -->
+	<div id="header">
+			<a id="top" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;"><img src="https://www.ana.rs/forum/Themes/ana/images/ana-logo.png" width="150" height="40" alt="Ana.rs - Ženski forum"></a>
+		<div id="siteslogan">Prvi i najveći ženski forum</div>
+	</div>
+	<div id="wrapper">
+		<div id="upper_section">
+			<div id="inner_section">
+				<div id="inner_wrap" class="hide_720">
+					<div class="user">
+						<time datetime="2022-12-29T10:16:58Z">29.12.2022. 11:16</time>
+					</div>
+				</div>
+				<div style="display: flex; justify-content: space-between">
+					<a class="mobile_user_menu">
+						<span class="menu_icon"></span>
+						<span class="text_menu">Glavni meni</span>
+					</a>
+				</div>
+				<div id="main_menu">
+					<div id="mobile_user_menu" class="popup_container">
+						<div class="popup_window description">
+							<div class="popup_heading">Glavni meni
+								<a href="javascript:void(0);" class="main_icons hide_popup"></a>
+							</div>
+							
+					<ul class="dropmenu menu_nav">
+						<li class="button_home">
+							<a class="active" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;">
+								<span class="main_icons home"></span><span class="textmenu">Početna</span>
+							</a>
+						</li>
+						<li class="button_rules">
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=rules">
+								<span class="main_icons rules"></span><span class="textmenu">Pravila foruma</span>
+							</a>
+						</li>
+						<li class="button_search">
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=search">
+								<span class="main_icons search"></span><span class="textmenu">Pretraga</span>
+							</a>
+						</li>
+						<li class="button_login">
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=login" onclick="return reqOverlayDiv(this.href, 'Prijavljivanje');">
+								<span class="main_icons login"></span><span class="textmenu">Prijavljivanje</span>
+							</a>
+						</li>
+						<li class="button_signup">
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=signup">
+								<span class="main_icons regcenter"></span><span class="textmenu">Registracija</span>
+							</a>
+						</li>
+					</ul><!-- .menu_nav -->
+						</div>
+					</div>
+				</div>
+				<div id='ad-billboard'>
+					<script>
+						if (!isSmallerScreen) {
+							document.write("<div id='Billboard' style='min-width: 320px; min-height: 50px;'></div>");
+							googletag.cmd.push(function() { googletag.display('Billboard'); });                    
+						}
+					</script>
+				</div>
+		
+				<div class="forum_highlights">
+					<div class="two_columns">
+					<div class="news">
+						<h2>Tema dana: </h2>
+						<div><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=38337.0" class="bbc_link" target="_blank" rel="noopener"><b>Šta planirate da spremate za Novu Godinu?</b></a><br><br><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=17193344" class="bbc_link" target="_blank" rel="noopener"><b>Pridružite nam se na nekoj od naših novogodišnjih tema - pogledajte spisak.</b></a><br><br><a href="https://zena.blic.rs/moda/francuskinje-su-majstori-dobrog-stila-a-ovih-5-odevnih-komada-uvek-imaju-u-ormaru/fm6qnxc?ref=anaposttd" class="bbc_link" target="_blank" rel="noopener"><b>Francuskinje su OLIČENJE VRHUNSKOG ŠIKA, a ovo je 5 KOMADA koja baš svaka od njih IMA U ORMARU<b></b></b></a><br><br><a href="https://zena.blic.rs/lepota/novogodisnja-sminka-najlepse-ideje-za-efektan-mejkap/eqxrzz6?ref=anaposttd" class="bbc_link" target="_blank" rel="noopener"><b>NAJLEPŠA NOVOGODIŠNJA ŠMINKA - ovo je 5 trendi i jednostavnih načina da bukvalno ZASIJATE: Trikovi koji u sekundi ceo izgled dižu na viši nivo i daju GLAM EFEKAT<b></b></b></a><br><br><a href="https://zena.blic.rs/lifestyle/kako-se-slagalica-pretvorila-u-okrsaj-jednog-delije-i-jednog-grobara/gvrn26q?ref=anaposttd" class="bbc_link" target="_blank" rel="noopener"><b>KAKO SE SLAGALICA PRETVORILA U OKRŠAJ JEDNOG DELIJE I JEDNOG GROBARA Sve se zakuvalo u igri SKOČKO, reagovala i voditeljka i svi pričaju o ovom izdanju čuvenog kviza <b></b></b></a></div>
+					</div>
+					<div class="recent_posts">
+						<h3>Skorašnje teme:</h3>
+						<div>
+							<ul>
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=47347.msg22862216;topicseen#new" rel="nofollow" title="@doktoresa Super, baš ima opcija. Mi bismo da bude smeštaj na 5 min peške od solidno čiste plaže , ne bismo rentirali ništa. Pre...">Odg: Grčka ostrva</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=191469.msg22862215;topicseen#new" rel="nofollow" title="Drage žene, čitala sam dosta po temi, međutim ne nađoh preporuke za jako suvu kožu.Spadam u generaciju 45+ i izrazito suvu kožu....">Odg: Azijska kozmetika</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=239418.msg22862214;topicseen#new" rel="nofollow" title="Mirror, treba slušati muža po nekad&nbsp; &nbsp; ">Odg: Trudnički kutak za ćaskanje XIII</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=236832.msg22862213;topicseen#new" rel="nofollow" title="^^Mi smo pre mozda mesec to pak od pola kg uzeli, onako, bilo i bzv i ok. Mislim da je nemoguće kupiti kesten i da su svi lepi&nbsp; ...">Odg: Lidl Srbija</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=264161.msg22862212;topicseen#new" rel="nofollow" title="Maja sve više puca, ali Aleksandra je neviđeno glupa u ovom odnosu sa Filipom. Nevjerojatno da žena ima toliko iskustva s likovi...">Odg: Zadruga 6</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=245655.msg22862211;topicseen#new" rel="nofollow" title="@Malibus Napucana crnka&nbsp;  Slažem se sa Zojom, može ovde više vsrijanti da dođe u obzir sada .... Ali ja bih ipak sačekala Martin...">Odg: Prevarila sam muza</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=265600.msg22862209;topicseen#new" rel="nofollow" title="Citat: Iza oblaka poslato danas u 11:05Partibrejkers - Mesečeva kći&nbsp; ili&nbsp; Prsten&nbsp; &nbsp; ili&nbsp; &nbsp; Kreni prema meni&nbsp; &nbsp; &nbsp; &nbsp; ili&nbsp; bilo šta...">Odg: &#127928; Igra rock'n'roll cela Jugoslavija &#127928; Yu rock- izbor za najbolju pesmu</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=195575.msg22862207;topicseen#new" rel="nofollow" title="Ja se ne žalim, čak šta više&nbsp; ">Odg: Ćaskanje sa pozitivcima :) VI</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=231651.msg22862201;topicseen#new" rel="nofollow" title="Svi su mu neprijatelji dok ne dokažu suprotno. ">Odg: Šta mislite o osobi iznad? :) VI</a></li>
+			
+								<li><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=107198.msg22862198;topicseen#new" rel="nofollow" title="Citat: Salaso poslato juče u 12:36Kalimeroooa: hvala na informaciji za nadoknadu troskova ugradnje implanta, ali me zanima gde s...">Odg: Ostecenje sluha</a></li>
+			
+							</ul>
+						</div>
+					</div>
+					</div>
+					<div class="facebook">
+						<a href="https://www.facebook.com/Anars-%C5%BDenski-forum-281713881943648" target="_blank">Posetite forumsku fan stranicu na Facebook-u</a>
+						<br />
+						<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FAnars-%25C5%25BDenski-forum-281713881943648&width=90&layout=button_count&action=like&size=small&share=false&height=21" width="150" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+					</div>
+				</div>
+			<div class="roundframe mobile_search">
+				<div class="heading">Forumska pretraga</div>
+				<form action="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=search2" method="post" accept-charset="UTF-8">
+					<input type="search" name="search" value="" placeholder="Unesi termin..." autocomplete="off">&nbsp;
+					<select name="search_selection">
+						<option value="all">Ceo forum </option>
+						<option value="topic" selected>Ova tema</option>
+						<option value="board">Ovaj potforum</option>
+				</select>
+					<input type="hidden" name="sd_topic" value="167455">
+					<input type="submit" name="search2" value="Pretraga" class="button">
+					<input type="hidden" name="advanced" value="0">
+					<input type="hidden" name="show_complete" value="1">
+				</form>
+			</div>
+		<iframe id="blic-widget" src="https://zena.blic.rs/widget/carousel?uuid=9d53cb2e-242c-4b14-bcf9-3f0e2085138a" width="100%" height="201" style="border: none;"></iframe> 
+	
+				<div class="navigate_section">
+					<ul>
+						<li>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;"><span>Ana.rs - Ženski forum</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;#c17"><span>Svakodnevni život</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;board=55.0"><span>Moj živote</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;board=151.0"><span>Životni principi i navike</span></a>
+						</li>
+						<li class="last">
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.0"><span>Kako da dokazem da nisam streber?</span></a>
+						</li>
+					</ul>
+				</div><!-- .navigate_section -->
+			</div><!-- #inner_section -->
+		</div><!-- #upper_section -->
+		<div id="central_wrapper">
+		<div id="forum_wrapper">
+		<div id="content_section">
+			<div id="main_content_section">
+		<div id="display_head" class="information">
+			<h1 class="display_title">
+				<span id="top_subject">Kako da dokazem da nisam streber?</span>
+			</h1>
+			<p>Započela Manir, 13.05.2013. 10:25</p>
+		</div><!-- #display_head -->
+		
+		<div class="pagesection top">
+			
+		<div class="buttonlist floatright">
+			
+				<a class="button button_strip_print" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=printpage;topic=167455.0"  rel="nofollow">Štampaj</a>
+		</div>
+			 
+			<div class="pagelinks floatleft">
+				<a href="#bot" class="button">Idi dole</a>
+				<select onchange="javascript:window.location=('https://www.ana.rs/forum/index.php?topic=167455.%1$d').replace(/%1\$d/, this.value);"><option value="0">1</option><option value="15" selected="selected">2</option><option value="30">3</option><option value="45">4</option><option value="60">5</option><option value="75">6</option></select> &nbsp;<span class="pages">Stranice</span><a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.0"><span class="main_icons previous_page"></span></a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.0">1</a> <span class="current_page">2</span> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.30">3</a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.45">4</a> <span class="expand_pages" onclick="expandPages(this, '&lt;a class=&quot;nav_page&quot; href=&quot;' + smf_scripturl + '?topic=167455.%1$d&quot;&gt;%2$s&lt;/a&gt; ', 60, 75, 15);"> ... </span><a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.75">6</a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.30"><span class="main_icons next_page"></span></a> 
+			</div>
+		<div class="mobile_buttons floatright">
+			
+			<a class="button mobile_act">Akcije</a>
+			
+		</div>
+		</div>
+		<div id="forumposts">
+			<form action="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=quickmod2;topic=167455.15" method="post" accept-charset="UTF-8" name="quickModForm" id="quickModForm" onsubmit="return oQuickModify.bInEditMode ? oQuickModify.modifySave('22e0ac2cd6136dd5b8e3f5b8255621ee', 'c2fcb67') : false">
+		<div class="topic-ad">
+	
+			<script>
+				if (isSmallerScreen) {
+					document.write("<div id='Billboard' class='banner' style='min-width: 320px; min-height: 50px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('Billboard'); });
+				}					
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg5860139">
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=93525" title="Pogledaj korisnički nalog članice LittleRedRidingHood">LittleRedRidingHood</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=93525"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_93525_1349471873.png"  width="140" height="93" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 798</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+								<li class="custom cust_loca"><strong>Lokacija</strong>: With the big bad wolf</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=93525"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_93525_1349471873.png"  width="140" height="93" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=93525" title="Pogledaj korisnički nalog članice LittleRedRidingHood">LittleRedRidingHood</a></h4>
+									<div class="message_count">Poruka:&nbsp;798</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>&nbsp;&bullet;&nbsp;<span class="location">With the big bad wolf</span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5860139" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860139" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#15</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860139" rel="nofollow" title="Odgovor #15 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 17:30</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5860139">
+									</span>
+								</div>
+								<div id="msg_5860139_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5860139" id="msg_5860139">
+									Na stranu to ko će biti doktor, ko mehaničar- nemoj ljude tako da gledaš. Ti treba da radiš na sebi, da ti budeš bolja osoba i da stvoriš kvalitetan život za sebe, a ne da se upoređuješ sa nekim.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5860139_signature">
+								Warm shadow, what you got in store for me? Keep those eyes closed next to me... I don&#039;t want another day to break... Take our, steal our night away...
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg5860149">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068" title="Pogledaj korisnički nalog članice Marci">Marci</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_87068_1524098574.png"  width="105" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 4.086</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_87068_1524098574.png"  width="105" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068" title="Pogledaj korisnički nalog članice Marci">Marci</a></h4>
+									<div class="message_count">Poruka:&nbsp;4.086</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5860149" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860149" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#16</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860149" rel="nofollow" title="Odgovor #16 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 17:31</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5860149">
+									</span>
+								</div>
+								<div id="msg_5860149_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5860149" id="msg_5860149">
+									<blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.msg5860085#msg5860085">Citat: Sidnii poslato 13.05.2013. 17:24</a></cite><br />Штребер - то је израз који у основној и средњој школи примењују будући металоглодачи, вариоци, молери, итд, како би називали своје &quot;другаре&quot;, иначе будуће инжињере, архитекте, адвокате, докторе, итд...&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/wink3.gif" width="20" height="20" alt=";&#41;" title="wink1.gif" class="smiley"> <img src="https://www.ana.rs/forum/Smileys/default/wink3.gif" width="20" height="20" alt=";&#41;" title="wink1.gif" class="smiley"> <img src="https://www.ana.rs/forum/Smileys/default/wink3.gif" width="20" height="20" alt=";&#41;" title="wink1.gif" class="smiley"><br /></blockquote><br />Steta sto ce jako cesto ti buduci inzinjeri, arhitekte, advokati i doktori biti emotivni i socijalni duduci u odnosu na ove prve... <br />P.S. Ja sam inzinjer(kako ova rec snobovski zvuci), znam sta pricam.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5860149_signature">
+								Your goals don&#039;t care how you feel.
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg5860153">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=42981" title="Pogledaj korisnički nalog članice Ljubavnica">Ljubavnica</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=42981"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_42981_1514490975.png"  width="70" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 7.860</li>
+								<li class="blurb">Disciplina je most izmedju cilja i ostvarenja.</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=42981"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_42981_1514490975.png"  width="70" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=42981" title="Pogledaj korisnički nalog članice Ljubavnica">Ljubavnica</a></h4>
+									<div class="message_count">Poruka:&nbsp;7.860</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5860153" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860153" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#17</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860153" rel="nofollow" title="Odgovor #17 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 17:32</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5860153">
+									</span>
+								</div>
+								<div id="msg_5860153_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5860153" id="msg_5860153">
+									<blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.msg5857119#msg5857119">Citat: Manir poslato 13.05.2013. 10:25</a></cite><br />U skoli imam sve petice i neki decaci iz odeljenja mi kazu da sam streber. Mene to uopste ne dotice, ali zelim da im dokazem da to nisam. Oni misle da je streber onaj koji zna, a ne onaj koji buba dan i noc i uci napamet ono sto ne razume. Ja bas radim suprotno. Knjigu retko kada uzmem u ruke, lekciju procitam dva puta i znam je, a ucim uz televizor ili lap top.Zelim da oni vide koliko ja zapravo ucim i da ucim svesno, a ne napamet. Kada bih mogla da im dokazem suprotno od njihovog misljenja.. imate li neku ideju?<br /></blockquote>Isti problem sam i ja imala .Samo sto su mene smatrali glupom i mislili da ucim dan i noc ,jer sam uvek ucila na malim i velikim odmorima .A,kuci sam uglavnom dzebalebarila .<br />Nista ja nikom nisam dokazivala ,bilo me bas briga .<br />Uf ,kad se samo setim koliko deca ne vole kad neko ima sve petice ,a nijednu cetvorku .Deca su bas zavidna .....
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5860153_signature">
+								<a href="https://www.youtube.com/watch?v=TqJgE0P4drE" class="bbc_link" target="_blank" rel="noopener">https://www.youtube.com/watch?v=TqJgE0P4drE</a>
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<script>
+				if (!isSmallerScreen) {
+					document.write("<div id='InArticle_1' class='banner' style='min-width: 300px; min-height: 200px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_1'); });
+				}					
+			</script>
+		</div>
+	
+		<div class="topic-ad">
+	
+			<script>
+				if (isSmallerScreen) {
+					document.write("<div id='P1' class='banner' style='min-width: 320px; min-height: 50px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('P1'); });                            
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg5860156">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=112721" title="Pogledaj korisnički nalog članice lady 007">lady 007</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=112721"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_112721_1495953351.png"  width="81" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 2.937</li>
+								<li class="blurb">Svaka rec ima posledice; tisina takodje.</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+								<li class="custom cust_loca"><strong>Lokacija</strong>: Nije vazno gde, nego sa kim</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=112721"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_112721_1495953351.png"  width="81" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=112721" title="Pogledaj korisnički nalog članice lady 007">lady 007</a></h4>
+									<div class="message_count">Poruka:&nbsp;2.937</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>&nbsp;&bullet;&nbsp;<span class="location">Nije vazno gde, nego sa kim</span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5860156" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860156" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#18</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860156" rel="nofollow" title="Odgovor #18 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 17:33</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5860156">
+									</span>
+								</div>
+								<div id="msg_5860156_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5860156" id="msg_5860156">
+									<blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.msg5860149#msg5860149">Citat: Marci poslato 13.05.2013. 17:31</a></cite><br />Steta sto ce jako cesto ti buduci inzinjeri, arhitekte, advokati i doktori biti emotivni i socijalni duduci u odnosu na ove prve... <br /></blockquote><br />Ne bih se složila.&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/nono.gif" width="23" height="25" alt="&#58;nono&#58;" title="nono.gif" class="smiley">
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5860156_signature">
+								<i><b>Neki ce ti dati razlog da ih volis, neki da ih zaboravis. Nemoj nikoga cekati. <br />Ako neko tvoje prisustvo ne smatra svojim dobitkom, nemoj ni ti njegovo odsustvo smatrati svojim gubitkom. </b></i>
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg5860162">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=105890" title="Pogledaj korisnički nalog članice Vila iz jezera">Vila iz jezera</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=105890"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_105890_1368203616.png"  width="84" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 627</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=105890"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_105890_1368203616.png"  width="84" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=105890" title="Pogledaj korisnički nalog članice Vila iz jezera">Vila iz jezera</a></h4>
+									<div class="message_count">Poruka:&nbsp;627</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5860162" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860162" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#19</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860162" rel="nofollow" title="Odgovor #19 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 17:34</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5860162">
+									</span>
+								</div>
+								<div id="msg_5860162_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5860162" id="msg_5860162">
+									Nisu deca sama po sebi zavidna. To su videli od roditelja. Takvi razgovori se vode u kući i samo se podgreva suparništvo i ljubomora kod deteta.&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/nono.gif" width="23" height="25" alt="&#58;nono&#58;" title="nono.gif" class="smiley"><br /><br />EDIT: Ni ja se ne slažem da su fakultetski obrazovani ljudi asocijalna bića. Svašta.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5860162_signature">
+								Srećan si onoliko koliko ti tvoje misli dopuste da budeš.
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg5860178">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=103354" title="Pogledaj korisnički nalog članice Sidnii">Sidnii</a>
+							</h4>
+							<ul class="user_info">
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 40</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=103354" title="Pogledaj korisnički nalog članice Sidnii">Sidnii</a></h4>
+									<div class="message_count">Poruka:&nbsp;40</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5860178" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860178" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#20</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860178" rel="nofollow" title="Odgovor #20 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 17:35</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5860178">
+									</span>
+								</div>
+								<div id="msg_5860178_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5860178" id="msg_5860178">
+									<blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.msg5860149#msg5860149">Citat: Marci poslato 13.05.2013. 17:31</a></cite><br />Steta sto ce jako cesto ti buduci inzinjeri, arhitekte, advokati i doktori biti emotivni i socijalni duduci u odnosu na ove prve... <br /></blockquote><br />Isto toliko često, možda i češće, će ovi prvi biti emotivni i socijalni duduci, samo ti ne poznaješ ove prve.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<script>
+				if (!isSmallerScreen) {
+					document.write("<div id='InArticle_2' class='banner' style='min-width: 300px; min-height: 200px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_2'); });
+				}					
+			</script>
+		</div>
+	
+		<div class="topic-ad">
+	
+			<script>
+				if (isSmallerScreen) {
+					document.write("<div id='InArticle_1' class='banner' style='min-width: 320px; min-height: 50px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_1'); });
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg5860257">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=99169" title="Pogledaj korisnički nalog članice vještica na metli">vještica na metli</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=99169"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_99169_1383400461.png"  width="118" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 1.416</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=99169"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_99169_1383400461.png"  width="118" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=99169" title="Pogledaj korisnički nalog članice vještica na metli">vještica na metli</a></h4>
+									<div class="message_count">Poruka:&nbsp;1.416</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5860257" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860257" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#21</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860257" rel="nofollow" title="Odgovor #21 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 17:45</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5860257">
+									</span>
+								</div>
+								<div id="msg_5860257_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5860257" id="msg_5860257">
+									I ja sam uvijek bila štreberko i izazivana zbog toga. Pogotovo u osnovnoj školi...uh, kad se sjetim. Traume, traume&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/lol.gif" width="20" height="20" alt="&#58;ll&#58;" title="lol.gif" class="smiley"> <img src="https://www.ana.rs/forum/Smileys/default/lol.gif" width="20" height="20" alt="&#58;ll&#58;" title="lol.gif" class="smiley">&nbsp; A uvijek su to bili dječaci kojima sam se sviđala, a oni meni ne, gle čuda&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/whistle.gif" width="35" height="20" alt="&#58;whist&#58;" title="whistle.gif" class="smiley"><br /><br />Meni je sad drago što sam bila štreber i što sada studiram na dobrom fakultetu.Kada kažem ljudima na koji fax idem, uvijek nekako reaguju s poštovanjem. Pogotovo momci&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/naughty.gif" width="20" height="20" alt="&#58;hehe&#58;" title="naughty.gif" class="smiley">&nbsp; Lako je biti nafrakana lujka sa dekolteom i štiklama, a mozak kao lješnjak. Ali kada uporedo razvijaš lijep izgled i intelekt, e to je dobitna kombinacija!&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/make-up.gif" width="50" height="33" alt="&#58;make-up&#58;" title="make-up.gif" class="smiley"><br /><br /><blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.msg5860149#msg5860149">Citat: Marci poslato 13.05.2013. 17:31</a></cite><br />Steta sto ce jako cesto ti buduci inzinjeri, arhitekte, advokati i doktori biti emotivni i socijalni duduci u odnosu na ove prve... <br />P.S. Ja sam inzinjer(kako ova rec snobovski zvuci), znam sta pricam.<br /></blockquote><br /><br />Ja uopšte ne mislim tako, isto kao što ni moleri i varioci nisu po defaultu intelektualni duduci. Ne slože se svima kockice u životu isto. Ne treba ljude smiještati u koševe na osnovu zanimanja. I nisu svi moleri ljubomorni i zavidni na advokate itd.&nbsp; &nbsp;Što se tiče djece,nekada najveći štreberi prozivaju drugu djecu da su to isto zbog ljubomore i zavisti. Zavist je bolest koja ne bira.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5860257_signature">
+								...Two psychopaths, but we know that no matter how many knives we put in each others back - we&#039;ll have each others backs. Cause we&#039;re that lucky.
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg5860371">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=103354" title="Pogledaj korisnički nalog članice Sidnii">Sidnii</a>
+							</h4>
+							<ul class="user_info">
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 40</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=103354" title="Pogledaj korisnički nalog članice Sidnii">Sidnii</a></h4>
+									<div class="message_count">Poruka:&nbsp;40</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5860371" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860371" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#22</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860371" rel="nofollow" title="Odgovor #22 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 18:00</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5860371">
+									</span>
+								</div>
+								<div id="msg_5860371_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5860371" id="msg_5860371">
+									<blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.msg5860257#msg5860257">Citat: vještica na metli poslato 13.05.2013. 17:45</a></cite><br /> A uvijek su to bili dječaci kojima sam se sviđala, a oni meni ne, gle čuda&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/whistle.gif" width="35" height="20" alt="&#58;whist&#58;" title="whistle.gif" class="smiley"><br /></blockquote><br />Manir, najverovatnije je ovo u pitanju, ima mnogo dečaka koji povređuju devojčice da privuku njihovu pažnju. Neki ostaju takvi ceo život... <br /><br />Ima dosta i zavidnog sveta... <br /><br />Svetu se ne može ugoditi. Nemoj da se pecaš na gluposti! Šta ti ima njima da dokazuješ? Iskuliraj i oni će prestati kad vide da na taj način ne mogu da privuku tvoju pažnju. <br /><br />Koji si razred?
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<!--ana izlog widget -->
+			<script type="text/javascript">
+				if (!isSmallerScreen) {
+					document.write('<div id="aklaFwCrezu" class="aklawidgets"></div>');
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg5860431">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068" title="Pogledaj korisnički nalog članice Marci">Marci</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_87068_1524098574.png"  width="105" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 4.086</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_87068_1524098574.png"  width="105" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068" title="Pogledaj korisnički nalog članice Marci">Marci</a></h4>
+									<div class="message_count">Poruka:&nbsp;4.086</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5860431" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860431" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#23</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5860431" rel="nofollow" title="Odgovor #23 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 18:07</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5860431">
+									</span>
+								</div>
+								<div id="msg_5860431_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5860431" id="msg_5860431">
+									Ma bre, ljudi, nema tu zavisti... jednostavno je neko streber i to je to. <br />Ja sam u osnovnoj bila streber, u srednjoj sam bila selektivni geek za odredjene predmete, dok sam iz drugih vukla keceve.<br />Suma sumarum kad ja na kraju naucim celu knjigu za 2, i daju mi 3 jer sam mnogo dobro naucila, ja to gradivo znam bolje od svih strebera zajedno.&nbsp; <br />Prozivali su me kao klinku, secam se da sam sa nekih 12 navukla kompleks od te reci ... kad je pocelo da me boli d za to, vise me niko nije ni prozivao... <br /><br />Na faksu sam bila streber teske kategorije u smislu da ne izlazim na ispit ako ga ne znam za 10. (dok ne zagusti u zadnjem roku, a ja i dalje ne znam za 10&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/icon_mrgreen.gif" width="15" height="15" alt="&#58;mrgreen&#58;" title="icon_mrgreen.gif" class="smiley">)<br />Ali sam pored toga imala svoj emotivni i socijalni zivot, i ludorije i pijanke... zato mi se faks oduzio jednu godinu vise, al sa prosekom i samim znanjem mnogo vecim ...<br /><br />Al&#039; niko nije mene prozivao, prozivali su jednog sto se lozi na anime, drobi ljudima sto prepisuju i nema zivota van ekrana... <br /><br />A ovo za socijalnu i emotivnu inteligenciju... nisu svi fakultetski obrazovani ljudi duduci, jer nisu svi fakultetski obrazovani ljudi streberi.&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/wink3.gif" width="20" height="20" alt=";&#41;" title="wink1.gif" class="smiley">
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5860431_signature">
+								Your goals don&#039;t care how you feel.
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<script>
+				if (!isSmallerScreen) {
+					document.write("<div id='InArticle_3' class='banner' style='min-width: 300px; min-height: 200px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_3'); });
+				}					
+			</script>
+		</div>
+	
+		<div class="topic-ad">
+	
+			<script>
+				if (isSmallerScreen) {
+					document.write("<div id='InArticle_2' class='banner' style='min-width: 320px; min-height: 50px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_2'); });
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg5861541">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=105890" title="Pogledaj korisnički nalog članice Vila iz jezera">Vila iz jezera</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=105890"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_105890_1368203616.png"  width="84" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 627</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=105890"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_105890_1368203616.png"  width="84" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=105890" title="Pogledaj korisnički nalog članice Vila iz jezera">Vila iz jezera</a></h4>
+									<div class="message_count">Poruka:&nbsp;627</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5861541" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861541" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#24</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861541" rel="nofollow" title="Odgovor #24 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 20:24</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5861541">
+									</span>
+								</div>
+								<div id="msg_5861541_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5861541" id="msg_5861541">
+									Mislim da je sasvim prirodna stvar imati socijalni i emotivni život i biti odličan učenik/student. Ne znam zašto se podrazumeva da jedno drugo isključuje. Kao što se ne isključuje da je neko lep i doteran i uspešan student.<br /><br />Neko je štreber u očima drugih ljudi samo zbog toga što nema ista interesovanja kao što oni imaju. Primera radi, mene ne privlače opijanja i ludovanja po kafićima, što je zanimalo masu ljudi na faksu. Pošto se nismo poklopili u tom segmentu, ispalo je da ja ne izlazim jer samo učim i boravim u sobi. <img src="https://www.ana.rs/forum/Smileys/default/rolleyes01.gif" width="20" height="20" alt="&#58;rolleyes&#58;" title="rolleyes1" class="smiley"> A realnost je bila takva da sam se ja pronašla u nekim drugim stvarima i uvidela da mi je mnogo lepše da prošetam kraj reke i da odem na neku izložbu umesto da se prilagođavam nečemu što nisam samo da bih bila član grupe. Dakle, nismo se viđali na istim mestima, ali to ne znači da sam ja sve vreme sedela nad knjigom.<br /><br />I taj dečko što ga zanimaju anime verovatno ima drugih interesovanja koja su vama bila neshvatljiva, pa su ga zato prozvali. Ne mora da znači da je on nedruštven. Verovatno samo nije želeo da radi nešto što nije on.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5861541_signature">
+								Srećan si onoliko koliko ti tvoje misli dopuste da budeš.
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<!--ana izlog widget -->
+			<script type="text/javascript">
+				if (isSmallerScreen) {
+					document.write('<div id="aklaFwCrezu" class="aklawidgets"></div>');
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg5861565">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=113804" title="Pogledaj korisnički nalog članice Ljepotan ergo sum">Ljepotan ergo sum</a>
+							</h4>
+							<ul class="user_info">
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 290</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+								<li class="custom cust_loca"><strong>Lokacija</strong>: Gde sunce nikad ne sija (GBR)</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=113804" title="Pogledaj korisnički nalog članice Ljepotan ergo sum">Ljepotan ergo sum</a></h4>
+									<div class="message_count">Poruka:&nbsp;290</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>&nbsp;&bullet;&nbsp;<span class="location">Gde sunce nikad ne sija (GBR)</span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5861565" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861565" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#25</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861565" rel="nofollow" title="Odgovor #25 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 20:27</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5861565">
+									</span>
+								</div>
+								<div id="msg_5861565_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5861565" id="msg_5861565">
+									<blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.msg5857119#msg5857119">Citat: Manir poslato 13.05.2013. 10:25</a></cite><br />U skoli imam sve petice i neki decaci iz odeljenja mi kazu da sam streber. Mene to uopste ne dotice, ali zelim da im dokazem da to nisam. Oni misle da je streber onaj koji zna, a ne onaj koji buba dan i noc i uci napamet ono sto ne razume. Ja bas radim suprotno. Knjigu retko kada uzmem u ruke, lekciju procitam dva puta i znam je, a ucim uz televizor ili lap top.Zelim da oni vide koliko ja zapravo ucim i da ucim svesno, a ne napamet. Kada bih mogla da im dokazem suprotno od njihovog misljenja.. imate li neku ideju?<br /></blockquote>Imamo. Za deset godina ćeš se smijati sebi što si ovako razmišljala.<br />Ima toliko toga bitnijeg u životu od toga kako te gledaju đeca koju nakon škole više nikad nećeš sresti, bar ne da ima značaja.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5861565_signature">
+								Moj idol!&nbsp; &nbsp; <a href="http://www.youtube.com/watch?v=Jdx0XgVKZ8Q" class="bbc_link" target="_blank" rel="noopener">http://www.youtube.com/watch?v=Jdx0XgVKZ8Q</a>
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg5861601">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068" title="Pogledaj korisnički nalog članice Marci">Marci</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_87068_1524098574.png"  width="105" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 4.086</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_87068_1524098574.png"  width="105" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=87068" title="Pogledaj korisnički nalog članice Marci">Marci</a></h4>
+									<div class="message_count">Poruka:&nbsp;4.086</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5861601" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861601" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#26</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861601" rel="nofollow" title="Odgovor #26 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 20:33</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5861601">
+									</span>
+								</div>
+								<div id="msg_5861601_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5861601" id="msg_5861601">
+									Znas kako, taj sto ga zanimaju anime definitivno ne mari za to ko ga proziva... <br />Jer jeste siguran u sebe i prilicno samosvestan... ali ovde pita klinka koja je verovatno u godinama kada je prihvatanje okoline, drustva iz razreda jako bitno ...<br />U tom kontekstu ja joj kazem da se pokrene, da pokaze da nije streber, vec samo dobar djak... <br /><br />Moj najbolji drug iz srednje skole je streber. Od osnovne do faksa... imao je puno psihickih problema zbog nesigurnosti koje je izazvalo to prozivanje u srednjoj skoli ... depresije, kompleksi, nesigurnost, povucenost... trebalo mu je mnogo vremena da krene na bolje... <br />Nije nikada bio asocijalan, ali tek kada je pronasao hobi gde se socijalizovao sa ljudima slicnim njemu po interesovanjima i senzibilitetu je poceo da se oporavlja ... <br /><br />Socijalizacija je krucijalna stvar za dobar psihicki razvoj, i zato saveti tipa &quot;ma ne obracaj paznju, oni su glupi, manje vredni ...&quot; ne mogu nikako da izadju na dobro.<br /><br />I da, u ovom trenutku njoj je jako bitno kako je gledaju deca iz skole, jer to je njeno okruzenje. Za 10 godina ce joj mozda okruzenje biti drugacije, ali danas je takvo.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5861601_signature">
+								Your goals don&#039;t care how you feel.
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<div style='display: flex; justify-content: space-around'>
+				<script>
+					if (!isSmallerScreen) {
+						document.write("<div id='InArticle_4_Left' class='banner' style='min-width: 300px; min-height: 250px; margin: 1em 0;'></div>");
+						googletag.cmd.push(function() { googletag.display('InArticle_4_Left'); });
+						document.write("<div id='InArticle_4_Right' class='banner' style='min-width: 300px; min-height: 250px; margin: 1em 0;'></div>");
+						googletag.cmd.push(function() { googletag.display('InArticle_4_Right'); });
+					}
+				</script>
+			</div>
+		</div>
+	
+		<div class="topic-ad">
+	
+			<script>
+				if (isSmallerScreen) {
+					document.write("<div id='InArticle_3' class='banner' style='min-width: 320px; min-height: 50px; margin: 1em 0;'></div>");
+					googletag.cmd.push(function() { googletag.display('InArticle_3'); });
+				}
+			</script>
+		</div>
+	
+				<div class="windowbg" id="msg5861614">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=108743" title="Pogledaj korisnički nalog članice Twilight fan13">Twilight fan13</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=108743"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_108743_1368399187.png"  width="70" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 20</li>
+								<li class="blurb">Savrseno nesavrsena ;)</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+								<li class="custom cust_loca"><strong>Lokacija</strong>: Svugde al' obicno nigde.</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=108743"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_108743_1368399187.png"  width="70" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=108743" title="Pogledaj korisnički nalog članice Twilight fan13">Twilight fan13</a></h4>
+									<div class="message_count">Poruka:&nbsp;20</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>&nbsp;&bullet;&nbsp;<span class="location">Svugde al' obicno nigde.</span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5861614" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861614" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#27</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861614" rel="nofollow" title="Odgovor #27 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 20:34</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5861614">
+									</span>
+								</div>
+								<div id="msg_5861614_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5861614" id="msg_5861614">
+									<blockquote class="bbc_standard_quote"><cite><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.msg5860013#msg5860013">Citat: Nextto poslato 13.05.2013. 17:13</a></cite><br />To treba da je kompliment a ne uvreda! <img src="https://www.ana.rs/forum/Smileys/default/thumbs-up2.gif" width="31" height="35" alt="&#58;thumbs-up2&#58;" title="thumbs-up2.gif" class="smiley"><br /></blockquote>Upravo tako.Bila sam djak generacije ili kako bi oni rekli &#039;&#039;Štreber generacije,, Međutim nikada me nije doticalo to što govore.Jer to govore oni koji su gori od tebe.Nikada ti neko bolji od tebe neće to reći.(ovo je neka članica već rekla i sa time se u potpunosti slažem).Svakako se slažem sa time da im trebaš pomoći ponekad(Ne samo da bi prestali da te zovu štreberom jer verovatno i neće.Već da ne naiđeš ne mržnju celog razreda kao što se to desilo meni).Meni je u početku takodje išlo na živce da me zovu štreberom ali sam to kasnije shvatala kao kompliment i nisam se obazirala na njihove provokacije.S vremenom su te njihove provokacije gotovo i <a href="//nestale.to" class="bbc_link" target="_blank" rel="noopener">nestale.To</a> predlažem i tebi da uradiš.Ti nemaš šta da dokazuješ drugima.Znaš ko si i to je to.A uostalom bolje je biti pametan nego glup. Zar ne? <img src="https://www.ana.rs/forum/Smileys/default/wink3.gif" width="20" height="20" alt=";&#41;" title="wink1.gif" class="smiley">
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5861614_signature">
+								Kad ljubav nije ludost, tada to nije ljubav... <img src="https://www.ana.rs/forum/Smileys/default/cheesy.gif" width="15" height="15" alt="&#58;D" title="Nasmejan" class="smiley">
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg5861648">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=68272" title="Pogledaj korisnički nalog članice Belgrad04">Belgrad04</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=68272"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_68272_1368104599.png"  width="105" height="105" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 1.374</li>
+								<li class="blurb">Nil Satis Nisi Optimum</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_1" title="Muški"></span></li>
+									</ol>
+								</li>
+								<li class="custom cust_loca"><strong>Lokacija</strong>: Beo_Grad</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=68272"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_68272_1368104599.png"  width="105" height="105" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=68272" title="Pogledaj korisnički nalog članice Belgrad04">Belgrad04</a></h4>
+									<div class="message_count">Poruka:&nbsp;1.374</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_1" title="Muški"></span></span>&nbsp;&bullet;&nbsp;<span class="location">Beo_Grad</span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5861648" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861648" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#28</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861648" rel="nofollow" title="Odgovor #28 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 20:40</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5861648">
+									</span>
+								</div>
+								<div id="msg_5861648_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5861648" id="msg_5861648">
+									Bill Gates ( jedno od njegovih pravila )<br /><br />Pravilo11: Budi ljubazan prema štreberima. Velike su sanse da ces raditi za jednog.
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+							<div class="signature" id="msg_5861648_signature">
+								Belgrad, Bello Grado, Alba Urbs, Alba Graeca, Griechisch Weissenburg, Nandor Fehervar, Nandor Alba i Castelbianco neki su od naziva koje je Beograd imao u prošlosti. Kako je koji osvajač zauzimao grad, tako je menjao naziv. Svi oni su ustvari, prevod slovenske reči BEOGRAD&nbsp; <img src="https://www.ana.rs/forum/Smileys/default/excl.gif" width="20" height="20" alt="!!" title="excl.gif" class="smiley">
+							</div>
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+				<div class="windowbg" id="msg5861680">
+					
+					
+					<div class="post_wrapper">
+						<div class="poster">
+							<h4>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=67029" title="Pogledaj korisnički nalog članice vilavila">vilavila</a>
+							</h4>
+							<ul class="user_info">
+								<li class="avatar">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=67029"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_67029_1378144354.png"  width="140" height="79" alt="" loading="lazy"></a>
+								</li>
+								<li class="icons"></li>
+								<li class="postgroup">članica</li>
+								<li class="postcount"><strong>Poruke:</strong> 154</li>
+								<li class="im_icons">
+									<ol>
+										<li class="custom cust_gender"><span class=" main_icons gender_2" title="Ženski"></span></li>
+									</ol>
+								</li>
+							</ul>
+						</div><!-- .poster -->
+						<div class="mobile_poster">
+							<div>
+								<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=67029"><img class="avatar" src="https://www.ana.rs/forum/custom_avatar/avatar_67029_1378144354.png"  width="140" height="79" alt="" loading="lazy"></a>
+							</div>
+							<div class="poster_info">
+								<div class="primary_info">
+									<h4><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=profile;u=67029" title="Pogledaj korisnički nalog članice vilavila">vilavila</a></h4>
+									<div class="message_count">Poruka:&nbsp;154</div>
+								</div>
+								<div class="secondary_info"><span>članica</span>&nbsp;&bullet;&nbsp;<span><span class=" main_icons gender_2" title="Ženski"></span></span>
+								</div>
+							</div>
+						</div><!-- .mobile_poster -->
+						<div class="postarea">
+							<div class="keyinfo">
+								<div id="subject_5861680" class="subject_title">
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861680" rel="nofollow">Odg: Kako da dokazem da nisam streber?</a>
+								</div>
+								<span class="page_number floatright">#29</span>
+								<div class="postinfo">
+									<span class="messageicon"  style="position: absolute; z-index: -1;">
+										<img src="https://www.ana.rs/forum/Themes/ana/images/post/xx.png" width="14" height="18" alt="">
+									</span>
+									<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;msg=5861680" rel="nofollow" title="Odgovor #29 - Odg: Kako da dokazem da nisam streber?" class="smalltext">13.05.2013. 20:44</a>
+									<span class="spacer"></span>
+									<span class="smalltext modified floatright" id="modified_5861680">
+									</span>
+								</div>
+								<div id="msg_5861680_quick_mod"></div>
+							</div><!-- .keyinfo -->
+							<div class="post">
+								<div class="inner" data-msgid="5861680" id="msg_5861680">
+									Nemaš potrebe da se dokazuješ bilo kome po pitanju da li si štreber ili ne. Ti što ti govore to sigurno su zavidni, jer si bolja od njih. Nemoj da obraćaš pažnju na to što ti govore, i vjerovatno će im dosaditi da te zadirkuju , a ako ne prestanu, ne opterećuj se time, jer nisu vrijedni tvoje pažnje. Uživaj... <img src="https://www.ana.rs/forum/Smileys/default/smile.gif" width="20" height="20" alt="&#58;&#41;" title="smile" class="smiley">
+								</div>
+							</div><!-- .post -->
+							<div class="under_message">
+								<ul class="post_likes">
+								</ul>
+							</div><!-- .under_message -->
+						</div><!-- .postarea -->
+						<div class="moderatorbar">
+						</div><!-- .moderatorbar -->
+					</div><!-- .post_wrapper -->
+				</div><!-- $message[css_class] -->
+				<hr class="post_separator">
+		<div class="topic-ad">
+	
+			<div style='display: flex; justify-content: space-around'>
+				<script>
+					if (!isSmallerScreen) {
+						document.write("<div id='InArticle_5_Left' class='banner' style='min-width: 300px; min-height: 250px; margin: 1em 0;'></div>");
+						googletag.cmd.push(function() { googletag.display('InArticle_5_Left'); });
+						document.write("<div id='InArticle_5_Right' class='banner' style='min-width: 300px; min-height: 250px; margin: 1em 0;'></div>");
+						googletag.cmd.push(function() { googletag.display('InArticle_5_Right'); });
+					}
+				</script>
+			</div>
+		</div>
+	
+			</form>
+		</div><!-- #forumposts -->
+		<div class="pagesection">
+			
+		<div class="buttonlist floatright">
+			
+				<a class="button button_strip_print" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=printpage;topic=167455.0"  rel="nofollow">Štampaj</a>
+		</div>
+			 
+			<div class="pagelinks floatleft">
+				<a href="#main_content_section" class="button" id="bot">Idi gore</a>
+				<select onchange="javascript:window.location=('https://www.ana.rs/forum/index.php?topic=167455.%1$d').replace(/%1\$d/, this.value);"><option value="0">1</option><option value="15" selected="selected">2</option><option value="30">3</option><option value="45">4</option><option value="60">5</option><option value="75">6</option></select> &nbsp;<span class="pages">Stranice</span><a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.0"><span class="main_icons previous_page"></span></a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.0">1</a> <span class="current_page">2</span> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.30">3</a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.45">4</a> <span class="expand_pages" onclick="expandPages(this, '&lt;a class=&quot;nav_page&quot; href=&quot;' + smf_scripturl + '?topic=167455.%1$d&quot;&gt;%2$s&lt;/a&gt; ', 60, 75, 15);"> ... </span><a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.75">6</a> <a class="nav_page" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.30"><span class="main_icons next_page"></span></a> 
+			</div>
+		<div class="mobile_buttons floatright">
+			
+			<a class="button mobile_act">Akcije</a>
+			
+		</div>
+		</div>
+		<div style='display: flex; align-items: center; justify-content: center'>
+			<script>
+				if (isSmallerScreen) {
+                    document.write("<div id='P2' class='banner' style='min-width: 320px; min-height: 50px;'></div>");
+                    googletag.cmd.push(function() { googletag.display('P2'); });
+				}
+			</script>
+		</div>
+		
+		<!--ana.rs aklamator widget teme - desktop + mobile v3-->
+		<div id="aklaePZHE0e" class="aklawidgets"></div>
+		
+				<div class="navigate_section">
+					<ul>
+						<li>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;"><span>Ana.rs - Ženski forum</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;#c17"><span>Svakodnevni život</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;board=55.0"><span>Moj živote</span></a>
+						</li>
+						<li>
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;board=151.0"><span>Životni principi i navike</span></a>
+						</li>
+						<li class="last">
+							<span class="dividers"> &#9658; </span>
+							<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;topic=167455.0"><span>Kako da dokazem da nisam streber?</span></a>
+						</li>
+					</ul>
+				</div><!-- .navigate_section -->
+		<div id="moderationbuttons">
+			
+		</div>
+		<div id="display_jump_to"></div>
+		<div id="mobile_action" class="popup_container">
+			<div class="popup_window description">
+				<div class="popup_heading">
+					Akcije
+					<a href="javascript:void(0);" class="main_icons hide_popup"></a>
+				</div>
+				
+		<div class="buttonlist">
+			
+				<a class="button button_strip_print" href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=printpage;topic=167455.0"  rel="nofollow">Štampaj</a>
+		</div>
+			</div>
+		</div>
+		<script>
+			if ('XMLHttpRequest' in window)
+			{
+				var oQuickModify = new QuickModify({
+					sScriptUrl: smf_scripturl,
+					sClassName: 'quick_edit',
+					bShowModify: true,
+					iTopicId: 167455,
+					sTemplateBodyEdit: '\n\t\t\t\t\t\t<div id="quick_edit_body_container">\n\t\t\t\t\t\t\t<div id="error_box" class="error"><' + '/div>\n\t\t\t\t\t\t\t<textarea class="editor" name="message" rows="12" tabindex="1">%body%<' + '/textarea><br>\n\t\t\t\t\t\t\t<input type="hidden" name="c2fcb67" value="22e0ac2cd6136dd5b8e3f5b8255621ee">\n\t\t\t\t\t\t\t<input type="hidden" name="topic" value="167455">\n\t\t\t\t\t\t\t<input type="hidden" name="msg" value="%msg_id%">\n\t\t\t\t\t\t\t<div class="righttext quickModifyMargin">\n\t\t\t\t\t\t\t\t<input type="submit" name="post" value="Sačuvaj" tabindex="2" onclick="return oQuickModify.modifySave(\'22e0ac2cd6136dd5b8e3f5b8255621ee\', \'c2fcb67\');" accesskey="s" class="button"> <input type="submit" name="cancel" value="Otkaži" tabindex="3" onclick="return oQuickModify.modifyCancel();" class="button">\n\t\t\t\t\t\t\t<' + '/div>\n\t\t\t\t\t\t<' + '/div>',
+					sTemplateSubjectEdit: '<input type="text" name="subject" value="%subject%" size="80" maxlength="80" tabindex="4">',
+					sTemplateBodyNormal: '%body%',
+					sTemplateSubjectNormal: '<a hr'+'ef="' + smf_scripturl + '?topic=167455.msg%msg_id%#msg%msg_id%" rel="nofollow">%subject%<' + '/a>',
+					sTemplateTopSubject: '%subject%',
+					sTemplateReasonEdit: 'Razlog za izmenu: <input type="text" name="modify_reason" value="%modify_reason%" size="80" maxlength="80" tabindex="5" class="quickModifyMargin">',
+					sTemplateReasonNormal: '%modify_text',
+					sErrorBorderStyle: '1px solid red'
+				});
+
+				aJumpTo[aJumpTo.length] = new JumpTo({
+					sContainerId: "display_jump_to",
+					sJumpToTemplate: "<label class=\"smalltext jump_to\" for=\"%select_id%\">Prebaci se na<" + "/label> %dropdown_list%",
+					iCurBoardId: 151,
+					iCurBoardChildLevel: 1,
+					sCurBoardName: "Životni principi i navike",
+					sBoardChildLevelIndicator: "==",
+					sBoardPrefix: "=> ",
+					sCatSeparator: "-----------------------------",
+					sCatPrefix: "",
+					sGoButtonLabel: "Idi"
+				});
+
+				aIconLists[aIconLists.length] = new IconList({
+					sBackReference: "aIconLists[" + aIconLists.length + "]",
+					sIconIdPrefix: "msg_icon_",
+					sScriptUrl: smf_scripturl,
+					bShowModify: true,
+					iBoardId: 151,
+					iTopicId: 167455,
+					sSessionId: smf_session_id,
+					sSessionVar: smf_session_var,
+					sLabelIconList: "Ikona poruke",
+					sBoxBackground: "transparent",
+					sBoxBackgroundHover: "#ffffff",
+					iBoxBorderWidthHover: 1,
+					sBoxBorderColorHover: "#adadad" ,
+					sContainerBackground: "#ffffff",
+					sContainerBorder: "1px solid #adadad",
+					sItemBorder: "1px solid #ffffff",
+					sItemBorderHover: "1px dotted gray",
+					sItemBackground: "transparent",
+					sItemBackgroundHover: "#e0e0f0"
+				});
+			}
+		</script>
+			</div><!-- #main_content_section -->
+		</div><!-- #content_section -->
+		</div><!-- #forum_wrapper -->
+		
+		<div id="sidebar_wrapper">
+			<div style="position: sticky; top: 0; margin-top: 5px">
+				<script>
+					if (!isSmallerScreen) {
+						document.write("<div class='banner' id='Sidebar_1' style='min-width: 160px; min-height: 600px;'></div>");
+						googletag.cmd.push(function() { googletag.display('Sidebar_1'); });
+					}		
+				</script>
+				<!--ana.rs aklamator widget potkategorije i teme vertikalni v3-->
+				<div id="akla39ODbrW" class="aklawidgets" style="width: 300px;"></div>
+				
+				<script>
+					if (!isSmallerScreen) {
+						document.write("<div class='banner' id='Sidebar_2' style='min-width: 160px; min-height: 600px;'></div>");
+						googletag.cmd.push(function() { googletag.display('Sidebar_2'); });
+					}		
+				</script>
+			
+			</div>
+		</div>
+		
+		</div><!-- #central_wrapper -->
+	</div><!-- #wrapper -->
+</div><!-- #footerfix -->
+	<div id="footer">
+		<div class="inner_wrap">
+		<ul>
+			<li class="floatright">
+				<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=rules">Pravila foruma</a> | 
+				<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=privacy">Politika privatnosti</a> |  
+				<a href="mailto:oglasavanje@ana.rs">Cenovnik oglasnog prostora</a> | 
+				<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=impressum">Impresum</a> | 
+				<a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=about">O nama</a> 
+			</li>
+			<li class="copyright"><a href="https://www.ana.rs/forum/index.php?PHPSESSID=93j2r8v78b53gh6ff0l4rb4g94&amp;action=credits" title="License" target="_blank" rel="noopener">SMF 2.1.3 &copy; 2022</a>,<a href="https://www.simplemachines.org" title="Simple Machines" target="_blank" rel="noopener">Simple Machines</a></li>
+		</ul>
+		<p>Strana je kreirana za 0.099 sekundi i 25 upita.</p>
+		</div>
+	</div><!-- #footer -->
+	<div class="goUp">
+		<img width="16" height="34" src="https://www.ana.rs/forum/Themes/ana/images/ToTop.gif" title="Vrati se na vrh" alt="Vrati se na vrh" />
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function(){
+	    $(window).scroll(function() { 
+			if ($(window).scrollTop() > 0){
+				$(".goUp").fadeIn();
+			} else {
+				$(".goUp").fadeOut();
+			}
+		});
+
+		$(".goUp").click(function() {
+			$("html:not(:animated),body").animate({scrollTop: 0}, "slow");
+		});
+	});
+	</script>
+	
+<script>
+window.addEventListener("DOMContentLoaded", function() {
+		$.sceditor.locale["sr"] = {
+			"Width (optional):": "Širina (opciono):",
+			"Height (optional):": "Visina (opciono):",
+			"Insert": "Ubaci",
+			"Description (optional):": "Opis (nije obavezno)",
+			"Rows:": "Redova:",
+			"Cols:": "Kolona:",
+			"URL:": "URL:",
+			"E-mail:": "Imejl:",
+			"Video URL:": "URL do video fajla:",
+			"More": "Još",
+			"Close": "Zatvori",
+			dateFormat: "day.month.year"
+		};
+});
+</script>
+		<div id="bannerStickyBottom">
+			<div class="banner__close" style="position: absolute;top: -31px;right: -5px;cursor: pointer;padding: 5px;border-radius: 50%;border: 1px solid #b8b9be;box-shadow: 0 0 3px #b8b9be;background: #FFFFFF;">
+				<svg style="display: block; fill: #171929;" width="19px" height="19px" viewBox="0 0 8 8" xmlns="http://www.w3.org/2000/svg">
+					<path d="M1.41 0l-1.41 1.41.72.72 1.78 1.81-1.78 1.78-.72.69 1.41 1.44.72-.72 1.81-1.81 1.78 1.81.69.72 1.44-1.44-.72-.69-1.81-1.78 1.81-1.81.72-.72-1.44-1.41-.69.72-1.78 1.78-1.81-1.78-.72-.72z" />
+				</svg>
+			</div>
+			
+			<!-- banner placement here -->
+			<div class="banner" id="Sticky" style="min-width: 320px; min-height: 50px;">
+				<script>
+					googletag.cmd.push(function() { googletag.display("Sticky"); });
+				</script>
+			</div>
+			<!-- end banner placement here -->
+		</div>
+		
+		<script type="text/javascript">
+			const bannerStickyBottomConfig = {
+				hidden: true,       // is banner visible the whole time
+				scrolled: 200,      // scrolled pixels after banner is visible
+				negative: 300,      // how much banner will be off screen
+				center: 0           // banner moved to left/right from its center
+			}
+		
+			const bannerStickyBottom=document.getElementById("bannerStickyBottom"),bannerStickyBottomClose=document.querySelector("#bannerStickyBottom .banner__close");let bannerStickyBottomStart="";const bannerStickyBottomStyle="position:fixed;left:50%;bottom:"+(bannerStickyBottomStart=bannerStickyBottomConfig.hidden?-bannerStickyBottomConfig.negative+"px":"0")+";z-index:999999;transform:translateX(-50%) translateX("+bannerStickyBottomConfig.center+"px);transition:all 300ms ease";bannerStickyBottom.setAttribute("style",bannerStickyBottomStyle);const stickBanner=()=>{let t=0;document.addEventListener("scroll",function(){(t=window.scrollY)>bannerStickyBottomConfig.scrolled?bannerStickyBottom.style.bottom="0":bannerStickyBottom.style.bottom=bannerStickyBottomStart})};bannerStickyBottomClose&&bannerStickyBottomClose.addEventListener("click",()=>{bannerStickyBottom.remove()}),bannerStickyBottomConfig.hidden&&stickBanner();
+		</script>
+		
+		<iframe srcdoc="<script src='https://cdn.performax.cz/acc/loader.js?aab=loader'></script>" style="display: none" data-web="ana.rs" data-hash="cb239af71e27add71a70728e1e9dd126"></iframe>
+		
+</body>
+</html>
