@@ -2,7 +2,7 @@
 
 
 fichier_text=$1
-motif=$2
+motif="$2"
 
 if [[ $# -ne 2 ]]
 then
@@ -33,15 +33,15 @@ echo "
 <table>
 <thead>
   <tr>
-    <th class=\"has-text-right\">Contexte droit</th>
-    <th>Cible</th>
     <th class=\"has-text-left\">Contexte gauche</th>
+    <th>Cible</th>
+    <th class=\"has-text-right\">Contexte droit</th>
   </tr>
 </thead>
 <tbody>
 "
 
-grep -E -o "(\w+\W+){0,5}\b$motif\b(\W+\w+){0,5}" $fichier_text | sed -E "s/(.*)($motif)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/"
+grep -E -o "(\w+\W+){0,5}($motif)(\W+\w+){0,5}" $fichier_text | sed -E "s/(.*)($motif)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\5<\/td><\/tr>/"
 
 echo "
 </tbody>
@@ -49,4 +49,3 @@ echo "
 </body>
 </html>
 "
-
