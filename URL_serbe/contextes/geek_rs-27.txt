@@ -1,9 +1,15 @@
+   status: user
+   broj poruka: 3687 Sve sam to i ja prošao i nije hteo...
    http://www.howtogeek.com/howto/windows-7/share-files-and-printers-betwe
    en-windows-7-and-xp/
    evo ovi gikovi su kao uspeli...mada ne vidim nigde sliku da su
    pristupili sa xp-a na sedmicu...da napomenem da sam i sve preporuke sa
    njihovog sajta prošao, međutim i dalje nije htelo. Jedina razlika je
 --
+   ::
+   ::
+   http://www.howtogeek.com/howto/windows-7/share-files-and-printers-betwe
+   en-windows-7-and-xp
    ::
    ::
    :: evo ovi gikovi su kao uspeli...mada ne vidim nigde sliku da su
