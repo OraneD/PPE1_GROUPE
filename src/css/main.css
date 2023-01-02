@@ -99,3 +99,21 @@ nav > ul li:hover .sous{
 .column {
     transition:transform .4s;
 }
+
+.liste {
+	list-style-type: disc;
+}
+
+img {
+	border-style: solid;
+	border-image: 1px;
+	border-color: rgb(32, 32, 32);
+	display: block;
+	margin: auto;
+}
+
+figure {
+	text-align:center;
+	font-size: smaller;
+	font-style: italic;
+}

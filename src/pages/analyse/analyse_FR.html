@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title> PPE1 - Analyses</title>
+    <title> PPE1 - Nuages de Mots</title>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
     <link rel="stylesheet" href="../../css/main.css">
@@ -29,21 +29,21 @@
                 <span>Méthode</span>
             </a>
         </li>
-        <li class="deroulant"><a>Scripts</a>
+        <li class="deroulant"><a href="../scripts.html">Scripts</a>
             <ul class="sous">
-                <li><a href="../scripts/scripts_FR.html">Français</a></li>
-                <li><a href="../scripts/scripts_EN.html">Anglais</a></li>
-                <li><a href="../scripts/scripts_SR.html">Serbe</a></li>
+                <li><a href="#">Français</a></li>
+                <li><a href="#">Anglais</a></li>
+                <li><a href="#">Serbe</a></li>
                 
             </ul>
         
         </li>
                 <li class="deroulant"><a>Tableaux</a>
                 <ul class="sous">
-                    <li><a href="../../../URL_fr/tableau_FR.html">Français Geek</a></li>
-                    <li><a href="../../../URL_fr/Tableau_nerd_FR.html">Français Nerd</a></li>
-                    <li><a href="../../../URL_anglais/tableaux/tableau_Geek_anglais.html">Anglais Geek</a></li>
-                    <li><a href="../../../URL_anglais/tableaux/tableau_Nerd_anglais.html">Anglais Nerd</a></li>
+                    <li><a href="../../../tableau_FR.html">Français Geek</a></li>
+                    <li><a href="../../../Tableau_nerd_FR.html">Français Nerd</a></li>
+                    <li><a href="#">Anglais Geek</a></li>
+                    <li><a href="#">Anglais Nerd</a></li>
                     <li><a href="#">Serbe Geek</a></li>
                     <li><a href="#">Serbe Nerd</a></li>
                     
@@ -68,8 +68,68 @@
     </div>
 
     <section class="section has-background-primary-light">
-        <div class="container">
-            <div class="title"> ANALYSE FRANÇAIS</div>
+        <div class="container has-text-centered">
+            <div class="title is-3"> Analyse Français</div> 
+        </div>
+        <br>
+        <div class="block has-background-primary-light has-text-justified">
+            <p> Nous rappelons que l'analyse pour chaque langue se fait de façon individuelle. L'analyse des mots en français est réalisée par Orane.</p>
+            <br>
+            <p class="title is-6"> Analyse du mot "Geek"</p>
+            <p>iTrameur permet de chercher les cooccurrents d’un mot donné. Chercher les cooccurrents du mot « geek » dans le corpus qui contient la concaténation des dumps pour chaque URL permet d’avoir une vue d’ensemble sur les contextes dans lesquels le mot est employé et les thèmes qu’il mobilise</p>
+            <br>
+                <figure><img src="../../img/itrameur_screen_FR/Geek_Cooc.png">
+                    <figcaption>Cooccurrences pour le mot "geek" dans le corpus</figcaption>
+                </figure>
+            <br>
+            <ul class="liste">
+                <li>Le mot geek est très souvent employé comme adjectif du nom « culture » ce qui indique un consensus entre les locuteurs quant à l’existence d’une culture geek. Cependant le corpus ne contient pas de  renseignement quant à la culture en elle même, comme s'il  n’y a plus besoin de la définir</li>
+                <li>"Geek" est souent en attribut du sujet après le verbe être conjugué à la première personne du singulier « suis » ou « étais » cela indique une revendication personnelle ce qui laisse penser que le mot est plutôt considéré comme mélioratif</li>
+                <li>Le verbe « est » se retrouve souvent dans une structure avec un présentatif « c’est » ou bien une interrogative « Qu’est ce qu’un geek.. ? » ce qui démontre une volonté de définir le mot. Les mots « définition » ou bien « terme » qui reviennent très souvent montrent aussi ce travail de définition.</li>
+                <li>Certains adjectifs reviennent souvent : « passionné » au féminin comme au masculin, « special » « heureux » « malheureux » il n’y en a qu’un seul qui est vraiment péjoratif. Il s'agit de "malheureux" mais il n’y a qu’une seule occurrence dans le corpus</li>
+            </ul>
+            <br>
+            <p>Conclusion : on admet l’existence d’une culture geek alors qu’on questionne ce qu’est être un geek . Cela montre qu’il n’y a pas d’unité dans la culture geek et que chaque locuteur s’est approprié ce terme. La culture geek peut en effet renvoyer à des domaines très différents : numérique / attitude sociale/ compétences communes / références communes… Cette pluralité est à l’origine de la difficulté que l’on a à définir ce qu’est un geek.  Cet apparent paradoxe démontre toutefois la réappropriation du terme « geek » que l’on revendique comme une culture afin de manifester un sentiment d’appartenance à une communauté alors même que les contours de cette communauté sont assez flous. </p>
+            <br>
+            <br>
+            <p>On peut difficilement faire une analyse morphologique car iTrameur ne permet pas de faire des recherches sur  plusieurs formes à la fois. Cependant on peut grâce à l’outil « Dictionnaire » compter le nombre d’occurrence pour une forme. Pour cela il suffit de chercher la forme « geek » dans le dictionnaire, comme ce dernier ne cherche pas un mot mais un pattern, on a aussi les autres formes du mot.</p>
+            <br>
+            <figure><img src="../../img/itrameur_screen_FR/Geek_Dico.png">
+                <figcaption>Formes du mot "geek" dans le corpus</figcaption>
+                </figure>
+            <br>
+            <p>On voit une féminisation du mot en français avec le suffixe -ette, même si « geekette » reste très peu employé par rapport à « geek ». Le mot est également accordé lorsqu’il se trouve dans un groupe nominal au pluriel (« geeks »). Enfin, on remarque même une nominalisation du mot avec le suffixe « -itude » qui sert à former des noms féminins. </p>
+            <p>Ce relevé indique une appropriation de l’anglicisme par le français, cependant il s’agit d’une appropriation à deux vitesses. En effet, iTrameur découpe les corpus en section ce qui nous permet de voir dans quelle partie du corpus on retrouve une forme donnée. Si l’accord de « geek » au pluriel est présent autant dans le corpus presse que dans le corpus forum, les flexions plus élaborées comme « geekette » ou  « geekitude » ne se retrouvent que dans le corpus forums. </p>
+            <br>
+            <br>
+            <p class="title is-6"> Analyse du mot "Nerd"</p>
+            <br>
+            <p>Comme pour « geek », nous pouvons chercher les cooccurrents de « nerd » à partir du corpus contenant les dumps des URL afin d’avoir une idée du contexte dans lequel est employé le mot.</p>
+            <br>
+            <figure><img src="../../img/itrameur_screen_FR/Nerd_Cooc.png">
+                <figcaption>Cooccurrences pour le mot "nerd" dans le corpus</figcaption>
+                </figure>
+            <br>
+            <ul class="liste">
+                <li>On voit tout d’abord que le cooccurrent le plus fréquent de « nerd » dans notre corpus est « geek ». Il sont le plus souvent deux groupes nominaux coordonnés dans une même phrase ce qui indique que les locuteurs ne confondent pas les deux mots mais qu’ils les envisagent comme sémantiquement différents.</li>
+                <li>Le mot « différence » est le deuxième cooccurrent le plus fréquent dans le corpus. En affichant les contextes où on trouve ces cooccurrences, on voit que les locuteurs posent souvent la question de la différence entre ces deux mots.</li>
+                <li>Le mot dork est employé comme un synonyme de « nerd »</li>
+            </ul>
+            <br>
+            <p>Les autres cooccurrents trouvés ont un indice de spécificité inférieur à 5 et sont souvent issus d’un seul URL. Leur présence n’est donc pas liée à la présence du mot « nerd »</p>
+            <br>
+            <br>
+            <p>Au niveau morphologique, comme pour le mot « geek », « nerd » s’accorde au pluriel et on  relève l’occurrence d’une  même suffixation en -itude. Cependant, « nerd » n’a pas de forme féminine </p>
+            <br>
+            <figure><img src="../../img/itrameur_screen_FR/Nerd_Dico.png">
+                <figcaption>Formes du mot "nerd" dans le corpus</figcaption>
+                </figure>
+            <br>
+            <br>
+            <p class="title is-6"> Conclusion pour le français</p>
+            <p>En français, l’anglicisme  « geek » a été largement adopté par les locuteurs à tel point qu’on parle aujourd’hui d’une « culture geek » vaste  dont tous peuvent se revendiquer ce qui rend finalement la définition du « geek » très incertaine. Cependant cela reste un mot à connotation largement positive.</p>
+            <p>« Nerd » au contraire n’a pas de vocabulaire spécifique qui lui est lié en français, les locuteurs ont seulement l’intuition qu’il ressemble plus ou moins à « geek ». Le mot est souvent employé précisément pour poser la question de la différence entre « geek » et « nerd »  d’où la surreprésentation de ce mot dans ces cooccurrents. </p>
+
         </div>
     </section>
 
@@ -79,7 +139,7 @@
              Projet réalisé par
             <a href="https://github.com/OraneD">Orane Dufour</a>
             <a href="#"> Léa Mondoloni</a>
-            <a href="https://github.com/valentinaosetrov"> Valentina Osetrov</a>
+            <a href="#"> Valentina</a>
             . Cette page internet a été créée grâce au framework 
             <a href="https://bulma.io/">BULMA</a>.
           </p>
