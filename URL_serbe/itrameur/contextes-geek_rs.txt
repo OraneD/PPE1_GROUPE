@@ -1,0 +1,593 @@
+<lang="geek_rs">
+<page=$pagename">
+<text>
+
+   “Jedna je stvar kada monopolisti neta drže štap, sa solidnim principima
+   o životu, fini GIK koji vole slobodu. Ali je sasvim druga kada su ti
+   ljudi istovremeno kukavice i pohlepni”, dodao je on.
+</text>
+</page> §
+<page=$pagename">
+<text>
+   proglašavani pobednici i dodeljivane nagrade, nastavnici pobedničkih
+   ekipa su blistali sa strane sa plaketama u rukama, a pobednici, po
+   pravilu najveći GIK u svojim školama, dočekali su da se nađu na
+   centru bine, pod blještećim reflektorima, obasuti salvama aplauza…
+</text>
+</page> §
+<page=$pagename">
+<text>
+   firmama i o programerima, pa onda ljudi vide da su to momci i devojke
+   koji idu u teretanu, na fudbal, rade sve što i ostali normalni ljudi.
+   Ali do skoro je bilo predrasuda da su programeri ‘GIK’ sa cvikama
+   koji se plaše devojaka.
+</text>
+</page> §
+<page=$pagename">
+<text>
+   samotnjaci, tiho ulaze u legendu. Eto vam primera Bila Gejtsa (Bill
+   Gates), Marka Zakerberga (Mark Zuckerberg) i pokojnog Stiva Džobsa
+   (Steve Jobs). Ali nisu samo kompjuteraši GIK, ima među uvrnutima i
+   umetnika, te drugih intelektualaca svih boja i vrsta. Predstavljamo vam
+   sedam ćaknutih holivudskih parova koji će vas možda navesti da
+--
+   Helena Bonam Karter i Tim Barton
+
+   On je blesavi režiser koji pravi sablasne traGIKomedije, a i izgleda
+   kao strašilo koje vazda prikazuje. Ona je kao stvorena za uloge
+   veštica, leševa, sablasnih likova, pravih ludaja – i uvek je
+</text>
+</page> §
+<page=$pagename">
+<text>
+   #alternate Uredi Wikipedia (sh) alternate alternate alternate
+
+GIK
+
+   Izvor: Wikipedia
+   Prijeđi na navigaciju Prijeđi na pretragu
+
+   GIK (en. GIK) je pojam iz engleskog jezika (u žargonu: "štreber",
+   "čudak" ), koji ima širok raspon raznih značenja: od "znanstvenog,
+   informatičkog, eksperta ili entuzijasta", do općenito pogrdnog
+--
+     * 1 Definicije
+     * 2 Samoidentifikacija
+     * 3 GIK chic (GIK djevojka)
+     * 4 Povezani članci
+
+Definicije[uredi | uredi kod]
+
+   U američkom slangu "GIK" često nazivaju "nerds", tzv. štreberi.
+   2007. jedan satirički show definirao je razliku između "GIK" i
+   "nerdova": prvi znaju praktično primijeniti svoje znanje, dok drugi
+   ostaju u sferi teorije.
+--
+Samoidentifikacija[uredi | uredi kod]
+
+   Iako sam opis neke osobe kao "GIK" ima uvredljivu konotaciju,
+   odnedavno ga se smatra kao kompliment ili iznimno priznanje za
+   računalna znanja ili vještine u nekim zahtjevnim tehničkim disciplinama
+   (npr. u konzolnim ili PC-igrama).
+
+   Chris Prillo je poznati "GIK" i ima svoj kanal na YouTube-u, svoju
+   stranicu i koristi se na mnogim servisima. Poznat je po odličnom znanju
+   o računalima i svojoj tehnološkoj podršci, koju obični ljudi znaju
+   zvati "Nazovi-štrebera".
+
+   Ipak, ostaje uvriježeno pogrdno i negativno poimanje "GIK": osoba
+   zaokupljena svojim područjem interesa na uštrb društvenog statusa i
+   osobne higijene.
+
+GIK chic (GIK djevojka)[uredi | uredi kod]
+
+   Stephanie Parkul, blogerica. Na njezinoj majici prikazan je "Plavi
+--
+   Windows-a
+
+   "GIK chic" je pojam za osobu ženskog spola s interesima kao i
+   "GIK"-ovi, ali se može "prepoznati" tako što nosi:
+     * naočale tamnih rubova
+     * majice sa svježim i inventivnim GIK-natpisima ili dosjetkama
+     * tehnološki napredne naprave ili uređaje
+     * stripove
+     * DVD-e ili videoigre
+
+   "GIK chic" image tj. izgled je mješavina alternativnih mladenačkih
+   modnih stilova.
+
+--
+
+   Commons-logo.svg
+   GIK na Wikimedijinoj ostavi
+   Izvor: https://sh.wikipedia.org/w/index.php?title=GIK&amp;oldid=41122536
+   Kategorije:
+     * Računarstvo
+</text>
+</page> §
+<page=$pagename">
+<text>
+   [ ]
+
+GIK
+
+   [ ] 39 languages
+--
+     * Istorija
+
+   GIK su često povezani sa abnormalnim znanjem matematike. Na ovoj
+   slici se vidi aproksimacija broja pi koji se proteže od logotipa mazde
+   3, parkiranog na Univerzitetu Kalifornije u Ervajnu.
+
+   GIK (engl. GIK, srp. интелигентна али недруштвена особа^[1]) je sleng
+   termin koji se prvobitno koristio za opis ekscentričnih i nemejnstrim
+   ljudi; u sadašnjoj upotrebi, riječ obično označava stručnjaka ili
+--
+
+   U američkom rečniku iz 1975. godine postoji jedna jedina definicija:
+   'GIK [imenica, sleng]. Karnevalski izvođač čiji se nastup sastoji od
+   odgrizanja glave živog pileta ili zmije.' Tehnička revolucija pronašla
+   je nove načine za upotrebu ove reči, ali i dalje često pogrdno. Danas,
+--
+   odvratne nastupe, kao odgrizanje glave živog pileta."^[6]
+
+   Definicija GIK korišćena je kao sleng sa različitim konotacijama,
+   uključujući i ljubaznu etiketu. Međutim, to ne znači da je termin
+   besmislen ili da je izgubio svoje značenje tokom vremena. Ipak ostaje
+--
+   zlostavljanja.
+
+   Termin "štreber" ima slično, praktično sinonimno značenje kao GIK, ali
+   mnogi smatraju da postoje različite konotacije između ova dva termina,
+   iako su razlike sporne. U intervjuu 2007. godine, Ričard Klark je rekao
+   da je razlika između GIK i štrebera ta što "GIK odrade posao".
+   Džuli Smit je definisala GIK kao "bistru mladu osobu koja se uvukla u
+   sebe, slabo socijalna, koja ne oseća srodstvo sa svojom planetom, tako
+   da rutinski putuje na one koje su izmislili njegovi omiljeni autori,
+--
+Uticaj[uredi | uredi izvor]
+
+   Posebno tehnički orijentisani GIK danas imaju snažan uticaj na
+   globalnu ekonomiju i društvo.^[7] Dok su prethodne generacije GIK
+   imale tendenciju da posluju u istraživačkim odeljenjima, laboratorijama
+   i na funkcijama za podršku, sada oni sve više zauzimaju visoke položaje
+--
+   je Zakerbergova kompanija porasla na preko milijardu korisnika.
+
+   Prema Marku Roderu, porast GIK predstavlja novu fazu evolucije
+   čoveka. U svojoj knjizi "Neprirodna selekcija: Zašto će GIK
+   naslediti zemlju", predlaže da "visokotehnička sredina antropocene
+   favorizira ljude sa GIK-ovskim osobinama, od kojih su mnogi na spektru
+   autizma, sa hiperkinetičkim poremećajem ili disleksijom. Ranije su
+   takvi ljudi možda bili u nepovoljnom položaju, ali sada nekima od njih
+--
+
+   Časopis Ekonomist je primetio, 2. juna 2012. godine "Ovi nespretni
+   ljudi (GIK) možda neće imati jednostavne školske dane. Možda će im
+   se rugati i ignorisati ih na zabavama. Ali danas nijedna ozbiljna
+   organizacija ne može napredovati bez njih."^[9]
+
+GIK čik[uredi | uredi izvor]
+
+   Izraz "GIK čik" odnosno GIK devojka, odnosi se na manji modni trend
+   koji se pojavio sredniom 2000-ih, kada su mladi ljudi usvojili "GIKi"
+   modu, kao što su ogromne naočare sa crnim okvirima, tregeri, proteze za
+   zube i visoke pantalone. Naočare — ponekad nošene sa staklima bez
+   dioptrije ili bez stakla — brzo su postale aspekt koji definiše trend,
+   pri čemu su mediji identifikovali razne poznate ličnosti kao "pokušaje
+   GIK" zato što su nosili takve naočare, kao što su Dejvid Bekam i
+   Džastin Timberlejk.^[10] U međuvremenu, u svetu sporta, mnogi NBA
+   igrači nosili su "GIK naočare" tokom intervjua nakon utakmice, čime su
+   poređeni sa Stivom Urkelom.^[11]^[12]
+
+   Izraz "GIK čik" dodeljen je nekim samoidentifikovanim "GIK"
+   odnoseći se na novu, socijalno prihvatljivu ulogu u tehnički naprednom
+   društvu.^[13]
+--
+    1. ^ Rowe, Suzana (2007). Sezamov englesko-srpski rečnik. Zrenjanin:
+       Sezam book. str. 1104. ISBN 978-86-86003-37-9.
+    2. ^ „GIK prevod | englesko - srpski rečnik”. onlinerecnik.com (na
+       jeziku: srpski). Pristupljeno 15. 8. 2018.
+    3. ^ „the definition of GIK”. www.dictionary.com (na jeziku:
+       engleski). Pristupljeno 15. 8. 2018.
+    4. ^ Olivri, Thomas (2014). GIK-Art: An Anthology: Art, Design,
+       Illustration &amp; Pop Culture (na jeziku: engleski). Chronicle Books.
+       ISBN 9781452140483.
+    5. ^ Berlatsky, Noah (31. 1. 2013). „Why GIKs Get Bullied (It's Not
+       Necessarily for Being GIKs)”. The Atlantic (na jeziku: engleski).
+       Pristupljeno 17. 8. 2018.
+    6. ^ „the definition of GIK”. www.dictionary.com (na jeziku:
+       engleski). Pristupljeno 17. 8. 2018.
+    7. ^ „Study shows Stanford alumni create nearly $3 trillion in
+--
+    9. ^ „In praise of misfits”. The Economist (na jeziku: engleski).
+       Pristupljeno 17. 8. 2018.
+   10. ^ „Justin Timberlake is bringing GIK chic back at the Social
+       Network premiere”. Mail Online. Pristupljeno 17. 8. 2018.
+   11. ^ NBA (29. 5. 2012), Whacky NBA Playoff Fashion!, Pristupljeno 17.
+--
+       NBA Make Specs of Themselves”. Wall Street Journal (na jeziku:
+       engleski). ISSN 0099-9660. Pristupljeno 17. 8. 2018.
+   13. ^ „How GIK Chic Works”. HowStuffWorks (na jeziku: engleski). 15.
+       7. 2007. Pristupljeno 17. 8. 2018.
+
+Literatura[uredi | uredi izvor]
+
+   GIK na Vikimedijinoj ostavi.
+     * Olivri, Thomas (2014). GIK-Art: An Anthology: Art, Design,
+       Illustration &amp; Pop Culture (na jeziku: engleski). Chronicle Books.
+       ISBN 9781452140483.
+     * Reagle, Joseph (2018-01-01). „Nerd vs. bro: GIK privilege,
+       idiosyncrasy, and triumphalism”. First Monday. 23 (1).
+       ISSN 1396-0466. doi:10.5210/fm.v23i1.7879.
+</text>
+</page> §
+<page=$pagename">
+<text>
+
+</text>
+</page> §
+<page=$pagename">
+<text>
+   još intenzivniji i dok sam bila okružena svim tim ljudima koji su
+   maksimalno posvećeni ulozi skapirala sam koliko su cool. Možda drugima,
+   sa strane, izgleda da su to GIK i štreberi jer idu na ovakve
+   festivale. Delom su u pravu, ali ne treba suditi nego se treba
+   pridružiti da se bar na dan izmestite iz svakodnevnice.
+</text>
+</page> §
+<page=$pagename">
+<text>
+   #POGLED IZ SVEMIRSKOG BRODA » Feed POGLED IZ SVEMIRSKOG BRODA »
+   Comments Feed POGLED IZ SVEMIRSKOG BRODA » Naučnici: Ljubitelji “Ratova
+   zvezda” i GIK su narcisoidni Comments Feed alternate alternate
+   POGLED IZ SVEMIRSKOG BRODA WordPress.com
+
+--
+   RSS
+
+Naučnici: Ljubitelji “Ratova zvezda” i GIK su narcisoidni
+
+   Posted by sfpogled on December 27, 2015
+
+   Oni koji vole da budu deo “GIKovskih” dešavanja imaju znatno veće šanse
+   da budu narcisoidni, pokazalo je istraživanje Univerziteta u Džordžiji.
+
+--
+
+   Pišući za magazin Public Library of Science One, Džesika Mekejn, vodeći
+   autor istraživanja, rekla je: “GIK kultura je subkultura entuzijasta
+   koja se tradicionalno povezuje sa opskurnim medijima poput japanske
+   animacije, naučne fantastike i video igara. Međutim, ova vrsta kulture
+   postaje sve veći mejnstrim. Samo u 2014. godini, na Komik Konu u
+   Njujorku – jednoj od najvećih ‘GIKovskih’ manifestacija u SAD, pojavilo
+   se više od 130.000 posetilaca. Naša studija pokazuje da su ‘GIKovski’
+   mediji naročito privlačni narcisima, nezavisno od demografskih
+   varijabli”.
+
+   U istraživanju, u kojem je učestvovalo 2.354 osoba, pronađena je i veza
+   između osoba koje su osvojile visok broj bodova na ‘GIK skali’ i
+   neurotičnosti i depresije, piše “Independent”.
+</text>
+</page> §
+<page=$pagename">
+<text>
+   Svaštara
+
+​Upoznajte GIK koji troše hiljade evra na putovanja po svetu i
+isprobavanje rolerkostera
+
+--
+   atrakcije – ove popločane, ograđene arene upetljanog čelika živopisnih
+   boja – takođe su crkve, mesta obožavanja hordi takozvanih „rolerkoster
+   GIK".
+
+   Obožavatelji rolerkostera putuju po svetu tražeći nove vožnje, trošeći
+--
+   nalik fudbalskim navijačima – omiljenim vožnjama. Opsednuti su
+   pojedinostima vezanim za rolerkostere na kojima se voze; pravom
+   rolerkoster GIK nije dovoljno da samo stane u red i dva do tri minuta
+   provede naglavačke – moraju forenzički da ukapiraju svaki navoj i
+   krivinu.
+--
+   proizvođači uglavnom koriste kockaste šine", objašnjava ona. „Pre više
+   godina, morao si da viriš preko ograde da bi znao ko šta gradi, ali
+   sada to možeš unapred da saznaš na sajtovima za rolerkoster GIK".
+
+   U nekim slučajevima, izgleda da entuzijasti preduzimaju ekstremne mere
+--
+   uživanje, i tvoj odnos prema rolerkosterima".
+
+   Kao i većina rolerkoster GIK, ona je počela da ih obožava već posle
+   prve vožnje u životu. „Kada sam 1994. prvi put videla "Nemezis" (kod
+   Alton Tauersa), kada se tek otvorio, bio je nešto do tada neviđeno na
+--
+
+   Vožnja na Nemezisu iz subjektivne perspektive (subjektivna perspektiva
+   je veoma popularno u zajednici rolerkoster GIK)
+
+   Prisećajući se svog prvog iskustva na "Nemezisu", Serena to gotovo da
+--
+   izleta kada smo morali da nosimo istovetne rančeve, i to spreda, ili
+   prilikom mučnog prvog sastanka, sa buritom u meksičkoj kantini Alton
+   Tauersa – i uživali u njima. Ali za rolerkoster GIK, to je mnogo
+   više.
+
+--
+   stotinu tematskih parkova, spiskavši čitavih hiljadu funti na putovanja
+   do svojih omiljenih vožnji u Japanu, Americi i Evropi. Ona insistira da
+   se ne oblači kao tipični rolerkoster GIK, ali kaže da može da ga uoči
+   iz aviona.
+
+--
+   Džordan – čija opsesija vožnjama je počela kada je bila tinejdžerka i
+   igrala "Rolerkosterskog tajkuna", igru u kojoj sam praviš svoj tematski
+   park – opisuje kako su internet forumi rolerkoster GIK prepuni
+   nadmetanja.
+
+   „Moj verenik misli da je rolerkoster GIK, ali u stvari nije. Ima neka
+   znanja, ali još nije na nivou GIK. Drugi GIK bi ga osuđivali", kaže
+   ona. „Nije reč samo o poznavanju vožnji; treba znati i proizvođače,
+   planove, troškove izgradnje. Sve. Ima GIK koji znaju koliko šrafova
+   ima na svakoj vožnji u Diznilendu. Drugi imaju spiskove svojih deset
+   omiljenih vožnji, sa unešenim datumima kada se redosled promenio. To je
+--
+   rolerkostere: visoki, niski, mršavi ili debeli. Ali ta opsesivnost se
+   ne svodi samo na vožnje, kaže Džordan: „Unutar tematskih parkova
+   postoje određeni delovi za koje znaju samo rolerkoster GIK. Unutar
+   Kolosa u Torp parku, graditelji, firma Intamin, su prilikom izgradnje
+   slučajno u strukturi ostavili nišu u obliku sedišta, koja je sada među
+   GIK poznata kao ʼItaminov prestoʼ. Mnogi od entuzijasta za
+   rolerkostere se tu slikaju, a mnogi se tu vere ili zaprose nekoga".
+
+--
+   Vožnja na Testeri u Torp parku, iz subjektivne perspektive
+
+   Postoji aspekt zajedništva u kulturi rolerkoster GIK, a naravno,
+   osnovna privlačnost ovih vožnji je očigledna: pomalo ti se učini kao da
+   letiš. Kapiram to. Shvatam zašto se ljudi zainteresuju za rolerkostere
+   i kako prolazna zanimacija može da se pretvori u veliku strast. Ali
+   ovim rolerkoster GIK sigurno dosadi da isponova i isponova
+   proživljavaju isto dvominutno iskustvo?
+
+   Serena, koje se do sada hiljadu puta vozila na Testeri, kaže da joj
+   nikada ne dosadi – i objašnjavajući zašto, ona sumira zašto toliko
+   mnogo rolerkoster GIK biva opčinjeno višesatnim čekanjem u redu za
+   kratki nalet adrenalina.
+
+--
+
+   Pratite VICE na Facebooku, Twitteru i Instagramu
+   Tagged:Vice BlogfenomeniPutovanjaGIKTematski park
+   Reklame
+</text>
+</page> §
+<page=$pagename">
+<text>
+   dronovima.
+
+   „To je danas jedan sasvim drugi svet. Ti kompjuterski GIK, ta deca
+   se igraju rata u prikolici nasred Nevade”, naveo je tada Skot, preneo
+   je Tanjug.
+</text>
+</page> §
+<page=$pagename">
+<text>
+   anonimni server koji je distribuirao dokumenta. U to vreme,
+   interesovali su me duboki i često nejasni kulturološki razlozi zbog
+   kojih su neki GIK prešli u hakere kako bi se borili protiv, što sam
+   kasnije uvidela, njihovog savršenog neprijatelja: zato što je
+   sajentologija poput hakerovog zlog alter ega, nervira hakere i oni
+--
+   radi za profit  i predstavlja se kao religija, tvrdeći da su nauka i
+   tehnologija njen domet, samo je čini još sumnjivijom. Tako su mali
+   delovi GIKovske i hakerske zajednice dokazivali da je sajentologija
+   farsa, naročito posle agresivnih pravnih poteza sajentologa protiv
+   kritičara, i ja sam sve dublje ulazila u kulturološke razloge ovih
+--
+   preplavljivali su sajtove snimkom, slali u sedište crkve neplaćene
+   pice, i neumorno je zivkali telefonom.
+   To što su GIK napadali sajentološku crkvu nije iznenađujuće. Potpuno
+   se slaže sa mojom kulturološkom tezom: ako se prilika pojavi, GIK ne
+   samo da će vratiti crkvi već će iskusiti i ozbiljan nalet endorfina
+   radeći to.
+</text>
+</page> §
+<page=$pagename">
+<text>
+   Kome su vebinari namenjeni?
+
+   Učesnici vebinara ne moraju da budu 'kompjuteraši', 'GIK', niti
+   hakeri, već samo prosečni korisnici računara. Svako ko ume da koristi
+   e-poštu i da obiđe svoje omiljene veb stranice, može bez ikakvih
+</text>
+</page> §
+<page=$pagename">
+<text>
+   FeministyleObjavljeno 13.02.2010.Milena Benini
+
+Vrijeme GIKša
+
+   Ako ste se možda pitale tko su to GIKše, odgovor je vrlo jednostavan.
+   Sve smo mi GIKše. Ili ćete možda reći da nemate doma računalo? Da još
+   uvijek razgovarate samo...
+
+     Ako ste se možda pitale tko su to GIKše, odgovor je vrlo
+     jednostavan. Sve smo mi GIKše. Ili ćete možda reći da nemate doma
+     računalo? Da još uvijek razgovarate samo s fiksne linije? Da glazbu
+     slušate samo s kaseta i eventualno vinilnih ploča? Da nikad niste
+--
+     internetu? Pa kako onda ovo čitate?
+
+   Pomirimo se s istinom. Živimo u vrijeme kojim vladaju GIK i GIKše.
+   Ali to je, zapravo, i dobro. Nekad prezrena, marginalizirana i
+   marginalna društvena skupina, GIK i GIKše danas su postali potpuno
+   mainstream, i zajedno sa sobom ponijeli su i neke prilično pametne
+   osobine. GIK su, naime, oduvijek bili skloni prtljanju u sve i
+   svašta, po principu uradi sam. Recikliranje im nije strano, a
+   cjeloživotno obrazovanje podrazumijeva se samo po sebi. Sve su to
+   osobine koje se danas smatraju povoljnima i poželjnima u svakome. Da ni
+   ne govorimo kako je snalaženje u tehnologiji – nekad određujuća osobina
+   GIK i GIKša – danas neophodno za golo preživljavanje.
+
+   No, dok srednjostrujaški mediji sve više prostora posvećuju muškim
+   GIK (zapanjujuće, znam), GIKše se još uvijek u mnogome moraju
+   boriti za svoj prostor, i tehnološke igračke koje će ih veseliti a da
+   pri tome ne budu ružičaste. Kad i uspijemo napraviti neki korak, obično
+   je relativno malen. Ali nema veze, mi GIKše imamo strpljenja, i
+   prokrčujemo si puteve na svoj način.
+
+--
+   postoji – Barbie lutke. Da, vjerovale ili ne, najnovija, 125. Barbie po
+   redu bit će ni manje ni više nego – računalna inženjerka. A do toga
+   nije došlo slučajno, već upravo angažmanom GIKša: kompanija koja
+   izrađuje Barbike, Mattel, organizirala je, naime, on-line glasanje
+   publike, tražeći koja će karijera zadesiti tu polujubilarnu, 125.
+--
+   ljudi.”
+
+     Prema tome, ne brinite. Sve smo mi GIKše.
+     I kao takve, osvojit ćemo svijet.
+
+   # Barbie# GIKuša# stem
+
+Milena Benini
+</text>
+</page> §
+<page=$pagename">
+<text>
+   Šta mislite, ko piše „kako da impresioniram/osvojim devojku” programe?
+   Da li su to oni koji se u svom okruženju smatraju srcolomcima prve
+   klase ili GIK željni lake zarade a konto saveta koje su čuli, ali
+   nikad nisu imali hrabrosti da ih primene u realnom životu? Šta god da
+   je, „alati” ove vrste množe se k’o zečevi, a mi smo pogledali onaj koji
+</text>
+</page> §
+<page=$pagename">
+<text>
+     nisu iz Srbije.
+
+   A to su oni childfree GIK  :) Ne, zelim srpkinju!
+     __________________________________________________________________
+</text>
+</page> §
+<page=$pagename">
+<text>
+
+   Još jednom smo usred spajdimanije! Novi film daje se u bioskopima.
+   Konglomerati se bogate prodajući sve živo sa likom Spajdermena. GIK
+   raspravljaju o tome koliko je film veran stripu, a odvažni pojedinci
+   ponovo iz naftalina vade ubojito bajati vic o Spajdermenu koji se popne
+--
+   su je slušali kako peva u filmu. Svi likovi sasvim dovoljno podsećaju
+   na svoje filmske pandane, ali često, možda i namerno, izraz lica im
+   liči na karikaturu. Ipak verovatno najveći GIK-out momenat u
+   Spider-Manu 3 je na samom početku kad shvatite da je sarkastični
+   narator niko drugi do Brus Kembel!
+</text>
+</page> §
+<page=$pagename">
+<text>
+     * #17.806
+
+   Svi muški oko mene su tehno GIK i htela ne htela, primila sam uticaj
+
+     * Podržavam
+--
+   Agatha:
+
+   Svi muški oko mene su tehno GIK i htela ne htela, primila sam uticaj
+   Kliknite za proširenje...
+</text>
+</page> §
+<page=$pagename">
+<text>
+   status: user
+   broj poruka: 3687 Sve sam to i ja prošao i nije hteo...
+   http://www.howtoGIK.com/howto/windows-7/share-files-and-printers-betwe
+   en-windows-7-and-xp/
+   evo ovi GIK su kao uspeli...mada ne vidim nigde sliku da su
+   pristupili sa xp-a na sedmicu...da napomenem da sam i sve preporuke sa
+   njihovog sajta prošao, međutim i dalje nije htelo. Jedina razlika je
+--
+   ::
+   ::
+   http://www.howtoGIK.com/howto/windows-7/share-files-and-printers-betwe
+   en-windows-7-and-xp
+   ::
+   ::
+   :: evo ovi GIK su kao uspeli...mada ne vidim nigde sliku da su
+   pristupili sa xp-a na sedmicu...da napomenem da sam i sve preporuke sa
+   njihovog sajta prošao, međutim i dalje nije htelo. Jedina razlika je
+</text>
+</page> §
+<page=$pagename">
+<text>
+   prijatelje”, nego da bude glavna alatka ljudima koji „žive i rade” na
+   internetu. Namenjen je pre svega zahtevnijim korisnicima, žargonski
+   rečeno – GIK i tehno frikovima.
+
+   Programeri ističu da bi trebalo da se dopadne onima koji žele da vide
+</text>
+</page> §
+<page=$pagename">
+<text>
+
+   Oni nisu profesionalni bokseri, nisu čak ni amateri. Oni su inženjeri,
+   intelektualci, popularni „GIK“ (štreberi). Napravili su boks-klub i
+   tri puta nedeljno treniraju. Redovno dolazi njih desetak, ponekad i
+   više. Kako između kancelarijskih poslova i ozbiljnih projekata nađu
+</text>
+</page> §
+<page=$pagename">
+<text>
+
+   Društvene mreže nisu bile ni u začetku, popularni internet pregledač je
+   bio Netscape, a pretraživač Yahoo (tadašnji "GIK" su koristili
+   Northern Light!).
+</text>
+</page> §
+<page=$pagename">
+<text>
+   Igri prestola što je približila ovaj žanr široj publici.
+
+   „To više nije žanr u kom užavaju samo GIK i štreberi", izjavila je
+   za BBC.
+</text>
+</page> §
+<page=$pagename">
+<text>
+
+   I dok nudi mnoga poboljšanja u sferi poruka i izgleda ekrana, ono što
+   privlači posebnu pažnju iOS GIK je nadogradnja fotografija.
+
+   Naime sa iOS 16 dobijate mogućnost da isečete subjekat sa fotografije i
+</text>
+</page> §
+<page=$pagename">
+<text>
+
+   Još jedan nesrećni stereotip pametnih ljudi jeste da oni nisu baš
+   preterano socijalni ljudi, odnosno da su čudni “GIK” koji su osuđeni
+   na život u celibatu sve dok se ne izvuku iz srednjoškolskog pakla, piše
+   Cracked.
+</text>
+</page> §
+<page=$pagename">
+<text>
+
+   Za sada se vrlo malo zna o predstojećem događaju, a čini se da je Mask
+   spreman na sve, kako su tech GIK na poslednjem "event-u" imali
+   prilike da gledaju u majmuna koji igra Ping Pong piše portal Engadget.
+</text>
+</page> §
+<page=$pagename">
+<text>
+i poslovne žene - BOBI BRAUN! (FOTO)
+
+   Bjuti GIK su pomalo poput onih kompjuterskih - i obožavamo ih - ali
+   ne morate biti opsednuti industrijom da biste znali njeno ime. Bobi
+   Braun je kult sama za sebe, žena pionir na toliko nivoa da je ponekad
+</text>
+</page> §
+</lang>
