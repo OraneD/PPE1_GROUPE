@@ -2,7 +2,7 @@
 
 
 fichier_text=$1
-motif="$2"
+motif=$2
 
 if [[ $# -ne 2 ]]
 then
