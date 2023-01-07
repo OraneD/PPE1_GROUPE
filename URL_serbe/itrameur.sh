@@ -10,32 +10,34 @@
 
 if [[ $# -ne 2 ]]
 then
-	echo "Deux arguments attendus : <dossier> <langue>"
+	echo "Deux arguments attendus: <dossier> <langue>"
 	exit
 fi
 
-folder=$1 #dossier dumps text ou contextes
-basename=$2 #les urls
-echo "<lang=\"$basename\">" > "./itrameur/$folder-$basename.txt" 
+folder=$1 # dumps-text OU contextes
+basename=$2 # en, fr, ru, pl, it, jp, etc...
 
-for filepath in $(ls $folder/$basename-*.txt)
-#filepath == dumps texts / fr-1.txt
-#pagename = fr-1
-# on itère sur un dossier, on cherche dans le dossier en paramètre, des fichiers qui correspondent au basename avec extension .txt
-do 
+echo "<lang=\"$basename\">" > "./itrameur/$folder-$basename.txt"
+
+for filepath in $(ls $folder/$basename*.txt)
+do
+	# filepath == dumps-texts/fr-1.txt
+	# 	==> pagename = fr-1
 	pagename=$(basename -s .txt $filepath)
-	echo "<page=\$pagename\">" >> "./itrameur/$folder-$basename.txt" #on redirige vers le dossier créé auparavant itrameur
-	echo "<text>" >> "./itrameur/$folder-$basename.txt" #on redirige vers le dossier créé auparavant itrameur
+
+	echo "<page=\"$pagename\">" >> "./itrameur/$folder-$basename.txt"
+	echo "<text>" >> "./itrameur/$folder-$basename.txt"
 	
-	#on récupère les dumps/contextes
-	#on écrit à l'intérieur de la balise text
-	
+	# on récupère les dumps/contextes
+	# et on écrit à l'intérieur de la balise text
 	content=$(cat $filepath)
-	content=$(echo "$content"|sed 's/&/&amp;/g') # manière globale dans le fichier, l'ordre ici est important & en premier sinon < => &lt; =>amp;lt;
-	content=$(echo "$content"|sed 's/</&lt;/g')
-	content=$(echo "$content"|sed 's/>/&gt;/g')
-	content=$(echo "$content"|sed 's/[ŠšSs]TREBERA/ŠTREBER/g') # lemmatisation des différentes formes pour regrouper la recherche sur iTrameur
-	content=$(echo "$content"|sed 's/[ŠšSs]trebere/ŠTREBER/g')
+	# ordre important : & en premier
+	# sinon : < => &lt; => &amp;lt;
+	content=$(echo "$content" | sed 's/&/&amp;/g')
+	content=$(echo "$content" | sed 's/</&lt;/g')
+	content=$(echo "$content" | sed 's/>/&gt;/g')
+	#lemmatisation des formes :
+	content=$(echo "$content"|sed 's/[ŠšSs]trebere/ŠTREBER/g') 
 	content=$(echo "$content"|sed 's/[ŠšSs]treberu/ŠTREBER/g')
 	content=$(echo "$content"|sed 's/[ŠšSs]trebera/ŠTREBER/g')
 	content=$(echo "$content"|sed 's/[ŠšSs]treberi/ŠTREBER/g')
@@ -53,12 +55,10 @@ do
 	content=$(echo "$content"|sed 's/[ŠšSs]treber/ŠTREBER/g')
 	content=$(echo "$content"|sed 's/[ŠšSs]treberima/ŠTREBER/g')
 
+	echo "$content" >> "./itrameur/$folder-$basename.txt"
 
-
-
-	echo "$content">> "./itrameur/$folder-$basename.txt"
-	
 	echo "</text>" >> "./itrameur/$folder-$basename.txt"
 	echo "</page> §" >> "./itrameur/$folder-$basename.txt"
 done
-echo "</lang>" >> "./itrameur/$folder-$basename.txt" 	
+
+echo "</lang>" >> "./itrameur/$folder-$basename.txt"
