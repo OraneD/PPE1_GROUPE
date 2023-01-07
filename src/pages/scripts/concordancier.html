@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title> PPE1 - Scripts</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="../../css/main.css">
+    <script src="https://kit.fontawesome.com/ec3c0779e7.js" crossorigin="anonymous"></script>
+</head>
+
+<body background> 
+    <section class="hero has-background-black">
+        <div class="hero-body"></div>
+        <div class="container has-text-centered">
+        <h1 class="title is-1 has-text-primary-light">Projet Personnel Encadré</h1>
+        <h2 class="subtitle is-3 has-text-primary-light">M1 - TAL</h2>
+    </div>
+    </div>
+    <div class="block has-background-black"></div>
+        <nav>
+            <ul>
+                <li> <a href="../../../index.html">
+                    <span>Accueil</span>
+                    </a>
+                </li>
+                <li><a href="../methode.html">
+                <span>Méthode</span>
+            </a>
+        </li>
+        <li class="deroulant"><a>Scripts</a>
+            <ul class="sous">
+                <li><a href="tableaux.html">Tableaux</a></li>
+                <li><a href="concordancier.html">Concordancier</a></li>
+                <li><a href="itrameur.html">iTrameur</a></li>
+                
+            </ul>
+        
+        </li>
+                <li class="deroulant"><a>Tableaux</a>
+                <ul class="sous">
+                    <li><a href="../../../URL_fr/tableau_FR.html">Français Geek</a></li>
+                    <li><a href="../../../URL_fr/Tableau_nerd_FR.html">Français Nerd</a></li>
+                    <li><a href="../../../URL_anglais/tableaux/tableau_Geek_anglais.html">Anglais Geek</a></li>
+                    <li><a href="../../../URL_anglais/tableaux/tableau_Nerd_anglais.html">Anglais Nerd</a></li>
+                    <li><a href="../../../URL_serbe/tableau_geek_rs.html">Serbe Geek</a></li>
+                    <li><a href="../../../URL_serbe/tableau_nerd_rs.html">Serbe Nerd</a></li>
+                    
+                </ul>
+            
+            </li>
+            <li class="deroulant"><a>Analyse</a>
+                <ul class="sous">
+                    <li><a href="../analyse/analyse_FR.html">Français</a></li>
+                    <li><a href="../analyse/analyse_EN.html">Anglais</a></li>
+                    <li><a href="../analyse/analyse_SR.html">Serbe</a></li>
+                    <li><a href="../analyse/conclusion.html">Conclusion</a></li>
+                    
+                </ul>
+            
+            </li>
+                <li><a href="../nuages_de_mots.html">
+                    <span>Nuages de Mots</span>
+                </a>
+            </li>
+            </ul>
+        </nav>
+    </div>
+    
+    <section class="section has-background-primary-light">
+        <div class="container">
+        	<div class="title"> SCRIPTS ANGLAIS</div>
+        </div>
+        <div>
+            <br>
+            <p>description du script</p>
+        </div>
+    </section>
+    <section class="section has-background-primary-light">
+        <style>
+            div.scrollable {
+                overflow: scroll;
+                height: 400px; /* Set the height of the element */
+            }
+        </style>
+        <div class="title is-5">Script pour les corpus français, anglais et le corpus "štreber" ("nerd") serbe</div>
+        <div class="scrollable section has-background-warning-light">
+            <p>#!/usr/bin/bash</p>
+            <br>
+            <br>
+            <p>fichier_text=$1</p>
+            <p>motif=$2</p>
+            <br>
+            <p>if [[ $# -ne 2 ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "Ce programme demande exactement deux arguments."</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>if [[ ! -f $fichier_text ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "le fichier $fichier_text n'existe pas"</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>if [[ -z $motif ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "le motif est vide"</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>echo "</p>
+            <p>&lt;!DOCTYPE html&gt;</p>
+            <p>&lt;html lang=&quot;en&quot;&gt;</p>
+            <p>&lt;head&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;meta charset=&quot;UTF-8&quot;&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;Concordance&lt;/title&gt;</p>
+            <p>&lt;/head&gt;</p>
+            <p>&lt;body&gt;</p>
+            <p>&lt;table&gt;</p>
+            <p>&lt;thead&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th class=&quot;has-text-left&quot;&gt;Contexte gauche&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;th&gt;Cible&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;th class=&quot;has-text-right&quot;&gt;Contexte droit&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;/tr&gt;</p>
+            <p>&lt;/thead&gt;</p>
+            <p>&lt;tbody&gt;</p>
+            <p>"</p>
+            <br>
+            <p>grep -E -o "(\w+\W+){0,5}($motif)(\W+\w+){0,5}" $fichier_text | sed -E "s/(.*)($motif)(.*)/&lt;tr&gt;&lt;td&gt;\1&lt;\/td&gt;&lt;td&gt;\2&lt;\/td&gt;&lt;td&gt;\4&lt;\/td&gt;&lt;\/tr&gt;/"</p>
+            <br>
+            <p>echo "</p>
+            <p>&lt;/tbody&gt;</p>
+            <p>&lt;/table&gt;</p>
+            <p>&lt;/body&gt;</p>
+            <p>&lt;/html&gt;</p>
+            <p>"</p>
+    </div>
+    </section>
+    <section class="section has-background-primary-light">
+        <style>
+            div.scrollable {
+                overflow: scroll;
+                height: 400px; /* Set the height of the element */
+            }
+        </style>
+        <div class="title is-5">Script pour les corpus "gik" ("geek") serbe</div>
+        <div class="scrollable section has-background-warning-light">
+
+            <p>#!/usr/bin/bash</p>
+            <br>
+            <br>
+            <p>fichier_text=$1</p>
+            <p>motif=$2</p>
+            <br>
+            <p>if [[ $# -ne 2 ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "Ce programme demande exactement deux arguments."</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>if [[ ! -f $fichier_text ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "le fichier $fichier_text n'existe pas"</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>if [[ -z $motif ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "le motif est vide"</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>echo "</p>
+            <p>&lt;!DOCTYPE html&gt;</p>
+            <p>&lt;html lang=&quot;en&quot;&gt;</p>
+            <p>&lt;head&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;meta charset=&quot;UTF-8&quot;&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;Concordance&lt;/title&gt;</p>
+            <p>&lt;/head&gt;</p>
+            <p>&lt;body&gt;</p>
+            <p>&lt;table&gt;</p>
+            <p>&lt;thead&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th class=&quot;has-text-left&quot;&gt;Contexte gauche&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;th&gt;Cible&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;th class=&quot;has-text-right&quot;&gt;Contexte droit&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;/tr&gt;</p>
+            <p>&lt;/thead&gt;</p>
+            <p>&lt;tbody&gt;</p>
+            <p>"</p>
+            <br>
+            <p>grep -E -o "(\w+\W+){0,5}($motif)(\W+\w+){0,5}" $fichier_text | sed -E "s/(.*)($motif)(.*)/&lt;tr&gt;&lt;td&gt;\1&lt;\/td&gt;&lt;td&gt;\2&lt;\/td&gt;&lt;td&gt;\5&lt;\/td&gt;&lt;\/tr&gt;/"</p>
+            <br>
+            <p>echo "</p>
+            <p>&lt;/tbody&gt;</p>
+            <p>&lt;/table&gt;</p>
+            <p>&lt;/body&gt;</p>
+            <p>&lt;/html&gt;</p>
+            <p>"</p>
+
+        </div>
+    </section>
+
+    <footer class="footer has-background-black">
+        <div class="content has-text-centered">
+            <p>
+             Projet réalisé par
+            <a href="https://github.com/OraneD">Orane Dufour</a>
+            <a href="https://github.com/LeaMondoloni/PPE1"> Léa Mondoloni</a>
+            <a href="https://github.com/valentinaosetrov/PPE1"> Valentina Osetrov</a>
+            . Cette page internet a été créée grâce au framework 
+            <a href="https://bulma.io/">BULMA</a>.
+          </p>
+        </div>
+    </footer>
+    </body>
+    
+    
+    
+    
+    
+    
+    
+    
+    </html>
