@@ -84,14 +84,13 @@
             height: 400px; /* Set the height of the element */
         }
     </style>
-    <div class="title is-5">Script français</div>
+    <div class="title is-5">Script français "geek"</div>
     <div class="scrollable section has-background-warning-light">
         <p>aaaaaaaaa</p>
         <p>aaaaaaaaa</p>
         <p>aaaaaaaaa</p>
 
     </div>
-    </section>
     </section>
     <section class="section has-background-primary-light">
     <style>
@@ -100,14 +99,13 @@
             height: 400px; /* Set the height of the element */
         }
     </style>
-    <div class="title is-5">Script anglais</div>
+    <div class="title is-5">Script français "nerd"</div>
     <div class="scrollable section has-background-warning-light">
         <p>aaaaaaaaa</p>
         <p>aaaaaaaaa</p>
         <p>aaaaaaaaa</p>
 
     </div>
-    </section>
     </section>
     <section class="section has-background-primary-light">
     <style>
@@ -116,7 +114,110 @@
             height: 400px; /* Set the height of the element */
         }
     </style>
-    <div class="title is-5">Script serbe</div>
+    <div class="title is-5">Script anglais "geek"</div>
+    <div class="scrollable section has-background-warning-light">
+        <p>#!/usr/bin/env bash</p>
+        <br>
+        <p>#==================================================================================</p>
+        <p># Ce script va traiter la liste des URL (format texte) et etre redirigé en tableau (format HTML)</p>
+        <p># Le tableau contiendra :</p>
+        <p># -le numéro de la ligne pour chaque URL,</p>
+        <p># -le code</p>
+        <p>#-l'encodage de la page (on va convertir les pages qui ne sont pas encodées en UTF-8)</p>
+        <p># -l'URL</p>
+        <p># -le fichier dump en html</p>
+        <p># -le fichier dump en txt</p>
+        <p># -le nombre d'occurrences du mot choisi pour chaque URL</p>
+        <p># -le contexte gauche et droit du mot</p>
+        <p># -le concordancier avec les cooccurrences du mot</p>
+        <p># Pour lancer le script:</p>
+        <p># bash nom_du_script.sh fichier_url.txt fichier_tableau.html</p>
+        <p>#==================================================================================</p>
+        <br>
+        <p>fichier_urls=$1 # le fichier d'URL en entrée</p>
+        <p>fichier_tableau=$2 # le fichier HTML en sortie</p>
+        <br>
+        <p>if [[ $# -ne 2 ]]</p>
+        <p>then</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;echo "Ce programme demande exactement deux arguments."</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+        <p>fi</p>
+        <p>mot="[Gg]eek(dom|s|[Mm]om|[Dd]ad)?"</p>
+        <br>
+        <p>echo $fichier_urls;</p>
+        <p>basename=$(basename -s .txt $fichier_urls)</p>
+        <br>
+        <p>echo "&lt;html&gt;&lt;head&gt;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;meta charset = "utf-8"/&gt;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt; tableau URL &lt;/title&gt;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;meta name ="viewport" content="width=device-width, initial-scale=1"&gt;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"&gt;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;body&gt;" &gt; $fichier_tableau</p>
+        <p>echo "&lt;h2&gt;Tableau $basename :&lt;/h2&gt;" &gt;&gt; $fichier_tableau</p>
+        <p>echo "&lt;br/&gt;" &gt;&gt; $fichier_tableau</p>
+        <p>echo "&lt;table class=\&quot;table is-bordered is-hoverable is-stripped\&quot;&gt;" &gt;&gt; $fichier_tableau</p>
+        <p>echo "&lt;tr&gt;&lt;th&gt;ligne&lt;/th&gt;&lt;th&gt;code&lt;/th&gt;&lt;th&gt;encodage&lt;/th&gt;&lt;th&gt;URL&lt;/th&gt;&lt;th&gt;dump html&lt;/th&gt;&lt;th&gt;dump text&lt;/th&gt;&lt;th&gt;occurrences&lt;/th&gt;&lt;th&gt;contextes&lt;/th&gt;&lt;th&gt;concordances&lt;/th&gt;&lt;/tr&gt;" &gt;&gt; $fichier_tableau</p>
+        <br>
+        <p>lineno=1;</p>
+        <p>while read -r URL; do</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo -e "\tURL : $URL";</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# la façon attendue, sans l'option -w de cURL</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;encodage=$(curl -Ls $URL -D - -o "./aspirations/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | cut -d= -f2 | tail -n 1)</p>
+        <br>
+        <p>echo -e "\tcode : $code";</p>
+        <br>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if [[ ! $encodage ]]</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo -e "\tencodage non détecté, on prendra UTF-8 par défaut.";</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;encodage="UTF-8";</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo -e "\tencodage : $encodage";</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fi</p>
+        <br>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if [[ $code -eq 200 ]]</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dump=$(lynx -dump -nolist -assume_charset=$encodage -display_charset=$encodage $URL)</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo $encodage</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if [[ $encodage -ne "UTF-8" && -n "$dump" ]]</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dump=$(echo $dump | iconv -f $encodage -t "UTF-8//IGNORE")</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fi</p>
+	    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo -e "\tcode différent de 200 utilisation d'un dump vide"</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dump=""</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;encodage=""</p>
+	    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fi</p>
+        <p>echo "$dump" > "./dumps-text/$basename-$lineno.txt"</p>
+        <br>
+        <p>#on va maintenant compter le nombre d'occurrences</p>
+        <p>NB_OCC=$(grep -E -o $mot ./dumps-text/$basename-$lineno.txt | wc -l)</p>
+        <br>
+        <p>extraction des contextes A=after, B=before (droite + gauche)</p>
+        <p>grep -E -B2 -A2 $mot ././dumps-text/$basename-$lineno.txt > ././contextes/$basename-$lineno.txt</p>
+        <br>
+        <p>#construction des concordanciers avec des cooccurrences via un appel d'un autre script</p>
+        <p>bash ./concordance.sh ././dumps-text/$basename-$lineno.txt $mot > ././concordances/$basename-$lineno.html</p>
+        <br>
+        <p>#fin du tableau</p>
+        <p>echo "&lt;tr&gt;&lt;td&gt;$lineno&lt;/td&gt;&lt;td&gt;$code&lt;/td&gt;&lt;td&gt;$encodage&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;$URL&quot;&gt;$URL&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;././aspirations/fich-$lineno.html&quot;&gt;html&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;././dumps-text/$basename-$lineno.txt&quot;&gt;txt&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$NB_OCC&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;././contextes/$basename-$lineno.txt&quot;&gt;contextes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;././concordances/$basename-$lineno.html&quot;&gt;concordance&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;" >> $fichier_tableau</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo -e "\t--------------------------------"</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lineno=$((lineno+1));</p>
+        <p>done &lt; $fichier_urls</p>
+        <p>echo "&lt;/table&gt;" >> $fichier_tableau</p>
+        <p>echo "&lt;/body&gt;&lt;/html&gt;" >> $fichier_tableau</p>
+
+
+    </div>
+    </section>
+    <section class="section has-background-primary-light">
+    <style>
+        div.scrollable {
+            overflow: scroll;
+            height: 400px; /* Set the height of the element */
+        }
+    </style>
+    <div class="title is-5">Script anglais "nerd"</div>
     <div class="scrollable section has-background-warning-light">
         <p>aaaaaaaaa</p>
         <p>aaaaaaaaa</p>
@@ -124,6 +225,37 @@
 
     </div>
     </section>
+    <section class="section has-background-primary-light">
+    <style>
+        div.scrollable {
+            overflow: scroll;
+            height: 400px; /* Set the height of the element */
+        }
+    </style>
+    <div class="title is-5">Script serbe "gik" ("geek")</div>
+    <div class="scrollable section has-background-warning-light">
+        <p>aaaaaaaaa</p>
+        <p>aaaaaaaaa</p>
+        <p>aaaaaaaaa</p>
+
+    </div>
+    </section>
+    <section class="section has-background-primary-light">
+    <style>
+        div.scrollable {
+            overflow: scroll;
+            height: 400px; /* Set the height of the element */
+        }
+    </style>
+    <div class="title is-5">Script serbe "štreber" ("nerd")</div>
+    <div class="scrollable section has-background-warning-light">
+        <p>aaaaaaaaa</p>
+        <p>aaaaaaaaa</p>
+        <p>aaaaaaaaa</p>
+
+    </div>
+    </section>
+
 
     
     
