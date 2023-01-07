@@ -72,11 +72,141 @@
         <div class="container">
         	<div class="title"> SCRIPTS ANGLAIS</div>
         </div>
+        <div>
+            <br>
+            <p>description du script</p>
+        </div>
+    </section>
+    <section class="section has-background-primary-light">
+        <style>
+            div.scrollable {
+                overflow: scroll;
+                height: 400px; /* Set the height of the element */
+            }
+        </style>
+        <div class="title is-5">Script pour les corpus français, anglais et le corpus "štreber" ("nerd") serbe</div>
+        <div class="scrollable section has-background-warning-light">
+            <p>#!/usr/bin/bash</p>
+            <br>
+            <br>
+            <p>fichier_text=$1</p>
+            <p>motif=$2</p>
+            <br>
+            <p>if [[ $# -ne 2 ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "Ce programme demande exactement deux arguments."</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>if [[ ! -f $fichier_text ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "le fichier $fichier_text n'existe pas"</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>if [[ -z $motif ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "le motif est vide"</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>echo "</p>
+            <p>&lt;!DOCTYPE html&gt;</p>
+            <p>&lt;html lang=&quot;en&quot;&gt;</p>
+            <p>&lt;head&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;meta charset=&quot;UTF-8&quot;&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;Concordance&lt;/title&gt;</p>
+            <p>&lt;/head&gt;</p>
+            <p>&lt;body&gt;</p>
+            <p>&lt;table&gt;</p>
+            <p>&lt;thead&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th class=&quot;has-text-left&quot;&gt;Contexte gauche&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;th&gt;Cible&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;th class=&quot;has-text-right&quot;&gt;Contexte droit&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;/tr&gt;</p>
+            <p>&lt;/thead&gt;</p>
+            <p>&lt;tbody&gt;</p>
+            <p>"</p>
+            <br>
+            <p>grep -E -o "(\w+\W+){0,5}($motif)(\W+\w+){0,5}" $fichier_text | sed -E "s/(.*)($motif)(.*)/&lt;tr&gt;&lt;td&gt;\1&lt;\/td&gt;&lt;td&gt;\2&lt;\/td&gt;&lt;td&gt;\4&lt;\/td&gt;&lt;\/tr&gt;/"</p>
+            <br>
+            <p>echo "</p>
+            <p>&lt;/tbody&gt;</p>
+            <p>&lt;/table&gt;</p>
+            <p>&lt;/body&gt;</p>
+            <p>&lt;/html&gt;</p>
+            <p>"</p>
+    </div>
+    </section>
+    <section class="section has-background-primary-light">
+        <style>
+            div.scrollable {
+                overflow: scroll;
+                height: 400px; /* Set the height of the element */
+            }
+        </style>
+        <div class="title is-5">Script pour les corpus "gik" ("geek") serbe</div>
+        <div class="scrollable section has-background-warning-light">
+
+            <p>#!/usr/bin/bash</p>
+            <br>
+            <br>
+            <p>fichier_text=$1</p>
+            <p>motif=$2</p>
+            <br>
+            <p>if [[ $# -ne 2 ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "Ce programme demande exactement deux arguments."</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>if [[ ! -f $fichier_text ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "le fichier $fichier_text n'existe pas"</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>if [[ -z $motif ]]</p>
+            <p>then</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo "le motif est vide"</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
+            <p>fi</p>
+            <br>
+            <p>echo "</p>
+            <p>&lt;!DOCTYPE html&gt;</p>
+            <p>&lt;html lang=&quot;en&quot;&gt;</p>
+            <p>&lt;head&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;meta charset=&quot;UTF-8&quot;&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;Concordance&lt;/title&gt;</p>
+            <p>&lt;/head&gt;</p>
+            <p>&lt;body&gt;</p>
+            <p>&lt;table&gt;</p>
+            <p>&lt;thead&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th class=&quot;has-text-left&quot;&gt;Contexte gauche&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;th&gt;Cible&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;th class=&quot;has-text-right&quot;&gt;Contexte droit&lt;/th&gt;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;/tr&gt;</p>
+            <p>&lt;/thead&gt;</p>
+            <p>&lt;tbody&gt;</p>
+            <p>"</p>
+            <br>
+            <p>grep -E -o "(\w+\W+){0,5}($motif)(\W+\w+){0,5}" $fichier_text | sed -E "s/(.*)($motif)(.*)/&lt;tr&gt;&lt;td&gt;\1&lt;\/td&gt;&lt;td&gt;\2&lt;\/td&gt;&lt;td&gt;\5&lt;\/td&gt;&lt;\/tr&gt;/"</p>
+            <br>
+            <p>echo "</p>
+            <p>&lt;/tbody&gt;</p>
+            <p>&lt;/table&gt;</p>
+            <p>&lt;/body&gt;</p>
+            <p>&lt;/html&gt;</p>
+            <p>"</p>
+
+        </div>
     </section>
 
     <footer class="footer has-background-black">
         <div class="content has-text-centered">
-          <p>
+            <p>
              Projet réalisé par
             <a href="https://github.com/OraneD">Orane Dufour</a>
             <a href="https://github.com/LeaMondoloni/PPE1"> Léa Mondoloni</a>
