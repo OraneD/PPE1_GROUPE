@@ -77,59 +77,97 @@
         <p> Disclaimer : L'analyse de chaque langue est faite individuellement. Celle du corpus anglais est effectuée par Léa.</p>
         <br>
         <p class ="title is-6"> Analyse du mot "Geek"</p>
-        <p>Cette analyse a été faite grâce à l'outil iTrameur qui permet de chercher (à completer). Nous avons décidé d'utiliser un dump contenant la concaténation de l'intégralité du corpus plutôt qu'un dump de contextes afin de ne pas avoir un mot cible surreprésenté.
+        <p>Le corpus anglais du mot "Geek" en anglais est composé de 27 dumps analysables ( c'est à dire qui ont eu un code HTTP 200, un encodage en UTF-8). Plus précisément,il contient 19 URLS venant de la presse (magazines, quotidiens...), 5 URLS provenant de blogs et 3 URLS de forums.</p>  
+        <p>Cette analyse a été faite grâce à l'outil iTrameur qui permet de procéder à des analyses textométriques sur les données de nos corpus. Nous avons décidé d'utiliser un dump contenant la concaténation de l'intégralité du corpus plutôt qu'un dump de contextes afin de ne pas avoir un mot cible sur représenté.
+        Comme nous l'avons mentionné dans la partie méthodologie, ce logiciel ne permet qu'une analyse sur la forme et non via une lemmatisation. Après reflexion et première vue du dictionnaire, il a été décidé qu'une lemmatisation serait effectuée grâce à la commande sed, toutes les formes de "Geek" sont remplacées par "GEEK".
+        Le chargement du corpus a permis une segmentation en mots, le logiciel distingue le nombre d'occurrences total du nombre de formes différentes. Ainsi, pour "Geek", nous avons une base qui contient <strong> 43750 occurrences et 8467 formes</strong>. Notons qu'avec le corpus non lemmatisé nous recensons 8493 formes. </p>
         <br>
-        	<figure><img src="../../img/itrameur_screen_EN/àcompleter">
-        		<figcaption> a compléter</figcaption>
+        <p>Après verification de la segmentation du corpus, nous pouvons consulter le dictionnaire sans faire de recherches particulières afin de voir quand apparait notre mot cible. Nous constatons que les mots les plus fréquents sont sans surprises des mots grammaticaux. La lemmatisation de notre mot cible le place comme premier mot lexical avec une fréquence de <strong>688</strong>.(le corpus non lemmatisé place la forme "geek" également comme premier mot lexical avec une fréquence de 283).</p>
+        	<figure><img src="../../img/itrameur_screen_EN/geek-dico-general.png">
+        		<figcaption> dictionnaire "Geek" après chargement du corpus</figcaption>
+        	</figure>
+        <br>
+        <p>Si le processus de lemmatisation ne nous permet pas de faire la distinction entre un substantif singulier ou pluriel, nous pouvons tout de même examiner grâce au dictionnaire les flexions que peut prendre le mot "Geek", ce qui nous donne des informations sur les différentes catégories grammaticales de ce mot et de son champ lexical.</p>
+        <figure><img src="../../img/itrameur_screen_EN/geek-dico-spe.png">
+        		<figcaption> Les différentes formes de "Geek" dans le corpus</figcaption>
+        	</figure>
+        <br>
+        <figure><img src="../../img/itrameur_screen_EN/geek-dico-spe2.png">
+        		<figcaption>Les différentes formes de "Geek" dans le corpus</figcaption>
+        	</figure>
+        <br>
+        <figure><img src="../../img/itrameur_screen_EN/geek-dico-spe3.png">
+        		<figcaption> Les différentes formes de "Geek" dans le corpus</figcaption>
+        	</figure>
+        <br>
+        <figure><img src="../../img/itrameur_screen_EN/geek-dico-spe4.png">
+        		<figcaption> Les différentes formes de "Geek" dans le corpus</figcaption>
         	</figure>
         <br>
         <ul class="liste">
-        <li>àcompléter</li>
-        <li>àcompléter</li>
-        <li>àcompléter</li>
-        <li>àcompléter</li>
+        <li>On retrouve des formes adjectivales simples comme "geeky", ou adjectivales portant des marques de comparatif "geekier". </li>
+        <li>forme "geekiness"à commenter</li>
+        <li>formes verbales => on ne parle plus seuelement de personne mais cela devient une vraie activité</li>
+        <li>présence de néologismes incluant des femmes personnes moins jeunes => volonté d'identité qui s'étend à différents genres, au statut familial, à l'âge (GeekMom), voire à des professions (GeekyLibrairan)</li>
+        <li>néologismes "Geekdom", "Geekistan" comme un témoignage d'une influence telle que l'on parle de pays (suffixe dom)et de Geekistan (systématiquement suivie de sea) => an pour sea (mediterranean ea, Caribbean sea)</p>
         </ul>
         <br>
-        <p> Conclusion : à compléter</p>
+        <p>Nous allons maintenant passer à l'analyse des coocurrences qui va nous donner des informations concernant le contexte d'emploi de "Geek par la visualisation d'association privilégiée d'occurrences avec notre mot cible. L'indice de spécifité est une mesure statistique qui nous permet de déterminer si un mot est sur-employé ou non.</p>
         <br>
-        <br>
-        <p>Note critique sur iTrameur au besoin</p> 
-        <br>
-        <p>Analyse morphologique ?</p>
-        <br>
-        <figure><img src="../../img/itrameur_screen_EN/acompleter">
-        	<figcaption>Formes du mot "Geek" dans le corpus</figcaption>
+        <figure><img src="../../img/itrameur_screen_EN/geek-cooc.png">
+        		<figcaption> Coocurrences de "Geek" dans le corpus</figcaption>
         	</figure>
+        <p>Notons que pour cette analyse nous avons eu recours à une stoplist pour neutraliser certains mots grammaticaux. Nous avons décidé de garder les formes du verbe "be" pour plusieurs raisons. Il peut à la fois être employé comme verbe auxiliaire ( dans ce cas il est considéré comme un mot grammatical) ou comme verbe lexical ( il catégorise, identifie). Au vu du nombre d'occurrences, il aurait été difficile de tout vérifier pour déterminer si c'est un verbe lexical ou non.
+        De plus, nous remarquons qu'une de ses formes ("Being")est le mot avec le plus haut indice de spécificité => corroboré à l'identité, on se revendique geek.
+        Forte notion d'identité  de définition avec defined, themselves volontairement gardé car appuie cette volonté que ce sont les gens eux mêmes qui se définissent comme geek. + identified, on embrace son "inner geek", mais aussi de délimité ce qui n'est pas geek avec (N/non)
+        Notion de culture, on est sur une communauté qui a développpé sa propre culture.
+        Apparition de plusieurs formes de nerd => on a bien un lien, et on remarque en regardant les contextes que ce sont des termes que les locuteurs utilisent bel et bien de manière interchangeable.
+        termes mélioratifs tel que Pride, proud, chic, compliment.
+        terme péjoratif, éventuellement avec derogatory qui est associé a isn't or not anymore. Terme aussi associé à la technologie, peu étonnant => "tech"comme abréviation de technology</p>
         <br>
-        éventuellementpour un commentaire<p>à compléter</p>
-        <p>Autre conclusion / commentaire si besoin</p>
+        <p> Conclusion : Fort sentiment de définition d'identité d'appartenance à une communauté développée, de fierté. Si on remarque dans le dictionnaire des néologismes désignant des femmes Geeks, l'analyse de coocurrence nous indique que ça n'est pas quelque chose de saillant. Lien avec Nerd et l'informatique, perception globalement méliorative. </p>
         <br>
         <br>
         <p class="title is-6"> Analyse du mot "Nerd"</p>
         <br>
-        <p>Phrase introductive pour dire qu'on va faire la même chose qu'avec Geek</p>
+        <p>Le corpus pour le mot "Nerd" regroupe 28 URLS fonctionnelles : 18 sont tirées de la presse (magazine, quotidien... ), 6 proviennent de blogs et 4 de forums.</p>
+        <br>Comme pour le corpus de "Geek", une lemmatisation des formes de "Nerd" a été effectuée après concaténation des dumps pour n'avoir qu'une seule forme(NERD)grâce à la commande sed.
+        Nous avons donc une base qui contient un total de <strong>56059 occurrences pour 10370 formes différentes</strong>. Le corpus non lemmatisé comprend 10387 formes différentes.</p>
         <br>
-        <figure><img src="../../img../itrameur_screen_EN/àcompléter">
-        	<figcaption>àcompléter</figcaption>
+        <p>Comme pour le corpus "Geek", nous allons procéder à une première vue du dictionnaire pour voir quand apparait notre mot cible. Nous remarquons que, comme dans le corpus précédent, les mots avec la fréquence la plus élevée sont sans surprise des mots grammaticaux et que le premier mot lexical est bien "NERD" avec une fréquence de <strong>659</strong>.(Le corpus non lemmatisé place la forme "nerd" comme premier mot lexical, sa fréquence est de 612).</p>
+        <br>
+        <figure><img src="../../img../itrameur_screen_EN/nerd-dico-general.png">
+        	<figcaption>Dictionnaire du corpus "Nerd" après chargement</figcaption>
         	</figure>
         <br>
-        <ul class="liste">
-        <li>àcompléter</li>
-        <li>àcompléter</li>
-        <li>àcompléter</li>
-        <li>àcompléter</li>
+        <p>Si le processus de lemmatisation ne nous permet pas de faire la distinction entre un substantif singulier ou pluriel, nous pouvons tout de même examiner grâce au dictionnaire les flexions que peut prendre le mot "NERD", ce qui nous donne des informations sur les différentes catégories grammaticales de ce mot et de son champ lexical.</p>
+        <figure><img src="../../img../itrameur_screen_EN/nerd-dico-spe.png">
+        	<figcaption>Les différentes formes de "Nerd" dans le corpus</figcaption>
+        	</figure>
+        <br>
+        <figure><img src="../../img../itrameur_screen_EN/nerd-dico-spe2.png">
+        	<figcaption>Les différentes formes de "Nerd" dans le corpus</figcaption>
+        	</figure>
+        <br>
+        <figure><img src="../../img../itrameur_screen_EN/nerd-dico-spe3.png">
+        	<figcaption>Les différentes formes de "Nerd" dans le corpus</figcaption>
+        	</figure>
+        <br>
+        <ul class = "liste">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
         </ul>
         <br>
-        <p> Conclusion : à compléter</p>
+        <p>Nous allons maintenant passer à l'analyse des coocurrences.
         <br>
-        <br>
-        <p>Note critique sur iTrameur au besoin</p> 
-        <br>
-        <p>Analyse morphologique ?</p>
-        <br>
-        <figure><img src="../../img/itrameur_screen_EN/acompleter">
-        	<figcaption>Formes du mot "Geek" dans le corpus</figcaption>
+        <figure><img src="../../img/itrameur_screen_EN/nerd-cooc.png">
+        		<figcaption> Coocurrences de "Nerd" dans le corpus</figcaption>
         	</figure>
+        <p>parler de stoplist sur les mots grammaticaux, choix de garder be pour verbes lexicaux => catégorisation, définition d'identité, (idem themselves, non => définition de ce qui n'est pas nerd) + analyse culture comme geek, tech</p>
+        <br>	
+        <p> Conclusion : à compléter</p>
         <br>
         <br>
         <p class="title is-6">Conclusion générale sur les corpus Geek et Nerd anglais</p>
