@@ -98,6 +98,7 @@
         <p>Notons que les responsables des corpus anglais et français ont choisi de ne pas enlever des tableaux les URLS ne fonctionnant pas dans le but de montrer que les scripts ont bien fonctionné.
         <br>
         <p class="title is-6">Difficultés rencontrées lors de la constitution des corpus et réflexions lors de la collecte d'URLS</p>
+        <br>
         <p>En français, la constitution du corpus pour "Geek" n'a pas posé de difficultés majeures, le corpus est d'ailleurs équilibré entre les URLS provenant de forums et de presse . En revanche, la collecte d'URLS pour "Nerd" a été plus compliquée, car il y avait moins de résultats intéressants et <b>le moteur de recherche utilisé (Google) considérait "nerd" comme synonyme de "geek"</b>. De ce fait, les URLS presse étaient plus ardues à trouver.</p>
         <br>
         <p>En anglais, la collecte a été compliquée. En En effet, la majorité des articles utilisent geek et nerd comme des termes interchangeables, il est important de mentionner que les URLS pour "Nerd" ont été plus difficiles à trouver (comme pour le corpus français). Que ce soit dans les articles de presse ou sur des forums de discussion, geek et nerd semblent être considérés comme des synonymes. Certains articles ont donc été ajoutés dans les deux corpus car il était trop difficiles de les classer dans un corpus en particulier. Contrairement au français, la majorité des corpus est tiré d'articles de presse (nous verrons plus tard les problèmes rencontrés avec le traitement des articles de forums),un effort a tout de même été fait pour incorporer quelques URLS venant de forums. 
@@ -130,7 +131,8 @@
         <p>Nous sommes toutes les trois novices en informatique, de ce fait, la construction de scripts n'a pas toujours été facile. Lorsque le script de traitement des URLS a fonctionné, nous nous sommes rendues compte que certaines URLS ne pourraient pas être utilisées pour l'analyse. Pour les corpus français et anglais par exemple, les pages sélectionnées sur certains forums populaires comme Quora n'ont pu être exploitées (code HTTP 403 notamment). Une page pour le corpus serbe qui comptait un grand nombre d'occurrences n'a pas pu non plus être utilisée (pas de code 200).</p>
         <p>La partie concordance nous a toutes posé problème ( réglé lors de la <b>séance du 14 décembre 2022</b>). Le script n'affichait pas les contextes droits. Cette erreur était due à une ligne de code, il fallait changer le nombre de parenthèse.</p>
         <p>Durant toutes ces étapes nous nous sommes tenues au courant de nos avancées et faisions attention à être tout le temps à peu près au même stade d'avancement.</p>
-        <p>Enfin pour la construction du site, Orane nous a signalé s'être beaucoup documentée sur HTML et CSS avant de s'attaquer au framework Bulma.</b>
+        <p>Enfin pour la construction du site, Orane nous a signalé s'être beaucoup documentée sur HTML et CSS avant de s'attaquer au framework Bulma.</p>
+        <p>Valentina nous a aussi fait part de difficultés pour la mise en page des scripts. En effet, nos scripts contiennent des balises html qui sont de ce fait interprétées. Ce problème a été discuté lors de la séance du <b>03 janvier 2023</b>.</p>
         <br>
         <br>
         <p class="title is-3">Analyse linguistique avec iTrameur et nuages de mots</p>
@@ -143,7 +145,10 @@
         <br>
         <p class="title is-6">Difficultés quant à l'utilisation de iTrameur</p>
         <p>Nous avons, de manière unanime, trouvé que la prise en main d'iTrameur n'était pas évidente malgré les ressources à notre disposition. Il a fallu du temps pour comprendre comment le logiciel fonctionnait avant de pouvoir passer à l'analyse</p>
-        <p>Valentina et Léa avaient déjà travaillé avec des outils d'analyse textométrique (TXM pour Léa, TXM et SketchEngine pour Valentina). Nous avons toutes les trois trouvé dommage de ne pouvoir analyser qu'une forme de mot sans avoir la lemmatisation possible comme cela peut l'être pour TXM ou SketchEngine. Pour les corpus serbe, Valentina a donc dû lemmatiser les formes de ses mots dans le script iTrameur avec la commande sed pour chaque forme de "Geek" ou "Nerd"(l'expression régulière en entier ne fonctionnait pas). Léa et Orane ont décidé de ne pas lemmatiser.</p>
+        <p>Valentina et Léa avaient déjà travaillé avec des outils d'analyse textométrique (TXM pour Léa, TXM et SketchEngine pour Valentina). Nous avons toutes les trois trouvé dommage de ne pouvoir analyser qu'une forme de mot sans avoir la lemmatisation possible comme cela peut l'être pour TXM ou SketchEngine. Pour les corpus serbe, Valentina a donc dû lemmatiser les formes de ses mots dans le script iTrameur avec la commande sed pour chaque forme de "Geek" ou "Nerd"(l'expression régulière en entier ne fonctionnait pas). Léa a finalement lemmatisé après l'execution du script itrameur avec la commande sed. Orane a décidé de ne pas lemmatiser.</p>
+        <br>
+        <br>
+        <p>Si la méthodologie présentée ne semble pas assez complète <a href="../../Journal de bord.txt">cliquez ici</a> pour accéder au journal de bord.</p>
     </section>
 
     
