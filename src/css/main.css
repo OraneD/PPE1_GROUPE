@@ -90,13 +90,13 @@ nav > ul li:hover .sous{
 	font-size: 12px;
 }
 
-.column:hover{
+.boxes:hover{
     cursor:pointer;
   transform:scale(1.08);
 
 }
 
-.column {
+.boxes {
     transition:transform .4s;
 }
 

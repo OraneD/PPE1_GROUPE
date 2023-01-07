@@ -68,13 +68,14 @@
         </nav>
     </div>
     <section class="section has-background-primary-light">
-        <div class="container">
-            <div class="title"> EXPLICATION MÉTHODE</div>
+        <div class="container has-text-centered">
+            <div class="title is-3"> Méthode</div>
         </div>
         <br>
-        <div class="block has-background-primary-light has-text-justified">
-        <p class="title is-3">Justification du choix de mots et composition des corpus</p>
         <br>
+        <div class="block has-background-primary-light has-text-justified">
+        <p class="title is-5">Justification du choix de mots et composition des corpus</p>
+    
         <p class="title is-6">Choix de mots</p>
         <p>Pour ce projet, comme mentionné <a href="../../index.html">sur notre page d'accueil</a>, nous avions pour tâche de choisir un mot afin d'étudier son évolution dans des environnements linguistiques différents, ici en français, anglais et serbe. Le choix du mot s'est fait assez facilment et porte non pas sur un mais deux mots anglais, "geek" et "nerd". Cette suggestion de deux mots part de questionnements faits par les membres du groupe : </p>
         <ul class="liste">
@@ -88,7 +89,7 @@
         </ul>
         <br>
         <br>
-        <p class="title is-3">Composition des corpus</p>
+        <p class="title is-6">Composition des corpus</p>
         <p>Notre étude comparative ayant été validée lors de la séance du <b>12 octobre 2022</b>, nous avons ensuite pu constituer 6 corpus au <strong>format .txt</strong> (2 par langue) composés d'URL provenant d'articles de presse, de blogs ou de forums, avec un minimum de 25 URLS par corpus. La collecte d'URLS s'est étalée de mi octobre à mi novembre.</p>
         <ul class="liste">
         <li> Les corpus en français constitués et analysés par Orane comportent <b>55</b> URLS pour <a href= "../../URL_fr/tableau_FR.html">"Geek"</a> et <b>36</b> URLS pour <a href= "../../URL_fr/Tableau_nerd_FR.html">"Nerd"</a>. Il est à noter que certaines URLS ne sont pas utilisables pour la suite. Orane a également remarqué en faisant sa collecte pour le corpus "Geek" que ce mot est souvent employé entre guillemets : "geek". Ce sont des guillemets d'usage et non pas de mention. Ils indiquent que le locuteur prend de la distance par rapport au mot, soit pour marquer l'ironie ou le mépris, soit pour montrer qu'il n'est pas sûr quant à la définition exacte du mot. Cela montre bien que la définition du mot "geek" ne fait pas l'unanimité parmi les locuteurs français. Cette première reflexion sera reprise dans l'analyse linguistique.</li>
@@ -97,8 +98,8 @@
         <br>
         <p>Notons que les responsables des corpus anglais et français ont choisi de ne pas enlever des tableaux les URLS ne fonctionnant pas dans le but de montrer que les scripts n'ont pas poursuivi le traitement.</p>
         <br>
-        <p class="title is-6">Difficultés rencontrées lors de la constitution des corpus et réflexions lors de la collecte d'URLS</p>
         <br>
+        <p class="title is-6">Difficultés rencontrées lors de la constitution des corpus et réflexions lors de la collecte d'URLS</p>
         <p>En français, la constitution du corpus pour "Geek" n'a pas posé de difficultés majeures, le corpus est d'ailleurs équilibré entre les URLS provenant de forums et de presse . En revanche, la collecte d'URLS pour "Nerd" a été plus compliquée, car il y avait moins de résultats intéressants et <b>le moteur de recherche utilisé (Google) considérait "nerd" comme synonyme de "geek"</b>. De ce fait, les URLS presse étaient plus ardues à trouver.</p>
         <br>
         <p>En anglais, la collecte a été compliquée. En En effet, la majorité des articles utilisent geek et nerd comme des termes interchangeables, il est important de mentionner que les URLS pour "Nerd" ont été plus difficiles à trouver (comme pour le corpus français). Que ce soit dans les articles de presse ou sur des forums de discussion, geek et nerd semblent être considérés comme des synonymes. Certains articles ont donc été ajoutés dans les deux corpus car il était trop difficile de les classer dans un corpus en particulier. Contrairement au français, la majorité des corpus est tiré d'articles de presse (nous verrons plus tard les problèmes rencontrés avec le traitement des articles de forums),un effort a tout de même été fait pour incorporer quelques URLS venant de forums. 
@@ -111,8 +112,7 @@
         <p>En serbe,Valentina a également soulevé quelques difficultés pour le corpus "Geek". Valentina a expliqué que ce mot semble peu utilisé, et qu'en plus sa forme au singulier nominatif correspond à un <b>acronyme politique</b> (GIK= Gradska Izborna Komisija = commission éléctorale municipale) qui lui est extrêmement présent. Les corpus sont aussi majoritairement composés d'articles de presse car les forums ne sont que peu utilisés en Serbie. Il a donc été complique de trouver un mot peu utilisé dans un format également peu populaire.</p>
         <br>
         <br>
-        <p class="title is-3">Construction des Scripts de traitement des URLS, iTrameur et construction du site</p>
-        <br>
+        <p class="title is-5">Construction des Scripts de traitement des URLS, iTrameur et construction du site</p>
         <p class="title is-6"> Scripts de traitement des URLS et iTrameur</p>
         <p>En parallèle de la construction des corpus, nous avons dû créer des scripts bash pour nous permettre de travailler avec nos URLS collectées.
         Les séances du <b>12, 19 et 26 octobre 2022</b> ont été majoritairement dédiées à une introduction aux scripts bash et au langage HTML pour la création de tableaux.</p>
@@ -135,13 +135,13 @@
         <p>Valentina nous a aussi fait part de difficultés pour la mise en page des scripts. En effet, nos scripts contiennent des balises html qui sont de ce fait interprétées. Ce problème a été discuté lors de la séance du <b>03 janvier 2023</b>.</p>
         <br>
         <br>
-        <p class="title is-3">Analyse linguistique avec iTrameur et nuages de mots</p>
-        <br>
+        <p class="title is-5">Analyse linguistique avec iTrameur et nuages de mots</p>
         <p class="title is-6">iTrameur et nuages de mots</p>
         <p>Une fois nos dumps concaténés, nous avons pu nous attaquer à l'analyse linguistique avec iTrameur. iTrameur est un outil qui permet de faire des analyses textométriques sur les données de nos corpus et nous a été présenté le <b>07 décembre 2022</b>.</p>
         <p>Cette étape a été la seule que nous avons vraiment fait chacune de notre côté. Nous avons mis en commun nos conclusions afin de voir quelles étaient les similitudes et différences entre nos langues et si nous étions parvenues à répondre à nos questions.</p>
         <p>Nous nous sommes cependant mises d'accord sur le fait que nous allions travailler avec les dumps texts concaténés et non sur la concaténations de contextes afin de ne pas avoir une fausse sur représentation de nos mots cibles.</p>
         <p>La génération de nuages de mots a été présentée le <b>14 décembre 2022</b>, et c'est Valentina qui les a générés en prenant nos dumps concaténés déposés sur le GitHub du groupe grâce au site <a href="https://wordart.com/">wordart</a>.Wordart permet d'associer aussi une stoplist pour enlever de nos nuages de mots les mots grammaticaux qui sont plus nombreux que les mots lexicaux.</p>
+        <br>
         <br>
         <p class="title is-6">Difficultés quant à l'utilisation de iTrameur</p>
         <p>Nous avons, de manière unanime, trouvé que la prise en main d'iTrameur n'était pas évidente malgré les ressources à notre disposition. Il a fallu du temps pour comprendre comment le logiciel fonctionnait avant de pouvoir passer à l'analyse.</p>
@@ -159,7 +159,7 @@
             <a href="https://github.com/OraneD">Orane Dufour</a>
             <a href="https://github.com/LeaMondoloni/PPE1"> Léa Mondoloni</a>
             <a href="https://github.com/valentinaosetrov/PPE1"> Valentina Osetrov</a>
-            . Cette page internet a été créée grâce au framework 
+            . Cette page internet a été créée à l'aide du framework
             <a href="https://bulma.io/">BULMA</a>.
           </p>
         </div>
