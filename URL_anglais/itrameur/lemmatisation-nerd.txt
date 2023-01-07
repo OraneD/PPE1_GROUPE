@@ -540,7 +540,7 @@ Share this with
    Share this article via emailShare this article via smsShare this
    article via flipboardCopy link
 
-   AC_Nerd_Comp copy
+   AC_NERD_Comp copy
 
    Being a NERD is pretty cool.
 
@@ -814,7 +814,7 @@ Police statement after Jordan McSweeney pleads guilty of Zara Aleena murder
 </page> §
 <page=$pagename">
 <text>
-	A Historical Timeline of the word “NERD”
+	A Historical Timeline of the word " NERD "
 
    the stone age
 
@@ -828,12 +828,12 @@ Police statement after Jordan McSweeney pleads guilty of Zara Aleena murder
    meaning someone who is nutty. Its use is not widespread, but has been
    attested among particular groups, one being surfers.
 
-   1950: Dr. Seuss tosses off the nonsense word “NERD” as the name of an
+   1950: Dr. Seuss tosses off the nonsense word " NERD " as the name of an
    imaginary animal in If I Ran The Zoo.
    [anerd.png]
    the iron age
 
-   1951: Teen slang in the Detroit area is reported to have adopted “NERD”
+   1951: Teen slang in the Detroit area is reported to have adopted " NERD "
    as the fashionable new term for an uncool unhip person, otherwise known
    as a “drip” or “square”. This usage may or may not predate Dr. Seuss’s,
    and may or may not derive from “nert” or “Snerd”, but it definitely
@@ -891,7 +891,7 @@ Police statement after Jordan McSweeney pleads guilty of Zara Aleena murder
 
    1984: The movie Revenge Of The NERD is released. Some people with
    technical interests and skills immediately start to use the word as
-   self-description, with a “NERD pride” movement becoming visible a few
+   self-description, with a " NERD pride” movement becoming visible a few
    years later.
 
    1993: As NERD pride becomes fairly well established, and the mainstream
@@ -905,7 +905,7 @@ Police statement after Jordan McSweeney pleads guilty of Zara Aleena murder
    1995: The World Wide Web popularizes mass usage of computer networks.
    Non-experts start creating websites in large numbers, and produce the
    beginnings of today’s distinct internet culture. In this environment,
-   minor subcultures become highly visible, and the terms “NERD” and
+   minor subcultures become highly visible, and the terms " NERD " and
    “geek” are increasingly used for those seen devoting excessive time and
    energy to fandoms, similarly to how the word “otaku” is used in Japan —
    a term which anime fandom is bringing to America around this time.
@@ -929,7 +929,7 @@ Police statement after Jordan McSweeney pleads guilty of Zara Aleena murder
 
    2003: San Diego Comic-Con grows with extreme rapidity, becoming the
    center of the various fandoms associated with NERD. The public becomes
-   steadily more aware of the breadth of “NERD culture”. It becomes common
+   steadily more aware of the breadth of " NERD culture”. It becomes common
    for people to describe themselves as NERD or geeks based on their
    fandoms rather than on their skills or temperament — that is, they
    label themselves as such based on what they consume rather than what
@@ -941,7 +941,7 @@ Police statement after Jordan McSweeney pleads guilty of Zara Aleena murder
    2007: CBS debuts The Big Bang Theory, bringing the first broad
    depiction of all facets of NERD culture to a mass audience.
 
-   2009: As the word “geek” increasingly pushes aside the word “NERD”,
+   2009: As the word “geek” increasingly pushes aside the word " NERD ",
    some NERD produces this handy diagram for defining the difference
    between them:
    [venndiagram.jpg] see also
@@ -965,7 +965,7 @@ Police statement after Jordan McSweeney pleads guilty of Zara Aleena murder
      __________________________________________________________________
 
    Nowadays I’d say the best spirit of true nerddom isn’t being carried
-   forward by “NERD” anymore... where I now see it flourishing best is
+   forward by " NERD " anymore... where I now see it flourishing best is
    among the crowd known as MAKERS.
      __________________________________________________________________
 
@@ -1883,7 +1883,7 @@ Joe Blogs: NERD still aren’t cool and here’s why…
 
    OK, so what am I talking about? Well, with all the news and
    announcements from San Diego Comic-Con (SDCC) taking over the internet,
-   it’s got us thinking that the definition of ‘NERD’ appears to have
+   it’s got us thinking that the definition of ' NERD ’ appears to have
    changed. Or is it the definition of ‘cool’ that’s changed? Let’s have a
    look at some of the ‘nerdy’ behaviour penetrating the mainstream and
    see if we can’t figure this one out.
@@ -1922,7 +1922,7 @@ Technology Has Levelled The Playing Field For Dweebs
    called ‘gaming’, it’s got a name now, it’s gone legit. The recent story
    about Keanu Reeves featuring in the game, Cyberpunk 2077, definitely
    kept us busy at DMS; especially since Reeves was instrumental in
-   beginning the ‘NERD are cool’ movement when he played Neo in The
+   beginning the ' NERD  are cool’ movement when he played Neo in The
    Matrix. And with more powerful applications of the internet, gamers can
    play against people from all over the world in a safe environment. So,
    for instance, playing some iteration of Call of Duty online allows
@@ -2713,7 +2713,7 @@ No, NERD Are Not Today’s Cool - by a self-proclaimed NERD
    Sep 14
    Written By Laurie Trueblood
 
-   “NERD are the New Cool” but have things really changed for those that
+   " NERD are the New Cool” but have things really changed for those that
    are bullied by others?
 
    Photo by Shutterstock by Tithi Luadthong
@@ -2723,8 +2723,8 @@ No, NERD Are Not Today’s Cool - by a self-proclaimed NERD
 
    The last few years have seen everything from comic book superheroes to
    Dungeons & Dragons in the spotlight. While the media has celebrated and
-   flashed headlines like “NERD have taken over,” “Why NERD are
-   Popular,” and “NERD are the new cool.”
+   flashed headlines like " NERD have taken over,” “Why NERD are
+   Popular,” and " NERD are the new cool.”
 
    Gone are the days of NERD being cast as pathetic losers. Modern-day
    NERD are portrayed as smart, passionate, respectful, and financially
@@ -2793,7 +2793,7 @@ The Changing Face of NERD
 
    It seems that it is no longer considered a bad thing to be a NERD in
    recent times. T-shirts and clothing proudly proclaim their wearer as
-   “NERD” and “Geek.” There was the rise of new media like Slashdot, which
+   " NERD " and “Geek.” There was the rise of new media like Slashdot, which
    advertised as “News for NERD.” Shows like The IT Crowd and The Big
    Bang Theory have been huge successes. Even a new Spanish holiday was
    created on May 25th - NERD Pride Day (on the anniversary date of the
@@ -2811,7 +2811,7 @@ and more assimilated into the culture.”
    interesting, respectful, and very successful. They are still seen as
    socially awkward but typically in a positive, lovable way. NERD are
    seen as passionate about their hobbies and take pride in labeling
-   themselves as “NERD.” People self-label themselves as book NERD, food
+   themselves as " NERD.” People self-label themselves as book NERD, food
    NERD, gaming NERD, science NERD, etc., and are seen as those that
    passionately embrace their subjects.
 
@@ -2838,7 +2838,7 @@ Has it Really Changed?
 
    For all the progress, NERD are still seen by many as losers. Students
    that are smart, shy, or socially inept are still the target of
-   harassment by their peers. The word “NERD” is still thrown as an
+   harassment by their peers. The word " NERD " is still thrown as an
    insult, along with dweeb, dork, geek, loser, and a host of other names
    used by school bullies. NERD are still seen at the bottom of most
    school clique hierarchies and are treated by many as outcasts.
@@ -2939,7 +2939,7 @@ NERD and Bullying
      __________________________________________________________________
 
    Women, in particular, are vulnerable to insults. The concept of “fake
-   NERD” and that women are only pretending to be nerdy in order to get
+   NERD "  and that women are only pretending to be nerdy in order to get
    attention. It is a sad irony that those girls who have a genuine
    interest in a nerdy hobby are being made to feel like outsiders within
    pursuits traditionally embraced by those that themselves felt like
@@ -3196,7 +3196,7 @@ What is a NERD?
    [INS: :INS]
 
    On the other hand, there are now many kids who think being a NERD is
-   something to aspire to. For a while, fashion embraced “NERD chic.” Some
+   something to aspire to. For a while, fashion embraced " NERD chic.” Some
    teachers and educators wish they could do more to inspire students to
    become NERD, but if true nerdiness is predicated on learning
    disability, this may not be possible. There is, however, growing
@@ -3719,12 +3719,12 @@ What Happens When Society Decides That NERD Are Dangerous?
    continually harass them, until Hoffman’s character executes a violent
    revenge.
 
-   The words “NERD” and “violent” do not usually go hand in hand, but the
+   The words " NERD " and “violent” do not usually go hand in hand, but the
    harmlessness of NERD is hardly a settled formula. Along with severe
    emotional disturbance, likely psychosis, and a slowly festering
    decision to carry out the rampage that ended in the deaths of six
    students, as well as his own on May 23 in Isla Vista, California,
-   Elliot Rodger, for most of his life, fit the mold of a “NERD.” In his
+   Elliot Rodger, for most of his life, fit the mold of a " NERD.” In his
    manifesto, “My Twisted World,” he noted that video games were his only
    refuge growing up: “I immersed myself entirely into my online games
    like World of Warcraft. I felt safe there.”
@@ -4037,9 +4037,9 @@ Why Every Student Should Be A NERD
 
    By Terry Heick
 
-   As a kid, I never thought of myself as a ‘NERD.’
+   As a kid, I never thought of myself as a ' NERD .’
 
-   For one, ‘NERD’ isn’t something you strived to be in the 1980s and
+   For one, ' NERD ’ isn’t something you strived to be in the 1980s and
    1990s. (Remember the movie “Revenge of the NERD?)
 
    I did what was (then) normal stuff–played sports, rode my bike,
@@ -4050,7 +4050,7 @@ Why Every Student Should Be A NERD
    got to the social stigma of being branded a NERD. (Probably.)
 
    But times have changed. A technology-obsessed culture has reinvigorated
-   terms like ‘NERD’ and ‘geek’, to several effects. Tech is often
+   terms like ' NERD ’ and ‘geek’, to several effects. Tech is often
    complex, and is also mainstream. This is a convenient ‘in’ for NERD,
    growing the population of voluntary participants in these longstanding
    sociological genres.
@@ -4125,7 +4125,7 @@ Why Every Student Should Be A NERD
    More than anything else, NERD risk ridicule in pursuit of
    realization–of ideas, dreams, and more. As a society we are less and
    less tolerant of bullying, name-calling, and other forms of public
-   shaming, which means that calling someone a ‘NERD’ today is less
+   shaming, which means that calling someone a ' NERD ’ today is less
    acceptable than in the past–which is good.
 
    But it doesn’t make the following any less true: Now more than ever, if
@@ -4249,7 +4249,7 @@ Watch expert blown away by BTS’ insane watch collection
    View More
    EntertainmentEntertainment
 
-Joe Rogan explains why “NERD” isn’t an insult
+Joe Rogan explains why " NERD " isn’t an insult
 
    (BUTTON) Daniel Cleary
      ❘   Published: 2020-04-09T17:23:55
@@ -4257,7 +4257,7 @@ Joe Rogan explains why “NERD” isn’t an insult
    Joe Rogan
    JRE Clips, YouTube
 
-   UFC commentator Joe Rogan revealed why he thinks “NERD” is no longer
+   UFC commentator Joe Rogan revealed why he thinks " NERD " is no longer
    used as an insult during his latest podcast with Lex Fridman.
 
    Joe Rogan has built a massive following from his popular podcast, the
@@ -4266,8 +4266,8 @@ Joe Rogan explains why “NERD” isn’t an insult
 
    During his April 8 episode alongside MIT research scientist, Lex
    Fridman, the pair found themselves in a rather unusual debate,
-   discussing if “NERD” is still used as an insult in modern times.
-   UnsplashJoe Rogan shared why the perception of being a “NERD” has
+   discussing if " NERD " is still used as an insult in modern times.
+   UnsplashJoe Rogan shared why the perception of being a " NERD " has
    changed in recent years.
 
    [ad name=”article1″]
@@ -4284,7 +4284,7 @@ Joe Rogan explains why “NERD” isn’t an insult
    someone in a negative manner, before asking, “you don’t think of a NERD
    as an ideal of a man?”
 
-   Joe, on the other hand, believed that the days of “NERD” being used as
+   Joe, on the other hand, believed that the days of " NERD " being used as
    an insult had passed, and explained that he would use the word to
    describe someone who had invested a lot of energy into a particular
    subject.
@@ -4325,11 +4325,11 @@ Joe Rogan explains why “NERD” isn’t an insult
        worst moment
 
    One of the main issues the pair highlighted before moving on was the
-   fact that “NERD” would often play a part in worsening the perception
+   fact that " NERD " would often play a part in worsening the perception
    by deciding against activities that didn’t fit the stereotype, such as
    working out or becoming fight fans.
 
-   Although the term “NERD” has not always been associated with
+   Although the term " NERD " has not always been associated with
    positivity, many would claim that the perception has changed in recent
    years particularly with tech stars such as Elon Musk inspiring many to
    appreciate the work of those in similar fields.
@@ -4423,7 +4423,7 @@ The Black NERD Redefining the Culture
    attacked.
 
    The pair are part of a new generation of Black NERD (or “Blerds,” as
-   it is sometimes styled, a portmanteau of “Black” and “NERD”): critics
+   it is sometimes styled, a portmanteau of “Black” and " NERD "): critics
    and creators, scholars and social influencers, artists and activists
    who are shifting the culture in the years following the election of
    Barack Obama, America’s first Black and Blerd president, by centering
@@ -4483,11 +4483,11 @@ The Black NERD Redefining the Culture
    often rendered invisible because they present an inconvenient
    complication to a straightforward story of Blackness in America.
 
-   SAY THE WORD “NERD” and it conjures Coke-bottle glasses and pocket
+   SAY THE WORD " NERD " and it conjures Coke-bottle glasses and pocket
    protectors, the kind worn by the studious and socially awkward white
    guys (and they are nearly always white and nearly always guys) bullied
    in 1980s cult classic films: think Robert Carradine’s Lewis Skolnick
-   from “Revenge of the NERD” (1984) and Crispin Glover’s George McFly
+   from “Revenge of the NERD "  (1984) and Crispin Glover’s George McFly
    from “Back to the Future” (1985). This is NERD 1.0. The NERD 1.0
    archetype has its variants, perhaps the most prominent being the East
    Asian NERD (the flip side to the stereotypical martial-arts action
@@ -4496,13 +4496,13 @@ The Black NERD Redefining the Culture
    (1984). Though NERD 1.0 might seem easy to dismiss as an all in good
    fun comic figure, its influence has lingered in the typecasting faced
    by both East Asian and South Asian actors to this day. But over the
-   decades, the term “NERD” has undergone a dramatic evolution — some
+   decades, the term " NERD " has undergone a dramatic evolution — some
    would call it a corruption. Once the defiant moniker of the brainy
    social outcast, NERD is now claimed by anyone with a deep affinity for
    some area of knowledge. Call it NERD 2.0. Sneakerheads are NERD now,
    obsessing over tooling and the vicissitudes of the secondary sales
    market. So are cannabis connoisseurs, with encyclopedic knowledge of
-   different strains and the legal highs they produce. “NERD is not an
+   different strains and the legal highs they produce. " NERD is not an
    othering anymore; it’s a spectrum,” Holmon says.
 
    The most famous fictional Black NERD, Steve Urkel, portrayed for nine
@@ -4558,7 +4558,7 @@ The Black NERD Redefining the Culture
    follows power, and great power now rests in sectors of society,
    particularly in technology, where NERD have traditionally thrived.
 
-   “NERD hold the keys to the castle,” says Terril “Rell” Fields, the
+   " NERD hold the keys to the castle,” says Terril “Rell” Fields, the
    33-year-old founder of the Raleigh, N.C.-based blerd.com. Growing up,
    Fields was “almost stereotypically nerdy.” Before he got contact lenses
    for sports, he wore huge glasses with one lens thicker than the other
@@ -4582,7 +4582,7 @@ The Black NERD Redefining the Culture
    inclusion at Comic-Cons. Queer and trans NERD are also increasingly
    visible and, along racial lines, Indiginerds claim space, as do Latina
    and Asian subsets of the universe. Bao Phi, who grew up a
-   self-described “Vietnamese ghetto refugee NERD” in Minnesota’s Twin
+   self-described “Vietnamese ghetto refugee NERD "  in Minnesota’s Twin
    Cities, wrote a column in 2010 for the Star Tribune that inspired the
    website thenerdsofcolor.org, which now brings together a cross-racial
    coalition.
@@ -4814,7 +4814,7 @@ The Black NERD Redefining the Culture
    activist, as the consummate Blerd. You can see it in music. Lizzo, who
    plays the flute, was a proud band NERD in high school and used that
    outsider energy to define her distinctive, chart-topping style. And
-   Janelle Monáe once joined Chester French on a 2009 song called “NERD
+   Janelle Monáe once joined Chester French on a 2009 song called " NERD
    Girl,” on which she sings, “I’m your NERD girl / Reading comics in the
    dark / My favorite station’s NPR.” Now she’s the inspiration for
    Jemisin’s heroine Sojourner “Jo” Mullein in the “Far Sector”
@@ -8426,7 +8426,7 @@ Is My Kid a NERD? Psychologists Have a Scientific Answer for Parents.
    The psychometric test in question is called The Nerdy Personality
    Attributes Scale, and it was developed to objectively quantify
    nerdiness. (We assume the scientists who designed the scale scored
-   very, very high.) Since “NERD” is essentially an objective social
+   very, very high.) Since " NERD " is essentially an objective social
    label, designing the test involved surveying a very large pool of NERD
    and asking them which personality attributes they possess. In other
    words, the scale can estimate how similar your child’s personality is
@@ -8674,7 +8674,7 @@ Well, You Have A Nerdy Kid. Now What?
 
 The brutal oppression of the NERD and the Geeks
 
-   The use of the term ‘NERD’ doesn’t quite match the terrible history of
+   The use of the term ' NERD ’ doesn’t quite match the terrible history of
    the ‘n-word’, despite what some people might say
    Matt Berry, Katherine Parkinson, Richard Ayoade, Chris O'Dowd from the
    TV show The IT Crowd
@@ -8696,7 +8696,7 @@ The brutal oppression of the NERD and the Geeks
    Science Museum for a maths gallery. This is a very cool thing to do, so
    hats off to him.
 
-   He also said that using the terms “NERD” or “geek” to describe people
+   He also said that using the terms " NERD " or “geek” to describe people
    is the same as using the worst of racial slurs. His actual quote is “I
    feel these words are as insulting as nigger.” This, many would probably
    argue, is not such a cool thing to do, so hats remain on this time.
@@ -8715,7 +8715,7 @@ The brutal oppression of the NERD and the Geeks
    have an interest in something beyond that of most people, and the fact
    that this happened so often (and still regularly does) is a bad thing.
 
-   But to compare “NERD” and “geek” to the most offensive of racial
+   But to compare " NERD " and “geek” to the most offensive of racial
    epithets is surely ridiculous? You may think so, but what you’re
    overlooking is the fact that this isn’t just some random opinion; it’s
    a wealthy middle-aged white man’s opinion! Ergo, it must be considered
@@ -8925,7 +8925,7 @@ Most viewed
 
    Lifestyle
 
-Dr. Sonja Falck claims calling someone ‘NERD’ or ‘geek’ should be a hate
+Dr. Sonja Falck claims calling someone ' NERD ’ or ‘geek’ should be a hate
 crime
 
    By Amanda Woods
@@ -8943,7 +8943,7 @@ crime
      — Good Morning Britain (@GMB) December 19, 2019
 
    A British psychotherapist stirred up a social media squabble Thursday
-   when she suggested on national TV that calling someone a “NERD” or
+   when she suggested on national TV that calling someone a " NERD " or
    “geek” should be considered a hate crime.
 
    Dr. Sonja Falck, also a psychology lecturer at the University of East
@@ -8992,7 +8992,7 @@ More On: NERD
    Commenters on the “Good Morning Britain” Twitter page largely shot down
    Falck’s argument.
 
-   “I think the ‘NERD’ and the ‘geek’ have taken ownership of these words,
+   “I think the ' NERD ’ and the ‘geek’ have taken ownership of these words,
    flipping from negative to positive,” one user wrote. “Geek chic is a
    ‘thing,’ people want to be them now, if someone attempts to use that as
    an insult today it is laughable. It’s not ‘hate crime’, it’s a
