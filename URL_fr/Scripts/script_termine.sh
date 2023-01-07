@@ -26,7 +26,6 @@ then
 fi
 
 mot="[Nn]erds?" # penser à rajouter d'autres formes pour améliorer !! (genre/nombre/les cas! + guillemets ? + écriture emprunté ?)
-mot2= 
 
 
 #-------------------------Génération du tableau----------------------------#
