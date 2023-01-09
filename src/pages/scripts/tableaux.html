@@ -72,16 +72,34 @@
         <div class="container">
         	<div class="title"> SCRIPTS TABLEAUX</div>
         </div>
-        <div>
+        <div class="has-text-justified">
             <br>
-            <p>description du script</p>
+            <p>Afin de générer un corpus sous forme de tableau, nous avons executé un script en Bash. Ainsi, nos scripts créent un tableaux avec les colonnes/données suivantes:</p>
+            <br>    
+                <ul>
+                    <li>- le numéro de la ligne pour chaque URL</li>
+                    <li>- le code HTTP</li>
+                    <li>- l'encodage du texte</li>
+                    <li>- le fichier dump en html</li>
+                    <li>- le fichier dump en txt</li>
+                    <li>- le nombre d'occurrences du mot choisi pour chaque URL</li>
+                    <li>- le contexte gauche et droit du mot</li>
+                    <li>- le concordancier avec les cooccurrences du mot</li>
+                </ul>
+            <br>
+            <p>Pour lancer le script, deux fichiers sont nécessaires : le fichier .txt avec la liste des URL et le fichier .html où le résultat sera stocké.</p>
+            <br>
+            <p>Nous avons travaillé sur deux mots à la fois ("geek" et "nerd"). Léa et Valentina ont décidé de créer deux scripts où la seule différence est dans la variable "mot". Cette variable contient une expression régulière correspondante aux mots que l'on cherche. Ce choix a été fait pour faciliter l'exécution lorsque les scripts ont été testés. </p>
+            <p>En revanche, Orane a trouvé plus pratique de garder un seul script et de changer la variable mot en fonction du tableaux qu'elle voulait obtenir.</p>
+            <br>
+            <p>Sur cette page, vous trouverez nos 5 scripts : </p>
         </div>
     </section>
     <section class="section has-background-primary-light">
     <style>
         div.scrollable {
             overflow: scroll;
-            height: 400px; /* Set the height of the element */
+            height: 700px; /* Set the height of the element */
         }
     </style>
     <div class="title is-5">Script français "geek" et "nerd"</div>
@@ -113,7 +131,7 @@
         <p>&nbsp;&nbsp;&nbsp;&nbsp;echo "Ce programme demande exactement deux arguments."</p>
         <p>&nbsp;&nbsp;&nbsp;&nbsp;exit</p>
         <p>fi</p>
-        <p>mot="[Nn]erds?" # penser à rajouter d'autres formes pour améliorer !! (genre/nombre/les cas! + guillemets ? + écriture emprunté ?)</p>
+        <p>mot="[Nn]erds?"</p>
         <br>
         <p>#-------------------------Génération du tableau----------------------------#</p>
         <br>
@@ -192,7 +210,7 @@
     <style>
         div.scrollable {
             overflow: scroll;
-            height: 400px; /* Set the height of the element */
+            height: 700px; /* Set the height of the element */
         }
     </style>
     <div class="title is-5">Script anglais "geek"</div>
@@ -296,7 +314,7 @@
     <style>
         div.scrollable {
             overflow: scroll;
-            height: 400px; /* Set the height of the element */
+            height: 700px; /* Set the height of the element */
         }
     </style>
     <div class="title is-5">Script anglais "nerd"</div>
@@ -399,7 +417,7 @@
     <style>
         div.scrollable {
             overflow: scroll;
-            height: 400px; /* Set the height of the element */
+            height: 700px; /* Set the height of the element */
         }
     </style>
     <div class="title is-5">Script serbe "gik" ("geek")</div>
@@ -509,7 +527,7 @@
     <style>
         div.scrollable {
             overflow: scroll;
-            height: 400px; /* Set the height of the element */
+            height: 700px; /* Set the height of the element */
         }
     </style>
     <div class="title is-5">Script serbe "štreber" ("nerd")</div>
