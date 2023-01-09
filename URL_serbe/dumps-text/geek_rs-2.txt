@@ -32,18 +32,18 @@
    [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS]
    [INS: :INS]
 
-   Četvrtak, 29.12.2022. ✝ Verski kalendar
+   Subota, 07.01.2023. ✝ Verski kalendar
    Verski kalendar
-   ☦ Prepodobni Spiridon Čudotvorac, episkop trimituntski – Materice
-   ☨ ROĐENJE GOSP. BOŽIC
-   ✡ 1. Tevet
-   ☪ 1. Džumada-l-uhra
+   ☦ Svetih 10 mučenika Kritskih; Prep. Naum Ohridski – Tucindan
+   ☨ Miljenko, Emilijana, Radoslav
+   ✡ 12. Tevet
+   ☪ 12. Džumada-l-uhra
    € Kursna lista
    Kursna lista
     Kup.  Prod.  Sred.
-   116.96 117.66 117.31
-   110.09 110.75 110.42
-   118.68 119.39 119.04
+   116.99 117.7  117.35
+   111.19 111.86 111.52
+   118.64 119.36 119
    Izdanja Čitulje
    Ćirilica
    accessibility-tools
@@ -54,19 +54,19 @@
      * Najnovije vesti
      * Svet
      * Politika
-     * SP 2022
      * Društvo
      * Pogledi
      * Hronika
      * Ekonomija
+     * Sport
      * Kultura
      * Beograd
-     * Sport
      * Region
+     * Magazin
      * Sve
      *
 
-   Mozaik Pisma čitalaca Moj život u inostranstvu Priča o Kini Zdravlje
+   Pisma čitalaca Moj život u inostranstvu Priča o Kini Zdravlje
 
    [INS: :INS] [INS: :INS]
 
@@ -180,30 +180,30 @@ Velika Britanija ojačava „pravo na zaborav” na internetu
 
 Pročitajte još:
 
-   [60z60_padobranci.jpg]
+   [60z60_11034544.jpg]
    Svet
-   Zašto je ruska taktika ojačanih bataljona podbacila u Ukrajini
-   [60z60_hitna-ljubljana.jpg]
+   Eksplozija na gasovodu u LNR
+   [60z60_1312938.jpg]
+   Svet
+   Zelenski uveo sankcije Nikiti Mihalkovu i za još 118 drugih umetnika
+   [60z60_POL_PR_060.jpg]
+   Društvo
+   Ništa nije tako posebno kao Božić u Svetoj zemlji
+   [60z60_celsi.jpg]
+   Fudbal
+   Santos i Fofana potpisali za Čelsi
+   [60z60_Teksas-svestenik2.jpg]
+   Svet
+   Američki Italijan starešina srpske crkve u Teksasu
+   [60z60_trudo.jpg]
+   Svet
+   Premijer Kanade čestitao Božić
+   [60z60_meksiko-policija.jpg]
+   Svet
+   Sudar dva voza u meksičkom metrou, ima poginulih
+   [60z60_miras-dedeic.jpg]
    Region
-   „Nehitni” prave problem u Hitnoj
-   [60z60_kosovo-map-.jpg]
-   Politika
-   NATO ohrabrio tvrdolinijaške elemente u Prištini
-   [60z60_Barikade-u-mestu-Zupce-63ad4e3cc52ec.jpg]
-   Politika
-   Nije počelo uklanjanje barikada na Rudaru
-   [60z60_sine.jpg]
-   Hronika
-   Teretni voz sa fosfornom kiselinom iskliznuo iz šina kod Zaječara
-   [60z60_jokic-ijvava-63ad4bebd13b2.jpg]
-   Košarka
-   Odličan Jokić, ali i poraz njegovog tima
-   [60z60_677z381_sin-d.pantica.gif]
-   Politika
-   Sin Pantića: Otac je stigao kući i oseća se dobro
-   [60z60_Untitled.jpg]
-   Politika
-   Ovo je naša mala pobeda - nije kraj problema
+   Miraš Dedeić pomešao Božić i Vaskrs
 
    [INS: :INS]
 
@@ -228,20 +228,24 @@ Pročitajte još:
      * Najnovije vesti
      * Svet
      * Politika
-     * SP 2022
      * Društvo
      * Pogledi
      * Hronika
      * Ekonomija
      * Potrošač
-     * Kultura
-
-
-     * Beograd
      * Sport
+     * Kultura
+     * Beograd
      * Region
-     * Mozaik
+
+
      * Magazin
+     * Zanimljivosti
+     * Nauka i tehnologija
+     * Istorija
+     * Putovanja
+     * Auto
+     * Moda
      * TV revija
      * Gastronomija
      * Pisma čitalaca

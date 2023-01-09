@@ -80,22 +80,22 @@ gledamo televiziju - izjavila je Ana
    Šakota o trenutnoj atmosferi oko kluba: Kritika će uvek biti, treba
    izdržati još 60 utakmica
 
+Jetset
+
+     * 0:31
+
+Pevačica ostala bez teksta: Mišićavi muškarac poslao Teodori ogroman buket
+ruža
+
+   Šakota o trenutnoj atmosferi oko kluba: Kritika će uvek biti, treba
+   izdržati još 60 utakmica
+
 Rijaliti
 
      * 0:22
 
 Snimak razgovora Zvezdana i 20 godina mlađe Anđele: Izbošću te na kraju
 nožem, i tebe i sebe
-
-   Šakota o trenutnoj atmosferi oko kluba: Kritika će uvek biti, treba
-   izdržati još 60 utakmica
-
-Jetset
-
-     * 0:34
-
-Ceca zavodi u biblioteci: Vrela pevačica uzela knjigu u ruke i pokazala
-savršenu figuru
 
    - Bastijan ih motiviše da igraju tenis, mogu slobodno reći u manjoj
    količini, ali podstiče. Međutim, svaki put kad ja hoću nešto da im
@@ -150,6 +150,18 @@ Komentari
 
 Povezane vesti
 
+   Ana Ivanović
+
+Info Biz
+
+     *
+
+Prelepa Ana Ivanović lansirala svoju kozmetičku liniju: Vodimo vas u "mali
+raj" u Beogradu
+
+     * 0
+     * 2
+
    Lutke sa likom Nikolasa Madura i njegove žene u Venecueli
 
 Svaštara
@@ -182,15 +194,6 @@ dete
 
      * 0
      * 0
-
-   Bolesno dete u bolnici bolnica
-
-Svet
-
-Horor u Uzbekistanu: Čak 18 dece umrlo posle lečenja indijskim sirupom
-
-     * 0
-     * 3
 
 Priče sa Weba
 
@@ -232,17 +235,21 @@ Jetset vesti
 Sedam satova zeta Željka Mitrovića vrede 961.468 evra: Jedan je od materijala
 za izradu bolida Formule 1
 
-     * 4
-     * 3
+     * 10
+     * 219
 
-   Slađana Milošević
+   Haris Džinović
 
 Jetset vesti
 
-Slađana Milošević slomila obe ruke
+     *
+     *
 
-     * 0
-     * 16
+Haris Džinović posle 12 godina ponovo "uhvaćen" bez šešira: Pevač u izdanju
+koje se baš retko viđa
+
+     * 5
+     * 4
 
    Anđelka Prpić
 
@@ -254,7 +261,7 @@ Evo kako izgleda Anđelka Prpić u petom mesecu trudnoće: Glumica šetala u
 širokoj garderobi, nazire se stomak
 
      * 1
-     * 0
+     * 12
 
    Sve vesti iz rubrike Jetset
 
@@ -308,29 +315,31 @@ Video dana
 
      *
 
-"Priština neće lako moći da pogazi grancije SAD i EU"
+Deca deci naslikala na stotine umetničkih dela: Jedna firma ih otkupila,
+novac otišao u prave ruke
           + 0
           + 0
      *
 
-Mladi fudbaler ubijen u klubu, devojka se emotivnom porukom oprostila od
-njega: "Nisi ovo zaslužio"
+Može li novogodišnja trpeza da prođe bez ruske salate? Božićni post iz dana u
+dan (31)
+          + 79
+          + 257
+     *
+
+Trgovinska razmena Srbije i Kine za godinu dana veća od 5 milijardi evra: Od
+10 top izvoznika, tri su kineska
           + 0
           + 0
      *
 
-Nafta opet u padu: Ovo je zemlja koja "vedri i oblači"
+Uhapšen piroman iz Beograda: Policija mu u stanu našla 708 tableta MDMA
           + 0
           + 0
      *
 
-Odneli džakove sa kukuruzom vrednim 7 miliona dinara: Hapšenje u Pančevu
-          + 0
-          + 0
-     *
-
-Albanac udarao u glavu muškarca u centru Vranja, pa uperio pištolj u njega: U
-kolima mu nađeno "krvavo" oružje
+Stanovnici Petrinje održali protest 2 godine nakon zemljotresa: "Želimo
+obnovu bez obzira na boju nalepnice"
           + 0
           + 0
 

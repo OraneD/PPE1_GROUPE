@@ -47,7 +47,7 @@
      * Podešavanja privatnosti
      *
 
-   © 2022 VICE MEDIA GROUP
+   © 2023 VICE MEDIA GROUP
 
 FYI.
 
@@ -259,4 +259,4 @@ isprobavanje rolerkostera
      * Podešavanja privatnosti
      *
 
-   © 2022 VICE MEDIA GROUP
+   © 2023 VICE MEDIA GROUP

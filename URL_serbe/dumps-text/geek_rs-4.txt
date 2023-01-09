@@ -6,8 +6,8 @@
      * OKO
      * Sport
      * Magazin
-     * Rat u Ukrajini
      * TV
+     * Rat u Ukrajini
      * Radio
      * Emisije
      * RTS
@@ -78,7 +78,6 @@
           + Film i TV
           + Gledaoci reporteri
           + Digitalni preduzetnik
-     * Rat u Ukrajini
      * TV
           + RTS 1
           + RTS 2
@@ -92,6 +91,7 @@
           + RTS Trezor
           + RTS Muzika
           + RTS Poletarac
+     * Rat u Ukrajini
      * Radio
           + Radio Beograd 1
           + Radio Beograd 2
@@ -711,7 +711,7 @@ ESKADRILA
    Kumanovski sporazum – dokument mira ili kapitulacije Kumanovski
    sporazum – dokument mira ili kapitulacije
    "Meta – Varvarinski most" – istina o masakru
-   četvrtak, 29. decembar 2022.
+   subota, 07. januar 2023.
    Prognoza
    [??????]
    ° C ° C ° C ° C ° C ° C
@@ -722,14 +722,15 @@ ESKADRILA
 
 komentari
 
-   Veoma potresno Jedno pitanje
-   Kako se ne zna? ПВЦ прозори на Клишкој тврђави старој 500 година,
-   начелник општине: Ово је моја срамота
-   Razvojem mišića pobediti tikove Tikovi su izlečivi
-   stare novcanice Ako pronađete ovu novčanicu odmah idite kod
-   numizmatičara
-   energija Да ли су научници успели да обуздају енергију звезда – имамо
-   ли фузиони реактор
+   Zlo i naopako Принц Хари изазвао гнев Авганистанаца, али и својих
+   сабораца због признања да је убио 25 талибана
+   Jadno Принц Хари изазвао гнев Авганистанаца, али и својих сабораца због
+   признања да је убио 25 талибана
+   Чега се паметан стиди... Принц Хари изазвао гнев Авганистанаца, али и
+   својих сабораца због признања да је убио 25 талибана
+   e sad... Принц Хари изазвао гнев Авганистанаца, али и својих сабораца
+   због признања да је убио 25 талибана
+   Čovek Принц Хари: Убио сам више од 25 талибана
    Preuzmite RTS mobilnu aplikaciju
    Radio Televizija Srbije
 
@@ -772,4 +773,4 @@ komentari
    RTS Kontakt | Marketing | Javne nabavke | Konkursi | Internet portal
    MAPA SAJTA
    Privatnost | Copyright | Pravila upotrebe sadržaja | Mapa sajta
-   Copyright © 2008 - 2022 RTS. Sva prava zadržana.
+   Copyright © 2008 - 2023 RTS. Sva prava zadržana.

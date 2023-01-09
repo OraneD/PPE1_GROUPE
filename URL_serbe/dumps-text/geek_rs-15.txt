@@ -24,13 +24,14 @@
      * Skorašnje izmene
      * Slučajna stranica
      * Aktuelnosti
+     * Kontakt
      * Donacije
 
    Interakcija
      * Pomoć
+     * Научите да уређујете
      * Trg
      * Radionica
-     * Kontakt
      * Otpremite datoteku
 
    Alatke

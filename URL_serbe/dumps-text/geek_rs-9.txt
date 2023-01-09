@@ -1,54 +1,6 @@
-UTF-8 and Unicode
+                                   Forbidden
 
-   Unicode Transformation Format 8-bit is a variable-width encoding that
-   can represent every character in the Unicode character set. It was
-   designed for backward compatibility with ASCII and to avoid the
-   complications of endianness and byte order marks in UTF-16 and UTF-32.
-   ^[1]
-
-   UTF-8 encodes each Unicode character as a variable number of 1 to 4
-   octets, where the number of octets depends on the integer value
-   assigned to the Unicode character. It is an efficient encoding of
-   Unicode documents that use mostly US-ASCII characters because it
-   represents each character in the range U+0000 through U+007F as a
-   single octet.
-
-   UTF-8 is the default encoding for XML and since 2010 has become the
-   dominant character set on the Web.
-
-Standards
-
-     * RFC 3629: UTF-8, a transformation format of ISO 10646. November
-       2003.
-     * The Unicode Standard 5.0, November 2006. [purchase from Amazon.com]
-          + In particular, see the informal description of UTF-8 in
-            sections 2.5 and 2.6, pages 30-32, and a much more formal
-            definition in sections 3.9 and 3.10, pages 77-81.
-
-Articles and background reading
-
-     * UTF-8 and Unicode FAQ for Unix/Linux by Markus Kuhn
-     * Forms of Unicode, an excellent overview by Mark Davis
-     * Wikipedia UTF-8 contains a good discussion of why five- and
-       six-octet sequences are now illegal UTF-8
-     * Unicode Transformation Formats [czyborra.com]
-     * The Absolute Minimum Every Software Developer Absolutely,
-       Positively Must Know About Unicode and Character Sets (No
-       Excuses!), an amusing and informative article by Joel Spolsky
-
-Character Sets
-
-   The MIME character set attribute for UTF-8 is UTF-8. Character sets are
-   case-insensitive, so utf-8 is equally valid. [IANA Character Sets].
-
-   In a modern HTML 5 page, place this tag inside <head> ... </head>:
-<meta charset="UTF-8">
-
-   In an XML prolog, the encoding is typically specified as an attribute:
-<?xml version="1.0" encoding="UTF-8" ?>
-     __________________________________________________________________
-
-   Last modified: Wed Jan 5 12:57:21 PST 2022
+   You don't have permission to access / on this server.
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NM4J3XM
 
@@ -223,161 +175,164 @@ TAGOVI:
      * Najnovije
      * Komentari
 
-     * žene, obratite pažnju!
-
-PRODAVAČICA IZ PARFIMERIJE OTKRILA KAKO JE SHVATALA KADA MUŽEVI KUPUJU POKLON
-LJUBAVNICAMA: Jedan detalj je neverovatan
-       10:51
      *
 
-BIVŠI MUŽ ANĐELKE PRPIĆ UTEHU PRONAŠAO U ZANOSNOJ CRNKI: Dariova devojka
-nimalo ne liči na popularnu glumicu
-       10:16
+2 HOROSKOPSKA ZNAKA U JANUARU KREĆU ŽIVOT OD NULE: Iza sebe će ostaviti sve
+probleme i brige iz prošlosti
+       19:48
+     * pogledajte
+
+ONA U TOPLESU, ON JE NE GLEDA: Bred Pit uhvaćen sa novom devojkom u luksuznom
+letovalištu
+         5
+       19:10
      *
 
-SLAĐANA MILOŠEVIĆ TEŠKO POVREĐENA: Strahota šta je doživela, svaka žena mora
-da bude oprezna zbog ovoga
-       10:03
-     *
+LEGENDA KOJA SE KRIJE IZA BILJKE BOŽIĆNA ZVEZDA: Nosi prelepu simboliku, a
+daruje se posebnim osobama
+       18:29
+     * FRED ASTER
 
-OVA ŽENA TVRDI KAKO JE NA VENERI ŽIVELA 210 GODINA, A ONDA JE DOŠLA NA
-ZEMLJU: Njene reči izazvale su PAŽNJU I STRAH
-       09:59
-     *
+ŽIVOTNA PRIČA NAJELEGANTNIJEG ČOVEKA U HOLIVUDU: Izgubio voljenu prerano,
+svoju reč nije nikad pogazio!
+        1
+       18:00
+     * deo intervjua
 
-NAJVEĆI KARMIČKI GREH SVAKOG ZNAKA: To je ono što nas stalno sputava i vraća
-na početak - od njega se ne može pobeći
-       08:47
+JELENA ĐOKOVIĆ EKSKLUZIVNO ZA STIL: "Moj jedini CILJ je da budem BOLJI ČOVEK
+sebi i drugima"
+        5 5
+       18:00
 
    Sve najnovije vesti >
-     * Verovali ili ne
+     * američki staford
 
-ZA OVOM ŽENOM SU GLAVU GUBILI MUŠKARCI ŠIROM SVETA: Onda se ona udala za
-bogataša i prestala da se doteruje
-        73 73
-       23.12.
+NAJKRVOLIČNIJI PAS KOJEG SRBI OBOŽAVAJU: Ukoliko se ne dresira kako treba
+može biti SMRTONOSNO OPASAN
+        60 60
+       05.01.
      *
 
-ON JE SAV U SUVIM MIŠIĆIMA, A ONA PUNA CELULITA: Žena zgodnog glumca ima jak
-razlog zašto izgleda ovako
-         7   66 66
-       26.12.
+MUŠKARAC KOJI VARA NIKAD NEĆE OSTAVITI SVOJU ŽENU: Za to postoji opravdan
+razlog i odnosi se na sve muškarce
+        35 33
+       31.12.
+     * GDE JE GRANICA?
+
+JOVANA JEREMIĆ NADMAŠILA SAMU SEBE OVOM IZJAVOM: Otkrila šta zaista misli o
+Dragani Kosjerini i neviđeno je PONIZILA
+        32 32
+       03.01.
      *
 
-ODRASLA POD ŠATOROM U SELU PORED POŽAREVCA: Kako je Anđelka Prpić izgledala
-pre slave? Slike koje izazivaju nevericu
-        41 41
-       27.12.
-     * neverovatna ljubavna priča
+KO JE MILIJARDER S KOJIM JE RASKINULA ĆERKA ŽELJKA MITROVIĆA? Kupa se u
+luksuzu, a o njemu se gotovo ništa ne zna
+        31 31
+       06.01.
+     *
 
-ŽENA KOJA JE ZBOG LJUBAVI PRISTALA NA SVE: Tretirao je kao psa,50 godina je
-držao zatvorenu,nije joj došao ni na sahranu
-        27 27
-       22.12.
-     * brak i porodica
-
-KAKO SAČUVATI BRAK I VEZU: Jedna stvar je ključna otkriva Otac Predrag
-Popović - "PORODICA SE NE NAPUŠTA!"
-        26 26
-       27.12.
+PRIČALO SE DA JE JELENA OSTAVLJALA NOVAKA 3 PUTA: Jedna žena je bila tu da
+njihov brak ojača i izvuče iz krize više puta
+        23 23
+       02.01.
 
 Najčitanije
 
-     * KOLIKO ČESTO SE TREBA TUŠIRATI -EKSPERT ŠOKIRAO JAVNOST: "Odbijam
-       poverovati, kako spavati s tolikom PRLJAVŠTINOM?"
-       Lepi & Zdravi
-
-KOLIKO ČESTO SE TREBA TUŠIRATI -EKSPERT ŠOKIRAO JAVNOST: "Odbijam poverovati,
-kako spavati s tolikom PRLJAVŠTINOM?"
-        9 9
-     * "PRILIKOM AUTOPSIJE DOKTORI MAHOM NALAZE OVO U ŽELUCU PACIJENATA -
-       NAPITAK KOJI SE NE VARI": Principi zdravlja dr Šenoa
+     * "SA 90 SAM SMRŠALA NA 55 KG": Indi se PREPOLOVILA, pa otkrila na
+       koji način je to uspela i šta NIKAKO NE JEDE
        Fitnes & Nutricija
 
-"PRILIKOM AUTOPSIJE DOKTORI MAHOM NALAZE OVO U ŽELUCU PACIJENATA - NAPITAK
-KOJI SE NE VARI": Principi zdravlja dr Šenoa
-        6 6
-     * "KAO SLAVSKI KOLAČ DA IMA NA GLAVI" Niko nije mogao da skine pogled
-       sa neobične frizure Milice Jokanović iz "Potere"
+"SA 90 SAM SMRŠALA NA 55 KG": Indi se PREPOLOVILA, pa otkrila na koji način
+je to uspela i šta NIKAKO NE JEDE
+         7   8 8
+     * 7 NAJRANIJIH SIMPTOMA RAKA PLUĆA NA KOJE LJUDI NE OBRAĆAJU PAŽNJU:
+       Od ove opake bolesti su umrle i mnoge slavne ličnosti
        Lepi & Zdravi
 
-"KAO SLAVSKI KOLAČ DA IMA NA GLAVI" Niko nije mogao da skine pogled sa
-neobične frizure Milice Jokanović iz "Potere"
-        17 17
-     * NAJZGODNIJA ŽENA SVETA HIPNOTIŠE FIGUROM: Za izvajano telo i
-       savršene obline poštuje pravila koje svi mogu da primene
+7 NAJRANIJIH SIMPTOMA RAKA PLUĆA NA KOJE LJUDI NE OBRAĆAJU PAŽNJU: Od ove
+opake bolesti su umrle i mnoge slavne ličnosti
+        4
+     * SVINJSKA MAST OPRANA U 9 VODA: Na ovaj način su naši stari pravili
+       neprevaziđeni lek za bolesti pluća
+       Lepi & Zdravi
+
+SVINJSKA MAST OPRANA U 9 VODA: Na ovaj način su naši stari pravili
+neprevaziđeni lek za bolesti pluća
+        3
+     * PIHTIJE SU JEDAN OD NAJZDRAVIJIH SRPSKIH SPECIJALITETA I TREBA DA
+       IH JEDETE ŠTO ČEŠĆE: 8 tegoba koje samo one rešavaju
        Fitnes & Nutricija
 
-NAJZGODNIJA ŽENA SVETA HIPNOTIŠE FIGUROM: Za izvajano telo i savršene obline
-poštuje pravila koje svi mogu da primene
-         7
-     * BOJA KOSE KOJA ĆE BITI NAJVEĆI TREND U 2023. GODINI: S razlogom je
-       zovu BOGATOM NIJANSOM, a lice čini mlađim i svežijim
-       Lepi & Zdravi
+PIHTIJE SU JEDAN OD NAJZDRAVIJIH SRPSKIH SPECIJALITETA I TREBA DA IH JEDETE
+ŠTO ČEŠĆE: 8 tegoba koje samo one rešavaju
+        1
+     * DOKTOR VAS UPOZORAVA DA SLEDEĆE 3 NAMIRNICE ODMAH IZBACITE IZ
+       ISHRANE: Zbog njih se gojite, razboljevate i BRŽE STARITE
+       Fitnes & Nutricija
 
-BOJA KOSE KOJA ĆE BITI NAJVEĆI TREND U 2023. GODINI: S razlogom je zovu
-BOGATOM NIJANSOM, a lice čini mlađim i svežijim
+DOKTOR VAS UPOZORAVA DA SLEDEĆE 3 NAMIRNICE ODMAH IZBACITE IZ ISHRANE: Zbog
+njih se gojite, razboljevate i BRŽE STARITE
 
 Facebook
 
-     * "KAO SLAVSKI KOLAČ DA IMA NA GLAVI" Niko nije mogao da skine pogled
-       sa neobične frizure Milice Jokanović iz "Potere"
-       Lepi & Zdravi
+     * KO JE MILIJARDER S KOJIM JE RASKINULA ĆERKA ŽELJKA MITROVIĆA? Kupa
+       se u luksuzu, a o njemu se gotovo ništa ne zna
+       Celebrities
 
-"KAO SLAVSKI KOLAČ DA IMA NA GLAVI" Niko nije mogao da skine pogled sa
-neobične frizure Milice Jokanović iz "Potere"
-        17 17
-     * KUĆA LUKE MODRIĆA OD 12 MILIONA € JE KAO NASELJE: Ima 9 spavaćih
-       soba, privatni bioskop, od pogleda na baštu ZASTAJE DAH
-       Enterijer
-
-KUĆA LUKE MODRIĆA OD 12 MILIONA € JE KAO NASELJE: Ima 9 spavaćih soba,
-privatni bioskop, od pogleda na baštu ZASTAJE DAH
-         5   12 12
-     * "MISLILA SAM DA ĆU UMRETI KAO DEVICA, ONDA SE POJAVIO ON I SVE
-       PROMENO": Neobičan par trpi zgražavanje zbog jedne stvari
+KO JE MILIJARDER S KOJIM JE RASKINULA ĆERKA ŽELJKA MITROVIĆA? Kupa se u
+luksuzu, a o njemu se gotovo ništa ne zna
+        31 31
+     * KRALJ JE PAO NA NJU, A DA PRSTOM NIJE MRDNULA: Skidao joj je zvezde
+       s neba, a onda je postala NAJMLAĐA KRALJICA NA SVETU
        Ljubav
 
-"MISLILA SAM DA ĆU UMRETI KAO DEVICA, ONDA SE POJAVIO ON I SVE PROMENO":
-Neobičan par trpi zgražavanje zbog jedne stvari
-        7 7
-     * KO SU SRPSKE MILIONERKE IZ BLATA: Odrastanje obeleženo bedom, neke
-       nisu imale čak ni redovne obroke - sad su NAJBOGATIJE
+KRALJ JE PAO NA NJU, A DA PRSTOM NIJE MRDNULA: Skidao joj je zvezde s neba, a
+onda je postala NAJMLAĐA KRALJICA NA SVETU
+         5   7 7
+     * TRAGIČNA SUDBINA IPČETA AHMEDOVSKOG: Bio je na putu da POKORI
+       pevačku scenu, a onda je HITOM naslutio SMRT u 28. godini
+       Vip priča
+
+TRAGIČNA SUDBINA IPČETA AHMEDOVSKOG: Bio je na putu da POKORI pevačku scenu,
+a onda je HITOM naslutio SMRT u 28. godini
+        6 6
+     * DA LI JE MONIKA BELUČI IMALA PLASTIČNE OPERACIJE? Fotografije iz
+       90-ih otkrivaju koliko se zaista promenila
        Celebrities
 
-KO SU SRPSKE MILIONERKE IZ BLATA: Odrastanje obeleženo bedom, neke nisu imale
-čak ni redovne obroke - sad su NAJBOGATIJE
-         8   4
-     * KAKO JE NAJLEPŠA RUMUNKA IZGLEDALA PRE SVIH OPERACIJA? Procurile su
-       stare fotografije i sada se zna prava istina
-       Celebrities
+DA LI JE MONIKA BELUČI IMALA PLASTIČNE OPERACIJE? Fotografije iz 90-ih
+otkrivaju koliko se zaista promenila
+         9   5 5
+     * JELENA ĐOKOVIĆ EKSKLUZIVNO ZA STIL: "Moj jedini CILJ je da budem
+       BOLJI ČOVEK sebi i drugima"
+       Vip priča
 
-KAKO JE NAJLEPŠA RUMUNKA IZGLEDALA PRE SVIH OPERACIJA? Procurile su stare
-fotografije i sada se zna prava istina
-         11   3
+JELENA ĐOKOVIĆ EKSKLUZIVNO ZA STIL: "Moj jedini CILJ je da budem BOLJI ČOVEK
+sebi i drugima"
+        5 5
 
 Celebrities
 
-     * NAJVEĆA TRAGEDIJA VELIKOG BRATA: Troje mladih učesnika rijalitija
-       koji su sleteli u reku pamti cela Srbija
+     * NAJLEPŠU ŽENU JUGOSLAVIJE MUŠKARCI SU UVEK OSTAVLJALI: "Mislila sam
+       da sam NAJGORA NA SVETU a oni nisu znali da me VOLE"
        Celebrities
 
-NAJVEĆA TRAGEDIJA VELIKOG BRATA: Troje mladih učesnika rijalitija koji su
-sleteli u reku pamti cela Srbija
+NAJLEPŠU ŽENU JUGOSLAVIJE MUŠKARCI SU UVEK OSTAVLJALI: "Mislila sam da sam
+NAJGORA NA SVETU a oni nisu znali da me VOLE"
         1
-     * SESTRI DADE POLUMENTE JE PARALIZOVANO 60 % MOZGA SAMO ZBOG JEDNE
-       STVARI: Pevač ne može da se pomiri sa tim
-       Vip priča
-
-SESTRI DADE POLUMENTE JE PARALIZOVANO 60 % MOZGA SAMO ZBOG JEDNE STVARI:
-Pevač ne može da se pomiri sa tim
-     * OVAKO IZGLEDA ŽENA U 5. DECENIJI KOJA PUCA OD SAMOPOUZDANJA:
-       Ponosno stari, a mnogi komentarišu izgleda MLAĐE OD ĆERKE
+     * SVETSKE ZVEZDE KOJE PROSLAVLJAJU BOŽIĆ: On je oženio pozntu
+       Srpkinju i najviše poštuje PRAVOSLAVNE praznike
        Celebrities
 
-OVAKO IZGLEDA ŽENA U 5. DECENIJI KOJA PUCA OD SAMOPOUZDANJA: Ponosno stari, a
-mnogi komentarišu izgleda MLAĐE OD ĆERKE
-         8
+SVETSKE ZVEZDE KOJE PROSLAVLJAJU BOŽIĆ: On je oženio pozntu Srpkinju i
+najviše poštuje PRAVOSLAVNE praznike
+     * ARIJANA SRBIMA I SVETU POSLALA JAKU PORUKU NA BOŽIĆ: Uz emotivnu
+       fotografiju i kamen bi zaplakao
+       Celebrities
+
+ARIJANA SRBIMA I SVETU POSLALA JAKU PORUKU NA BOŽIĆ: Uz emotivnu fotografiju
+i kamen bi zaplakao
+        2
 
    IFRAME: //www.adriamediacontent.com/elle_widget/index.php
 
@@ -475,4 +430,4 @@ Horoskop
    Privacy Policy
    Pratite nas na Facebooku Pratite nas na Twitteru Stil RSS feed
 
-   Copyright © Stil magazin 2022. Sva prava zadržana.
+   Copyright © Stil magazin 2023. Sva prava zadržana.

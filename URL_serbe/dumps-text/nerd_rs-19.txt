@@ -5,15 +5,13 @@
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5J8BDGC
 
    Latest:
+     * Apple povlači opciju za nadogradnju na HomeKit?
+     * Najbolji Motorola telefoni za svaki budžet
+     * ElonJet se ponovo vratio na Twitter
      * Apple konačno ažurira AirTags kako bi vam pomogao da potražite
        sumnjive tagove
      * Alcatel-Lucent Enterprise aktivna mrežna oprema za data centre,
        Goran Andrić, TRS | BIZIT2022
-     * TSMC planira da otvori svoju prvu fabriku čipova u Evropi
-     * Netflix se udružuje sa Nike Training Clubom da strimuje video
-       zapise o vežbanju
-     * PC Press video: Anonimnost na Internetu ne postoji, Nevena Ružić,
-       Fondacija za otvoreno društvo
 
 PC Press
 
@@ -39,7 +37,7 @@ PC Press
 
    ____________________ (BUTTON)
 
-                                    Top50
+                                 Mikroprinc
 
    PCPress.rs Image
    News
@@ -84,7 +82,7 @@ Podelite s prijateljima
 
 Možda će vas zanimati:
 
-                                  eFakture
+                                     SBB
 
    Tagovi: emoji
      * ← Google Fit sada služi kao centar za sve vaše podatke o fitnesu,
@@ -127,8 +125,6 @@ Leave a Reply
 
                                 [blank-1.png]
 
-                                    YuNet
-
                                 [blank-1.png]
 
                                Čitaj PC Press
@@ -147,30 +143,32 @@ PC Press Media
 
 Najčitanije vesti
 
-     * Xiaomi 13 Pro kao početak flagship-a za 2023. godinu
-       Xiaomi 13 Pro kao početak flagship-a za 2023. godinu
      * Proizvođač Fortnite-a, Epic Games platiće kaznu od 520 miliona
        dolara zbog kršenja privatnosti dece
        Proizvođač Fortnite-a, Epic Games platiće kaznu od 520 miliona
        dolara zbog kršenja privatnosti dece
+     * Xiaomi 13 Pro kao početak flagship-a za 2023. godinu
+       Xiaomi 13 Pro kao početak flagship-a za 2023. godinu
      * Kako da slikate ekran
        Kako da slikate ekran
+     * Top50 2022 predlozi
+       Top50 2022 predlozi
      * Počelo predlaganje kandidata za Top50 2022 izbor najboljih online
        stvari
        Počelo predlaganje kandidata za Top50 2022 izbor najboljih online
        stvari
      * Huawei Watch GT 3 SE: GT 3 po svačijoj meri
        Huawei Watch GT 3 SE: GT 3 po svačijoj meri
-     * Top50 2022 predlozi
-       Top50 2022 predlozi
      * Telekom: Novi brojevi kontakt centara
        Telekom: Novi brojevi kontakt centara
      * Kako napraviti snimak ekrana na Windows 11 računaru
        Kako napraviti snimak ekrana na Windows 11 računaru
-     * EarSpy prisluškuje Android telefone
-       EarSpy prisluškuje Android telefone
-     * Veštačka inteligencija: Pametna kao čovek
-       Veštačka inteligencija: Pametna kao čovek
+     * Najbolji Motorola telefoni za svaki budžet
+       Najbolji Motorola telefoni za svaki budžet
+     * PC Press video: Anonimnost na Internetu ne postoji, Nevena Ružić,
+       Fondacija za otvoreno društvo
+       PC Press video: Anonimnost na Internetu ne postoji, Nevena Ružić,
+       Fondacija za otvoreno društvo
 
 Newsletter
 
@@ -178,6 +176,12 @@ Newsletter
 
 Najnovije vesti
 
+     * PCPress.rs Image
+       Apple povlači opciju za nadogradnju na HomeKit?
+     * PCPress.rs Image
+       Najbolji Motorola telefoni za svaki budžet
+     * PCPress.rs Image
+       ElonJet se ponovo vratio na Twitter
      * PCPress.rs Image
        Apple konačno ažurira AirTags kako bi vam pomogao da potražite
        sumnjive tagove
@@ -197,13 +201,6 @@ Najnovije vesti
      * PCPress.rs Image
        DuckDuckGo sada blokira jedan od Google-ovih najiritantnijih popup
        prozora
-     * PCPress.rs Image
-       Microsoft i Activision Blizzard u borbi sa FTC-om
-     * PCPress.rs Image
-       Kako napraviti snimak ekrana na Windows 11 računaru
-     * PCPress.rs Image
-       Meta plaća 725 miliona dolara za rešavanje tužbe oko skandala
-       Cambridge Analytica
 
 Najnoviji komentari
 
