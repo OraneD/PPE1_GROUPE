@@ -106,3 +106,4 @@ done < $fichier_urls
 #---------------------------------------Fermeture du tableau-------------------------------------#
 echo "</table>" >> $fichier_tableau
 echo "</body></html>" >> $fichier_tableau
+
