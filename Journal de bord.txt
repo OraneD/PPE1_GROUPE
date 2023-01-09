@@ -35,3 +35,7 @@ Il serait tout de même intéressant d'utiliser la liste d'URLs qui mélange dè
 
 ### 30/11/2022 Reflexions scripts 
 Nous travaillons sur 2 mots. Après réfléxion, il nous apparait plus simple d'avoir un script dédié pour chaque mot et d'avoir des fichiers et tableaux distincts. Pour le corpus anglais, les URLs classées comme in between seront à nouveau triées pour être classées dans les fichiers geek ou nerd.
+
+## La suite du journal de bord
+Une fois que nous avons développé notre site, nous avons décidé d'enrichier notre journal de bord directement sur le site, dans l'onglet méthode. Cette version est donc la version complète :
+https://oraned.github.io/PPE1_GROUPE/src/pages/methode.html  
