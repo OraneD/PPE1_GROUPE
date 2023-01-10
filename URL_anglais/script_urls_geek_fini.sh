@@ -76,13 +76,13 @@ echo "$dump" > "./dumps-text/$basename-$lineno.txt"
 NB_OCC=$(grep -E -o $mot ./dumps-text/$basename-$lineno.txt | wc -l)
 
 #extraction des contextes A=after, B=before (droite + gauche)
-grep -E -B2 -A2 $mot ././dumps-text/$basename-$lineno.txt > ././contextes/$basename-$lineno.txt
+grep -E -B2 -A2 $mot ./dumps-text/$basename-$lineno.txt > ./contextes/$basename-$lineno.txt
 
 #construction des concordanciers avec des cooccurrences via un appel d'un autre script
-bash ./concordance.sh ././dumps-text/$basename-$lineno.txt $mot > ././concordances/$basename-$lineno.html
+bash ./concordance.sh ./dumps-text/$basename-$lineno.txt $mot > ./concordances/$basename-$lineno.html
 
 #fin du tableau
-echo "<tr><td>$lineno</td><td>$code</td><td>$encodage</td><td><a href=\"$URL\">$URL</a></td><td><a href="././aspirations/fich-$lineno.html">html</a></td><td><a href="././dumps-text/$basename-$lineno.txt">txt</a></td><td>$NB_OCC</td><td><a href="././contextes/$basename-$lineno.txt">contextes</a></td><td><a href="././concordances/$basename-$lineno.html">concordance</a></td></tr>" >> $fichier_tableau 
+echo "<tr><td>$lineno</td><td>$code</td><td>$encodage</td><td><a href=\"$URL\">$URL</a></td><td><a href="./aspirations/fich-$lineno.html">html</a></td><td><a href="./dumps-text/$basename-$lineno.txt">txt</a></td><td>$NB_OCC</td><td><a href="./contextes/$basename-$lineno.txt">contextes</a></td><td><a href="./concordances/$basename-$lineno.html">concordance</a></td></tr>" >> $fichier_tableau 
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls
